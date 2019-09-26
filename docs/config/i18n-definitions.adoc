@@ -1,0 +1,15 @@
+// tag::DE[]
+:lang: DE
+:toc-title: Inhaltsverzeichnis
+:learning-goals: Lernziele
+:references: Referenzen
+:examples: Beispiele
+// end::DE[]
+
+// tag::EN[]
+:lang: EN
+:toc-title: Table of Contents
+:learning-goals: Learning goals
+:references: References
+:examples: Examples
+// end::EN[]

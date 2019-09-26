@@ -1,0 +1,98 @@
+import org.asciidoctor.gradle.AsciidoctorTask
+import javax.inject.Inject
+
+buildscript {
+  repositories {
+    jcenter()
+  }
+
+  dependencies {
+    classpath "org.asciidoctor:asciidoctorj-pdf:1.5.0-beta.2"
+  }
+}
+plugins {
+  id "org.asciidoctor.convert" version "1.6.0"
+}
+
+ext {
+  currentDate = new Date().format("d. MMM yyyy")
+  project.version = project.file("./document.version").text
+  curriculumBaseName = "Req4Arc-curriculum"
+  curriculumFileName = "Req4Arc-curriculum"
+  addSuffixToCurriculum = { suffix ->
+    for (extension in ["html", "pdf"]) {
+      File source = new File("${buildDir}/${curriculumFileName}.${extension}")
+      File target = new File("${buildDir}/${curriculumFileName}${suffix}.${extension}")
+
+      source.renameTo(target)
+    }
+  }
+}
+
+class RenderCurriculumTask extends AsciidoctorTask {
+  @Inject
+  RenderCurriculumTask(String curriculumBaseName, String curriculumFileName, String currentDate, String language, boolean withRemarks) {
+    sourceDir = new File("./docs/")
+    sources {
+      include "index.adoc"
+      include "${curriculumFileName}.adoc"
+    }
+    outputDir = new File("./build/")
+    separateOutputDirs = false
+    backends 'pdf', 'html5'
+
+    def fileVersion = project.version.trim() + "-" + language
+
+    attributes = [
+      'icons'            : 'font',
+      'revnumber'        : fileVersion,
+      'revdate'          : currentDate,
+      'document-version' : fileVersion + " (" + currentDate + ")",
+      'curriculumBaseName': curriculumBaseName,
+      'currentDate'      : currentDate,
+      'language'         : language,
+      'withRemarks'      : withRemarks,
+      'withFeedback'     : true,
+      'debug_adoc'       : false,
+      'pdf-stylesdir'    : '../pdf-theme/themes',
+      'pdf-fontsdir'     : '../pdf-theme/fonts',
+      'pdf-style'        : 'isaqb'
+    ]
+  }
+}
+
+task buildDocs {
+	group 'Documentation'
+	description 'Grouping task for generating all languages in several formats'
+  dependsOn "renderNoRemarksDE", "renderNoRemarksEN", "renderWithRemarksDE", "renderWithRemarksEN"
+}
+
+task renderNoRemarksDE(type: RenderCurriculumTask,
+    constructorArgs: [curriculumBaseName, curriculumFileName, currentDate, "DE", false]) {
+  doLast {
+    addSuffixToCurriculum("_de")
+  }
+}
+
+task renderWithRemarksDE(type: RenderCurriculumTask,
+     constructorArgs: [curriculumBaseName, curriculumFileName, currentDate, "DE", true]) {
+   doLast {
+     addSuffixToCurriculum("_remarks_de")
+   }
+ }
+
+task renderNoRemarksEN(type: RenderCurriculumTask,
+    constructorArgs: [curriculumBaseName, curriculumFileName, currentDate, "EN", false]) {
+  doLast {
+    addSuffixToCurriculum("_en")
+  }
+}
+
+task renderWithRemarksEN(type: RenderCurriculumTask,
+     constructorArgs: [curriculumBaseName, curriculumFileName, currentDate, "EN", true]) {
+   doLast {
+     addSuffixToCurriculum("_remarks_en")
+   }
+ }
+
+defaultTasks "buildDocs"

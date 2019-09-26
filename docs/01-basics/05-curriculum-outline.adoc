@@ -1,0 +1,41 @@
+// tag::FEEDBACK[]
+:filename: 01-basics/05-curriculum-outline.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+=== Gliederung des Lehrplans
+
+Die einzelnen Abschnitte des Lehrplans sind gemäß folgender Gliederung beschrieben:
+
+- **Begriffe/Konzepte**: Wesentliche Kernbegriffe dieses Themas.
+- **Unterrichts-/Übungszeit**: Legt die Unterrichts- und Übungszeit fest, die für dieses Thema bzw. dessen Übung in einer akkreditierten Schulung mindestens aufgewendet werden muss.
+- **Lernziele**: Beschreibt die zu vermittelnden Inhalte inklusive ihrer Kernbegriffe und -konzepte.
+
+Dieser Abschnitt skizziert damit auch die zu erwerbenden Kenntnisse in entsprechenden Schulungen. Die Lernziele werden differenziert in folgende Kategorien bzw. Unterkapitel:
+
+- Was sollen die Teilnehmer **können**? Diese Inhalte sollen die Teilnehmer nach der Schulung selbständig anwenden können. Innerhalb der Schulung werden diese Inhalte durch Übungen abgedeckt und sind Bestandteil der Modulprüfung {curriculum-short} und/oder der Abschlussprüfung des iSAQB Advanced Levels.
+- Was sollen die Teilnehmer **verstehen**? Diese Inhalte können in der Modulprüfung {curriculum-short} geprüft werden.
+- Was sollen die Teilnehmer **kennen**? Diese Inhalte (Begriffe, Konzepte, Methoden, Praktiken oder Ähnliches) können das Verständnis unterstützen oder das Thema motivieren. Diese Inhalte sind nicht Bestandteil der Prüfungen und werden in Schulungen thematisiert, aber nicht notwendigerweise ausführlich unterrichtet.
+
+// end::DE[]
+
+// tag::EN[]
+=== Structure of the curriculum
+
+The sections of the curriculum are laid out as follows:
+
+- **Terms/concepts**: core terminology of the topic
+- **Instruction/exercise time**: specifies the minimum durations for instruction and exercise blocks for licensed trainings
+- **Learning goals**: describes in detail the lessons, including core terminology and concepts
+
+This section outlines the knowledge to be gained in the training sessions.
+The learning goals are classified according to the following categories:
+
+- What should the participants **be able to do**? Participants should be able to apply these concepts by themselves without guidance. In courses, these topics should be covered by exercises and are part of the examination {curriculum-short} and/or the final examination of the iSAQB Advanced Level.
+- What should the participants **understand**? These topics may be part of the examination {curriulum-short}.
+- What should the participants **know**? These topics (terminology, concepts, methods, practices) may aid understanding or motivate broader concepts. They are not part of the examination and may be discussed in trainings on a basic, abstract level.
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]

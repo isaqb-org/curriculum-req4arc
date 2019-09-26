@@ -1,0 +1,21 @@
+// tag::FEEDBACK[]
+:filename: 00-preamble/02-advanced-level-knowledge.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+
+// end::DE[]
+
+// tag::EN[]
+=== What qualifications do Advanced Level (CPSA-A) graduates gain?
+CPSA-A graduates are able to:
+
+- design medium to large IT systems idependently and based on solid methodical foundations
+- take technical and operational responsibility in IT systems with medium to high criticality
+- design and document measures to achieve quality requirements and support development teams implementing those measures
+- manage communication relevant to architecture in medium to large development teams
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]
