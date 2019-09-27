@@ -1,0 +1,40 @@
+// tag::FEEDBACK[]
+:filename: 01-module-block-1/LZ-1-01.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+[[LZ-1-1]]
+==== LZ 1-1: Dies ist das erste Lernziel, in Kategorie xy
+- Was sollen die Teilnehmer können?
+   * Fähigkeit 1
+   * Fähigkeit 2
+   * Fähigkeit 3
+   * etc.
+
+- Was sollen die Teilnehmer verstehen?
+  * Aussage 1
+  * Behauptung 2
+  * Erfahrung 3
+  * Zusammenhang 4
+  * etc.
+- Was sollen die Teilnehmer kennen?
+  * Zusammenhang Nr. 1
+  * Norm Nr. 2
+  * Buch Nr. 3
+  * etc.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-1-1]]
+==== LG 1-1: The is the first learning goal, in category xy
+tbd.
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

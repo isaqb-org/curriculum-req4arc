@@ -1,0 +1,23 @@
+// tag::FEEDBACK[]
+:filename: 03-module-block-3/LZ-3-02.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+[[LZ-3-2]]
+==== LZ 3-2: Hier ist ein zweites Lernziel in diesem Kapitel
+tbd.
+// end::DE[]
+
+// tag::EN[]
+[[LG-3-2]]
+==== LG 3-2: TBD
+tbd.
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

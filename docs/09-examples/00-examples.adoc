@@ -1,0 +1,19 @@
+// header file for curriculum section 5: Lerneinheit 5
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+
+// tag::DE[]
+// end::DE[]
+
+// tag::EN[]
+== Examples
+
+include::01-examples-duration-terms.adoc[{include_configuration}]
+
+
+=== {learning-goals}
+
+include::LZ-98-1.adoc-01.adoc[{include_configuration}]
+
+// end::EN[]

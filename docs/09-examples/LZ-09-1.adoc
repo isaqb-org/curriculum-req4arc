@@ -1,0 +1,41 @@
+// tag::FEEDBACK[]
+:filename: 98-examples/LZ-98-1.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+[[LZ-98-1]]
+==== LZ 98-1: Dies ist das letzte Lernziel des Lehrplans
+- Was sollen die Teilnehmer können?
+   * Fähigkeit 1
+   * Fähigkeit 2
+   * Fähigkeit 3
+   * etc.
+- Was sollen die Teilnehmer verstehen?
+  * Aussage 1
+  * Behauptung 2
+  * Erfahrung 3
+  * Zusammenhang 4
+  * etc.
+- Was sollen die Teilnehmer kennen?
+  * Zusammenhang Nr. 1
+  * Norm Nr. 2
+  * Buch Nr. 3
+  * etc.
+
+// end::DE[]
+
+
+// tag::EN[]
+[[LG-98-1]]
+==== LG 98-1: Last learning goal of the curriculum
+// end::EN[]
+
+
+// tag::REMARK[]
+
+[NOTE]
+====
+KURZE ERKLÄRUNG ZU DEN ZIELEN DIESER LERNEINHEIT
+====
+// end::REMARK[]

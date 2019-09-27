@@ -1,0 +1,23 @@
+// tag::FEEDBACK[]
+:filename: 09-examples/01-examples-duration-terms.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+// end::DE[]
+
+
+// tag::EN[]
+|===
+| Lesson duration: XXX min | Exercises: XXX min
+|===
+
+
+=== Terms and concepts
+
+Type and structure of the examples presented may depend on the training and participants' interests.
+The are not prescribed or constrained by iSAQB.
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]

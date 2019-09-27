@@ -18,7 +18,7 @@ ext {
   currentDate = new Date().format("d. MMM yyyy")
   project.version = project.file("./document.version").text
   curriculumBaseName = "Req4Arc-curriculum"
-  curriculumFileName = "Req4Arc-curriculum"
+  curriculumFileName = "req4arc-curriculum"
   addSuffixToCurriculum = { suffix ->
     for (extension in ["html", "pdf"]) {
       File source = new File("${buildDir}/${curriculumFileName}.${extension}")
