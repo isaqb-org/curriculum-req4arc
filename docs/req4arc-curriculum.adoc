@@ -31,37 +31,46 @@ endif::[]
 
 <<<
 :sectnums!:
-include::00-preamble/copyright.adoc[{include_configuration}]
+include::00a-preamble/copyright.adoc[{include_configuration}]
 
 <<<
 toc::[]
 
 <<<
 :sectnums!:
-include::00-preamble/00-introduction.adoc[{include_configuration}]
+include::00a-preamble/00-introduction.adoc[{include_configuration}]
 
 <<<
 :sectnums!:
-include::01-basics/00-basics.adoc[{include_configuration}]
+include::00b-basics/00-basics.adoc[{include_configuration}]
 
 <<<
 :sectnums:
-include::01-module-block-1/00-structure.adoc[{include_configuration}]
+include::01-Intro-and-Motivation/00-structure.adoc[{include_configuration}]
 
 <<<
-include::02-module-block-2/00-structure.adoc[{include_configuration}]
+include::02-Clean-Start/00-structure.adoc[{include_configuration}]
 
 <<<
-include::03-module-block-3/00-structure.adoc[{include_configuration}]
+include::03-Functional-Requirements/00-structure.adoc[{include_configuration}]
 
 <<<
-include::04-module-block-4/00-structure.adoc[{include_configuration}]
+include::04-Quality-Requirements/00-structure.adoc[{include_configuration}]
 
 <<<
-include::05-module-block-5/00-structure.adoc[{include_configuration}]
+include::05-Behavior-Driven-Development/00-structure.adoc[{include_configuration}]
 
 <<<
-include::09-examples/00-examples.adoc[{include_configuration}]
+include::06-Prioritization/00-structure.adoc[{include_configuration}]
+
+<<<
+include::07-Cooperation-between-Roles/00-structure.adoc[{include_configuration}]
+
+<<<
+include::08-Tools/00-structure.adoc[{include_configuration}]
+
+<<<
+include::09-Example/00-structure.adoc[{include_configuration}]
 
 <<<
 include::42-glossary/00-glossary.adoc[{include_configuration}]

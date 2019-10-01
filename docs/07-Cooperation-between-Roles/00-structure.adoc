@@ -1,14 +1,16 @@
-// header file for curriculum section 5: Lerneinheit 5
+// header file for curriculum section 7:
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
 
 // tag::DE[]
-== Lerneinheit 5
 // end::DE[]
 
 // tag::EN[]
-== Lesson 5
+== Cooperation between Roles
+
+The process and cooperation between architects and other roles within development, concerning requirements.
+
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
@@ -16,8 +18,8 @@ include::01-duration-terms.adoc[{include_configuration}]
 
 === {learning-goals}
 
-include::LZ-5-01.adoc[{include_configuration}]
-include::LZ-5-02.adoc[{include_configuration}]
+include::LZ-7-01.adoc[{include_configuration}]
+include::LZ-7-02.adoc[{include_configuration}]
 
 // references (if any!)
 include::references.adoc[{include_configuration}]
