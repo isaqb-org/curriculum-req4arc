@@ -1,4 +1,11 @@
-= Template for https://isaqb.org[iSAQB] Advanced Level Curricula
+= https://isaqb.org[iSAQB] Requirements for Architects
+
+REQ4ARC: The Advanced Level Curriculum:
+The goal of this module is to equip architects with enough requirements know-how,
+so that they can take educated architecture decisions, based on the real needs of stakeholders.
+
+
+
 
 :toc:
 :toc-placement!:
@@ -12,187 +19,36 @@ ifdef::env-github[]
 endif::[]
 
 == Status 
-image:https://travis-ci.org/isaqb-org/advanced-template.svg?branch=master["Build Status", link="https://travis-ci.org/isaqb-org/advanced-template"]
-image:https://img.shields.io/github/last-commit/isaqb-org/advanced-template/master.svg["Last commit"]
-image:https://img.shields.io/github/contributors/isaqb-org/advanced-template.svg["Contributors",link="https://github.com/isaqb-org/advanced-template/graphs/contributors"]
-image:https://img.shields.io/github/issues/isaqb-org/advanced-template.svg["Issues",link="https://github.com/isaqb-org/advanced-template/issues"]
-image:https://img.shields.io/github/issues-closed/isaqb-org/advanced-template.svg["Issues closed",link="https://github.com/isaqb-org/advanced-template/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
+image:https://travis-ci.org/isaqb-org/curriculum-req4arc.svg?branch=master["Build Status", link="https://travis-ci.org/isaqb-org/curriculum-req4arc"]
+image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-req4arc/master.svg["Last commit"]
+image:https://img.shields.io/github/contributors/isaqb-org/curriculum-req4arc.svg["Contributors",link="https://github.com/isaqb-org/curriculum-req4arc/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/curriculum-req4arc.svg["Issues",link="https://github.com/isaqb-org/curriculum-req4arc/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-req4arc.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-req4arc/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
 
 This is <<copyrighted,copyrighted work>>.
 
 == Content
-This repository contains a template for iSAQB Advanced Level *curricula* in AsciiDoc.
+Architects and development teams often get only mediocre requirements as input for their work. 
+The goal of this module is to equip architects with enough requirements know-how,
+so that they can take educated architecture decisions, based on the real needs of stakeholders. They should either know how to elicit requirements (in agile and iterative approaches) or - at least - to know what to ask from others in their environment.
+
 
 toc::[]
 
 == How to contribute or participate
-Create an issue, a merge- or pull-request
-
-== How to use this template
-
-1. Clone or download - but include the submodule:
-+
---
-[source,shell]
-----
-git clone git@github.com/username/repository.git --recursive
-----
---
-2. Build it with gradle via `./gradle buildDocs`.
-3. Look into the file `build.gradle` to see what attributes you may configure. Watch for:
-** the `language` attribute, either `DE` (German) or `EN` (English);
-** the output formats called `backends` (pdf and/or html5);
-** the document version.
-
-== How to write iSAQB Advanced Level Curricula with AsciiDoc
-
-=== Requirements and (our) solutions
-
-[cols="1,2a",options="header"]
-|===
-|Requirement
-|Solution
-
-|Visually appealing pdf output
-|We created an iSAQB pdf theme, located under the `/style` directory. The original is maintained in the `adoc2pdf` repository.
-
-|Multiple people contribute content, review and comment
-|highly modularized content: Small chunks, like learning-goals or subsections, are contained in their own asciidoc-files.
-
-|Multiple languages, at least EN and DE (i18n)
-|Every piece of text is enclosed in _tags_ like `tag::EN[]`. The build process collects all parts for the desired language.
-
-|Authors want to comment on specific parts of the text
-|You can create a comment within every single adoc file by writing:
-
-[source,asciidoc]
-----
-  // tag::REMARK[]
-  Your comment goes here, with all styling and formatting options.
-  You can even use language tags within the REMARK tag for multi-lingual comments.
-  // end::REMARK[]
-----
-
-|Simple conversion from asciidoc to pdf (and html)
-|There is currently one option available:
-
-* Gradle based build, requiring a local Java runtime.
-|===
-
-- - -
-
-**TODO:** Add explanation for keywords and general procedure when creating a new Advanced Level Curriculum.
-
-- - -
-
-=== How to organize files?
-
-==== Prerequisite: AsciiDoc include
-You should know some details about the AsciiDoc include statement.
-
-If the Asciidoctor processor encounters a statement like the one below:
-
-[source,asciidoc]
-----
-   include::directory/file.adoc[]
-----
-
-It will replace this include statement with the contents of `file.adoc`. That's easy and straightforward.
-
-But there's more. We can tell AsciiDoc what parts of a file shall be included via the `tag` syntax. See below:
-
-[source,asciidoc]
-----
-   include::directory/file.adoc[tags=X42]
-----
-
-Now AsciiDoctor will include everything from `file.adoc` which is contained between the opening and closing of tag `X42`. Let's look into our `file.adoc`:
-
-[source,asciidoc]
-----
-some content that will be ignored...
-
-   // tag::X42[]
-   this content will be included with `include::directory/file.adoc[tags=X42]`
-   // end::X42[]
-
-and this content will be ignored again
-
-   // tag::REMARK[]
-   a comment from a reviewer that should be handled later
-   // end::REMARK[]
-----
-
-You are thinking of using tags for i18n languages? Well done...
+Create an issue, a merge- or pull-request.
 
 
-Now we're going one final step: We can enhance the include statement by *several* tags, so we can include multiple parts of a single file. I'll show the syntax and you know what I mean:
-
-[source,asciidoc]
-----
-   include::directory/file.adoc[tags=X42;REMARK]
-----
-
-As you imagined, now both X42 and REMARK-tagged content will be included in the output.
-
-=== Content and Structure files
-As we are writing i18n we need to strictly distiguish between two
-kind of files:
-
-* *content* files, they contain text, tables or diagrams that shall be included in the output.
-* *structure* files, containing only include-statements, configuration information. Structure files include both content-files and other structure files.
-
-For content files, specific parts will be included via the tag-syntax described above.
-For that purpose we define a variable named `include_configuration` in the file `config/setup.adoc`.
-
-==== Structure File Example
-
-In theory, you can just use the `docs/advanced-curriculum.adoc` as is and just
-edit the section documents in the subdirectories. If you want to create your own file,
-we recommend to stick with the following:
-
-From `docs/advanced-curriculum.adoc` (excerpts):
-
-[source,asciidoc]
-----
-= Template Curriculum: CPSA Certified Professional for Software Architecture^(R)^
-:doctype: book
-
-include::config/setup.adoc[]  // // <1>
-
-:document-version: 2.0-DRAFT 2019 // //<2>
-
-:sectnums!: // // <3>
-include::00-preamble/copyright.adoc[{include_configuration}] // // <4>
-
-<<< // // <5>
-:toc:
-
-<<<
-:sectnums!:
-include::00-preamble/00-introduction.adoc[] // //<6>
-
-----
-
-1. We propose to put the asciidoc configuration in this special file (`docs/config/setup.adoc`).
-2. You can set a version, but it may be overridden in the build process.
-3. You can turn section numbering on and off (here: off).
-4. This includes parts of the `docs/00-preamble/copyright.adoc` file.
-5. The `<<<` will create a pagebreak in pdf files.
-6. Include the whole file 00-introduction.adoc.
-
-
-=== Suggestions
-
-TBD.
 
 == How to build the documents
 
 Prerequisite: You need a Java Runtime(tm) installed.
 
-You build the output documents with gradle.
-That will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration.
+You build the output documents with `gradle`.
+
+That will produce both pdf and html output in German (DE) _and_ English (EN),
+unless you modify the configuration.
 
 In case you want to change that, adjust the following part of `build.gradle`:
 
@@ -205,15 +61,15 @@ task buildDocs {
 }
 ----
 
-In the task "renderNoRemarksDE", certain attributes (aka variables) are defined that configure the corresponding output.
-
 
 
 == Maintainers
 
-This repository is currently maintained by Benjamin Wolf.
-It was forked from https://github.com/isaqb-org/curriculum-template,
+This repository is currently maintained by Gernot Starke.
+
+It was forked from https://github.com/isaqb-org/advanced-template,
 so the contributors of that project basically contributed to this one, too.
+Thanx, Benjamin Wolff (@Programming-Wolf) for providing such a useful template
 
 
 [[copyrighted]]
