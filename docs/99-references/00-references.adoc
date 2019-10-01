@@ -7,30 +7,56 @@
 include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
-[bibliography]
-== {references}
+
+
 
 // tag::DE[]
 // end::DE[]
 
 // tag::EN[]
-This section contains references relevant for the curriculum.
-// end::EN[]
+[bibliography]
+== Bibliography
+This section contains references relevant for the curriculum and/or requirements engineering in general.
 
-B +
-[[Bachmann 2000]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
+A+
 
-[[[Bass+2003]]] Bass, L., Clements, P. und Kazman, R. (2003): Software Architecture in Practice. Addison-Wesley, Reading, Mass
+- [[[adzic-userstories]]] Adzic, Goyko: 50 Quick Ideas to Improve Your User Stories.
 
-C +
-[[[Clements+2003]]] Clements, P., F. Bachmann, L. Bass, D. Garlan, J. Ivers et al: Documenting Software Architectures – Views and Beyond. Addison Wesley, 2003.
 
 H +
-[[[Hargis+2004]]] Hargis, Gretchen et. al: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.
 
-K +
-[[[Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
+- [[[hruschka-19]]] Hruschka, Peter: Business Analysis und Requirements Engineering,
+Hanser Verlag, 2nd Edition 2019 (in German)
 
-S +
-[[[Starke 2011]]] Starke, G. (2011): Effektive Software-Architekturen - Ein praktischer Leitfaden. 5. Auflage 2011, Carl Hanser Verlag, München.
+I +
 
+- [[[ireb-agile]]] IREB: Handbook Advanced Module “RE@Agile”, online: https://www.ireb.org/de/downloads/tag:advanced-level-re-agile
+
+
+M +
+
+- [[[mcgreal]]] McGreal, D.: The Professional Product Owner: Leveraging Scrum as a Competitive Advantage
+
+P +
+
+- [[[pichler-apm]]] Pichler, R.: Agile Product Management with Scrum
+
+R +
+
+- Robertson,J./Robertson,S.: Mastering the Requirements Process
+- Robertson, J. /Robertson, S.: Business Analysis Agility
+
+T +
+
+- [[[toth-vorgehensmuster]]] Toth, Stefan: Vorgehensmuster in der Softwarearchitektur.
+Carl Hanser Verlag (in German) - especially for "_Architecturally significant requirements_"
+
+// end::EN[]
+
+
+// tag::REMARK[]
+[NOTE]
+====
+GS, Oct 2019: first version, references extracted from iSAQB Confluence.
+====
+// end::REMARK[]
