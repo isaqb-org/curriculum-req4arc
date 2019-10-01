@@ -37,7 +37,7 @@ so that they can take educated architecture decisions, based on the real needs o
 toc::[]
 
 == How to contribute or participate
-Create an issue, a merge- or pull-request
+Create an issue, a merge- or pull-request.
 
 
 
