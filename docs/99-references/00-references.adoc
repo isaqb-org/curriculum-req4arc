@@ -53,3 +53,10 @@ Carl Hanser Verlag (in German) - especially for "_Architecturally significant re
 
 // end::EN[]
 
+
+// tag::REMARK[]
+[NOTE]
+====
+GS, Oct 2019: first version, references extracted from iSAQB Confluence.
+====
+// end::REMARK[]
