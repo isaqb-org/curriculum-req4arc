@@ -1,0 +1,37 @@
+// header file for Req4Arc Glossary
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+// tag::REMARK[]
+[NOTE]
+====
+* GS, Oct. 2019: The glossary is currently maintained in EN (English) only.
+* For an example for cross-references within the glossary, see the "Gherkin".
+We don't currently use AsciiDoc cross-references, but stick to -> symbols instead.
+====
+// end::REMARK[]
+
+// tag::DE[]
+// end::DE[]
+
+// tag::EN[]
+[glossary]
+== Glossary
+
+[glossary]
+
+ATDD:: _Acceptance Test Driven Development_
+BDD:: _Behavior Driven Development_
+
+Gherkin:: Domain-specific language for writing ->BDD scenarios in ->GWT syntax.
+
+GWT:: _Given, When, Then_: Semi-structured way to write down test cases or behavior specifications.
+It was invented by Dan North as part of ->BDD (behavior-driven development).
+SMART:: A SMART goal helps with setting and specifying goals.
+SMART is an acronym, standing for _Specific, Measurable, Achievable, Realistic, and Timely._
+A SMART goal incorporates all of these criteria to help focus efforts, therefore increasing the chances of achieving that goal.
+
+TDD:: _Test Driven Development_
+
+
+// end::EN[]
