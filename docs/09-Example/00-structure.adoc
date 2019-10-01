@@ -14,6 +14,6 @@ include::01-examples-duration-terms.adoc[{include_configuration}]
 
 === {learning-goals}
 
-include::LZ-98-1.adoc-01.adoc[{include_configuration}]
+include::LZ-09-1.adoc[{include_configuration}]
 
 // end::EN[]
