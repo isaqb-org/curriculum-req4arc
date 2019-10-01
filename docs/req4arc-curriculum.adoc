@@ -64,4 +64,7 @@ include::05-module-block-5/00-structure.adoc[{include_configuration}]
 include::09-examples/00-examples.adoc[{include_configuration}]
 
 <<<
+include::42-glossary/00-glossary.adoc[{include_configuration}]
+
+<<<
 include::99-references/00-references.adoc[{include_configuration}]
