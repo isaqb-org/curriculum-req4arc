@@ -1,14 +1,14 @@
-// header file for curriculum section 4: Lerneinheit 4
+// header file for curriculum section 5:
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
 
 // tag::DE[]
-== Lerneinheit 4
 // end::DE[]
 
 // tag::EN[]
-== Lesson 4
+== Behavior Driven Development
+
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
@@ -16,8 +16,8 @@ include::01-duration-terms.adoc[{include_configuration}]
 
 === {learning-goals}
 
-include::LZ-4-01.adoc[{include_configuration}]
-include::LZ-4-02.adoc[{include_configuration}]
+include::LZ-5-01.adoc[{include_configuration}]
+include::LZ-5-02.adoc[{include_configuration}]
 
 // references (if any!)
 include::references.adoc[{include_configuration}]

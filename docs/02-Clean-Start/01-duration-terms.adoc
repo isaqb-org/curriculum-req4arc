@@ -1,0 +1,28 @@
+// tag::FEEDBACK[]
+:filename: 02-module-block-2/01-duration-terms.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+|===
+| Dauer: XXX Min. | Übungszeit: XXX Min.
+|===
+
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Lesson duration: 90 min | Exercises: 90 min
+|===
+
+=== Terms and concepts
+* Business Scope
+* Product Scope
+* Context
+
+// end::EN[]
+
+// tag::REMARK[]
+
+// end::REMARK[]

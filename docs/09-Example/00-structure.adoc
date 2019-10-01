@@ -7,7 +7,7 @@
 // end::DE[]
 
 // tag::EN[]
-== Examples
+== Example
 
 include::01-examples-duration-terms.adoc[{include_configuration}]
 

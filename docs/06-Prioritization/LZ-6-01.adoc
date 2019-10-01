@@ -1,0 +1,40 @@
+// tag::FEEDBACK[]
+:filename: 05-module-block-5/LZ-5-01.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+[[LZ-5-1]]
+==== LZ 5-1: Dies ist das erste Lernziel in Kapitel 5, lorem ipsum sit dolor
+
+- Was sollen die Teilnehmer können?
+   * Fähigkeit 1
+   * Fähigkeit 2
+   * Fähigkeit 3
+   * etc.
+- Was sollen die Teilnehmer verstehen?
+  * Aussage 1
+  * Behauptung 2
+  * Erfahrung 3
+  * Zusammenhang 4
+  * etc.
+- Was sollen die Teilnehmer kennen?
+  * Zusammenhang Nr. 1
+  * Norm Nr. 2
+  * Buch Nr. 3
+  * etc.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-5-1]]
+==== LG 5-1: TBD
+tbd.
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

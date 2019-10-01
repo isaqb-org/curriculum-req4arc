@@ -1,0 +1,28 @@
+// tag::FEEDBACK[]
+:filename: 01-module-block-1/01-duration-terms.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+|===
+| Dauer: 45 Min. | Übungszeit: 0 Min.
+|===
+
+=== Begriffe und Konzepte
+
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Lesson duration: 45 min | Exercises: 0 min
+|===
+
+=== Terms and concepts
+* Architecturally significant requirements (ASR)
+
+// end::EN[]
+
+
+// tag::REMARK[]
+// end::REMARK[]
