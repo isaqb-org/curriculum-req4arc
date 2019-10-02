@@ -64,7 +64,8 @@ class RenderCurriculumTask extends AsciidoctorTask {
 task buildDocs {
 	group 'Documentation'
 	description 'Grouping task for generating all languages in several formats'
-  dependsOn "renderNoRemarksDE", "renderNoRemarksEN", "renderWithRemarksDE", "renderWithRemarksEN"
+   dependsOn "renderNoRemarksEN"
+  // dependsOn "renderNoRemarksDE", "renderNoRemarksEN", "renderWithRemarksDE", "renderWithRemarksEN"
 }
 
 task renderNoRemarksDE(type: RenderCurriculumTask,
