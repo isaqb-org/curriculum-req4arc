@@ -6,10 +6,10 @@ include::../config/_feedback.adoc[]
 // tag::REMARK[]
 [NOTE]
 ====
-Bitte die **?** durch die Anzahl der Tage sowie die erreichbaren Punkte ersetzen.
+Bitte die **?** durch die erreichbaren Punkte ersetzen.
 ====
 // end::REMARK[]
-:recommended-duration-in-days: **?**
+:recommended-duration-in-days: 3
 :methodical-credits: **?**
 :technical-credits: **?**
 :communicative-credits: **?**
