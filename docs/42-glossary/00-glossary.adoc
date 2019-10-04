@@ -2,12 +2,17 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
+// tag::FEEDBACK[]
+:filename: 42-glossary/00-glossary.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
 // tag::REMARK[]
 [NOTE]
 ====
 * GS, Oct. 2019: The glossary is currently maintained in EN (English) only.
 * For an example for cross-references within the glossary, see the "Gherkin".
-We don't currently use AsciiDoc cross-references, but stick to -> symbols instead.
+We don't currently use AsciiDoc cross-references, but stick to "->" symbols instead.
 ====
 // end::REMARK[]
 
