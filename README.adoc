@@ -1,4 +1,4 @@
-= image:images/isaqb-logo.jpg[iSAQB,150] Advanced-Curriculum "Requirements for Architects"
+= image:docs/isaqb-logo.jpg[iSAQB,150] Advanced-Curriculum "Requirements for Architects"
 
 The Advanced Level Curriculum REQ4ARC:
 The goal of this module is to equip architects with enough requirements know-how,
