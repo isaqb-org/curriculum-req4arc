@@ -14,7 +14,7 @@ endif::[]
 
 // document-version fallback, should usually be overwritten by the build process,
 // e.g. build.gradle
-:document-version: 0.0.1-DRAFT 2019
+:document-version: 0.0.2-DRAFT 2019
 
 // this is the base URL for the "improve this doc" links that directly link
 // to the source files in your repository; change this accordingly
