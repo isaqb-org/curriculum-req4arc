@@ -1,41 +1,27 @@
 // tag::FEEDBACK[]
-:filename: 05-module-block-5/01-duration-terms.adoc
+:filename: 06-Prioritization/01-duration-terms.adoc
 include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
-|===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
-|===
-
-=== Begriffe und Konzepte
-* Begriff 1
-* Begriff 2
-* Begriff 3
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Lesson duration: XXX min | Exercises: XXX min
+| Lesson duration: 45 min | Exercises: 30 min
 |===
 
+Iterative and incremental development strives for implementing those requirements first that deliver high business value. In In order to do that architects should make sure that requirements are ordered by business value. This allows to concentrate on the ones with highest business value and postpone the refinement of others until later. But architects should be aware that business value can have a lot of different meanings to different stakeholders. This section discusses different kinds of value.
+
+The other prerequisite for implementing some requirements earlier than others is to have estimates in order to determine how long it will take to implement the requirements and get indicators on where maybe more requirements work is necessary.
+
+
 === Terms and concepts
-* Term 1
-* Term 2
-* Term 3
+
+Business value, risk, ranking, prioritization, affinity estimation, wall estimation, story points, WSJF
+
 // end::EN[]
 
 // tag::REMARK[]
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-// end::REMARK[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====
 // end::REMARK[]
