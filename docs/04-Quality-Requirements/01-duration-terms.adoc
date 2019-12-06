@@ -16,6 +16,9 @@ This topic deals with the kinds of requirements that are often more important fo
 
 Similar to functional requirements qualities and constraints are often very vague at the beginning. Architect learn how to refine them, or how to derive functional requirements from qualities in order to make them more precise. Also quality requirements can be made more precise using scenario-based approaches. Last but not least: also quality requirements have to be made checkable by adding acceptance criteria to them.
 
+=== Terms and concepts
+
+Quality Requirement, Constraint, Non-functional Requirement
 
 // end::EN[]
 

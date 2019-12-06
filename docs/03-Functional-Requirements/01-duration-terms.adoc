@@ -4,9 +4,6 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
-|===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
-|===
 
 
 // end::DE[]
@@ -22,6 +19,9 @@ This topic introduces criteria for spitting or grouping functional requirements 
 
 Over the last decades many notations have been developed to express functional requirements. They range from textual representations to various graphical notations, but also include prototypes, mockups and specific examples in terms of scenarios. Strengths and weaknesses, as well as advantages and disadvantages will be discussed.
 
+=== Terms and concepts
+
+Functional Requirements, Uses Case, Epic, Feature, Story, Scenario, Acceptance Criteria, Definition of Ready
 
 
 // end::EN[]
