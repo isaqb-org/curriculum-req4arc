@@ -1,4 +1,3 @@
-// header file for curriculum section 5: Lerneinheit 5
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
@@ -8,12 +7,22 @@
 
 // tag::EN[]
 == Example
+|===
+| Lesson duration: 75 min | Exercises: none
+|===
 
-include::01-examples-duration-terms.adoc[{include_configuration}]
+
+Within each licensed training there must be at least one example of well written architecturally significant requirements presented, discussed and evaluated.
+The example may differ for each training provider or depend on the interest of the participants.
+Therefore, details for the example are not specified by iSAQB.
 
 
 === {learning-goals}
 
-include::LZ-09-1.adoc[{include_configuration}]
+==== LG 9-1: Know examples of well-articulated requirements of various categories
+
+==== LG 9-2: Know (counter-)examples, like ambiguous, inconsistent and contradicting requirements of various categories
+
+
 
 // end::EN[]

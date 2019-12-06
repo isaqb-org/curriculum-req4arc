@@ -1,4 +1,3 @@
-// header file for curriculum section 5: Lerneinheit 5
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
@@ -8,15 +7,23 @@
 
 // tag::EN[]
 == Tools for Requirements Engineering
-// end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
 
 
 === {learning-goals}
 
-include::LZ-8-02.adoc[{include_configuration}]
-include::LZ-8-02.adoc[{include_configuration}]
 
-// references (if any!)
-include::references.adoc[{include_configuration}]
+==== LG 8-1: Categories of suitable tools
+Know different kinds of requirements tools (cards, wikis, modeling tools, wikis, issue-trackers, etc.)
+
+==== LG 8-2: Advantages and disadvantages of tool categories
+
+* Know heuristics when to use which kind of tool for which kind of system
+* Understand the strengths and weaknesses of different tool categories
+
+// end::EN[]
+
+
+// tag::REMARK[]
+// end::REMARK[]
