@@ -16,10 +16,18 @@ include::../config/_feedback.adoc[]
 | Lesson duration: 90 min | Exercises: 90 min
 |===
 
+Although requirements engineering today should be performed in an iterative, incremental way there is a need for some up-front activities to guide detailed requirements elicitation.
+They are called a "clean start" for a project or product development.
+These mainly include:
+
+* Definition of vision and goals
+* Identifying stakeholders
+* Setting the scope
+* “Breadth before depth” approach to allow for early prioritization and planning.
+
 === Terms and concepts
-* Business Scope
-* Product Scope
-* Context
+
+Vision, Business Goals, Stakeholders, Scope, Context
 
 // end::EN[]
 

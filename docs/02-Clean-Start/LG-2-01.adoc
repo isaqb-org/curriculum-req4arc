@@ -1,0 +1,26 @@
+// tag::FEEDBACK[]
+:filename: 02-Clean-Start/LG-2-01.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-2-1]]
+==== LG 2-1: LG 2-1: Understanding the need for some (limited) upfront activities
+
+* Understand that even with iterative development some upfront activities are necessary.
+* Know that without knowledge of visions and goals, relevant stakeholders and the XXXX
+
+[WARNING]
+====
+incomplete sentence in Learning goal.
+====
+
+
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]

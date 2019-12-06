@@ -1,0 +1,23 @@
+// tag::FEEDBACK[]
+:filename: 02-Clean-Start/LG-2-04.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-2-4]]
+==== LG 2-4: The importance of different stakeholders and their influence on the product or system
+
+* Know that stakeholders are the most important sources of requirements.
+* Understand that missing Stakeholders may mean missing requirements.
+* Understand that architects should be aware that stakeholders need to be addressed in specific, adequate ways.
+
+
+
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]
