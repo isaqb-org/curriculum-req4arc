@@ -64,7 +64,7 @@ include::05-Behavior-Driven-Development/00-structure.adoc[{include_configuration
 include::06-Prioritization/00-structure.adoc[{include_configuration}]
 
 <<<
-include::07-Cooperation-between-Roles/00-structure.adoc[{include_configuration}]
+include::07-REQ-ARCH-development-process/00-structure.adoc[{include_configuration}]
 
 <<<
 include::08-Tools/00-structure.adoc[{include_configuration}]

@@ -1,0 +1,26 @@
+// tag::FEEDBACK[]
+:filename: 07-REQ-ARCH-development-process/01-duration-terms.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Lesson duration: 75 min | Exercises: none
+|===
+
+In contrast to the waterfall model with explicit phases for requirements engineering and system/software architecture development all modern methods strive for a very close cooperation between architects and any role that is responsible for requirements engineering. Examples for such processes include design thinking [Gerstbach], lean startup [Ries], design sprints and many of the scaling frameworks in the agile world.
+
+Architects should also understand different ways to capture and document requirements, from managing a product backlog to creating requirements documents - and the relationship of such requirements documents to architecture documentation.
+
+=== Terms and concepts
+
+
+// end::EN[]
+
+// tag::REMARK[]
+
+// end::REMARK[]
