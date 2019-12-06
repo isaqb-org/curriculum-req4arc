@@ -51,6 +51,11 @@ T +
 - [[[toth-vorgehensmuster]]] Toth, Stefan: Vorgehensmuster in der Softwarearchitektur.
 Carl Hanser Verlag (in German) - especially for "_Architecturally significant requirements_"
 
+W +
+
+- [[[Wake2003]]]: Wake, Bill: INVEST in good stories and SMART Tasks,
+xp123.com/Articles/invest-in-good-stories-and-smart-tasks, 2003
+
 // end::EN[]
 
 
