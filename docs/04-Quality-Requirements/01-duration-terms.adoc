@@ -4,38 +4,21 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
-|===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
-|===
-
-=== Begriffe und Konzepte
-* Begriff 1
-* Begriff 2
-* Begriff 3
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Lesson duration: XXX min | Exercises: XXX min
+| Lesson duration: 120 min | Exercises: 90 min
 |===
 
-=== Terms and concepts
-* Term 1
-* Term 2
-* Term 3
+This topic deals with the kinds of requirements that are often more important for architects than functional requirements: quality requirements and constraints. These two categories are often called non-functional requirements, although we recommend to avoid this term. Categorization schemata for quality requirements and constraints are discussed, as well as notations to capture them.
+
+Similar to functional requirements qualities and constraints are often very vague at the beginning. Architect learn how to refine them, or how to derive functional requirements from qualities in order to make them more precise. Also quality requirements can be made more precise using scenario-based approaches. Last but not least: also quality requirements have to be made checkable by adding acceptance criteria to them.
+
+
 // end::EN[]
 
 // tag::REMARK[]
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
 // end::REMARK[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====
-// end::REMARK[]

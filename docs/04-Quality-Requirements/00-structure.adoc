@@ -8,15 +8,64 @@
 
 // tag::EN[]
 == Handling Quality Requirements and Constraints
-// end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
 
 
 === {learning-goals}
 
-include::LZ-4-01.adoc[{include_configuration}]
-include::LZ-4-02.adoc[{include_configuration}]
+[[LG-4-01]]
+==== LG 4-01: Understanding the difference between quality and other requirements
 
-// references (if any!)
-include::references.adoc[{include_configuration}]
+* Know a definition of quality requirements and constraints
+* Know that there is a very thin borderline between functional requirements and quality requirements, since qualities are sometimes made more precise by transforming them into functions.
+
+[[LG-4-02]]
+==== LG 4-02: Understanding categories of qualities and constraints
+
+* Know checklists for quality requirements, quality standards (e.g. ISO 25010, VOLERE, ...)
+* Know categories of constraints (organizational constraints, technical constraints, …)
+* Understand that architects don't need all quality requirements and constraints early in the project, but have to find the most important ones, since they are architecture drivers and will influence very important architectural decision
+
+[[LG-4-03]]
+==== LG 4-03: Eliciting and specifying quality requirements
+
+* Knowing how to specify quality scenarios or textual specifications, including motivation ("why?")
+* Using checklists and categorization schemes to find the "hottest" candidates of quality requirements
+* Know that architects should be aware that different styles of eliciting and specifying qualities can achieve quicker or slower results with different stakeholders. They  should know the most efficient ways depending on skills, motivation and time of their stakeholders.
+
+
+[[LG-4-04]]
+==== LG 4-04: Refining quality requirements
+
+* Know that quality requirements often start vague. Architects have various ways of adding precision
+** they could either use subcategories of the categorization schemes (user friendliness = ease of use and ease of learning)
+** they could find scenarios to express the intended meaning more precisely, or
+** they could suggest functional requirements that fulfil the intend of the quality requirement (i.e. suggest role concept and password to provide security)
+* Know the quality trees [ATAM] can be used to refine quality requirements
+
+
+[[LG-4-05]]
+==== LG 4-05: Specifying acceptance criteria for quality requirements
+
+* Know that also quality requirements need acceptance criteria
+* Know that they can often be specified by giving tolerances or thresholds, or allowing deviations for certain stakeholders (i.e. person who do not speak English are given 20% more time to achieve a result)
+
+
+[[LG-4-06]]
+==== LG 4-06: Prioritizing quality requirements
+
+* Know that architects should prioritize scenarios for quality requirements in two dimensions: business value and technical challenge
+* Know that only requirements with high business value and big technical challenge should be considered early on for architectural decisions
+
+[[LG-4-07]]
+==== LG 4-07: Pragmatic alternatives to detailed acceptance criteria
+
+* Know that for some qualities it is hard to check their fulfilment right after implementation. Another way to check such qualities is statistical observation over time ("see if requirement is met") instead of quantified acceptance criteria.
+* Know that for UI-requirements e.g. usage-analytics can be used to check whether they are sufficiently well implemented.
+
+
+
+
+
+// end::EN[]
