@@ -1,5 +1,5 @@
 // tag::FEEDBACK[]
-:filename: 01-module-block-1/01-duration-terms.adoc
+:filename: 01-Intro-and-Motivation/01-duration-terms.adoc
 include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
@@ -19,7 +19,7 @@ include::../config/_feedback.adoc[]
 |===
 
 === Terms and concepts
-* Architecturally significant requirements (ASR)
+* Architecturally significant requirements (ASR), Agile Requirements Engineering
 
 // end::EN[]
 

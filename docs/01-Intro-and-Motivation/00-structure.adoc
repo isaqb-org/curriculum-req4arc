@@ -1,19 +1,30 @@
-// header file for curriculum section 1: ERSTE LERNEINHEIT
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
+
+// tag::FEEDBACK[]
+:filename: 01-Intro-and-Motivation/00-structure.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
 
 // tag::DE[]
 // end::DE[]
 
 // tag::EN[]
 == Introduction and Motivation
-// end::EN[]
+
+This topic introduces the need for sufficient requirements as a basis for making architectural decisions.
+Architects should be aware that they can either ask persons responsible for requirements engineering to deliver this input or they have to elicit and understand the requirements themselves.
+However, there is not need for "complete" requirements, only for the subset necessary to make architectural decisions (called architecturally significant requirements).
+The rest can be elicited in an iterative and incremental manner, to be available "just in time" for decision making.
+
 
 include::01-duration-terms.adoc[{include_configuration}]
 
 === {learning-goals}
 
-include::LZ-1-01.adoc[{include_configuration}]
+include::LG-1-01.adoc[{include_configuration}]
+include::LG-1-02.adoc[{include_configuration}]
+include::LG-1-03.adoc[{include_configuration}]
 
-// references (if any!)
-include::references.adoc[{include_configuration}]
+
+// end::EN[]
