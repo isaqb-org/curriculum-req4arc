@@ -1,4 +1,3 @@
-// header file for curriculum section 5:
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
@@ -10,15 +9,37 @@
 [[section-bdd]]
 == Behavior Driven Development
 
-// end::EN[]
-
 include::01-duration-terms.adoc[{include_configuration}]
 
 
 === {learning-goals}
 
-include::LZ-5-01.adoc[{include_configuration}]
-include::LZ-5-02.adoc[{include_configuration}]
+[[LG-5-1]]
+==== LG 5-1: Applicability and application domains for Behavior Driven Development (BDD)
 
-// references (if any!)
-include::references.adoc[{include_configuration}]
+* Know that BDD originated from approaches and technologies like TDD (test-driven development) and ATDD (acceptance-test-driven development).
+* Know that various options exist to add precision to requirements
+** State- or activity models
+** given-when-then scenarios
+* Know that BDD is applicable for a broad range of IT-system types, e.g. information systems, business intelligence systems, mobile apps
+
+
+[[LG-5-2]]
+==== LG 5-2: Principles of Behaviour-Driven Development (BDD)
+
+* Know that BDD is a collaborative requirements discovery practice that uses conversations around concrete examples to build a shared understanding of requirements.
+* Know that collaborative workshop and discussion format, like the Three Amigo Sessions (TAS), help in getting correct  requirements.  In a TAS, the three roles "product owner" (or business analyse), "developer" and "tester" collaborate in discovering requirements.
+* Know that concrete examples are a suitable way to help explore the problem domain, and they provide a basis for acceptance tests. Example mapping helps to find rules, open questions and identify new stories.
+* Know that BDD explains user requirements in features, breaks features down into stories and the the stories into to (executable) examples.
+
+
+[[LG-5-3]]
+==== LG 5-3: Gherkin and Cucumber as examples for BDD
+
+* Know the `Given-When-Then syntax, e.g. as proposed by Gherkin.
+* Know that Given-When-Then based formulation of requirements facilitates test automation.
+* Know that several tools exist to map Given-When-Then behavior specifications to the systems' source code (Cucumber, RSpec, SpecFlow, GivWenZen).
+* Optionally know examples of GWT specifications with the appropriate glue code for automatic execution.
+
+// end::EN[]
+
