@@ -1,0 +1,20 @@
+// tag::FEEDBACK[]
+:filename: 03-Functional-Requirements/LG-3-01.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-3-01]]
+==== LG 3-01: Understanding the difference between functional and other requirements
+
+* Know the definition of functional requirements
+* Distinguish functional requirements from quality requirements and constraints
+// end::EN[]
+
+// tag::REMARK[]
+s
+// end::REMARK[]

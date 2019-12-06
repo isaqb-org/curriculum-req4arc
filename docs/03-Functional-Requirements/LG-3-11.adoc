@@ -1,0 +1,21 @@
+// tag::FEEDBACK[]
+:filename: 03-Functional-Requirements/LG-3-11.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-3-11]]
+==== LG 3-11: Know methods for elicitation of functional requirements
+
+* know that there are many different elicitation techniques that architects should be aware of, e.g. interviews, questionnaires, brainstorming sessions, three amigo sessions, knowledge crunching, event storming and many others
+* know when to pick which elicitation technique to improve communication with stakeholders
+
+
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]

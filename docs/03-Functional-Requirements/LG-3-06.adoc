@@ -1,0 +1,21 @@
+// tag::FEEDBACK[]
+:filename: 03-Functional-Requirements/LG-3-06.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-3-6]]
+==== LG 3-06: Refining functional requirements
+
+* Know criteria for decomposing coarse level functional requirements <<Lawrence>>, <<Jacobson>>, <<Hruschka>>
+* Know that in agile requirements engineering that decomposed parts of a larger requirement still should offer business value.
+
+
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]

@@ -8,34 +8,23 @@ include::../config/_feedback.adoc[]
 | Dauer: XXX Min. | Übungszeit: XXX Min.
 |===
 
-=== Begriffe und Konzepte
-* Begriff 1
-* Begriff 2
-* Begriff 3
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Lesson duration: XXX min | Exercises: XXX min
+| Lesson duration: 180 min | Exercises: 120 min
 |===
 
-=== Terms and concepts
-* Term 1
-* Term 2
-* Term 3
+Stakeholders usually phrase their functional requirements on different levels of abstraction. Architects need to know how to handle these different granularities of requirements, how to relate coarser requirements to finer ones, how to split coarse requirements or group finer requirements to keep an overview.
+
+This topic introduces criteria for spitting or grouping functional requirements in the large and in the small. Architects will understand when requirements are precise enough to be taken on by the development team.
+
+Over the last decades many notations have been developed to express functional requirements. They range from textual representations to various graphical notations, but also include prototypes, mockups and specific examples in terms of scenarios. Strengths and weaknesses, as well as advantages and disadvantages will be discussed.
+
+
+
 // end::EN[]
 
 // tag::REMARK[]
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-// end::REMARK[]
-
-// tag::REMARK[]
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====
 // end::REMARK[]
