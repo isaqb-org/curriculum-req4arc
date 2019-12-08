@@ -45,7 +45,7 @@ I +
 
 - [[[isaqb-foundation,iSAQB-Foundation]]] iSAQB Foundation Level Curriculum: https://isaqb-org.github.io/curriculum-foundation/
 
-- [[[]iso25010,ISO-25010]] ISO-25010: Standard for Systems and software Quality Requirements and Evaluation (SQuaRE), defining a generic model for software quality. https://www.iso.org/standard/35733.html
+- [[[iso25010,ISO-25010]]] ISO-25010: Standard for Systems and software Quality Requirements and Evaluation (SQuaRE), defining a generic model for software quality. https://www.iso.org/standard/35733.html
 
 L +
 

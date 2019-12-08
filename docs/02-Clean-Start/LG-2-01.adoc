@@ -9,10 +9,10 @@ include::../config/_feedback.adoc[]
 
 // tag::EN[]
 [[LG-2-1]]
-==== LG 2-1: LG 2-1: Understanding the need for some (limited) upfront activities
+==== LG 2-1: Understanding the need for some (limited) upfront activities
 
 * Understand that even with iterative development some upfront activities are necessary.
-* Know that without knowledge of visions and goals, relevant stakeholders and the XXXX
+* Know that without knowledge of visions and goals, relevant stakeholders and the *XXXX*
 
 [WARNING]
 ====
