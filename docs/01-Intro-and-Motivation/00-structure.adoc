@@ -14,8 +14,9 @@ include::../config/_feedback.adoc[]
 
 This topic introduces the need for sufficient requirements as a basis for making architectural decisions.
 Architects should be aware that they can either ask persons responsible for requirements engineering to deliver this input or they have to elicit and understand the requirements themselves.
-However, there is not need for "complete" requirements, only for the subset necessary to make architectural decisions (called architecturally significant requirements).
-The rest can be elicited in an iterative and incremental manner, to be available "just in time" for decision making.
+
+However, there is not need for _complete_ requirements, only for the subset necessary to take the necessary architectural decisions (called architecturally significant requirements).
+The rest can be elicited in an iterative and incremental manner, to be available _just in time_ for decision making.
 
 
 include::01-duration-terms.adoc[{include_configuration}]
