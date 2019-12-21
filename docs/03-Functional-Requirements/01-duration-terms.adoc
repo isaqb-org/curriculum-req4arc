@@ -1,5 +1,5 @@
 // tag::FEEDBACK[]
-:filename: 03-module-block-3/01-duration-terms.adoc
+:filename: 03-Functional-Requirements/01-duration-terms.adoc
 include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
