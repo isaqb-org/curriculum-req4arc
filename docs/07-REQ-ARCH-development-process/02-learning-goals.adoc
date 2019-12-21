@@ -1,0 +1,38 @@
+// tag::FEEDBACK[]
+:filename: 07-REQ-ARCH-development-process/02-learning-goals.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+// end::DE[]
+
+// tag::EN[]
+
+=== {learning-goals}
+
+[[LG-7-1]]
+==== LG 7-1: Understand the cooperation between architects and other roles concerning requirements
+
+* Understand that iterative system development includes all roles involved in the development process
+* Know that architects constantly interact with business analysts and requirements persons, as well as developers and testers
+
+[[LG-7-2]]
+==== LG 7-2: Cooperative approaches to product development
+
+* Know the basic ideas of cooperative approaches like _Discover to Deliver_ <<Gottesdiener>>, Design Thinking, Lean Startup, Design Sprints <<Banfield>>
+* Understand how such iterative approaches can be scaled to larger systems, that involve more than one development team, potentially geographically distributed.
+
+
+[[LG-7-3]]
+==== LG 7-3: Understand requirements documentation
+
+*Draft*: understand balance between writing and talking (requirements specification versus story cards)
+
+
+[[LG-7-4]]
+==== LG 7-4: Understand traceability from requirements to other artifacts
+
+*Draft*: requirements tracing to architecture, source code, test, technical documentation etc.
+
+
+// end::EN[]
