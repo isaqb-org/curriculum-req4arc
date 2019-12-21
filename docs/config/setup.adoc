@@ -39,7 +39,7 @@ endif::[]
 
 ifeval::["{language}" == "EN"]
 :curriculum-name: Requirements for Software Architects
-:curriculum-header-title: iSAQB curriculum for Advanced Level: {curriculum-short}
+:curriculum-header-title: iSAQB Curriculum for Advanced Level: {curriculum-short}
 endif::[]
 
 // you might want to output some internal information...
