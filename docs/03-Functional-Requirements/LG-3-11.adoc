@@ -11,8 +11,8 @@ include::../config/_feedback.adoc[]
 [[LG-3-11]]
 ==== LG 3-11: Know methods for elicitation of functional requirements
 
-* know that there are many different elicitation techniques that architects should be aware of, e.g. interviews, questionnaires, brainstorming sessions, three amigo sessions, knowledge crunching, event storming and many others
-* know when to pick which elicitation technique to improve communication with stakeholders
+* Know that there are many different elicitation techniques that architects should be aware of, e.g. interviews, questionnaires, brainstorming sessions, three amigo sessions, knowledge crunching, event storming and many others
+* Know when to pick which elicitation technique to improve communication with stakeholders
 
 
 // end::EN[]

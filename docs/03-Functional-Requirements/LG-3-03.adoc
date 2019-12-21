@@ -11,7 +11,7 @@ include::../config/_feedback.adoc[]
 [[LG-3-3]]
 ==== LG 3-03: Criteria for splitting coarse-grained functional requirements
 
-Understand that many different criteria can be applied to decompose a system into smaller chunks, i.e. functional or feature-oriented decomposition, organizational decomposition, geographical decomposition, object-oriented decomposition, process-oriented decomposition, hardware-oriented decomposition, ....
+Understand that many different criteria can be applied to decompose a system into smaller chunks, i.e. functional or feature-oriented decomposition, organizational decomposition, geographical decomposition, object-oriented decomposition, process-oriented decomposition or hardware-oriented decomposition.
 
 // end::EN[]
 

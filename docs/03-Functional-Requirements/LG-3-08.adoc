@@ -13,7 +13,7 @@ include::../config/_feedback.adoc[]
 
 * Understand that functional requirements are precise enough as soon as the development team has no more questions about their meaning
 * Understand the second part of "INVEST" <<Wake2003>>: "Estimable", "Small enough", "Testable"
-* Know the "Definition of Ready" (DoR) and why it is important for the cooperation between
+* Know the "Definition of Ready" (DoR) and why it is important for the cooperation between stakeholders
 
 
 // end::EN[]

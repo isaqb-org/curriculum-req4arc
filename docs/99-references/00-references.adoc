@@ -47,6 +47,10 @@ I +
 
 - [[[iso25010,ISO-25010]]] ISO-25010: Standard for Systems and software Quality Requirements and Evaluation (SQuaRE), defining a generic model for software quality. https://www.iso.org/standard/35733.html
 
+J +
+
+- [[[jacobson-2011,Jacobson+2011]]] Dr. Ivar JacobsonIan SpenceKurt Bittner: Use-Case 2.0: The Guide to Succeeding with Use-Cases. Online: https://www.ivarjacobson.com/publications/white-papers/use-case-ebook
+
 L +
 
 - [[[lawrence-story-split,Lawrence]]] Lawrence, Richard: How to split a story, https://agileforall.com/resources/how-to-split-a-story

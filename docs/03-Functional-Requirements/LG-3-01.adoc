@@ -16,5 +16,5 @@ include::../config/_feedback.adoc[]
 // end::EN[]
 
 // tag::REMARK[]
-s
+
 // end::REMARK[]
