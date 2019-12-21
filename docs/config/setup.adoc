@@ -30,7 +30,7 @@ endif::withFeedback[]
 // additional markers might be configured here!
 :include_configuration: tags=**;{language}{remarks}{feedback};!*
 
-:curriculum-short: REQ4ARC
+:curriculum-short: Req4Arc
 
 ifeval::["{language}" == "DE"]
 :curriculum-name: Requirements for Software Architects

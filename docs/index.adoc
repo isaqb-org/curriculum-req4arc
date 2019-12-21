@@ -10,7 +10,7 @@ The terminology used in the iSAQB curricula can be found as a (freely available)
 
 == Development versions
 
-The REQ4ARC Curriculum is currently maintained and published in English (EN) only.
+The Req4Arc Curriculum is currently maintained and published in English (EN) only.
 Maintainers and volunteer reviewers collaborate on GitHub to improve the curriculum.
 
 |===
@@ -18,12 +18,12 @@ Maintainers and volunteer reviewers collaborate on GitHub to improve the curricu
 
 | English
 |
-| link:advanced-curriculum_en.html[HTML]
-| link:advanced-curriculum_en.pdf[PDF]
+| link:req4arc-curriculum_en.html[HTML]
+| link:req4arc-curriculum_en.pdf[PDF]
 
 | English
 | ✔
-| link:advanced-curriculum_remarks_en.html[HTML]
-| link:advanced-curriculum_remarks_en.pdf[PDF]
+| link:req4arc-curriculum_remarks_en.html[HTML]
+| link:req4arc-curriculum_remarks_en.pdf[PDF]
 
 |===
