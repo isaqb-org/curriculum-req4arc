@@ -3,6 +3,7 @@
 include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
+
 // tag::EN[]
 === {learning-goals}
 
@@ -37,5 +38,3 @@ include::../config/_feedback.adoc[]
 
 // end::EN[]
 
-
-// end::EN[]

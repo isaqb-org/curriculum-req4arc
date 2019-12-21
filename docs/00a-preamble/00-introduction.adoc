@@ -1,3 +1,9 @@
+// tag::FEEDBACK[]
+:filename: 00a-preamble/introduction.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+
 // tag::DE[]
 // end::DE[]
 
