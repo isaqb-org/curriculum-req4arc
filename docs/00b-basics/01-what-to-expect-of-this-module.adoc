@@ -5,23 +5,19 @@ include::../config/_feedback.adoc[]
 
 
 // tag::DE[]
-=== Was vermittelt das Modul „{curriculum-short}“?
 
-Das Modul präsentiert den Teilnehmerinnen und Teilnehmern {curriculum-name} als …
-Am Ende des Moduls kennen die Teilnehmerinnen und Teilnehmer … und können …
 // end::DE[]
 
 // tag::EN[]
-=== Was does the module “{curriculum-short}” convey?
 
-The module presents {curriculum-short} to the participants …
-At the end of the module, the participants know … and are able to …
+=== Was does the module *{curriculum-short}* convey?
+
+Architects and development teams often get only mediocre requirements as input for their work.
+The goal of this module is to equip architects with enough requirements know-how, so that they can take educated architecture decisions, based on the real needs of stakeholders.
+They should either know how to elicit requirements (in agile and iterative approaches) or - at least - to know what to ask from others in their environment.
+
+
 // end::EN[]
 
 // tag::REMARK[]
-[NOTE]
-====
-Hier bitte das Modul bzw. dessen Lerninhalte zusammenfassend in 5-8 Sätzen beschreiben. Dabei `{curriculum-name}`
-nicht entfernen, beim Zusammenbauen wird dieser Platzhalter mit dem Modulnamen ersetzt.
-====
 // end::REMARK[]
