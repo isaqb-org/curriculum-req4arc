@@ -2,11 +2,18 @@
 // end::DE[]
 
 // tag::EN[]
-== Introduction: General information about the iSAQB Advanced Level
+== General information on the iSAQB Advanced Level
 // end::EN[]
+
+=== On iSAQB and CPSA-A
+
+The _International Software Architecture Qualification Board_ (iSAQB(R)) brings together professional software architecture experts from industry, consulting, training, academia and other organisations.
+
+Its _Certified Professional for Software Architecture_ programme (CPSA(R) ) provides software architects with standardised schemes for training that is globally recognised. More on https://isaqb.org.
 
 include::01-what-to-expect-of-an-advanced-level-module.adoc[{include_configuration}]
 
 include::02-advanced-level-knowledge.adoc[{include_configuration}]
 
 include::03-prerequisites.adoc[{include_configuration}]
+
