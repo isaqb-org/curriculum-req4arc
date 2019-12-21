@@ -9,11 +9,12 @@ include::../config/_feedback.adoc[]
 
 // tag::EN[]
 [[LG-2-6]]
-==== LG 2-6: Different needs and values of different stakeholders  ("value propositions")
+==== LG 2-6: Scoping and delimiting the context of the system
 
-* Understand that different stakeholders will have different needs and may differ in their opinions what is valuable in a product
-* Know that a prioritized stakeholder list helps to prioritize requirements by business value
-* Know that architects have to handle goal conflicts between stakeholder's needs
+* Distinguish between business and product scope
+* Know about the importance of external interfaces
+* Distinguish between various levels of externality (external to the system, external to the business unit, external to the enterprise)
+* Know different options and notations for expressing scope and context, i.e. context diagrams
 
 
 // end::EN[]

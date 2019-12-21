@@ -8,7 +8,7 @@ include::../config/_feedback.adoc[]
 // end::DE[]
 
 // tag::EN[]
-[width=70%]
+[width=50%]
 |===
 | Teaching: 45 min | Exercises: 0 min
 |===
