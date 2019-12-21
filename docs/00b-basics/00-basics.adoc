@@ -20,8 +20,10 @@ include::02-curriculum-structure-and-chronological-breakdown.adoc[{include_confi
 
 include::03-timing-didactics-and-more.adoc[{include_configuration}]
 
-include::04-prerequisites-for-this-training.adoc[{include_configuration}]
+// removed, as we don't have explicit prerequisites
+// include::04-prerequisites-for-this-training.adoc[{include_configuration}]
 
-include::05-curriculum-outline.adoc[{include_configuration}]
+// removed outline, as it should be self-explanatory
+//include::05-curriculum-outline.adoc[{include_configuration}]
 
 include::06-complementary-information.adoc[{include_configuration}]

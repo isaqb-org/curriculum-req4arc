@@ -4,21 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
-=== Voraussetzungen
 
-Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
-
-- Voraussetzung 1
-- Voraussetzung 2, etc.
-
-**Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:
-
-- Kenntnisgruppe 1:
-  * Kenntnis 1
-  * Erfahrung 2
-  * Kenntnis 3
-  * Erfahrung 4
-  * Wissen 5
 // end::DE[]
 
 // tag::EN[]
@@ -40,8 +26,5 @@ Knowledge in the following areas may be **helpful** for understanding some conce
 // end::EN[]
 
 // tag::REMARK[]
-[NOTE]
-====
-Kenntnisgruppen sowie Voraussetzungen bitte entsprechend ausformulieren!
-====
+
 // end::REMARK[]
