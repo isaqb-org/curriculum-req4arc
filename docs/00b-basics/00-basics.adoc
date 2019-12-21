@@ -3,14 +3,11 @@
 // ====================================================
 
 // tag::DE[]
-
-== Grundlegendes
-
 // end::DE[]
 
 // tag::EN[]
 
-== Basics
+== The Req4Arc Curriculum
 
 // end::EN[]
 
