@@ -1,5 +1,7 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ===========================================
+// tag::FEEDBACK[]
+// end::FEEDBACK[]
 
 
 // tag::DE[]
@@ -9,32 +11,6 @@
 == Prioritization of Requirements
 
 include::01-duration-terms.adoc[{include_configuration}]
+include::02-learning-goals.adoc[{include_configuration}]
 
-
-=== {learning-goals}
-
-[[LG-6-01]]
-==== LG 6-01: Understanding different kinds of business value
-
-* Understand that different stakeholders may see different value in requirements. Some of them may result in short turn revenue, others in improvement of customer satisfaction, or quick time-to-market. Others might reduce the risk for the rest of the development, or create a platform for longer term cost savings.
-* Know different methods for expressing value, e.g. MoSCoW-prioritization, defined ranges of values, linear sorting of all requirements, weighted factor methods, cost of delay, ...
-
-
-[[LG-6-02]]
-==== LG 6-02: Ordering requirements by business value
-
-* Know different strategies for ordering and prioritization, e.g. weighted shortest job first (WSJF), defer risk, risk-first ...
-* Know how to handle dependencies between requirements when ordering requirements
-* Know mechanism to split requirements in order to avoid dependencies
-
-[[LG-6-03]]
-==== LG 6-03: Estimating requirements
-
-* Understand the need for estimating requirements, also as an indicator to potentially refine and decompose larger requirements when they cannot be estimated well enough yet.
-* Understand the difference between absolute estimates (in person days, costs, ...) vs relative estimates (e.g. story points)
-* Know advantages and disadvantages of absolute and relative estimates
-* Know some relative estimation techniques like T-Shirt-sizing, Planning Poker (with Fibonacci values)
-* Know different estimation techniques, e.g. function points, story points, affinity estimation, wall estimation ...
-
-
-// end::EN[]
+// end:EN[]
