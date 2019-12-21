@@ -4,33 +4,15 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::REMARK[]
-[NOTE]
-====
-Bitte die **?** durch die erreichbaren Punkte ersetzen.
-====
+
 // end::REMARK[]
+
 :recommended-duration-in-days: 3
-:methodical-credits: **?**
-:technical-credits: **?**
-:communicative-credits: **?**
+:methodical-credits: 20
+:technical-credits: 0
+:communicative-credits: 10
 
 // tag::DE[]
-=== Dauer, Didaktik und weitere Details
-
-Die unten genannten Zeiten sind Empfehlungen. Die Dauer einer Schulung zum Modul {curriculum-short}
-sollte mindestens {recommended-duration-in-days} Tage betragen, kann aber länger sein.
-Anbieter können sich durch Dauer, Didaktik, Art und Aufbau der Übungen sowie der detaillierten Kursgliederung voneinander unterscheiden.
-Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett offen.
-
-Lizenzierte Schulungen zu {curriculum-short} tragen zur Zulassung zur abschließenden Advanced-Level-Zertifizierungsprüfung folgende Credit Points) bei:
-
-[stripes=none, frame=none, grid=rows]
-|===
-| Methodische Kompetenz: | {methodical-credits} Punkte
-| Technische Kompetenz: | {technical-credits} Punkte
-| Kommunikative Kompetenz: | {communicative-credits} Punkte
-|===
-
 // end::DE[]
 
 // tag::EN[]
@@ -43,11 +25,11 @@ In particular, examples and exercises are left unspecified in this curriculum.
 
 Licensed courses for {curriculum-short} contribute the following credit points to the Advanced Level graduation:
 
-[stripes=none, frame=none, grid=rows]
+[stripes=none]
 |===
-| Methodical Competence: | {methodical-credits} Points
-| Technical Competence: | {technical-credits} Points
-| Communicative Competence: | {communicative-credits} Points
+| Methodical Competence: | **{methodical-credits}** CP
+| Technical Competence: | **{technical-credits}** CP
+| Communicative Competence: | **{communicative-credits}** CP
 |===
 
 // end::EN[]
