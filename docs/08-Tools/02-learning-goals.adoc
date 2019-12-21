@@ -1,3 +1,9 @@
+// tag::FEEDBACK[]
+:filename: 08-Tools/02-learning-goals.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::EN[]
 
 === {learning-goals}
 

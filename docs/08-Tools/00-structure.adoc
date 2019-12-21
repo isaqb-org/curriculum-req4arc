@@ -2,7 +2,10 @@
 // ====================================================
 
 // tag::FEEDBACK[]
+:filename: 08-Tools/00-structure.adoc
+include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
+
 
 // tag::DE[]
 // end::DE[]
@@ -12,20 +15,9 @@
 
 include::01-duration-terms.adoc[{include_configuration}]
 
-
-=== {learning-goals}
-
-
-==== LG 8-1: Categories of suitable tools
-Know different kinds of requirements tools (cards, wikis, modeling tools, wikis, issue-trackers, etc.)
-
-==== LG 8-2: Advantages and disadvantages of tool categories
-
-* Know heuristics when to use which kind of tool for which kind of system
-* Understand the strengths and weaknesses of different tool categories
+include::02-learning-goals.adoc[]
 
 // end::EN[]
-
 
 // tag::REMARK[]
 // end::REMARK[]

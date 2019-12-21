@@ -4,15 +4,17 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
-
 // end::DE[]
 
 // tag::EN[]
+[width=50%]
 |===
 | Teaching: 60 min | Exercises: none
 |===
 
-In order to capture and communicate requirements teams can use different tools, from very informal cards on the wall to very sophisticated requirements management tools. This section gives an overview of how to physically handle requirements documentation. It is not intended to go into details of any of these tools.
+In order to capture and communicate requirements teams can use different tools, from very informal cards on the wall to very sophisticated requirements management tools.
+This section gives an overview of how to physically handle requirements documentation.
+It is not intended to go into details of any of these tools.
 
 
 // end::EN[]
