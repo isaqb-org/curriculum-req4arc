@@ -13,7 +13,7 @@ include::../config/_feedback.adoc[]
 
 // tag::EN[]
 |===
-| Lesson duration: 90 min | Exercises: 90 min
+| Teaching: 90 min | Exercises: 90 min
 |===
 
 Although requirements engineering today should be performed in an iterative, incremental way there is a need for some up-front activities to guide detailed requirements elicitation.

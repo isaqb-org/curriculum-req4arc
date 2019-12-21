@@ -13,7 +13,7 @@ include::../config/_feedback.adoc[]
 |===
 
 | Content
-| Lesson duration (minutes)
+| Teaching (minutes)
 | Exercises (minutes)
 
 

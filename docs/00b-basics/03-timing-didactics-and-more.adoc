@@ -25,7 +25,7 @@ In particular, examples and exercises are left unspecified in this curriculum.
 
 Licensed courses for {curriculum-short} contribute the following credit points to the Advanced Level graduation:
 
-[stripes=none]
+[stripes=none,width="50%",cols="<4,>1"]
 |===
 | Methodical Competence: | **{methodical-credits}** CP
 | Technical Competence: | **{technical-credits}** CP

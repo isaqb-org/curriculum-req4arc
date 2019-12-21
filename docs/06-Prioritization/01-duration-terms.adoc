@@ -9,7 +9,7 @@ include::../config/_feedback.adoc[]
 
 // tag::EN[]
 |===
-| Lesson duration: 45 min | Exercises: 30 min
+| Teaching: 45 min | Exercises: 30 min
 |===
 
 Iterative and incremental development strives for implementing those requirements first that deliver high business value. In In order to do that architects should make sure that requirements are ordered by business value. This allows to concentrate on the ones with highest business value and postpone the refinement of others until later. But architects should be aware that business value can have a lot of different meanings to different stakeholders. This section discusses different kinds of value.

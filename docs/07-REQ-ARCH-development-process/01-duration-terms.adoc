@@ -9,7 +9,7 @@ include::../config/_feedback.adoc[]
 
 // tag::EN[]
 |===
-| Lesson duration: 75 min | Exercises: none
+| Teaching: 75 min | Exercises: none
 |===
 
 In contrast to the waterfall model with explicit phases for requirements engineering and system/software architecture development all modern methods strive for a very close cooperation between architects and any role that is responsible for requirements engineering. Examples for such processes include design thinking [Gerstbach], lean startup [Ries], design sprints and many of the scaling frameworks in the agile world.

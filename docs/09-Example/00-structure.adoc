@@ -1,20 +1,26 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
+// tag::FEEDBACK[]
+:filename: 09-Example/00-structure.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
 
 // tag::DE[]
 // end::DE[]
 
 // tag::EN[]
 == Example
+
+[width=50%]
 |===
-| Lesson duration: 75 min | Exercises: none
+| Teaching: 75 min | Exercises: none
 |===
 
 
-Within each licensed training there must be at least one example of well written architecturally significant requirements presented, discussed and evaluated.
-The example may differ for each training provider or depend on the interest of the participants.
-Therefore, details for the example are not specified by iSAQB.
+WWithin each licensed training there must be at least one example of well written architecturally significant requirements presented, discussed and evaluated.
+
+The example may differ for each training provider or depend on the interest of the participants. Therefore, details for the example are not specified by iSAQB.
 
 
 === {learning-goals}

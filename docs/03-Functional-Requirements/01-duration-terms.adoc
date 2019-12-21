@@ -10,7 +10,7 @@ include::../config/_feedback.adoc[]
 
 // tag::EN[]
 |===
-| Lesson duration: 180 min | Exercises: 120 min
+| Teaching: 180 min | Exercises: 120 min
 |===
 
 Stakeholders usually phrase their functional requirements on different levels of abstraction. Architects need to know how to handle these different granularities of requirements, how to relate coarser requirements to finer ones, how to split coarse requirements or group finer requirements to keep an overview.

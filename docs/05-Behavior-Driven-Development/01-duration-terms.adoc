@@ -9,7 +9,7 @@ include::../config/_feedback.adoc[]
 
 // tag::EN[]
 |===
-| Lesson duration: 60 min | Exercises: none
+| Teaching: 60 min | Exercises: none
 |===
 
 Behavior Driven Development (originally suggested by [North]) aims at closing the gap between specification of requirements and automated testing by advocating close collaboration among developers, QA and non-technical or business participants. With BDD, requirements are formulated in a way that can later be used to run automated tests. Thus, BDD is one example of executable specifications.
