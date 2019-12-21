@@ -1,3 +1,9 @@
+// tag::FEEDBACK[]
+:filename: 04-Quality-Requirements/02-learning-goals.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+// tag::EN[]
 === {learning-goals}
 
 [[LG-4-01]]
@@ -17,14 +23,16 @@
 ==== LG 4-03: Eliciting and specifying quality requirements
 
 * Knowing how to specify quality scenarios or textual specifications, including motivation ("why?")
-* Using checklists and categorization schemes to find the "hottest" candidates of quality requirements
-* Know that architects should be aware that different styles of eliciting and specifying qualities can achieve quicker or slower results with different stakeholders. They  should know the most efficient ways depending on skills, motivation and time of their stakeholders.
+* Using checklists and categorization schemes to find the most important candidates of quality requirements
+* Know that architects should be aware that different styles of eliciting and specifying qualities can achieve quicker or slower results with different stakeholders.
+They should know the most efficient ways depending on skills, motivation and time of their stakeholders.
 
 
 [[LG-4-04]]
 ==== LG 4-04: Refining quality requirements
 
-* Know that quality requirements often start vague. Architects have various ways of adding precision
+* Know that quality requirements often start vague.
+Architects have various ways of adding precision
 ** they could either use subcategories of the categorization schemes (user friendliness = ease of use and ease of learning)
 ** they could find scenarios to express the intended meaning more precisely, or
 ** they could suggest functional requirements that fulfil the intend of the quality requirement (i.e. suggest role concept and password to provide security)
@@ -34,7 +42,7 @@
 [[LG-4-05]]
 ==== LG 4-05: Specifying acceptance criteria for quality requirements
 
-* Know that also quality requirements need acceptance criteria
+* Know that quality requirements need acceptance criteria too
 * Know that they can often be specified by giving tolerances or thresholds, or allowing deviations for certain stakeholders (i.e. person who do not speak English are given 20% more time to achieve a result)
 
 
@@ -47,7 +55,9 @@
 [[LG-4-07]]
 ==== LG 4-07: Pragmatic alternatives to detailed acceptance criteria
 
-* Know that for some qualities it is hard to check their fulfilment right after implementation. Another way to check such qualities is statistical observation over time ("see if requirement is met") instead of quantified acceptance criteria.
+* Know that for some qualities it is hard to check their fulfilment right after implementation.
+Another way to check such qualities is statistical observation over time ("see if requirement is met") instead of quantified acceptance criteria.
 * Know that for UI-requirements e.g. usage-analytics can be used to check whether they are sufficiently well implemented.
 
 
+// end::EN[]
