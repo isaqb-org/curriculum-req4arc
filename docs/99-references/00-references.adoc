@@ -22,6 +22,7 @@ A +
 
 - [[[adzic-11,Adzic-2011]]] Adzic, Goyko: Specification by Example. Manning, 2011. More info: https://gojko.net/books/specification-by-example/
 - [[[adzic-14,Adzic-2014]]] Adzic, Goyko: 50 Quick Ideas to Improve Your User Stories.
+- [[[ATAM]]] Kazman, Rick: ATAM Method for Architecture Evaluation, (_Architecture Tradeoff Analysis Method_), SEI Technical Report, https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=5177
 
 B +
 
@@ -49,11 +50,11 @@ I +
 
 J +
 
-- [[[jacobson-2011,Jacobson+2011]]] Dr. Ivar JacobsonIan SpenceKurt Bittner: Use-Case 2.0: The Guide to Succeeding with Use-Cases. Online: https://www.ivarjacobson.com/publications/white-papers/use-case-ebook
+- [[[jacobson+2011,Jacobson+2011]]] Dr. Ivar JacobsonIan SpenceKurt Bittner: Use-Case 2.0: The Guide to Succeeding with Use-Cases. Online: https://www.ivarjacobson.com/publications/white-papers/use-case-ebook
 
 L +
 
-- [[[lawrence-story-split,Lawrence]]] Lawrence, Richard: How to split a story, https://agileforall.com/resources/how-to-split-a-story
+- [[[Lawrence]]] Lawrence, Richard: How to split a story, https://agileforall.com/resources/how-to-split-a-story
 
 M +
 
