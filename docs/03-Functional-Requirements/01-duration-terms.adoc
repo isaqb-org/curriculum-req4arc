@@ -22,7 +22,7 @@ Over the last decades many notations have been developed to express functional r
 
 === Terms and concepts
 
-Functional Requirements, Uses Case, Epic, Feature, Story, Scenario, Acceptance Criteria, Definition of Ready, INVEST
+Functional Requirements, Uses Case, Epic, Feature, Story, Scenario, Acceptance Criteria, Definition of Ready (DoR), INVEST
 
 
 // end::EN[]
