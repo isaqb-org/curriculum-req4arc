@@ -11,7 +11,7 @@ include::../config/_feedback.adoc[]
 [[LG-3-6]]
 ==== LG 3-06: Refining functional requirements
 
-* Know criteria for decomposing coarse level functional requirements <<Lawrence>>, <<Jacobson+2011>>, <<Hruschka-19>>
+* Know criteria for decomposing coarse level functional requirements <<Lawrence>>, <<jacobson>>, <<hruschka19>>
 * Know that in agile requirements engineering that decomposed parts of a larger requirement still should offer business value.
 
 

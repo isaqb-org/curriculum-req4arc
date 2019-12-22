@@ -31,9 +31,9 @@ include::../config/_feedback.adoc[]
 [[LG-5-3]]
 ==== LG 5-3: Gherkin and Cucumber as examples for BDD
 
-* Know the `Given-When-Then syntax, e.g. as proposed by Gherkin.
+* Know the `Given-When-Then (GWT) syntax, e.g. as proposed by Gherkin.
 * Know that Given-When-Then based formulation of requirements facilitates test automation.
-* Know that several tools exist to map Given-When-Then behavior specifications to the systems' source code (Cucumber, RSpec, SpecFlow, GivWenZen).
+* Know that several tools exist to map Given-When-Then behavior specifications to the systems' source code (e.g. Cucumber, RSpec, SpecFlow, GivWenZen).
 * Optionally know examples of GWT specifications with the appropriate glue code for automatic execution.
 
 // end::EN[]

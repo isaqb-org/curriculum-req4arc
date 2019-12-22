@@ -28,16 +28,20 @@ B +
 
 - [[[banfield,Banfield]]] Banfield, Richard: Design sprint: a practical guidebook for building great digital products, O'Reilly, 2016
 
+C +
+
+- [[[clegg,Clegg]]] Dai Clegg and Richard Barker (1994). Case Method Fast-Track: A RAD Approach. Addison-Wesley.
+
 G +
 
-- [[[gerstbach,Gerstbach]]] Gerstbach, Ingrid: Design Thinking im Unternehmen: Ein Workbook für die Einführung von Design Thinking, GABAL Verlag, 2016 (in German)
-- [[[gottesdiener-discover-deliver]]] Gottesdiener, Ellen: Discover to Deliver: Agile Product Planning and Analysis, EGB Consulting, 2012
+- [[[gerstbach,Gerstbach-16]]] Gerstbach, Ingrid: Design Thinking im Unternehmen: Ein Workbook für die Einführung von Design Thinking, GABAL Verlag, 2016 (in German)
+- [[[Gottesdiener-12]]] Gottesdiener, Ellen: Discover to Deliver: Agile Product Planning and Analysis, EGB Consulting, 2012
 
 H +
 
 - [[[hathaway,Hathaway]]] Hathaway, Angela + Tom: Getting and Writing IT-Requirements in a Lean and Agile World. Self-published, https://leanpub.com/lean-requirements-user-stories-agile
 
-- [[[hruschka-19,Hruschka-19]]] Hruschka, Peter: Business Analysis und Requirements Engineering,
+- [[[hruschka19,Hruschka-19]]] Hruschka, Peter: Business Analysis und Requirements Engineering,
 Hanser Verlag, 2nd Edition 2019 (in German)
 
 I +
@@ -50,7 +54,7 @@ I +
 
 J +
 
-- [[[jacobson+2011,Jacobson+2011]]] Dr. Ivar JacobsonIan SpenceKurt Bittner: Use-Case 2.0: The Guide to Succeeding with Use-Cases. Online: https://www.ivarjacobson.com/publications/white-papers/use-case-ebook
+- [[[jacobson,Jacobson+2011]]] Dr. Ivar JacobsonIan SpenceKurt Bittner: Use-Case 2.0: The Guide to Succeeding with Use-Cases. Online: https://www.ivarjacobson.com/publications/white-papers/use-case-ebook
 
 L +
 
@@ -70,7 +74,7 @@ P +
 
 R +
 
-- [[[ries,Ries]]] Ries, Eric: The Lean Startup, Crown Business, 2011
+- [[[ries,Ries-11]]] Ries, Eric: The Lean Startup, Crown Business, 2011
 - [[[robertson-12,Robertson-12]]] Robertson,J./Robertson,S.: Mastering the Requirements Process: Getting Requirements Right. Addison Wesley; 3rd edition 2012. https://www.volere.org/mastering-the-requirements-process-getting-requirements-right/
 - [[[robertson-19,Robertson-19]]] Robertson, J. /Robertson, S.: Business Analysis Agility. Addison Wesley, 2019
 

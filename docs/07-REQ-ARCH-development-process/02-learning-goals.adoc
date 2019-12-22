@@ -19,7 +19,7 @@ include::../config/_feedback.adoc[]
 [[LG-7-2]]
 ==== LG 7-2: Cooperative approaches to product development
 
-* Know the basic ideas of cooperative approaches like _Discover to Deliver_ <<Gottesdiener>>, Design Thinking, Lean Startup, Design Sprints <<Banfield>>
+* Know the basic ideas of cooperative approaches like _Discover to Deliver_ <<Gottesdiener-12>>, Design Thinking <<gerstbach>>, Lean Startup <<ries>>, Design Sprints <<Banfield>>
 * Understand how such iterative approaches can be scaled to larger systems, that involve more than one development team, potentially geographically distributed.
 
 

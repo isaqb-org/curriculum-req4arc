@@ -13,13 +13,13 @@ include::../config/_feedback.adoc[]
 | Teaching: 60 min | Exercises: none
 |===
 
-Behavior Driven Development (originally suggested by [North]) aims at closing the gap between specification of requirements and automated testing by advocating close collaboration among developers, QA and non-technical or business participants. With BDD, requirements are formulated in a way that can later be used to run automated tests. Thus, BDD is one example of executable specifications.
+Behavior Driven Development (originally suggested by <<north>>) aims at closing the gap between specification of requirements and automated testing by advocating close collaboration among developers, QA and non-technical or business participants. With BDD, requirements are formulated in a way that can later be used to run automated tests. Thus, BDD is one example of executable specifications.
 
 Behaviour Driven Development (or BDD) therefore is a collaborative requirements discovery practice that uses conversations around concrete examples to build a shared understanding.
 
 === Terms and concepts
 
-Behaviour Driven Development (BDD), Automated Testing
+Behaviour Driven Development (BDD), Automated Testing, Given-When-Then (GWG)
 
 
 // end::EN[]

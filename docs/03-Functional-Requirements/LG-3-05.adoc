@@ -12,7 +12,7 @@ include::../config/_feedback.adoc[]
 ==== LG 3-05: Documenting value-adding processes
 
 * Know different notations to capture value-adding processes
-* Know how to write good stories (i.e. <<adzic-14,[Adzic-14]>>: As a <role> I want to <functionality> so that <advantage>)
+* Know how to write good stories (i.e. <<adzic-14>>: As a <role> I want to <functionality> so that <advantage>)
 * Know how to capture processes in use case diagrams and use case specifications
 * Understand the difference between use cases and user stories
 
