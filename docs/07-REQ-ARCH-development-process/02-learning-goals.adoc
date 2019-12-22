@@ -26,13 +26,16 @@ include::../config/_feedback.adoc[]
 [[LG-7-3]]
 ==== LG 7-3: Understand requirements documentation
 
-*Draft*: understand balance between writing and talking (requirements specification versus story cards)
+* Know that in more formal situations, written requirements specifications are essential.
+* Know that oral communication (_talking and discussing_) is usually more effective
+* Understand the balance between writing and talking (requirements specification versus story cards)
 
 
 [[LG-7-4]]
 ==== LG 7-4: Understand traceability from requirements to other artifacts
 
-*Draft*: requirements tracing to architecture, source code, test, technical documentation etc.
-
+* Know what requirements _tracing_ to architecture, source code, test, technical documentation means
+* Understand that requirements tracing is time-consuming and requires appropriate tool support
+* Understand that requirements tracing is sometimes mandatory, e.g. for safety-critical systems.  
 
 // end::EN[]
