@@ -10,6 +10,7 @@ include::../config/_feedback.adoc[]
 // tag::REMARK[]
 [NOTE]
 ====
+* GS, Dec. 2019: added additional terms from Confluence
 * GS, Oct. 2019: The glossary is currently maintained in EN (English) only.
 * For an example for cross-references within the glossary, see the "Gherkin".
 We don't currently use AsciiDoc cross-references, but stick to "->" symbols instead.
@@ -25,22 +26,82 @@ We don't currently use AsciiDoc cross-references, but stick to "->" symbols inst
 
 [glossary]
 
-ASR:: _Architecturally Significant Requirements_ are those requirements that especially shape or influence architectural decisions.
+Acceptance Criteria:: (adapted from IREB): A set of conditions (typically associated with a requirement) that must be fulfilled by any implementation. Such conditions may be, for example, expected outcomes for sample input data or expected speed or volume to be achieved.
+
+Agile Requirements Engineering:: (adapted from IREB):  a cooperative, iterative and incremental approach with four goals:
++
+1. knowing the relevant requirements at an appropriate level of detail (at any time during system development),
++
+2. achieving sufficient agreement about the requirements among the relevant stakeholders,
++
+3. capturing (and documenting) the requirements according to the constraints of the organization,
++
+4. performing all requirements related activities according to the principles of the agile manifesto.
+
+
+ASR:: _Architecturally Significant Requirements_ are the subset of requirements that have a strong impact on architectural decisions (those requirements that especially shape or influence architectural decisions.)
 
 ATDD:: _Acceptance Test Driven Development_
 
-BDD:: _Behavior Driven Development_
+BDD:: (_Behavior Driven Development_) An agile software development process that encourages collaboration among developers, QA and non-technical or business participants in a software project.
+It encourages teams to use conversation and concrete examples to formalize a shared understanding of how the application should behave, resulting in _executable specifications_, e.g. in -> Gherkin syntax.
+
+Business Goal:: A desired state of affairs (that a stakeholder wants to achieve).
+Goals describe intentions of stakeholders.
+They may conflict with one another.
+
+
+Constraints:: A requirement that limits the solution space beyond what is necessary for meeting the given functional requirements and quality requirements.
+
+Definition of Ready:: (DoR)	(adapted from IREB): a set of criteria that a requirement must meet prior to being accepted into an upcoming iteration.
+
+
+Epic:: (adapted from IREB): A high-level, abstract description of a stakeholder need which has to be addressed in the product being developed. Epics are typically larger than what can be implemented in a single iteration.
+
+
+
+Feature:: A service that fulfills a stakeholder need.
+Each feature includes a benefit hypothesis and acceptance criteria.
+
+Functional Requirements:: A requirement concerning a result of behavior that shall be provided by a function of a system (or of a component or service).
 
 Gherkin:: Domain-specific language for writing ->BDD scenarios in ->GWT syntax.
+
+Goals::	 -> Business Goal.
 
 GWT:: _Given, When, Then_: Semi-structured way to write down test cases or behavior specifications.
 It was invented by Dan North as part of ->BDD (behavior-driven development).
 
-SMART:: A SMART goal helps with setting and specifying goals.
-SMART is an acronym, standing for _Specific, Measurable, Achievable, Realistic, and Timely._
+Non-functional Requirement:: (NFA) A -> quality requirement or a constraint.
+
+Quality Requirement:: A requirement that pertains to a quality concern that is not covered by functional requirements.
+
+
+Scenario::
++
+1. A description of a potential sequence of events that lead to a desired (or unwanted) result.
++
+2. An ordered sequence of interactions between partners, in particular between a system and external actors.
+
+Scope:: The range of things that can be shaped and designed when developing a system.
+
+SMART:: (acronym for _Specific, Measurable, Achievable, Realistic, and Timely._)
+A SMART goal helps with setting and specifying goals.
 A SMART goal incorporates all of these criteria to help focus efforts, therefore increasing the chances of achieving that goal.
 
-TDD:: _Test Driven Development_
+Stakeholders:: A person or organization that has a (direct or indirect) influence on a system’s requirements.
+Indirect influence also includes situations where a person or organization is impacted by the system.
+
+(User) Story:: A description of a need from a user’s perspective together with the expected benefit when this need is satisfied. User stories are typically written in natural language using a given phrase template.
+
+Use Case:: A description of the interactions possible between actors and a system that, when executed, provide added value.
++
+Use cases specify a system from a user’s (or other external actor’s) perspective: every use case describes some functionality that the system must provide for the actors involved in the use case.
+
+Vision:: The Vision is a description of the future state of the Solution under development.
+It reflects Customer and stakeholder needs, as well as the Feature and Capabilities, proposed to meet those needs.
 
 
 // end::EN[]
+
+
