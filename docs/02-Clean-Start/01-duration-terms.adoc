@@ -24,7 +24,7 @@ These mainly include:
 
 === Terms and concepts
 
-Vision, Business Goals, Stakeholders, Scope, Context
+Vision, Business Goals, Stakeholders, Scope, Context, SMART, PAM
 
 // end::EN[]
 
