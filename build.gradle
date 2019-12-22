@@ -71,29 +71,40 @@ task buildDocs {
 task renderNoRemarksDE(type: RenderCurriculumTask,
     constructorArgs: [curriculumBaseName, curriculumFileName, currentDate, "DE", false]) {
   doLast {
-    addSuffixToCurriculum("_de")
+    addSuffixToCurriculum("-de")
   }
 }
 
 task renderWithRemarksDE(type: RenderCurriculumTask,
      constructorArgs: [curriculumBaseName, curriculumFileName, currentDate, "DE", true]) {
    doLast {
-     addSuffixToCurriculum("_remarks_de")
+     addSuffixToCurriculum("-remarks-de")
    }
  }
 
 task renderNoRemarksEN(type: RenderCurriculumTask,
     constructorArgs: [curriculumBaseName, curriculumFileName, currentDate, "EN", false]) {
   doLast {
-    addSuffixToCurriculum("_en")
+    addSuffixToCurriculum("-en")
   }
 }
 
 task renderWithRemarksEN(type: RenderCurriculumTask,
      constructorArgs: [curriculumBaseName, curriculumFileName, currentDate, "EN", true]) {
    doLast {
-     addSuffixToCurriculum("_remarks_en")
+     addSuffixToCurriculum("-remarks-en")
    }
  }
+
+
+task publish(type: GradleBuild) {
+  String travisPr = System.getenv('TRAVIS_PULL_REQUEST')
+  if ("false".equals(travisPr)) {
+    buildFile = 'publish.gradle'
+    tasks = ['gitPublishPush']
+  } else {
+    println 'env var TRAVIS_PULL_REQUEST says we build for PR #' + travisPr + ', won\'t publish docs!'
+  }
+}
 
 defaultTasks "buildDocs"
