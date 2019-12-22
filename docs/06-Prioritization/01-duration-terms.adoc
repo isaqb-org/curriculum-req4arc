@@ -20,7 +20,7 @@ The other prerequisite for implementing some requirements earlier than others is
 
 === Terms and concepts
 
-Business value, risk, ranking, prioritization, affinity estimation, wall estimation, story points, WSJF
+Business value, risk, ranking, prioritization, affinity estimation, wall estimation, story points, WSJF, MoSCoW-prioritization
 
 // end::EN[]
 
