@@ -12,13 +12,7 @@ include::../config/_feedback.adoc[]
 ==== LG 2-1: Understanding the need for some (limited) upfront activities
 
 * Understand that even with iterative development some upfront activities are necessary.
-* Know that without knowledge of visions and goals, relevant stakeholders and the *XXXX*
-
-[WARNING]
-====
-incomplete sentence in Learning goal.
-====
-
+* Know that without knowledge of visions and goals, relevant stakeholders and the development team cannot take any informed decisions about the systems’ architecture.
 
 // end::EN[]
 
