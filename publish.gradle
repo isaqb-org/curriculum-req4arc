@@ -13,7 +13,7 @@ buildscript {
 
 apply plugin: 'org.ajoberstar.git-publish'
 gitPublish {
-  System.setProperty('org.ajoberstar.grgit.auth.username', System.getenv('GH_PAGES'))
+  // System.setProperty('org.ajoberstar.grgit.auth.username', System.getenv('GH_PAGES'))
   repoUri = 'https://github.com/isaqb-org/curriculum-req4arc.git'
   branch = 'gh-pages'
   project.version = project.file("./document.version").text
