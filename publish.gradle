@@ -14,8 +14,14 @@ buildscript {
 apply plugin: 'org.ajoberstar.git-publish'
 gitPublish {
   // please consider https://github.com/isaqb-org/curriculum-foundation/issues/92#issuecomment-509407364
+
+
+    // the following line leads to Null Pointer Exception
   System.setProperty('org.ajoberstar.grgit.auth.username', System.getenv('REQ4ARC-DEPLOY'))
-  repoUri = 'https://github.com/isaqb-org/curriculum-req4arc.git'
+
+
+    repoUri = 'https://github.com/isaqb-org/curriculum-req4arc.git'
+
   branch = 'gh-pages'
   project.version = project.file("./document.version").text
   contents {
