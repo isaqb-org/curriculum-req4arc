@@ -1,5 +1,4 @@
 // tag::FEEDBACK[]
-:filename: 03-Functional-Requirements/LG-3-06.adoc
 include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 

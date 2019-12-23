@@ -13,7 +13,7 @@ ifeval::["{language}" == "EN"]
 endif::[]
 
 
-:project-report-issue-link: https://github.com/isaqb-org/curriculum-req4arc/issues/new?title=&body=%0A%0A%5BEnter%20feedback%20here%5D%0A%0A%0A---%0A%23page:
+:project-report-issue-link: https://github.com/isaqb-org/curriculum-req4arc/issues/new?title=&body=%0A%0A%5BEnter%20feedback%20here%5D%0A%0A%0A---
 
 // define terms for toc, learning-goals
 include::config/i18n-definitions.adoc[tags={language}]

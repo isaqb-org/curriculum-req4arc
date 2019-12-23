@@ -1,5 +1,4 @@
 // tag::FEEDBACK[]
-:filename: 07-REQ-ARCH-development-process/02-learning-goals.adoc
 include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 

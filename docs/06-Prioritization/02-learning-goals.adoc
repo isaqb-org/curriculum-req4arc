@@ -1,5 +1,4 @@
 // tag::FEEDBACK[]
-:filename: 06-Prioritization/02-learning-goals.adoc
 include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 

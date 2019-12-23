@@ -3,7 +3,6 @@
 // ====================================================
 
 // tag::FEEDBACK[]
-:filename: 42-glossary/00-glossary.adoc
 include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 

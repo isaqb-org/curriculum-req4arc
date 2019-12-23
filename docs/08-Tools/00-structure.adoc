@@ -2,7 +2,6 @@
 // ====================================================
 
 // tag::FEEDBACK[]
-:filename: 08-Tools/00-structure.adoc
 include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 

@@ -1,5 +1,4 @@
 // tag::FEEDBACK[]
-:filename: 00-preamble/01-what-to-expect-of-an-advanced-level-module.adoc
 include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 

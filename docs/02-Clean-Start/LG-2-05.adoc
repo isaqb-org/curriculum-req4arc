@@ -1,5 +1,4 @@
 // tag::FEEDBACK[]
-:filename: 02-Clean-Start/LG-2-05.adoc
 include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 

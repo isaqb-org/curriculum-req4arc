@@ -1,5 +1,4 @@
 // tag::FEEDBACK[]
-:filename: 01-Intro-and-Motivation/LG-1-02.adoc
 include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 

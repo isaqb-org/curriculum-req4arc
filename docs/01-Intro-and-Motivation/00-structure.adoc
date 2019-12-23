@@ -2,7 +2,6 @@
 // ====================================================
 
 // tag::FEEDBACK[]
-:filename: 01-Intro-and-Motivation/00-structure.adoc
 include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
