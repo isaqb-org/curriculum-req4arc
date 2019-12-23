@@ -21,3 +21,7 @@ Maintainers and volunteer reviewers collaborate on GitHub to improve the curricu
 | link:req4arc-curriculum-en.pdf[PDF]
 
 |===
+
+== Please provide feedback
+
+Your feedback and comments are valuable to us - please use our public [Github repository](https://github.com/isaqb-org/curriculum-rec4arc) - or create issues by using the buttons provided in the html version of the docs.
