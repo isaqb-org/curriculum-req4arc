@@ -9,7 +9,7 @@ include::../config/_feedback.adoc[]
 
 // tag::EN[]
 [[LG-3-4]]
-==== LG 3-04:Decomposing or grouping requirements into value-adding processes
+==== LG 3-4:Decomposing or grouping requirements into value-adding processes
 
 * Know that a process-oriented decomposition (business processes, use cases, stories, event process chains, ...) are a proven approach to allow for early implementation of some of them and postpone others), thus creating early business value.
 * Understand the first part of "INVEST" <<Wake2003>>: functional requirements should be "independent", "negotiable" and "valuable".

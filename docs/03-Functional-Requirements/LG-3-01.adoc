@@ -8,8 +8,8 @@ include::../config/_feedback.adoc[]
 // end::DE[]
 
 // tag::EN[]
-[[LG-3-01]]
-==== LG 3-01: Understanding the difference between functional and other requirements
+[[LG-3-1]]
+==== LG 3-1: Understanding the difference between functional and other requirements
 
 * Know the definition of functional requirements
 * Distinguish functional requirements from quality requirements and constraints

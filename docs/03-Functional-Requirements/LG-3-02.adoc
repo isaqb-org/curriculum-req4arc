@@ -8,8 +8,8 @@ include::../config/_feedback.adoc[]
 // end::DE[]
 
 // tag::EN[]
-[[LG-3-02]]
-==== LG 3-02: Hierarchies of functional requirements
+[[LG-3-2]]
+==== LG 3-2: Hierarchies of functional requirements
 
 * Understand that (functional) requirements can be expressed on different levels of granularity, from coarse grained to very fine grained
 * Understand that architects at least need an overview of coarse grained functional requirements for planning and estimating

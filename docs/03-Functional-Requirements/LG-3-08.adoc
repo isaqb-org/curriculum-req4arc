@@ -9,7 +9,7 @@ include::../config/_feedback.adoc[]
 
 // tag::EN[]
 [[LG-3-8]]
-==== LG 3-08: Knowing when to stop refining functional requirements
+==== LG 3-8: Knowing when to stop refining functional requirements
 
 * Understand that functional requirements are precise enough as soon as the development team has no more questions about their meaning
 * Understand the second part of "INVEST" <<Wake2003>>: "Estimable", "Small enough", "Testable"

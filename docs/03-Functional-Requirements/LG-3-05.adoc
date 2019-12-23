@@ -9,7 +9,7 @@ include::../config/_feedback.adoc[]
 
 // tag::EN[]
 [[LG-3-5]]
-==== LG 3-05: Documenting value-adding processes
+==== LG 3-5: Documenting value-adding processes
 
 * Know different notations to capture value-adding processes
 * Know how to write good stories (i.e. <<adzic-14>>: As a <role> I want to <functionality> so that <advantage>)
