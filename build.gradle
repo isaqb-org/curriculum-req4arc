@@ -48,15 +48,15 @@ class RenderCurriculumTask extends AsciidoctorTask {
       'revnumber'        : fileVersion,
       'revdate'          : currentDate,
       'document-version' : fileVersion + " (" + currentDate + ")",
-      'curriculumBaseName': curriculumBaseName,
-      'currentDate'      : currentDate,
-      'language'         : language,
-      'withRemarks'      : withRemarks,
-      'withFeedback'     : true,
-      'debug_adoc'       : false,
-      'pdf-stylesdir'    : '../pdf-theme/themes',
-      'pdf-fontsdir'     : '../pdf-theme/fonts',
-      'pdf-style'        : 'isaqb'
+      'curriculumBaseName' : curriculumBaseName,
+      'currentDate'        : currentDate,
+      'language'           : language,
+      'withRemarks'        : withRemarks,
+      'withFeedback'       : true,
+      'debug_adoc'         : false,
+      'pdf-stylesdir'      : '../pdf-theme/themes',
+      'pdf-fontsdir'       : '../pdf-theme/fonts',
+      'pdf-style'          : 'isaqb'
     ]
   }
 }
