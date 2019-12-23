@@ -18,12 +18,12 @@ Maintainers and volunteer reviewers collaborate on GitHub to improve the curricu
 
 | English
 |
-| link:req4arc-curriculum_en.html[HTML]
-| link:req4arc-curriculum_en.pdf[PDF]
+| link:req4arc-curriculum-en.html[HTML]
+| link:req4arc-curriculum-en.pdf[PDF]
 
 | English
 | ✔
-| link:req4arc-curriculum_remarks_en.html[HTML]
-| link:req4arc-curriculum_remarks_en.pdf[PDF]
+| link:req4arc-curriculum_remarks-en.html[HTML]
+| link:req4arc-curriculum_remarks-en.pdf[PDF]
 
 |===
