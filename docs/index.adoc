@@ -14,16 +14,10 @@ The Req4Arc Curriculum is currently maintained and published in English (EN) onl
 Maintainers and volunteer reviewers collaborate on GitHub to improve the curriculum.
 
 |===
-| Version | Comments | HTML | PDF
+| Version | HTML | PDF
 
 | English
-|
 | link:req4arc-curriculum-en.html[HTML]
 | link:req4arc-curriculum-en.pdf[PDF]
-
-| English
-| ✔
-| link:req4arc-curriculum_remarks-en.html[HTML]
-| link:req4arc-curriculum_remarks-en.pdf[PDF]
 
 |===
