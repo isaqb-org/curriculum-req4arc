@@ -17,7 +17,7 @@ include::../config/_feedback.adoc[]
 |===
 
 
-WWithin each licensed training there must be at least one example of well written architecturally significant requirements presented, discussed and evaluated.
+Within each licensed training there must be at least one example of well written architecturally significant requirements presented, discussed and evaluated.
 
 The example may differ for each training provider or depend on the interest of the participants. Therefore, details for the example are not specified by iSAQB.
 
