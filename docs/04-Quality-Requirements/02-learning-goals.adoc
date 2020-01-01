@@ -40,8 +40,8 @@ Architects have various ways of adding precision
 [[LG-4-5]]
 ==== LG 4-5: Specifying acceptance criteria for quality requirements
 
-* Know that quality requirements need acceptance criteria too
-* Know that they can often be specified by giving tolerances or thresholds, or allowing deviations for certain stakeholders (i.e. person who do not speak English are given 20% more time to achieve a result)
+* Know that also quality requirements need acceptance criteria
+* Know that acceptance criteria for quality requirements can often be specified by giving tolerances or thresholds, or allowing deviations for certain stakeholders (i.e. person who do not speak English are given 20% more time to achieve a result)
 
 
 [[LG-4-6]]
