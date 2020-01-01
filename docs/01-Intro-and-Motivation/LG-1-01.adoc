@@ -12,7 +12,7 @@ include::../config/_feedback.adoc[]
 
 * Know the need for good requirements, especially quality requirements seen from the perspective of software architecture
 * Know the key tasks for software architects which include clarifying requirements and constraints
-* Understand that architects don't need complete requirements up-front, but should focus on architecturally significant requirement
+* Understand that architects do not need complete requirements up-front, but should focus on architecturally significant requirement
 // end::EN[]
 
 // tag::REMARK[]
