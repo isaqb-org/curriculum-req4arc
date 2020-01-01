@@ -25,11 +25,11 @@ A +
 
 B +
 
-- [[[banfield,Banfield]]] Banfield, Richard: Design sprint: a practical guidebook for building great digital products, O'Reilly, 2016
+- [[[banfield,Banfield-16]]] Banfield, Richard: Design sprint: a practical guidebook for building great digital products, O'Reilly, 2016
 
 C +
 
-- [[[clegg,Clegg]]] Dai Clegg and Richard Barker (1994). Case Method Fast-Track: A RAD Approach. Addison-Wesley.
+- [[[clegg,Clegg-94]]] Dai Clegg and Richard Barker (1994). Case Method Fast-Track: A RAD Approach. Addison-Wesley.
 
 G +
 
@@ -38,7 +38,7 @@ G +
 
 H +
 
-- [[[hathaway,Hathaway]]] Hathaway, Angela + Tom: Getting and Writing IT-Requirements in a Lean and Agile World. Self-published, https://leanpub.com/lean-requirements-user-stories-agile
+- [[[hathaway,Hathaway-19]]] Hathaway, Angela + Tom: Getting and Writing IT-Requirements in a Lean and Agile World. Self-published, https://leanpub.com/lean-requirements-user-stories-agile
 
 - [[[hruschka19,Hruschka-19]]] Hruschka, Peter: Business Analysis und Requirements Engineering,
 Hanser Verlag, 2nd Edition 2019 (in German)
@@ -69,7 +69,7 @@ N +
 
 P +
 
-- [[[pichler, Pichler]]] Pichler, R.: Agile Product Management with Scrum
+- [[[pichler, Pichler-10]]] Pichler, R.: Agile Product Management with Scrum: Creating Products that Customers Love. Addison-Wesley, 2010
 
 R +
 
@@ -86,8 +86,8 @@ S +
 
 T +
 
-- [[[toth,Toth]]] Toth, Stefan: Vorgehensmuster in der Softwarearchitektur.
-Carl Hanser Verlag (in German) - especially for "_Architecturally significant requirements_"
+- [[[toth,Toth-19]]] Toth, Stefan: Vorgehensmuster in der Softwarearchitektur.
+Carl Hanser Verlag, 3rd edition 2019  (in German) - especially for "_Architecturally significant requirements_"
 
 W +
 
