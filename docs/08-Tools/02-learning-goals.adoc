@@ -8,7 +8,7 @@ include::../config/_feedback.adoc[]
 
 
 ==== LG 8-1: Categories of suitable tools
-Know different kinds of requirements tools (cards, wikis, modeling tools, wikis, issue-trackers, etc.)
+Know different kinds of requirements tools (cards, wikis, modeling tools, issue-trackers, etc.)
 
 ==== LG 8-2: Advantages and disadvantages of tool categories
 
