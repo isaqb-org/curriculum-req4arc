@@ -11,7 +11,7 @@ include::../config/_feedback.adoc[]
 ==== LG 2-3: Different options and notations for expressing visions and business goals
 
 * Know various ways to define vision and goals (explicit goal statements, value propositions for different stakeholders, vision box, "news from the future")
-* Know mnemonics for vision statements (SMART, PAM)
+* Know mnemonics for vision or business goal statements (SMART, PAM)
 
 
 // end::EN[]
