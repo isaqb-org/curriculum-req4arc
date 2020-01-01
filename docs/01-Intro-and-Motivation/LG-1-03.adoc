@@ -8,7 +8,7 @@ include::../config/_feedback.adoc[]
 
 // tag::EN[]
 [[LG-1-3]]
-==== LG 1-3: Understanding the incremental nature of requirements ("Just in Time")
+==== LG 1-3: Understanding the incremental nature of requirements elicitation ("Just in Time")
 
 * Understand that requirements and architecture can (and should) be developed iteratively
 * Understand that architects do not need "complete" requirements, but always just enough requirements to make design decisions for the next iterations
