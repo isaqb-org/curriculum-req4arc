@@ -50,7 +50,7 @@ Goals describe intentions of stakeholders.
 They may conflict with one another.
 
 
-Constraints:: A requirement that limits the solution space beyond what is necessary for meeting the given functional requirements and quality requirements.
+Constraint:: A requirement that limits the solution space beyond what is necessary for meeting the given functional requirements and quality requirements.
 
 Definition of Ready:: (DoR)	(adapted from IREB): a set of criteria that a requirement must meet prior to being accepted into an upcoming iteration.
 
@@ -72,6 +72,8 @@ GWT:: _Given, When, Then_: Semi-structured way to write down test cases or behav
 It was invented by Dan North as part of ->BDD (behavior-driven development).
 
 Non-functional Requirement:: (NFA) A -> quality requirement or a constraint.
+
+PAM:: The acronym for _Purpose, Advantage, Metric_ helps to concentrate on important aspects when writing vision or business goal statements 
 
 Quality Requirement:: A requirement that pertains to a quality concern that is not covered by functional requirements.
 
