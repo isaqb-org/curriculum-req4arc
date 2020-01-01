@@ -10,8 +10,8 @@ include::../config/_feedback.adoc[]
 ==== LG 6-1: Understanding different kinds of business value
 
 * Understand that different stakeholders may see different value in requirements.
-Some of them may result in short turn revenue, others in improvement of customer satisfaction, or quick time-to-market.
-Others might reduce the risk for the rest of the development, or create a platform for longer term cost savings.
+Some of them may be interested in short turn revenue, others in improvement of customer satisfaction, or quick time-to-market.
+Others might want to reduce the risk for the rest of the development, or create a platform for longer term cost savings.
 * Know different methods for expressing value, e.g. MoSCoW-prioritization, defined ranges of values, linear sorting of all requirements, weighted factor methods, cost of delay, ...
 
 
@@ -29,7 +29,7 @@ Others might reduce the risk for the rest of the development, or create a platfo
 * Understand the difference between absolute estimates (in person days, costs, ...) versus relative estimates (e.g. story points)
 * Know advantages and disadvantages of absolute and relative estimates
 * Know some relative estimation techniques like T-Shirt-sizing, Planning Poker (with Fibonacci values)
-* Know different estimation techniques, e.g. function points, story points, affinity estimation, wall estimation etc.
+* Know different estimation techniques, e.g. function points, story points, affinity estimation, wall estimation, etc.
 
 
 // end::EN[]
