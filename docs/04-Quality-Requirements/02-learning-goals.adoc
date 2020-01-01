@@ -34,7 +34,7 @@ They should know the most efficient ways depending on skills, motivation and tim
 Architects have various ways of adding precision
 ** they could either use subcategories of the categorization schemes (user friendliness = ease of use and ease of learning)
 ** they could find scenarios to express the intended meaning more precisely, or
-** they could suggest functional requirements that fulfil the intend of the quality requirement (i.e. suggest role concept and password to provide security)
+** they could suggest functional requirements that fulfil the intend of the quality requirement (i.e. suggest a role concept and the use of passwords to implement a security requirement)
 * Know the quality trees <<ATAM>> can be used to refine quality requirements
 
 [[LG-4-5]]
