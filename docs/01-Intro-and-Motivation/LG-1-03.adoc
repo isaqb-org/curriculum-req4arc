@@ -12,7 +12,7 @@ include::../config/_feedback.adoc[]
 
 * Understand that requirements and architecture can (and should) be developed iteratively
 * Understand that architects do not need "complete" requirements, but always just enough requirements to make design decisions for the next iterations
-* Understand that requirements can be collected iteratively and incrementally
+* Understand that requirements can be elicitated iteratively and incrementally
 
 
 // end::EN[]
