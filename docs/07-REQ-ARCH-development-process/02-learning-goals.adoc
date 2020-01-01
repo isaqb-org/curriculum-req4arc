@@ -16,7 +16,7 @@ include::../config/_feedback.adoc[]
 * Know that architects constantly interact with business analysts and requirements persons, as well as developers and testers
 
 [[LG-7-2]]
-==== LG 7-2: Cooperative approaches to product development
+==== LG 7-2: Know cooperative approaches to product development
 
 * Know the basic ideas of cooperative approaches like _Discover to Deliver_ <<Gottesdiener-12>>, Design Thinking <<gerstbach>>, Lean Startup <<ries>>, Design Sprints <<Banfield>>
 * Understand how such iterative approaches can be scaled to larger systems, that involve more than one development team, potentially geographically distributed.
@@ -25,8 +25,8 @@ include::../config/_feedback.adoc[]
 [[LG-7-3]]
 ==== LG 7-3: Understand requirements documentation
 
-* Know that in more formal situations, written requirements specifications are essential.
-* Know that oral communication (_talking and discussing_) is usually more effective
+* Know that in more formal situations written requirements specifications are essential
+* Know that oral communication (_talking and discussing_) is often more effective than writing
 * Understand the balance between writing and talking (requirements specification versus story cards)
 
 
