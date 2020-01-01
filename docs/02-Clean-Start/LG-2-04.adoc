@@ -11,7 +11,7 @@ include::../config/_feedback.adoc[]
 ==== LG 2-4: The importance of different stakeholders and their influence on the product or system
 
 * Know that stakeholders are the most important sources of requirements.
-* Understand that missing Stakeholders may mean missing requirements.
+* Understand that missing stakeholders may mean missing requirements.
 * Understand that architects should be aware that stakeholders need to be addressed in specific, adequate ways.
 
 
