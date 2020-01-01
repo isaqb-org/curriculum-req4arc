@@ -10,7 +10,7 @@ include::../config/_feedback.adoc[]
 === What qualifications do Advanced Level (CPSA-A) graduates gain?
 CPSA-A graduates are able to:
 
-- design medium to large IT systems idependently and based on solid methodical foundations
+- design medium to large IT systems independently and based on solid methodical foundations
 - take technical and operational responsibility in IT systems with medium to high criticality
 - design and document measures to achieve quality requirements and support development teams implementing those measures
 - manage communication relevant to architecture in medium to large development teams
