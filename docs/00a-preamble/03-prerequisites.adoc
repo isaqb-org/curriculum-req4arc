@@ -11,7 +11,7 @@ include::../config/_feedback.adoc[]
 * successful training and graduation of Certified Professional for Software Architecture, Foundation Level^(R)^ (CPSA-F)
 * at least three years industrial, full-time experience in the IT sector; including collaboration on design and development of at least two different IT systems
 ** exceptions may be granted (for example: contributions to open source projects)
-* participation at iSAQB Advanced Level trainings worth at least 70 credit points from two different areas of competence
+* participation at iSAQB Advanced Level trainings worth at least 70 credit points, and all three skill areas will have to be covered with a minimum of 10 credit points in each skill area
 * passing the CPSA-A certification exam
 // end::EN[]
 
