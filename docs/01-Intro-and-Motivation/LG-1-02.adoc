@@ -11,7 +11,7 @@ include::../config/_feedback.adoc[]
 [[LG-1-2]]
 ==== LG 1-2: Understanding responsibilities, roles and key activities
 
-* Know that there are different job title for persons responsible for requirements (Business Analysts, Requirements Engineers, Product Owner)
+* Know that there are different job titles for persons responsible for requirements (Business Analysts, Requirements Engineers, Product Owner)
 * Understand their relationship to architects and development teams.
 * Know key tasks in requirements engineering, including elicitation, documentation, checking and maintenance
 // end::EN[]
