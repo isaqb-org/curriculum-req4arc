@@ -18,7 +18,7 @@ Therefore, Behaviour Driven Development (or BDD) is a collaborative requirements
 
 === Terms and concepts
 
-Behaviour Driven Development (BDD), Automated Testing, Given-When-Then (GWG)
+Behaviour Driven Development (BDD), Automated Testing, Given-When-Then (GWT)
 
 
 // end::EN[]
