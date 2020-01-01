@@ -17,9 +17,9 @@ include::../config/_feedback.adoc[]
 // tag::EN[]
 === Duration, didactics, and further details
 
-The durations mentioned below are recommendations.
+The durations mentioned above are recommendations.
 A course for the {curriculum-short} should last at least {recommended-duration-in-days} days.
-Provides may vary length, didactics, type and structure of exercises, and structure of the course.
+Providers may vary length, didactics, type and structure of exercises, and structure of the course.
 In particular, examples and exercises are left unspecified in this curriculum.
 
 Licensed courses for {curriculum-short} contribute the following credit points to the Advanced Level graduation:
