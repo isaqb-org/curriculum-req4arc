@@ -13,7 +13,7 @@ include::../config/_feedback.adoc[]
 * Understand that even with iterative development some upfront activities are necessary.
 
 * Know that explicit knowledge of visions, goals and relevant stakeholders are required so that the development team can take informed decisions about the systems’ architecture.
-* Understand that an agreement about scope and context is required.
+* Understand that an agreement about scope and context is required, especially about the interfaces between scope and context (i.e. the external interfaces of the product).
 
 // end::EN[]
 
