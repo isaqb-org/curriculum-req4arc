@@ -11,6 +11,7 @@ include::../config/_feedback.adoc[]
 
 To the extent necessary for understanding the curriculum, we have added definitions of required and important terms at the end of this document and to the https://github.com/isaqb-org/glossary[iSAQB glossary].
 
+[discrete]
 === Help us improve this curriculum
 
 You find the most recent version of this document online (https://isaqb-org.github.io/curriculum-req4arc/), where you are encouraged to provide feedback.
