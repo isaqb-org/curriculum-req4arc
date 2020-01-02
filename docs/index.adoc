@@ -33,4 +33,8 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-req4arc.s
 
 == Please provide feedback
 
-Your feedback and comments are valuable to us - please use our public [Github repository](https://github.com/isaqb-org/curriculum-rec4arc) - or create issues by using the buttons provided in the html version of the docs.
+Your feedback and comments are valuable to us - please use one of the following options:
+
+* our public https://github.com/isaqb-org/curriculum-rec4arc[Github repository] - or
+* create issues by using the buttons provided in the link:req4arc-curriculum-en.html[HTML] version of the docs
+* open an issue by clicking **https://github.com/isaqb-org/curriculum-req4arc/issues/new?title=&body=%0A%0A%5BEnter%20feedback%20here%5D%0A%0A%0A[here]**
