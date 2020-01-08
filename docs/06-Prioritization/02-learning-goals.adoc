@@ -2,6 +2,37 @@
 include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
+// tag::DE[]
+
+[LG-6-1]]
+=== {learning-goals}
+
+===== LG 6-1: Verstehen verschiedener Arten von Geschäftswerten
+
+* Verstehen, dass verschiedene Stakeholder unterschiedlichen Wert in den Anforderungen sehen können.
+Einige von ihnen können an kurzfristigen Einnahmen, andere an der Verbesserung der Kundenzufriedenheit oder einer schnellen Markteinführung interessiert sein.
+Andere möchten vielleicht das Risiko für den Rest der Entwicklung reduzieren oder eine Plattform für längerfristige Kosteneinsparungen schaffen.
+* Verschiedene Methoden kennen, um Werte auszudrücken, z.B. MoSCoW-Priorisierung, definierte Wertebereiche, lineare Sortierung aller Anforderungen, gewichtete Faktor-Methoden, Kosten der Verzögerung, ...
+
+
+[[LG-6-2]]]
+===== LG 6-2: Ordnen und Priorisieren nach Geschäftswert
+
+* Kennen verschiedener Strategien für ordnen und priorisieren, z.B. gewichteter kürzester Job zuerst (WSJF), Risiko aufschieben, Risiko zuerst ...
+* Wissen, wie man bei der Bestellung von Anforderungen mit Abhängigkeiten zwischen Anforderungen umgeht
+* Mechanismen zur Aufteilung von Anforderungen kennen, um Abhängigkeiten zu vermeiden
+
+
+===== LG 6-3: Schätzung des Bedarfs
+
+* Verstehen der Notwendigkeit einer Bedarfsschätzung, auch als Indikator für die mögliche Verfeinerung und Zerlegung größerer Anforderungen, wenn diese noch nicht gut genug geschätzt werden können.
+* Verstehen des Unterschieds zwischen absoluten Schätzungen (in Personentagen, Kosten, ...) und relativen Schätzungen (z.B. Story Points)
+* Die Vor- und Nachteile von absoluten und relativen Schätzungen kennen
+* einige relative Schätztechniken kennen wie T-Shirt-Größe, Planning Poker (mit Fibonacci-Werten)
+* verschiedene Schätzverfahren kennen, z.B. Funktionspunkte, Story-Punkte, Affinitätsschätzung, _wall estimation_, etc.
+
+// end::DE[]
+
 // tag::EN[]
 
 === {learning-goals}

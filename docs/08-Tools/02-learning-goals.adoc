@@ -2,6 +2,21 @@
 include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
+// tag::DE[]
+=== {learning-goals}
+
+
+===== LG 8-1: Kategorien von geeigneten Werkzeugen
+Verschiedene Arten von Anforderungswerkzeugen kennen (Karten, Wikis, Modellierungswerkzeuge, Issue-Tracker, etc.)
+
+===== LG 8-2: Vor- und Nachteile der Werkzeugkategorien
+
+* Heuristik kennen, wann welche Art von Werkzeug für welche Art von System zu verwenden ist
+* Stärken und Schwächen verschiedener Werkzeugkategorien kennen
+
+// end::DE[]
+
+
 // tag::EN[]
 
 === {learning-goals}
