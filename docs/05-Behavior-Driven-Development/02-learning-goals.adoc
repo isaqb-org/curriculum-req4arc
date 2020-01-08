@@ -2,6 +2,37 @@
 include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
+// tag::DE[]
+=== {learning-goals}
+
+
+[LG-5-1]]
+===== LG 5-1: Anwendbarkeit und die Anwendungsbereiche für Behavior Driven Development (BDD) kennen
+
+* Wissen, dass BDD aus Ansätzen und Technologien wie TDD (testgetriebene Entwicklung) und ATDD (akzeptanztestgetriebene Entwicklung) entstanden ist.
+* wissen, dass es verschiedene Möglichkeiten gibt, die Anforderungen zu präzisieren
+** Zustands- oder Tätigkeitsmodelle
+** angesichts-dann-Szenarien
+* wissen, dass BDD für ein breites Spektrum von IT-Systemtypen einsetzbar ist, z.B. Informationssysteme, Business Intelligence Systeme, mobile Anwendungen
+
+
+===== LG 5-2: Prinzipien von Behavior Driven Development verstehen
+
+* Wissen, dass BDD eine kollaborative Anforderungsermittlung ist, die Gespräche um konkrete Beispiele herum nutzt, um ein gemeinsames Verständnis der Anforderungen aufzubauen.
+* Wissen, dass kollaborative Workshops und Diskussionsformate, wie z.B. Three Amigo Sessions (TAS), dabei helfen, korrekte Anforderungen zu erhalten.  In einem TAS arbeiten die drei Rollen "Product Owner" (oder Geschäftsanalyse), "Entwickler" und "Tester" bei der Ermittlung von Anforderungen zusammen.
+* Wissen, dass konkrete Beispiele ein geeigneter Weg sind, um die Problemdomäne zu erkunden, und dass sie eine Grundlage für Akzeptanztests bieten. Example-Mapping hilft, Regeln zu finden, offene Fragen zu klären und neue Stories zu identifizieren.
+* Wissen, dass BDD Benutzeranforderungen in Features erklärt, Features in Stories und die Stories in (ausführbare) Beispiele aufschlüsselt.
+
+
+[[LG-5-3]]]
+===== LG 5-3: Gherkin und Cucumber als Beispiel für BDD kennen
+
+* Die `Given-When-Then (GWT) Syntax kennen, die Gherkin vorschlägt.
+* Wissen, dass auf dem Prinzip "Given-When-Then" basierende Formulierungen von Anforderungen die Testautomatisierung erleichtern.
+* Wissen, dass es verschiedene Werkzeuge gibt, um die Given-When-Then-Verhaltensspezifikationen auf den Quellcode des Systems abzubilden (z.B. Cucumber, RSpec, SpecFlow, GivWenZen).
+* Optional: Beispiele von GWT-Spezifikationen kennen, mit dem entsprechenden Glue-Code zur automatischen Ausführung.
+
+// end::DE[]
 
 // tag::EN[]
 === {learning-goals}
