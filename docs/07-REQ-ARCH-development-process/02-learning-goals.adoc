@@ -3,6 +3,34 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
+=== {learning-goals}
+
+[LG-7-1]]
+===== LG 7-1: Verstehen der Zusammenarbeit zwischen Architekten und anderen Rollen bezüglich der Anforderungen
+
+* Verstehen, dass die iterative Systementwicklung alle am Entwicklungsprozess beteiligten Rollen umfasst
+* Wissen, dass Architekten ständig mit Business-Analysten und Anforderungsmanagern, sowie Entwicklern und Testern interagieren
+
+===== LG 7-2: Kooperative Ansätze in der Produktentwicklung kennen
+
+* Die Grundideen kooperativer Ansätze kennen wie _Discover to Deliver_ <<Gottesdiener-12>>, Design Thinking <<<gerstbach>>, Lean Startup <<ries>>, Design Sprints <<Banfield>>
+* Verstehen Sie, wie solche iterativen Ansätze auf größere Systeme, die mehr als ein Entwicklungsteam umfassen, skaliert werden können, die möglicherweise geografisch verteilt sind.
+
+
+[[LG-7-3]]
+===== LG 7-3: Anforderungsdokumentation verstehen
+
+* Wissen, dass in formelleren Situationen schriftliche Anforderungsspezifikationen unerlässlich sind
+* Wissen, dass mündliche Kommunikation (_Reden und Diskutieren_) oft effektiver ist als schriftliche
+* Verstehen der Balance zwischen Schreiben und Sprechen (Pflichtenheft versus Geschichtenkarten)
+
+
+===== LG 7-4: Verstehen der Rückverfolgbarkeit von Anforderungen zu anderen Artefakten
+
+* Wissen, was Anforderungen an Architektur, Quellcode, Test, technische Dokumentation _nachverfolgen_ bedeutet
+* Verstehen Sie, dass die Verfolgung von Anforderungen zeitaufwendig ist und eine geeignete Werkzeugunterstützung erfordert
+* Verstehen Sie, dass die Rückverfolgung von Anforderungen manchmal obligatorisch ist, z.B. bei sicherheitskritischen Systemen.  
+
 // end::DE[]
 
 // tag::EN[]
