@@ -3,6 +3,48 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
+[[LG-2-1]]
+===== LG 2-1: Verstehen der Notwendigkeit einiger (begrenzter) Vorleistungen
+
+* Verstehen, dass selbst bei iterativer Entwicklung einige Vorleistungen erforderlich sind.
+
+* Wissen, dass explizite Kenntnisse über Visionen, Ziele und relevante Stakeholder erforderlich sind, damit das Entwicklungsteam fundierte Entscheidungen über die Systemarchitektur treffen kann.
+* Verstehen, dass eine Vereinbarung über Umfang und Kontext erforderlich ist, insbesondere über die Schnittstellen zwischen Umfang und Kontext (d.h. die externen Schnittstellen des Produkts).
+
+[[LG-2-2]]
+===== LG 2-2: Verständnis für die Notwendigkeit von (high-level) Visionen und Geschäftszielen
+
+* Verstehen, dass Visionen oder Geschäftsziele Ihre höchsten Anforderungen sind, d.h. die Anforderungen, die (hoffentlich) während eines Projekts nicht geändert werden.
+* Verstehen, dass Visionen und Ziele quantifiziert und messbar gemacht werden sollten, um den Erfolg in Bezug auf den Geschäftswert überprüfen zu können.
+
+[[LG-2-3]]
+===== LG 2-3: Verschiedene Möglichkeiten und Notationen, um Visionen und Unternehmensziele auszudrücken
+
+* verschiedene Möglichkeiten kennen, um Vision und Ziele zu definieren (explizite Zielerklärungen, Wertversprechen für verschiedene Stakeholder, Visionsfeld, "Neuigkeiten aus der Zukunft")
+* Mnemotechnik für Visionen oder Geschäftszielsetzungen kennen (SMART, PAM)
+
+[[LG-2-4]]
+===== LG 2-4: Die Bedeutung der verschiedenen Stakeholder und ihr Einfluss auf das Produkt oder System
+
+* Wissen, dass die Stakeholder die wichtigsten Quellen für Anforderungen sind.
+* Verstehen, dass fehlende Stakeholder fehlende Anforderungen bedeuten können.
+* Verstehen, dass Architekten sich bewusst sein sollten, dass die Stakeholder auf spezifische, angemessene Weise angesprochen werden müssen.
+
+[[LG-2-5]]
+===== LG 2-5: Unterschiedliche Bedürfnisse und Werte der verschiedenen Stakeholder ("Value Propositions")
+
+* Verstehen, dass verschiedene Interessengruppen unterschiedliche Bedürfnisse haben und unterschiedliche Meinungen darüber haben können, was an einem Produkt wertvoll ist.
+* Wissen, dass eine priorisierte Stakeholderliste hilft, Anforderungen nach Geschäftswert zu priorisieren
+* Wissen, dass Architekten mit Zielkonflikten zwischen den Bedürfnissen der Stakeholder umgehen müssen
+
+[[LG-2-6]]
+===== LG 2-6: Umfang und Abgrenzung des Kontexts des Systems
+
+* Unterscheidung zwischen Geschäfts- und Produktumfang kennen
+* Wissen über die Bedeutung externer Schnittstellen
+* Unterscheiden zwischen verschiedenen Ebenen der Externalität (extern zum System, extern zur Geschäftseinheit, extern zum Unternehmen)
+* verschiedene Möglichkeiten und Notationen kennen, um Umfang und Kontext auszudrücken, z.B. Kontextdiagramme
+
 
 // end::DE[]
 
