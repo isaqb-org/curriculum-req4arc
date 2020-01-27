@@ -8,8 +8,7 @@ gitPublish {
   // please consider https://github.com/isaqb-org/curriculum-foundation/issues/92#issuecomment-509407364
 
 
-    // the following line leads to Null Pointer Exception
-  //System.setProperty('org.ajoberstar.grgit.auth.username', System.getenv('REQ4ARC-DEPLOY'))
+  System.setProperty('org.ajoberstar.grgit.auth.username', System.getenv('GH_PAGES'))
 
   repoUri = 'https://github.com/isaqb-org/curriculum-req4arc.git'
 
