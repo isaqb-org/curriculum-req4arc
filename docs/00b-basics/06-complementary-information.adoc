@@ -7,6 +7,7 @@ include::../config/_feedback.adoc[]
 // end::DE[]
 
 // tag::EN[]
+[discrete]
 === Further information and terminology
 
 To the extent necessary for understanding the curriculum, we have added definitions of required and important terms at the end of this document and to the https://github.com/isaqb-org/glossary[iSAQB glossary].
