@@ -28,6 +28,11 @@ endif::[]
 include::00a-preamble/copyright.adoc[{include_configuration}]
 
 <<<
+:sectnums!:
+include::00a-preamble/preface-ireb.adoc[{include_configuration}]
+
+
+<<<
 toc::[]
 
 <<<

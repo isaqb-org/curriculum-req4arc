@@ -1,0 +1,42 @@
+// tag::FEEDBACK[]
+// end::FEEDBACK[]
+
+// tag::DE[]
+
+// end::DE[]
+
+// tag::EN[]
+:sectnum!:
+## Preface
+
+Since more than 14 years https://ireb.org[IREB] (International Requirements Engineering Board) is educating Business Analysts and Requirements Engineers.
+Up to 2020 more than 55000 persons have acquired the https://www.ireb.org/en/cpre/[CPRE-F] certificate (Certified Professional for Requirements Engineering – Foundation Level).
+
+
+Since there are more than 5 million people working in IT worldwide it is not surprising that there are still many development teams that do not have (enough) access to any of those trained business analysts and requirements engineers, although they do develop and deploy software products every day.
+
+
+This shortcoming is a good motivation for this ISAQB Advanced Level module REQ4ARC and IREB welcomes this great module as it supports our mission to establish requirements engineering everywhere in IT.
+This module helps software architects and development teams to enter the world of professional requirements engineering.
+They will acquire first knowledge about requirements elicitation and management to develop the right products with less guessing.
+It further sensitizes development teams to ask for the right input before making architectural and design decisions.
+
+
+We wish you success with this module and your first steps in requirements engineering!
+
+[cols="3,7,7",header=none,frame=none,grid=none]
+|===
+|January 2020
+a|Martin Glinz
+
+Chairman of the IREB Council
+a|Kim Lauenroth
+
+Chairman the Executive Board of IREB
+|===
+
+
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]
