@@ -17,7 +17,7 @@ ifdef::env-github[]
 endif::[]
 
 == Status 
-image:https://travis-ci.org/isaqb-org/curriculum-req4arc.svg?branch=master["Build Status", link="https://travis-ci.org/isaqb-org/curriculum-req4arc"]
+image:https://travis-ci.com/isaqb-org/curriculum-req4arc.svg?branch=master["Build Status", link="https://travis-ci.com/isaqb-org/curriculum-req4arc"]
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-req4arc/master.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-req4arc.svg["Contributors",link="https://github.com/isaqb-org/curriculum-req4arc/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-req4arc.svg["Issues",link="https://github.com/isaqb-org/curriculum-req4arc/issues"]
@@ -58,6 +58,10 @@ task buildDocs {
   dependsOn "renderNoRemarksDE", "renderNoRemarksEN", "renderWithRemarksDE", "renderWithRemarksEN"
 }
 ----
+
+== CI-Build
+We let Travis-CI automatically build the documents,
+please see https://travis-ci.com/isaqb-org/curriculum-req4arc for build details and status.
 
 
 
