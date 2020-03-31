@@ -16,7 +16,7 @@ Maintainers and volunteer reviewers collaborate on GitHub to improve the curricu
 
 ==== Status
 
-image:https://travis-ci.com/isaqb-org/curriculum-req4arc.svg?branch=master["Build Status", link="https://travis-ci.com/isaqb-org/curriculum-req4arc"]
+image:https://github.com/isaqb-org/curriculum-req4arc/workflows/CI/badge.svg?branch=master["CI"]
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-req4arc/master.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-req4arc.svg["Contributors",link="https://github.com/isaqb-org/curriculum-req4arc/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-req4arc.svg["Issues",link="https://github.com/isaqb-org/curriculum-req4arc/issues"]
