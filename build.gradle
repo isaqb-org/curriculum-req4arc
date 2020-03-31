@@ -1,5 +1,6 @@
 import org.asciidoctor.gradle.AsciidoctorTask
 import javax.inject.Inject
+import java.text.SimpleDateFormat
 
 buildscript {
   repositories {
@@ -15,7 +16,10 @@ plugins {
 }
 
 ext {
-  currentDate = new Date().format("d. MMM yyyy")
+  today = new Date()
+  englishDate = new SimpleDateFormat("MMMM d, yyyy", Locale.US).format(today)
+  germanDate = new SimpleDateFormat("d. MMMM yyy", Locale.GERMANY).format(today)
+
   project.version = project.file("./document.version").text
   curriculumBaseName = "Req4Arc-curriculum"
   curriculumFileName = "req4arc-curriculum"
@@ -69,31 +73,31 @@ task buildDocs {
 }
 
 task renderNoRemarksDE(type: RenderCurriculumTask,
-    constructorArgs: [curriculumBaseName, curriculumFileName, currentDate, "DE", false]) {
+    constructorArgs: [curriculumBaseName, curriculumFileName, germanDate, "DE", false]) {
   doLast {
     addSuffixToCurriculum("-de")
   }
 }
 
 task renderWithRemarksDE(type: RenderCurriculumTask,
-     constructorArgs: [curriculumBaseName, curriculumFileName, currentDate, "DE", true]) {
-   doLast {
-     addSuffixToCurriculum("-remarks-de")
-   }
- }
+     constructorArgs: [curriculumBaseName, curriculumFileName, germanDate, "DE", true]) {
+  doLast {
+    addSuffixToCurriculum("-remarks-de")
+  }
+}
 
 task renderNoRemarksEN(type: RenderCurriculumTask,
-    constructorArgs: [curriculumBaseName, curriculumFileName, currentDate, "EN", false]) {
+    constructorArgs: [curriculumBaseName, curriculumFileName, englishDate, "EN", false]) {
   doLast {
     addSuffixToCurriculum("-en")
   }
 }
 
 task renderWithRemarksEN(type: RenderCurriculumTask,
-     constructorArgs: [curriculumBaseName, curriculumFileName, currentDate, "EN", true]) {
-   doLast {
-     addSuffixToCurriculum("-remarks-en")
-   }
- }
+     constructorArgs: [curriculumBaseName, curriculumFileName, englishDate, "EN", true]) {
+  doLast {
+    addSuffixToCurriculum("-remarks-en")
+  }
+}
 
 defaultTasks "buildDocs"
