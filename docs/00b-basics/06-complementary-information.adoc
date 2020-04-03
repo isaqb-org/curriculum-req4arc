@@ -1,9 +1,13 @@
-// tag::FEEDBACK[]
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
 
 // tag::DE[]
+=== Ergänzende Informationen, Begriffe, Übersetzungen
 
+Soweit für das Verständnis des Lehrplans erforderlich, haben wir Fachbegriffe ins https://github.com/isaqb-org/glossary[iSAQB-Glossar] aufgenommen, definiert und bei Bedarf durch die Übersetzungen der Originalliteratur ergänzt.
+
+=== Helfen Sie uns, diesen Lehrplan zu verbessern
+
+Sie finden die neueste Version dieses Dokuments online (https://isaqb-org.github.io/curriculum-req4arc/),
+wo Sie gerne Feedback und Verbesserungsvorschläge geben können.
 // end::DE[]
 
 // tag::EN[]
