@@ -14,7 +14,7 @@ The Req4Arc Curriculum is currently maintained and published in English (EN) onl
 Maintainers and volunteer reviewers collaborate on GitHub to improve the curriculum.
 
 
-==== Status
+=== Status
 
 image:https://github.com/isaqb-org/curriculum-req4arc/workflows/CI/badge.svg?branch=master["CI"]
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-req4arc/master.svg["Last commit"]
