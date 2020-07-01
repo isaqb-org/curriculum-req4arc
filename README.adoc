@@ -71,7 +71,7 @@ This repository is currently maintained by Gernot Starke.
 
 It was forked from https://github.com/isaqb-org/advanced-template,
 so the contributors of that project basically contributed to this one, too.
-Thanx, Benjamin Wolff (@Programming-Wolf) for providing such a useful template
+Thanx, Benjamin Wolf (@programming-wolf) for providing such a useful template
 
 
 [[copyrighted]]
