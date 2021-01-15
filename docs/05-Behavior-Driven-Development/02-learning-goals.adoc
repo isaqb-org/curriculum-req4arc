@@ -7,7 +7,7 @@
 
 
 [[LG-5-1]]
-==== LG 5-1: Knowing about the applicability and application domains for Behavior Driven Development (BDD)
+==== LG 5-1: Knowing about the applicability and application domains for Behavior-Driven Development (BDD)
 
 * Know that BDD originated from approaches and technologies like TDD (test-driven development) and ATDD (acceptance-test-driven development).
 * Know that various options exist to add precision to requirements
@@ -28,7 +28,7 @@
 [[LG-5-3]]
 ==== LG 5-3: Knowing Gherkin and Cucumber as examples for BDD
 
-* Know the `Given-When-Then (GWT) syntax as proposed by Gherkin.
+* Know the Given-When-Then (GWT) syntax as proposed by Gherkin.
 * Know that Given-When-Then based formulations of requirements facilitate test automation.
 * Know that several tools exist to map Given-When-Then behavior specifications to the systems' source code (e.g. Cucumber, RSpec, SpecFlow, GivWenZen).
 * Optionally know examples of GWT specifications with the appropriate glue code for automatic execution.
