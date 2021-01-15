@@ -1,5 +1,3 @@
-
-
 // tag::REMARK[]
 
 // end::REMARK[]
@@ -10,23 +8,39 @@
 :communicative-credits: 10
 
 // tag::DE[]
+=== Dauer, Didaktik und weitere Details
+
+Die unten genannten Zeiten sind Empfehlungen. Die Dauer einer Schulung zum Modul {curriculum-short}
+sollte mindestens {recommended-duration-in-days} Tage betragen, kann aber länger sein.
+Anbieter können sich durch Dauer, Didaktik, Art und Aufbau der Übungen sowie der detaillierten Kursgliederung voneinander unterscheiden.
+Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett offen.
+
+Lizenzierte Schulungen zu {curriculum-short} tragen zur Zulassung zur abschließenden Advanced-Level-Zertifizierungsprüfung folgende Credit Points) bei:
+
+[stripes=none, frame=none, grid=rows]
+|===
+| Methodische Kompetenz: | {methodical-credits} Punkte
+| Technische Kompetenz: | {technical-credits} Punkte
+| Kommunikative Kompetenz: | {communicative-credits} Punkte
+|===
+
 // end::DE[]
 
 // tag::EN[]
-=== Duration, didactics, and further details
+=== Duration, Teaching Method and Further Details
 
-The durations mentioned above are recommendations.
-A course for the {curriculum-short} should last at least {recommended-duration-in-days} days.
-Providers may vary length, didactics, type and structure of exercises, and structure of the course.
-In particular, examples and exercises are left unspecified in this curriculum.
+The times stated below are recommendations.
+The duration of a training course on the {curriculum-short} module should be at least {recommended-duration-in-days} days, but may be longer.
+Providers may differ in terms of duration, teaching method, type and structure of the exercises and the detailed course structure.
+In particular, the curriculum provides no specifications on the nature of the examples and exercises.
 
-Licensed courses for {curriculum-short} contribute the following credit points to the Advanced Level graduation:
+Licensed training courses for the {curriculum-short} module contribute the following credit points towards admission to the final Advanced Level certification exam:
 
-[stripes=none,width="50%",cols="<4,>1"]
+[stripes=none, frame=none, grid=rows]
 |===
-| Methodical Competence: | **{methodical-credits}** CP
-| Technical Competence: | **{technical-credits}** CP
-| Communicative Competence: | **{communicative-credits}** CP
+| Methodical Competence: | {methodical-credits} Points
+| Technical Competence: | {technical-credits} Points
+| Communicative Competence: | {communicative-credits} Points
 |===
 
 // end::EN[]

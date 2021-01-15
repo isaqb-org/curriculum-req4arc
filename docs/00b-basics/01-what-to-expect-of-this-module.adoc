@@ -7,7 +7,7 @@
 
 // tag::EN[]
 
-=== Was does the module *{curriculum-short}* convey?
+=== Was does the module {curriculum-short} convey?
 
 Architects and development teams often get only mediocre requirements as input for their work.
 The goal of this module is to equip architects with enough requirements know-how, so that they can take educated architecture decisions, based on the real needs of stakeholders.
