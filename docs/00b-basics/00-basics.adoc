@@ -1,16 +1,7 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-
-
-// tag::DE[]
-// end::DE[]
-
-// tag::EN[]
-
-== The Req4Arc Curriculum
-
-// end::EN[]
+== {basics}
 
 include::01-what-to-expect-of-this-module.adoc[{include_configuration}]
 
