@@ -60,14 +60,15 @@
 
 |===
 
-[.text-center]
-.Durations
-image:01-basics/chronological_breakdown.png[pdfwidth=75%, role="text-center"]
 // end::EN[]
 
 // tag::REMARK[]
 [NOTE]
 ====
+Bitte die oben angegebene Tabelle entsprechend anpassen.
 
+= = =
+
+Please adjust the table above according to your curriculum.
 ====
 // end::REMARK[]
