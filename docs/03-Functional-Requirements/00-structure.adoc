@@ -9,21 +9,7 @@
 == Handling Functional Requirements
 
 include::01-duration-terms.adoc[{include_configuration}]
-
-
-=== {learning-goals}
-
-include::LG-3-01.adoc[{include_configuration}]
-include::LG-3-02.adoc[{include_configuration}]
-include::LG-3-03.adoc[{include_configuration}]
-include::LG-3-04.adoc[{include_configuration}]
-include::LG-3-05.adoc[{include_configuration}]
-include::LG-3-06.adoc[{include_configuration}]
-include::LG-3-07.adoc[{include_configuration}]
-include::LG-3-08.adoc[{include_configuration}]
-include::LG-3-09.adoc[{include_configuration}]
-include::LG-3-10.adoc[{include_configuration}]
-include::LG-3-11.adoc[{include_configuration}]
+include::02-learning-goals.adoc[{include_configuration}]
 
 
 // end::EN[]

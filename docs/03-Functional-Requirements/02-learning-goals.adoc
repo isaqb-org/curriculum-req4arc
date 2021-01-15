@@ -1,0 +1,99 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-1-1]]
+==== LZ 1-1: Dies ist das erste Lernziel, in Kategorie xy
+Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
+in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
+wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
+
+* Erstes Teilziel
+* Zweites Unterthema
+* Dritter Aspekt
+
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-3-1]]
+==== LG 3-1: Understanding the difference between functional and other requirements
+
+* Know the definition of functional requirements
+* Distinguish functional requirements from quality requirements and constraints
+
+[[LG-3-2]]
+==== LG 3-2: Hierarchies of functional requirements
+
+* Understand that (functional) requirements can be expressed on different levels of granularity, from coarse grained to very fine grained
+* Understand that architects at least need an overview of coarse grained functional requirements for planning and estimating
+* Know that not every functional requirement has to be detailed immediately
+
+[[LG-3-3]]
+==== LG 3-3: Criteria for splitting coarse-grained functional requirements
+
+Understand that many different criteria can be applied to decompose a system into smaller chunks, i.e. functional or feature-oriented decomposition, organizational decomposition, geographical decomposition, object-oriented decomposition, process-oriented decomposition or hardware-oriented decomposition.
+
+[[LG-3-4]]
+==== LG 3-4:Decomposing or grouping requirements into value-adding processes
+
+* Know that a process-oriented decomposition (business processes, use cases, stories, event process chains, ...) are a proven approach to allow for early implementation of some of them and postpone others), thus creating early business value.
+* Understand the first part of "INVEST" <<Wake2003>>: functional requirements should be "independent", "negotiable" and "valuable".
+
+[[LG-3-5]]
+==== LG 3-5: Documenting value-adding processes
+
+* Know different notations to capture value-adding processes
+* Know how to write good stories (i.e. <<adzic-14>>: As a <role> I want to <functionality> so that <advantage>)
+* Know how to capture processes in use case diagrams and use case specifications
+* Understand the difference between use cases and user stories
+
+[[LG-3-6]]
+==== LG 3-6: Refining functional requirements
+
+* Know criteria for decomposing coarse level functional requirements <<Lawrence>>, <<jacobson>>, <<hruschka19>>
+* Know that in agile requirements engineering that decomposed parts of a larger requirement still should offer business value.
+
+[[LG-3-7]]
+==== LG 3-7: Documenting functional requirements
+
+* Understand that detailed functional requirements could be documented in various ways, e.g. in textual form but also in many graphical forms that usually add more precision, less interpretability, but a sometimes harder to create and understand compared to plain language requirements
+* Know graphical models like activity diagrams, BPMN, information models, state models and when to use which notation
+
+[[LG-3-8]]
+==== LG 3-8: Knowing when to stop refining functional requirements
+
+* Understand that functional requirements are precise enough as soon as the development team has no more questions about their meaning
+* Understand the second part of "INVEST" <<Wake2003>>: "Estimable", "Small enough", "Testable"
+* Know the "Definition of Ready" (DoR) and why it is important for the cooperation between stakeholders
+
+[[LG-3-9]]
+==== LG 3-9: Acceptance criteria for functional requirements
+
+* Know that functional requirements should have acceptance criteria, i.e. criteria to determine (after implementation) whether the requirement has been fulfilled
+* Understand the "CCC-Rule": card, conversation, confirmation. The acceptance criteria are the basis for confirmation.
+
+[[LG-3-10]]
+==== LG 3-10: Understanding specification-by-examples
+
+* Understand that sometimes a couple of good examples for functional requirements are better than a bad abstraction
+* Know that scenarios are examples for functional requirements
+* Know various notations to express scenarios
+* For more details: see <<section-bdd,section 5 (BDD)>>
+
+[[LG-3-11]]
+==== LG 3-11: Know methods for elicitation of functional requirements
+
+* Know that there are many different elicitation techniques that architects should be aware of, e.g. interviews, questionnaires, brainstorming sessions, three amigo sessions, knowledge crunching, event storming and many others
+* Know when to pick which elicitation technique to improve communication with stakeholders
+
+
+
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]
