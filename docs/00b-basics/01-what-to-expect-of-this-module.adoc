@@ -1,6 +1,4 @@
-// tag::FEEDBACK[]
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
+
 
 
 // tag::DE[]

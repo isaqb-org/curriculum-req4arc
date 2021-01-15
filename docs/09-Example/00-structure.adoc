@@ -1,9 +1,7 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-// tag::FEEDBACK[]
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
+
 
 // tag::DE[]
 // end::DE[]
