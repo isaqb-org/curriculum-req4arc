@@ -16,7 +16,7 @@
 
 | 1. Introduction and Motivation
 >| 45
->| none
+>| 0
 
 | 2. Clean Start
 >| 90
@@ -32,7 +32,7 @@
 
 | 5. Behavior-Driven Development
 >| 60
->| none
+>| 0
 
 | 6. Prioritization and Estimation of Requirements
 >| 45
@@ -40,15 +40,15 @@
 
 | 7. Cooperation between Roles
 >| 75
->| none
+>| 0
 
 | 8. Tools for Requirements Engineering
 >| 60
->| none
+>| 0
 
 | 9. Example
 >| 75
->| none
+>| 0
 
 >| Sum:
 >| 750
