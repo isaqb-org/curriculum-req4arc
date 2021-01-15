@@ -4,7 +4,7 @@
 // end::DE[]
 
 // tag::EN[]
-[width=50%]
+
 |===
 | Teaching: 75 min | Exercises: none
 |===
