@@ -1,0 +1,66 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-1-1]]
+==== LZ 1-1: Dies ist das erste Lernziel, in Kategorie xy
+Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
+in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
+wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
+
+* Erstes Teilziel
+* Zweites Unterthema
+* Dritter Aspekt
+
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-2-1]]
+==== LG 2-1: Understanding the need for some (limited) upfront activities
+
+* Understand that even with iterative development some upfront activities are necessary.
+* Know that explicit knowledge of visions, goals and relevant stakeholders are required so that the development team can take informed decisions about the systems’ architecture.
+* Understand that an agreement about scope and context is required, especially about the interfaces between scope and context (i.e. the external interfaces of the product).
+
+[[LG-2-2]]
+==== LG 2-2: Understanding the need for (high level) vision and business goals
+
+* Understand that visions or business goals are your highest level requirements, i.e. those requirements that are (hopefully) not changed during a project
+* Understand that visions and goals should be quantified and made measurable to be able to check success in terms of business value.
+
+[[LG-2-3]]
+==== LG 2-3: Different options and notations for expressing visions and business goals
+
+* Know various ways to define vision and goals (explicit goal statements, value propositions for different stakeholders, vision box, "news from the future")
+* Know mnemonics for vision or business goal statements (SMART, PAM)
+
+[[LG-2-4]]
+==== LG 2-4: The importance of different stakeholders and their influence on the product or system
+
+* Know that stakeholders are the most important sources of requirements.
+* Understand that missing stakeholders may mean missing requirements.
+* Understand that architects should be aware that stakeholders need to be addressed in specific, adequate ways.
+
+[[LG-2-5]]
+==== LG 2-5: Different needs and values of different stakeholders  ("value propositions")
+
+* Understand that different stakeholders will have different needs and may differ in their opinions what is valuable in a product
+* Know that a prioritized stakeholder list helps to prioritize requirements by business value
+* Know that architects have to handle goal conflicts between stakeholder's needs
+
+[[LG-2-6]]
+==== LG 2-6: Scoping and delimiting the context of the system
+
+* Distinguish between business and product scope
+* Know about the importance of external interfaces
+* Distinguish between various levels of externality (external to the system, external to the business unit, external to the enterprise)
+* Know different options and notations for expressing scope and context, i.e. context diagrams
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

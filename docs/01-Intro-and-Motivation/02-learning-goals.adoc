@@ -1,0 +1,46 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-1-1]]
+==== LZ 1-1: Dies ist das erste Lernziel, in Kategorie xy
+Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
+in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
+wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
+
+* Erstes Teilziel
+* Zweites Unterthema
+* Dritter Aspekt
+
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-1-1]]
+==== LG 1-1: Understanding the need for requirements as basis for decision making
+
+* Know the need for good requirements, especially quality requirements seen from the perspective of software architecture
+* Know the key tasks for software architects which include clarifying requirements and constraints
+* Understand that architects do not need complete requirements up-front, but should focus on architecturally significant requirement
+
+[[LG-1-2]]
+==== LG 1-2: Understanding responsibilities, roles and key activities
+
+* Know that there are different job titles for persons responsible for requirements (Business Analysts, Requirements Engineers, Product Owner)
+* Understand their relationship to architects and development teams.
+* Know key tasks in requirements engineering, including elicitation, documentation, checking and maintenance
+
+[[LG-1-3]]
+==== LG 1-3: Understanding the incremental nature of requirements elicitation ("Just in Time")
+
+* Understand that requirements and architecture can (and should) be developed iteratively
+* Understand that architects do not need "complete" requirements, but always just enough requirements to make design decisions for the next iterations
+* Understand that requirements can be elicitated iteratively and incrementally
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

@@ -1,5 +1,3 @@
-// tag::FEEDBACK[]
-// end::FEEDBACK[]
 
 // tag::DE[]
 

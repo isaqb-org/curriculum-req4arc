@@ -1,6 +1,4 @@
-// tag::FEEDBACK[]
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
+
 
 // tag::DE[]
 // end::DE[]
@@ -18,7 +16,7 @@ include::../config/_feedback.adoc[]
 
 | 1. Introduction and Motivation
 >| 45
->| none
+>| 0
 
 | 2. Clean Start
 >| 90
@@ -34,7 +32,7 @@ include::../config/_feedback.adoc[]
 
 | 5. Behavior-Driven Development
 >| 60
->| none
+>| 0
 
 | 6. Prioritization and Estimation of Requirements
 >| 45
@@ -42,15 +40,15 @@ include::../config/_feedback.adoc[]
 
 | 7. Cooperation between Roles
 >| 75
->| none
+>| 0
 
 | 8. Tools for Requirements Engineering
 >| 60
->| none
+>| 0
 
 | 9. Example
 >| 75
->| none
+>| 0
 
 >| Sum:
 >| 750
@@ -62,14 +60,15 @@ include::../config/_feedback.adoc[]
 
 |===
 
-[.text-center]
-.Durations
-image:01-basics/chronological_breakdown.png[pdfwidth=75%, role="text-center"]
 // end::EN[]
 
 // tag::REMARK[]
 [NOTE]
 ====
+Bitte die oben angegebene Tabelle entsprechend anpassen.
 
+= = =
+
+Please adjust the table above according to your curriculum.
 ====
 // end::REMARK[]

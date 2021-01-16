@@ -1,5 +1,6 @@
 // tag::DE[]
 :lang: DE
+:basics: Grundlegendes
 :toc-title: Inhaltsverzeichnis
 :learning-goals: Lernziele
 :references: Referenzen
@@ -8,8 +9,9 @@
 
 // tag::EN[]
 :lang: EN
+:basics: Essentials
 :toc-title: Table of Contents
-:learning-goals: Learning goals
+:learning-goals: Learning Goals
 :references: References
 :examples: Examples
 // end::EN[]

@@ -1,6 +1,4 @@
-// tag::FEEDBACK[]
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
+
 
 // tag::DE[]
 
@@ -8,7 +6,7 @@ include::../config/_feedback.adoc[]
 // end::DE[]
 
 // tag::EN[]
-[width=50%]
+
 |===
 | Teaching: 180 min | Exercises: 120 min
 |===

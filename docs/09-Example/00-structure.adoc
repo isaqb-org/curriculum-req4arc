@@ -1,9 +1,7 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-// tag::FEEDBACK[]
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
+
 
 // tag::DE[]
 // end::DE[]
@@ -11,7 +9,7 @@ include::../config/_feedback.adoc[]
 // tag::EN[]
 == Example
 
-[width=50%]
+
 |===
 | Teaching: 75 min | Exercises: none
 |===

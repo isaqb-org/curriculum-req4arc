@@ -59,11 +59,10 @@ task buildDocs {
 }
 ----
 
-== CI-Build
-We let Travis-CI automatically build the documents,
-please see https://travis-ci.com/isaqb-org/curriculum-req4arc for build details and status.
+In the task "renderNoRemarksDE", certain attributes (aka variables) are defined that configure the corresponding output.
 
-
+== Additional translations/languages
+include::docs-ext/EXTERNAL_DOCUMENTS_README.adoc[]
 
 == Maintainers
 

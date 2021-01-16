@@ -1,6 +1,4 @@
-// tag::FEEDBACK[]
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
+
 
 // tag::EN[]
 === {learning-goals}
@@ -50,8 +48,8 @@ Architects have various ways of adding precision
 * Know that architects should prioritize scenarios for quality requirements in two dimensions: business value and technical challenge
 * Know that only requirements with high business value and big technical challenge should be considered early on for architectural decisions
 
-[[LG-4-07]]
-==== LG 4-07: Pragmatic alternatives to detailed acceptance criteria
+[[LG-4-7]]
+==== LG 4-7: Pragmatic alternatives to detailed acceptance criteria
 
 * Know that for some qualities it is hard to check their fulfilment right after implementation.
 Another way to check such qualities is statistical observation over time ("see if requirement is met") instead of quantified acceptance criteria.

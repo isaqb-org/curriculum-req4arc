@@ -1,5 +1,7 @@
-= image:images/isaqb-logo.jpg[iSAQB,150] Certified Professional for Software Architecture^(R)^ (CPSA)
-- Requirements for Architects (Req4Arc) Curriculum -
+include::config/setup.adoc[]
+
+= image:isaqb-logo.jpg[iSAQB,150] Certified Professional for Software Architecture^(R)^ (CPSA)
+Curriculum {curriculum-name} [{curriculum-short}]
 
 The international Software Architecture Qualification Board (link:https://isaqb.org[iSAQB]) defines curricula on several levels for software architects.
 
@@ -25,15 +27,15 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-req4arc.s
 |===
 | Version | HTML | PDF
 
+| German
+| currently not available
+// link:{curriculumFileName}-de.html[HTML]
+| currently not available
+// link:{curriculumFileName}-de.pdf[PDF]
+
 | English
-| link:req4arc-curriculum-en.html[HTML]
-| link:req4arc-curriculum-en.pdf[PDF]
+| link:{curriculumFileName}-en.html[HTML]
+| link:{curriculumFileName}-en.pdf[PDF]
+
 
 |===
-
-== Please provide feedback
-
-Your feedback and comments are valuable to us - please use one of the following options:
-
-* our public https://github.com/isaqb-org/curriculum-rec4arc[Github repository] - or
-* open an issue by clicking **https://github.com/isaqb-org/curriculum-req4arc/issues/new?title=&body=%0A%0A%5BEnter%20feedback%20here%5D%0A%0A%0A[here]**

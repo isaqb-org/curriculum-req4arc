@@ -1,20 +1,17 @@
-// tag::FEEDBACK[]
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
+
 
 // tag::DE[]
 
 // end::DE[]
 
 // tag::EN[]
-[width=50%]
+
 |===
 | Teaching: 45 min | Exercises: 0 min
 |===
 
 === Terms and concepts
-Architecturally significant requirements (ASR),
-Agile Requirements Engineering
+Architecturally significant requirements (ASR), Agile Requirements Engineering
 
 // end::EN[]
 

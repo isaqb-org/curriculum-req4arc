@@ -1,5 +1,4 @@
 import org.asciidoctor.gradle.AsciidoctorTask
-import javax.inject.Inject
 import java.text.SimpleDateFormat
 
 buildscript {
@@ -17,12 +16,10 @@ plugins {
 
 ext {
   today = new Date()
-  englishDate = new SimpleDateFormat("MMMM d, yyyy", Locale.US).format(today)
-  germanDate = new SimpleDateFormat("d. MMMM yyy", Locale.GERMANY).format(today)
+  versionDate = new SimpleDateFormat("yyyyMMdd").format(today)
 
   project.version = project.file("./document.version").text
-  curriculumBaseName = "Req4Arc-curriculum"
-  curriculumFileName = "req4arc-curriculum"
+  curriculumFileName = "curriculum-req4arc"
   addSuffixToCurriculum = { suffix ->
     for (extension in ["html", "pdf"]) {
       File source = new File("${buildDir}/${curriculumFileName}.${extension}")
@@ -35,7 +32,7 @@ ext {
 
 class RenderCurriculumTask extends AsciidoctorTask {
   @Inject
-  RenderCurriculumTask(String curriculumBaseName, String curriculumFileName, String currentDate, String language, boolean withRemarks) {
+  RenderCurriculumTask(String curriculumFileName, String versionDate, String language, boolean withRemarks) {
     sourceDir = new File("./docs/")
     sources {
       include "index.adoc"
@@ -48,53 +45,52 @@ class RenderCurriculumTask extends AsciidoctorTask {
     def fileVersion = project.version.trim() + "-" + language
 
     attributes = [
-      'icons'            : 'font',
-      'revnumber'        : fileVersion,
-      'revdate'          : currentDate,
-      'document-version' : fileVersion + " (" + currentDate + ")",
-      'curriculumBaseName' : curriculumBaseName,
-      'currentDate'        : currentDate,
-      'language'           : language,
-      'withRemarks'        : withRemarks,
-      'withFeedback'       : true,
-      'debug_adoc'         : false,
-      'pdf-stylesdir'      : '../pdf-theme/themes',
-      'pdf-fontsdir'       : '../pdf-theme/fonts',
-      'pdf-style'          : 'isaqb'
+      'icons'             : 'font',
+      'version-label'     : '',
+      'revnumber'         : fileVersion,
+      'revdate'           : versionDate,
+      'document-version'  : fileVersion + "-" + versionDate,
+      'currentDate'       : versionDate,
+      'language'          : language,
+      'withRemarks'       : withRemarks,
+      'curriculumFileName': curriculumFileName,
+      'debug_adoc'        : false,
+      'pdf-stylesdir'     : '../pdf-theme/themes',
+      'pdf-fontsdir'      : '../pdf-theme/fonts',
+      'pdf-style'         : 'isaqb'
     ]
   }
 }
 
 task buildDocs {
-	group 'Documentation'
-	description 'Grouping task for generating all languages in several formats'
-   dependsOn "includeLearningObjectives", "renderNoRemarksEN"
-  // dependsOn "includeLearningObjectives", "renderNoRemarksDE", "renderNoRemarksEN", "renderWithRemarksDE", "renderWithRemarksEN"
+  group 'Documentation'
+  description 'Grouping task for generating all languages in several formats'
+  dependsOn "includeLearningObjectives", /* "renderNoRemarksDE",*/ "renderNoRemarksEN"
 }
 
 task renderNoRemarksDE(type: RenderCurriculumTask,
-    constructorArgs: [curriculumBaseName, curriculumFileName, germanDate, "DE", false]) {
+    constructorArgs: [curriculumFileName, versionDate, "DE", false]) {
   doLast {
     addSuffixToCurriculum("-de")
   }
 }
 
 task renderWithRemarksDE(type: RenderCurriculumTask,
-     constructorArgs: [curriculumBaseName, curriculumFileName, germanDate, "DE", true]) {
+     constructorArgs: [curriculumFileName, versionDate, "DE", true]) {
   doLast {
     addSuffixToCurriculum("-remarks-de")
   }
 }
 
 task renderNoRemarksEN(type: RenderCurriculumTask,
-    constructorArgs: [curriculumBaseName, curriculumFileName, englishDate, "EN", false]) {
+    constructorArgs: [curriculumFileName, versionDate, "EN", false]) {
   doLast {
     addSuffixToCurriculum("-en")
   }
 }
 
 task renderWithRemarksEN(type: RenderCurriculumTask,
-     constructorArgs: [curriculumBaseName, curriculumFileName, englishDate, "EN", true]) {
+     constructorArgs: [curriculumFileName, versionDate, "EN", true]) {
   doLast {
     addSuffixToCurriculum("-remarks-en")
   }

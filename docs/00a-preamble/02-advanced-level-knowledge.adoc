@@ -1,4 +1,3 @@
-
 // tag::DE[]
 === Was können Absolventen des Advanced Level (CPSA-A)?
 CPSA-A-Absolventen können:
@@ -11,13 +10,13 @@ CPSA-A-Absolventen können:
 // end::DE[]
 
 // tag::EN[]
-=== What qualifications do Advanced Level (CPSA-A) graduates gain?
-CPSA-A graduates are able to:
+=== What can Advanced Level (CPSA-A) graduates do?
+CPSA-A graduates can:
 
-- design medium to large IT systems independently and based on solid methodical foundations
-- take technical and operational responsibility in IT systems with medium to high criticality
-- design and document measures to achieve quality requirements and support development teams implementing those measures
-- manage communication relevant to architecture in medium to large development teams
+- Independently and methodically design medium to large IT systems
+- In IT systems of medium to high criticality, assume technical and content-related responsibility
+- Conceptualize, design, and document actions to achieve quality requirements and support development teams in the implementation of these actions
+- Control and execute architecture-relevant communication in medium to large development teams
 // end::EN[]
 
 // tag::REMARK[]
