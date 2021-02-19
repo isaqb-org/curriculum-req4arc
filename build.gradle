@@ -3,7 +3,7 @@ import java.text.SimpleDateFormat
 
 buildscript {
   repositories {
-    jcenter()
+    mavenCentral()
   }
 
   dependencies {
