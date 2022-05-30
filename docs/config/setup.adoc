@@ -4,7 +4,6 @@
 :imagesdir: images
 :chapter-label: 
 
-
 // if the attribute ":withRemarks:" is set, we amend every content-include
 // by ";REMARK", so that the sections tagged "REMARK" are always included.
 :withRemarks!:
@@ -22,10 +21,10 @@ endif::withRemarks[]
 // additional markers might be configured here!
 :include_configuration: tags=**;{language}{remarks};!*
 
-:curriculum-short: Req4Arc
+:curriculum-short: REQ4ARC
 
 ifeval::["{language}" == "DE"]
-:curriculum-name: Requirements for Software Architects
+:curriculum-name: Requirements für Softwarearchitekt:innen
 :curriculum-header-title: iSAQB-Curriculum für Advanced Level: {curriculum-short}
 endif::[]
 
