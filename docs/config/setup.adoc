@@ -2,7 +2,6 @@
 :icons: font
 :sectnumlevels: 2
 :imagesdir: images
-:chapter-label: 
 
 // if the attribute ":withRemarks:" is set, we amend every content-include
 // by ";REMARK", so that the sections tagged "REMARK" are always included.
@@ -11,6 +10,7 @@
 ifdef::withRemarks[]
 :remarks: ;REMARK
 endif::withRemarks[]
+:!chapter-signifier:
 
 // ":language:" denotes the language or the target document.
 // currently only DE and EN are supported
