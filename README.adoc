@@ -16,7 +16,7 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-== Status 
+== Status
 image:https://github.com/isaqb-org/curriculum-req4arc/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["CI"]
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-req4arc/main.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-req4arc.svg["Contributors",link="https://github.com/isaqb-org/curriculum-req4arc/graphs/contributors"]
@@ -40,26 +40,10 @@ Create an issue, a merge- or pull-request.
 
 
 == How to build the documents
+Prerequisite: You need a Java Runtime(tm) (17 or higher) installed.
 
-Prerequisite: You need a Java Runtime(tm) installed.
+You build the output documents with `./gradlew buildDocs`.
 
-You build the output documents with `gradle`.
-
-That will produce both pdf and html output in German (DE) _and_ English (EN),
-unless you modify the configuration.
-
-In case you want to change that, adjust the following part of `build.gradle`:
-
-[source,groovy]
-----
-task buildDocs {
-  group 'Documentation'
-  description 'Grouping task for generating all languages in several formats'
-  dependsOn "renderNoRemarksDE", "renderNoRemarksEN", "renderWithRemarksDE", "renderWithRemarksEN"
-}
-----
-
-In the task "renderNoRemarksDE", certain attributes (aka variables) are defined that configure the corresponding output.
 
 == Additional translations/languages
 include::docs-ext/EXTERNAL_DOCUMENTS_README.adoc[]
