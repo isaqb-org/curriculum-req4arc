@@ -2,100 +2,91 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ===============================================
 
-
-
-
-
+[bibliography]
+== {references}
 
 // tag::DE[]
+Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum referenziert werden.
 // end::DE[]
 
 // tag::EN[]
+This section contains references that are cited in the curriculum.
+// end::EN[]
+
 [bibliography]
 == Bibliography
 This section contains references relevant for the curriculum and/or requirements engineering in general.
 
-A +
+**A**
 
 - [[[adzic-11,Adzic-2011]]] Adzic, Goyko: Specification by Example. Manning, 2011. More info: https://gojko.net/books/specification-by-example/
 - [[[adzic-14,Adzic-2014]]] Adzic, Goyko: 50 Quick Ideas to Improve Your User Stories.
 - [[[ATAM]]] Kazman, Rick: ATAM Method for Architecture Evaluation, (_Architecture Tradeoff Analysis Method_), SEI Technical Report, https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=5177
 
-B +
+**B**
 
 - [[[banfield,Banfield-16]]] Banfield, Richard: Design sprint: a practical guidebook for building great digital products, O'Reilly, 2016
 
-C +
+**C**
 
 - [[[clegg,Clegg-94]]] Dai Clegg and Richard Barker (1994). Case Method Fast-Track: A RAD Approach. Addison-Wesley.
 
-G +
+**G**
 
 - [[[gerstbach,Gerstbach-16]]] Gerstbach, Ingrid: Design Thinking im Unternehmen: Ein Workbook für die Einführung von Design Thinking, GABAL Verlag, 2016 (in German)
-- [[[Gottesdiener-12]]] Gottesdiener, Ellen: Discover to Deliver: Agile Product Planning and Analysis, EGB Consulting, 2012
+- [[[gottesdiener-12]]] Gottesdiener, Ellen: Discover to Deliver: Agile Product Planning and Analysis, EGB Consulting, 2012
 
-H +
+**H**
 
 - [[[hathaway,Hathaway-19]]] Hathaway, Angela + Tom: Getting and Writing IT-Requirements in a Lean and Agile World. Self-published, https://leanpub.com/lean-requirements-user-stories-agile
-
 - [[[hruschka19,Hruschka-19]]] Hruschka, Peter: Business Analysis und Requirements Engineering,
 Hanser Verlag, 2nd Edition 2019 (in German)
 
-I +
+**I**
 
 - [[[ireb-agile,IREB]]] IREB: Handbook Advanced Module “RE@Agile”, online: https://www.ireb.org/de/downloads/tag:advanced-level-re-agile
-
 - [[[isaqb-foundation,iSAQB-Foundation]]] iSAQB Foundation Level Curriculum: https://isaqb-org.github.io/curriculum-foundation/
-
 - [[[iso25010,ISO-25010]]] ISO-25010: Standard for Systems and software Quality Requirements and Evaluation (SQuaRE), defining a generic model for software quality. https://www.iso.org/standard/35733.html
 
-J +
+**J**
 
 - [[[jacobson,Jacobson+2011]]] Dr. Ivar JacobsonIan SpenceKurt Bittner: Use-Case 2.0: The Guide to Succeeding with Use-Cases. Online: https://www.ivarjacobson.com/publications/white-papers/use-case-ebook
 
-L +
+**L**
 
-- [[[Lawrence]]] Lawrence, Richard: How to split a story, https://agileforall.com/resources/how-to-split-a-story
+- [[[lawrence]]] Lawrence, Richard: How to split a story, https://agileforall.com/resources/how-to-split-a-story
 
-M +
+**M**
 
 - [[[mcgreal,McGreal]]] McGreal, D.: The Professional Product Owner: Leveraging Scrum as a Competitive Advantage
 
-N +
+**N**
 
 - [[[north,North]]] North, Dan: Introducing Behavior Driven Development, https://dannorth.net/introducting.bdd
 
-P +
+**P**
 
 - [[[pichler, Pichler-10]]] Pichler, R.: Agile Product Management with Scrum: Creating Products that Customers Love. Addison-Wesley, 2010
 
-R +
+**R**
 
 - [[[ries,Ries-11]]] Ries, Eric: The Lean Startup, Crown Business, 2011
 - [[[robertson-12,Robertson-12]]] Robertson,J./Robertson,S.: Mastering the Requirements Process: Getting Requirements Right. Addison Wesley; 3rd edition 2012. https://www.volere.org/mastering-the-requirements-process-getting-requirements-right/
 - [[[robertson-19,Robertson-19]]] Robertson, J. /Robertson, S.: Business Analysis Agility. Addison Wesley, 2019
 
-S +
+**S**
 
 - [[[smart-bdd,Smart-2014]]] Smart, J.F.: BDD in Action, Behavior-Driven Development for the whole software lifecycle. Manning 2014. See https://www.manning.com/books/bdd-in-action
 - [[[smart-amigo,Smart-Amigo]]] Smart, J.F.: The Anatomy of a Three Amigo requirements discovery Session. https://johnfergusonsmart.com/three-amigos-requirements-discovery/
-
 - [[[starke-hruschka-arc42,Starke-Hruschka]]] Starke,G + Hruschka, P: Communicating Software Architectures: lean, effective and painless documentation. Leanpub https://leanpub.com/arc42inpractice
 
-T +
+**T**
 
 - [[[toth,Toth-19]]] Toth, Stefan: Vorgehensmuster in der Softwarearchitektur.
 Carl Hanser Verlag, 3rd edition 2019  (in German) - especially for "_Architecturally significant requirements_"
 
-W +
+**W**
 
-- [[[Wake2003]]]: Wake, Bill: INVEST in good stories and SMART Tasks,
+- [[[wake2003,Wake-2003]]]: Wake, Bill: INVEST in good stories and SMART Tasks,
 xp123.com/Articles/invest-in-good-stories-and-smart-tasks, 2003
-
 - [[[wynn,Wynn]]] Wynn, Matt: Introducing Example Mapping: https://cucumber.io/blog/example-mapping-introduction/
-
-// end::EN[]
-
-
-
-

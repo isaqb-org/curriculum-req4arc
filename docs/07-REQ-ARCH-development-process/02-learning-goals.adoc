@@ -16,7 +16,7 @@
 [[LG-7-2]]
 ==== LG 7-2: Know cooperative approaches to product development
 
-* Know the basic ideas of cooperative approaches like _Discover to Deliver_ <<Gottesdiener-12>>, Design Thinking <<gerstbach>>, Lean Startup <<ries>>, Design Sprints <<Banfield>>
+* Know the basic ideas of cooperative approaches like _Discover to Deliver_ <<gottesdiener-12>>, Design Thinking <<gerstbach>>, Lean Startup <<ries>>, Design Sprints <<banfield>>
 * Understand how such iterative approaches can be scaled to larger systems, that involve more than one development team, potentially geographically distributed.
 
 
