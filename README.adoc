@@ -76,4 +76,4 @@ Thanx, Benjamin Wolf (@programming-wolf) for providing such a useful template
 [[copyrighted]]
 == Licensing and Copyright
 
-include::LICENSE.adoc[]
+include::license-copyright/LICENSE.adoc[]

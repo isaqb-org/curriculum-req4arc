@@ -26,7 +26,7 @@ endif::[]
 
 <<<
 :sectnums!:
-include::00a-preamble/copyright.adoc[{include_configuration}]
+include::../license-copyright/copyright.adoc[{include_configuration}]
 
 <<<
 :sectnums!:
