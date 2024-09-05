@@ -13,5 +13,3 @@ Das Modul kann unabhängig von einer CPSA-F-Zertifizierung besucht werden.
 - The certification is done as an assignment. The assessment and oral exam is conducted by experts appointed by the iSAQB.
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]

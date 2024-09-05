@@ -22,5 +22,3 @@ The individual sections of the curriculum are described according to the followi
 This section therefore also outlines the skills to be acquired in corresponding training courses.
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]

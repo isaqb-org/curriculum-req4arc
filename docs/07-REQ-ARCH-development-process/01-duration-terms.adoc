@@ -20,6 +20,4 @@ Design Thinking, Design Sprint, Lean Startup, Requirements Documentation, Tracea
 
 // end::EN[]
 
-// tag::REMARK[]
 
-// end::REMARK[]

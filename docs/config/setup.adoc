@@ -2,14 +2,6 @@
 :icons: font
 :sectnumlevels: 2
 :imagesdir: images
-
-// if the attribute ":withRemarks:" is set, we amend every content-include
-// by ";REMARK", so that the sections tagged "REMARK" are always included.
-:withRemarks!:
-:remarks:
-ifdef::withRemarks[]
-:remarks: ;REMARK
-endif::withRemarks[]
 :!chapter-signifier:
 
 // ":language:" denotes the language or the target document.
@@ -17,9 +9,8 @@ endif::withRemarks[]
 :language: EN
 
 // ":include_configuration:" always consists of the language, optionally
-// followed by ";REMARK"
 // additional markers might be configured here!
-:include_configuration: tags=**;{language}{remarks};!*
+:include_configuration: tags=**;{language};!*
 
 :curriculum-short: REQ4ARC
 
@@ -32,16 +23,3 @@ ifeval::["{language}" == "EN"]
 :curriculum-name: Requirements for Software Architects
 :curriculum-header-title: iSAQB Curriculum for Advanced Level: {curriculum-short}
 endif::[]
-
-// you might want to output some internal information...
-ifdef::debug_adoc[]
-[NOTE]
-====
-Current configuration:
-
-* Language(s): {language}
-* Document version: {document-version}
-* Include-configuration: {include_configuration}
-
-====
-endif::debug_adoc[]

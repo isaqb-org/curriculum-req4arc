@@ -23,6 +23,4 @@ Quality Requirement, Constraint, Non-functional Requirement
 
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]
 

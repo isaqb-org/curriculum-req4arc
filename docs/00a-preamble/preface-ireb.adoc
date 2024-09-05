@@ -30,5 +30,3 @@ Chairman the Executive Board of IREB
 
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]

@@ -16,6 +16,4 @@ It is not intended to go into details of any of these tools.
 
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]
 

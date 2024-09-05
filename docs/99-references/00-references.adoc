@@ -97,7 +97,5 @@ xp123.com/Articles/invest-in-good-stories-and-smart-tasks, 2003
 // end::EN[]
 
 
-// tag::REMARK[]
 
-// end::REMARK[]
 

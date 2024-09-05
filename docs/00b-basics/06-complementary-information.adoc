@@ -19,5 +19,3 @@ To the extent necessary for understanding the curriculum, we have added definiti
 You find the most recent version of this document online (https://isaqb-org.github.io/curriculum-req4arc/), where you are encouraged to provide feedback.
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]

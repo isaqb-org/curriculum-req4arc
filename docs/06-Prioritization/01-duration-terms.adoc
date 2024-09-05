@@ -21,5 +21,3 @@ Business value, risk, ranking, prioritization, affinity estimation, wall estimat
 
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]

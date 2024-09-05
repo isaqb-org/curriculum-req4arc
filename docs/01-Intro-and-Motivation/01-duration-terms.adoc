@@ -16,5 +16,3 @@ Architecturally significant requirements (ASR), Agile Requirements Engineering
 // end::EN[]
 
 
-// tag::REMARK[]
-// end::REMARK[]

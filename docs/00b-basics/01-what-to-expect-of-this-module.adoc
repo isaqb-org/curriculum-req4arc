@@ -16,5 +16,3 @@ They should either know how to elicit requirements (in agile and iterative appro
 
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]

@@ -24,5 +24,3 @@ Functional Requirements, Uses Case, Epic, Feature, Story, Scenario, Acceptance C
 
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]

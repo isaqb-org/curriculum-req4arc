@@ -21,6 +21,4 @@ Behaviour Driven Development (BDD), Automated Testing, Given-When-Then (GWT)
 
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]
 

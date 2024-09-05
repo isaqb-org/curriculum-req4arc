@@ -16,5 +16,3 @@ include::02-learning-goals.adoc[]
 
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]

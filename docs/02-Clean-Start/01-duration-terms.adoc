@@ -25,6 +25,4 @@ Vision, Business Goals, Stakeholders, Scope, Context, SMART, PAM
 
 // end::EN[]
 
-// tag::REMARK[]
 
-// end::REMARK[]

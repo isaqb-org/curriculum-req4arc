@@ -1,7 +1,3 @@
-// tag::REMARK[]
-
-// end::REMARK[]
-
 :recommended-duration-in-days: 3
 :methodical-credits: 20
 :technical-credits: 0

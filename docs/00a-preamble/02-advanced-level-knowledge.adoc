@@ -19,5 +19,3 @@ CPSA-A graduates can:
 - Control and execute architecture-relevant communication in medium to large development teams
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]
