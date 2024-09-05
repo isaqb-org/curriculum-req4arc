@@ -1,103 +1,44 @@
-import org.asciidoctor.gradle.AsciidoctorTask
 import java.text.SimpleDateFormat
 
-buildscript {
-  repositories {
-    mavenCentral()
-  }
-
-  dependencies {
-    classpath "org.asciidoctor:asciidoctorj-pdf:1.5.3"
-  }
-}
 plugins {
-  id "org.asciidoctor.convert" version "1.6.0"
+    id "java"
+    id "application"
 }
 
-ext {
-  today = new Date()
-  versionDate = new SimpleDateFormat("yyyyMMdd").format(today)
+def group = "org.isaqb"
+def releaseVersion = System.getenv("RELEASE_VERSION")
+def localVersion = "LocalBuild"
+project.version = releaseVersion == null ? localVersion : releaseVersion
+def curriculumFileName = "curriculum-req4arc"
+def versionDate = new SimpleDateFormat("yyyyMMdd").format(new Date())
+def languages = ["DE", "EN"]
 
-  project.version = project.file("./document.version").text
-  curriculumFileName = "curriculum-req4arc"
-  addSuffixToCurriculum = { suffix ->
-    for (extension in ["html", "pdf"]) {
-      File source = new File("${buildDir}/${curriculumFileName}.${extension}")
-      File target = new File("${buildDir}/${curriculumFileName}${suffix}.${extension}")
-
-      source.renameTo(target)
-    }
-  }
+repositories {
+    mavenCentral()
 }
 
-class RenderCurriculumTask extends AsciidoctorTask {
-  @Inject
-  RenderCurriculumTask(String curriculumFileName, String versionDate, String language, boolean withRemarks) {
-    sourceDir = new File("./docs/")
-    sources {
-      include "index.adoc"
-      include "${curriculumFileName}.adoc"
-    }
-    outputDir = new File("./build/")
-    separateOutputDirs = false
-    backends 'pdf', 'html5'
-
-    def fileVersion = project.version.trim() + "-" + language
-
-    attributes = [
-      'icons'             : 'font',
-      'version-label'     : '',
-      'revnumber'         : fileVersion,
-      'revdate'           : versionDate,
-      'document-version'  : fileVersion + "-" + versionDate,
-      'currentDate'       : versionDate,
-      'language'          : language,
-      'withRemarks'       : withRemarks,
-      'curriculumFileName': curriculumFileName,
-      'debug_adoc'        : false,
-      'pdf-stylesdir'     : '../pdf-theme/themes',
-      'pdf-fontsdir'      : '../pdf-theme/fonts',
-      'pdf-style'         : 'isaqb',
-      'stylesheet'        : '../html-theme/adoc-github.css',
-      'stylesheet-dir'    : '../html-theme'
-    ]
-  }
+dependencies {
+    implementation("org.asciidoctor:asciidoctorj:2.5.10")
+    implementation("org.asciidoctor:asciidoctorj-pdf:2.3.9")
 }
 
-task buildDocs {
-  group 'Documentation'
-  description 'Grouping task for generating all languages in several formats'
-  dependsOn "includeLearningObjectives", /* "renderNoRemarksDE",*/ "renderNoRemarksEN"
-}
-
-task renderNoRemarksDE(type: RenderCurriculumTask,
-    constructorArgs: [curriculumFileName, versionDate, "DE", false]) {
-  doLast {
-    addSuffixToCurriculum("-de")
-  }
-}
-
-task renderWithRemarksDE(type: RenderCurriculumTask,
-     constructorArgs: [curriculumFileName, versionDate, "DE", true]) {
-  doLast {
-    addSuffixToCurriculum("-remarks-de")
-  }
-}
-
-task renderNoRemarksEN(type: RenderCurriculumTask,
-    constructorArgs: [curriculumFileName, versionDate, "EN", false]) {
-  doLast {
-    addSuffixToCurriculum("-en")
-  }
-}
-
-task renderWithRemarksEN(type: RenderCurriculumTask,
-     constructorArgs: [curriculumFileName, versionDate, "EN", true]) {
-  doLast {
-    addSuffixToCurriculum("-remarks-en")
-  }
+application {
+    mainClass.set("org.isaqb.asciidoc.Main")
+    applicationDefaultJvmArgs = [
+        """-DprojectVersion=${project.version}""",
+        """-DcurriculumFileName=${curriculumFileName}""",
+        """-DversionDate=${versionDate}""",
+        """-Dlanguages=${languages.join(',')}""",
+        """--add-opens""", """java.base/sun.nio.ch=ALL-UNNAMED""",
+        """--add-opens""", """java.base/java.io=ALL-UNNAMED"""]
 }
 
 apply from: 'scripts/includeLearningObjectives.gradle'
+
+tasks.register('buildDocs') {
+    description = 'Grouping task for generating all languages in several formats'
+    group = 'documentation'
+    dependsOn "includeLearningObjectives", "run"
+}
 
 defaultTasks "buildDocs"
