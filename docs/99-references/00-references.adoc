@@ -34,7 +34,7 @@ This section contains references that are cited in the curriculum.
 
 **H**
 
-- [[[hathaway,Hathaway-19]]] Hathaway, Angela + Tom: Getting and Writing IT-Requirements in a Lean and Agile World. Self-published, https://leanpub.com/lean-requirements-user-stories-agile
+- [[[hathaway,Hathaway-19]]] Hathaway, Angela + Tom: Getting and Writing IT-Requirements in a Lean and Agile World. Self-published, https://www.businessanalysisexperts.com/books-ebooks-business-analysis-career/book-getting-writing-it-requirements-lean-agile/
 - [[[hruschka19,Hruschka-19]]] Hruschka, Peter: Business Analysis und Requirements Engineering,
 Hanser Verlag, 2nd Edition 2019 (in German)
 
