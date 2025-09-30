@@ -17,7 +17,7 @@ This section contains references that are cited in the curriculum.
 
 - [[[adzic-11,Adzic-2011]]] Adzic, Goyko: Specification by Example. Manning, 2011. More info: https://gojko.net/books/specification-by-example/
 - [[[adzic-14,Adzic-2014]]] Adzic, Goyko: 50 Quick Ideas to Improve Your User Stories.
-- [[[ATAM]]] Kazman, Rick: ATAM Method for Architecture Evaluation, (_Architecture Tradeoff Analysis Method_), SEI Technical Report, https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=5177
+- [[[ATAM]]] Kazman, Rick: ATAM Method for Architecture Evaluation, (_Architecture Tradeoff Analysis Method_), SEI Technical Report, https://www.sei.cmu.edu/library/atam-method-for-architecture-evaluation/
 
 **B**
 
@@ -34,23 +34,23 @@ This section contains references that are cited in the curriculum.
 
 **H**
 
-- [[[hathaway,Hathaway-19]]] Hathaway, Angela + Tom: Getting and Writing IT-Requirements in a Lean and Agile World. Self-published, https://www.businessanalysisexperts.com/books-ebooks-business-analysis-career/book-getting-writing-it-requirements-lean-agile/
+- [[[hathaway,Hathaway-19]]] Hathaway, Angela + Tom: Getting and Writing IT-Requirements in a Lean and Agile World. Self-published, https://www.businessanalysisexperts.com/books-ebooks-business-analysis-career/book-getting-writing-it-requirements-lean-agile/ (This book is no longer available for sale.)
 - [[[hruschka19,Hruschka-19]]] Hruschka, Peter: Business Analysis und Requirements Engineering,
 Hanser Verlag, 2nd Edition 2019 (in German)
 
 **I**
 
-- [[[ireb-agile,IREB]]] IREB: Handbook Advanced Module “RE@Agile”, online: https://www.ireb.org/de/downloads/tag:advanced-level-re-agile
+- [[[ireb-agile,IREB]]] IREB: Handbook Advanced Module “RE@Agile”, https://cpre.ireb.org/de/downloads-and-resources/downloads/category:re-agile
 - [[[isaqb-foundation,iSAQB-Foundation]]] iSAQB Foundation Level Curriculum: https://isaqb-org.github.io/curriculum-foundation/
-- [[[iso25010,ISO-25010]]] ISO-25010: Standard for Systems and software Quality Requirements and Evaluation (SQuaRE), defining a generic model for software quality. https://www.iso.org/standard/35733.html
+- [[[iso25010,ISO-25010]]] ISO-25010: Standard for Systems and software Quality Requirements and Evaluation (SQuaRE), defining a generic model for software quality, https://www.iso.org/standard/78175.html
 
 **J**
 
-- [[[jacobson,Jacobson+2011]]] Dr. Ivar Jacobson, Ian Spence, Kurt Bittner: Use-Case 2.0: The Guide to Succeeding with Use-Cases. Online: https://www.ivarjacobson.com/publications/white-papers/use-case-ebook
+- [[[jacobson,Jacobson+2011]]] Dr. Ivar Jacobson, Ian Spence, Kurt Bittner: Use-Case 2.0: The Guide to Succeeding with Use-Cases. Online: https://www.ivarjacobson.com/publications/white-papers/use-case-20-e-book
 
 **L**
 
-- [[[lawrence]]] Lawrence, Richard: How to split a story, https://agileforall.com/resources/how-to-split-a-story
+- [[[lawrence]]] Richard Lawrence, Peter Green: The Humanizing Work Guide to Splitting User Stories, https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/
 
 **M**
 
@@ -58,7 +58,7 @@ Hanser Verlag, 2nd Edition 2019 (in German)
 
 **N**
 
-- [[[north,North]]] North, Dan: Introducing Behavior Driven Development, https://dannorth.net/introducting.bdd
+- [[[north,North]]] North, Dan: Introducing Behavior Driven Development, https://dannorth.net/blog/introducing-bdd/
 
 **P**
 
@@ -85,4 +85,4 @@ Carl Hanser Verlag, 3rd edition 2019  (in German) - especially for "_Architectur
 
 - [[[wake2003,Wake-2003]]]: Wake, Bill: INVEST in good stories and SMART Tasks,
 xp123.com/Articles/invest-in-good-stories-and-smart-tasks, 2003
-- [[[wynn,Wynn]]] Wynn, Matt: Introducing Example Mapping: https://cucumber.io/blog/example-mapping-introduction/
+- [[[wynn,Wynn]]] Wynn, Matt: Introducing Example Mapping: https://cucumber.io/blog/bdd/example-mapping-introduction/
