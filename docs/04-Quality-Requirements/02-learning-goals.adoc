@@ -12,7 +12,7 @@
 [[LG-4-2]]
 ==== LG 4-2: Understanding categories of qualities and constraints
 
-* Know checklists for quality requirements, quality standards (e.g. ISO 25010, VOLERE, ...)
+* Know checklists for quality requirements, quality standards (e.g. <<Q42>>, <<iso25010>>, Volere (see <<robertson-24>>), ...)
 * Know categories of constraints (organizational constraints, technical constraints, …)
 * Understand that architects don't need all quality requirements and constraints early in the project, but have to find the most important ones, since they are architecture drivers and will influence very important architectural decision
 
@@ -40,6 +40,7 @@ Architects have various ways of adding precision
 
 * Know that also quality requirements need acceptance criteria
 * Know that acceptance criteria for quality requirements can often be specified by giving tolerances or thresholds, or allowing deviations for certain stakeholders (i.e. person who do not speak English are given 20% more time to achieve a result)
+* Know sources for examples of such acceptance criteria, like Q42
 
 
 [[LG-4-6]]

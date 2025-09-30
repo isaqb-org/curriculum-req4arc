@@ -50,7 +50,7 @@ Understand that many different criteria can be applied to decompose a system int
 [[LG-3-6]]
 ==== LG 3-6: Refining functional requirements
 
-* Know criteria for decomposing coarse level functional requirements <<lawrence>>, <<jacobson>>, <<hruschka19>>
+* Know criteria for decomposing coarse level functional requirements <<lawrence>>, <<jacobson>>, <<hruschka>>
 * Know that in agile requirements engineering that decomposed parts of a larger requirement still should offer business value.
 
 [[LG-3-7]]

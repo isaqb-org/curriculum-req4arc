@@ -19,7 +19,7 @@ Last but not least: also quality requirements have to be made checkable by addin
 
 === Terms and concepts
 
-Quality Requirement, Constraint, Non-functional Requirement
+Quality Requirement, Constraint, Non-functional Requirement, Q42
 
 // end::EN[]
 

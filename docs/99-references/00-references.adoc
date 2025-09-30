@@ -27,6 +27,10 @@ This section contains references that are cited in the curriculum.
 
 - [[[clegg,Clegg-94]]] Dai Clegg and Richard Barker (1994). Case Method Fast-Track: A RAD Approach. Addison-Wesley.
 
+**D**
+- [[[dinwiddie,Dinwiddie]]] George Dinwiddie. The Three Amigos - All For One - One For All. Better Software Nov/Dec 2011, vol 13, issue 6, pp 24-27, Online (archived, PDF only): http://www.stickyminds.com/sites/default/files/magazine/file/2013/3971888.pdf
+
+
 **G**
 
 - [[[gerstbach,Gerstbach-16]]] Gerstbach, Ingrid: Design Thinking im Unternehmen: Ein Workbook für die Einführung von Design Thinking, GABAL Verlag, 2016 (in German)
@@ -35,8 +39,8 @@ This section contains references that are cited in the curriculum.
 **H**
 
 - [[[hathaway,Hathaway-19]]] Hathaway, Angela + Tom: Getting and Writing IT-Requirements in a Lean and Agile World. Self-published, https://www.businessanalysisexperts.com/books-ebooks-business-analysis-career/book-getting-writing-it-requirements-lean-agile/
-- [[[hruschka19,Hruschka-19]]] Hruschka, Peter: Business Analysis und Requirements Engineering,
-Hanser Verlag, 2nd Edition 2019 (in German)
+- [[[hruschka,Hruschka-23]]] Hruschka, Peter: Business Analysis und Requirements Engineering,
+Hanser Verlag, 3rd Edition 2023 (in German)
 
 **I**
 
@@ -59,15 +63,20 @@ Hanser Verlag, 2nd Edition 2019 (in German)
 **N**
 
 - [[[north,North]]] North, Dan: Introducing Behavior Driven Development, https://dannorth.net/introducting.bdd
+- [[[nuseibeh,Nuseibeh]]] B. Nuseibeh, “Weaving Together Requirements and Architectures,” Computer, vol. 34, no. 3, 2001, pp. 115–119.
 
 **P**
 
 - [[[pichler, Pichler-10]]] Pichler, R.: Agile Product Management with Scrum: Creating Products that Customers Love. Addison-Wesley, 2010
 
+**P**
+
+- [[[Q42, Q42]]] The arc42 community (lead by Gernot Starke and Peter Hruschka): Q42 - The arc42 Quality Model, open-source, online https://quality.arc42.org
+
 **R**
 
 - [[[ries,Ries-11]]] Ries, Eric: The Lean Startup, Crown Business, 2011
-- [[[robertson-12,Robertson-12]]] Robertson,J./Robertson,S.: Mastering the Requirements Process: Getting Requirements Right. Addison Wesley; 3rd edition 2012. https://www.volere.org/mastering-the-requirements-process-getting-requirements-right/
+- [[[robertson-24,Robertson-24]]] Robertson,J./Robertson,S.: Mastering the Requirements Process: Getting Requirements Right. Addison Wesley; 4th edition 2024. https://www.volere.org/mastering-the-requirements-process-getting-requirements-right/
 - [[[robertson-19,Robertson-19]]] Robertson, J. /Robertson, S.: Business Analysis Agility. Addison Wesley, 2019
 
 **S**
