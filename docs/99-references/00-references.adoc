@@ -64,6 +64,10 @@ Hanser Verlag, 2nd Edition 2019 (in German)
 
 - [[[pichler, Pichler-10]]] Pichler, R.: Agile Product Management with Scrum: Creating Products that Customers Love. Addison-Wesley, 2010
 
+**Q**
+
+- [[[Q42]]] The arc42 Quality Model Q42, https://quality.arc42.org
+
 **R**
 
 - [[[ries,Ries-11]]] Ries, Eric: The Lean Startup, Crown Business, 2011
