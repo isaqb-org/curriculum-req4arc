@@ -19,7 +19,7 @@ wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Litera
 ==== LG 2-1: Understanding the need for some (limited) upfront activities
 
 * Understand that even with iterative development some upfront activities are necessary.
-* Know that explicit knowledge of visions, goals and relevant stakeholders are required so that the development team can take informed decisions about the systems’ architecture.
+* Know that explicit knowledge of visions, goals and relevant stakeholders is required so that the development team can take informed decisions about the system's architecture.
 * Understand that an agreement about scope and context is required, especially about the interfaces between scope and context (i.e. the external interfaces of the product).
 
 [[LG-2-2]]
