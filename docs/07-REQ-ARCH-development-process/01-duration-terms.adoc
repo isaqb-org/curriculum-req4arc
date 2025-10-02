@@ -16,7 +16,8 @@ Architects should also understand different ways to capture and document require
 
 === Terms and concepts
 
-Design Thinking, Design Sprint, Lean Startup, Three Amigo Sessions, Twin Peaks Model (<<nuseibeh>>), Requirements Documentation, Traceability
+Design Thinking (<<gerstbach>>), Design Sprint (<<banfield>>), Lean Startup (<<ries>>), Three Amigo Sessions (<<dinwiddie>>), Twin Peaks Model (<<nuseibeh>>), Discover-to-Deliver (<<gottesdiener-12>>), Requirements Documentation, Traceability
+
 
 // end::EN[]
 
