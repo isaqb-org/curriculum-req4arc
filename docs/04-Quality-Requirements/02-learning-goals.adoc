@@ -34,6 +34,7 @@ Architects have various ways of adding precision
 ** they could find scenarios to express the intended meaning more precisely, or
 ** they could suggest functional requirements that fulfil the intend of the quality requirement (i.e. suggest a role concept and the use of passwords to implement a security requirement)
 * Know the quality trees <<ATAM>> can be used to refine quality requirements
+* Know that the Q42 quality model <<Q42>> provides practical guidance and pragmatic examples for refining quality requirements
 
 [[LG-4-5]]
 ==== LG 4-5: Specifying acceptance criteria for quality requirements
