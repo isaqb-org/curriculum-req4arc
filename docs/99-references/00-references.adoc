@@ -69,7 +69,7 @@ Hanser Verlag, 3rd Edition 2023 (in German)
 
 - [[[pichler, Pichler-10]]] Pichler, R.: Agile Product Management with Scrum: Creating Products that Customers Love. Addison-Wesley, 2010
 
-**P**
+**Q**
 
 - [[[Q42, Q42]]] The arc42 community (lead by Gernot Starke and Peter Hruschka): Q42 - The arc42 Quality Model, open-source, online https://quality.arc42.org
 
