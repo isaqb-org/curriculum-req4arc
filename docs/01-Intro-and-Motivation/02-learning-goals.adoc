@@ -20,7 +20,7 @@ wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Litera
 
 * Know the need for good requirements, especially quality requirements seen from the perspective of software architecture
 * Know the key tasks for software architects which include clarifying requirements and constraints
-* Understand that architects do not need complete requirements up-front, but should focus on architecturally significant requirement
+* Understand that architects do not need complete requirements up-front, but should focus on architecturally significant requirement <<toth>>
 
 [[LG-1-2]]
 ==== LG 1-2: Understanding responsibilities, roles and key activities

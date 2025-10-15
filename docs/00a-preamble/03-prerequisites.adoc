@@ -1,6 +1,6 @@
 // tag::DE[]
 === Voraussetzungen zur CPSA-A-Zertifizierung
-* erfolgreiche Ausbildung und Zertifizierung zum Certified Professional for Software Architecture, Foundation Level^(R)^ (CPSA-F)
+* erfolgreiche Ausbildung und Zertifizierung zum Certified Professional for Software Architecture, Foundation Level^(R)^ (CPSA-F) <<isaqb-foundation>>
 * mindestens drei Jahre Vollzeit-Berufserfahrung in der IT-Branche; dabei Mitarbeit an Entwurf und Entwicklung von mindestens zwei unterschiedlichen IT-Systemen
 ** Ausnahmen sind auf Antrag zulässig (etwa: Mitarbeit in Open-Source-Projekten)
 * Aus- und Weiterbildung im Rahmen von iSAQB-Advanced-Level-Schulungen im Umfang von mindestens 70 Credit Points aus mindestens drei unterschiedlichen Kompetenzbereichen
@@ -10,7 +10,7 @@
 
 // tag::EN[]
 === Requirements for CPSA-A certification
-* Successful training and certification as a Certified Professional for Software Architecture, Foundation Level^(R)^ (CPSA-F)
+* Successful training and certification as a Certified Professional for Software Architecture, Foundation Level^(R)^ (CPSA-F) <<isaqb-foundation>>
 * At least three years of full-time professional experience in the IT sector; collaboration on the design and development of at least two different IT systems
 ** Exceptions are allowed on application (e.g., collaboration on open source projects)
 * Training and further education within the scope of iSAQB Advanced Level training courses with a minimum of 70 credit points from at least three different areas of competence

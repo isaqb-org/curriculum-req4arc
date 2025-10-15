@@ -83,7 +83,7 @@ Understand that many different criteria can be applied to decompose a system int
 [[LG-3-11]]
 ==== LG 3-11: Know methods for elicitation of functional requirements
 
-* Know that there are many different elicitation techniques that architects should be aware of, e.g. interviews, questionnaires, brainstorming sessions, three amigo sessions, knowledge crunching, event storming and many others
+* Know that there are many different elicitation techniques that architects should be aware of, e.g. interviews, questionnaires, brainstorming sessions, three amigo sessions <<smart-amigo>>, knowledge crunching, event storming and many others
 * Know when to pick which elicitation technique to improve communication with stakeholders
 
 
