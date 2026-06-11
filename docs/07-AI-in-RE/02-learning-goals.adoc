@@ -11,27 +11,27 @@
 [[LZ-7-1]]
 ==== LZ 7-1: Potenziale und Grenzen von LLMs im Requirements Engineering verstehen
 
-* Verstehen, dass LLMs Sprach- und Textwerkzeuge sind, deren Stärken genau dort liegen, wo RE arbeitet: Text erzeugen, umformen, zusammenfassen und vergleichen
-* Verstehen, dass Plausibilität nicht Korrektheit bedeutet: Halluzinationen, fehlendes Domänenwissen und fehlendes implizites Wissen ("tacit knowledge") begrenzen die Verlässlichkeit von LLM-Ergebnissen
-* Verstehen, dass RE ein Kommunikations- und Aushandlungsprozess mit Stakeholdern bleibt — KI ersetzt das Gespräch nicht, sondern bereitet es vor und nach
-* Wissen, dass die Verantwortung für Anforderungen bei Menschen bleibt (Human-in-the-Loop, Review-Pflicht)
+* Wissen, dass LLMs Werkzeuge für Sprache und Text sind. Ihre Stärken (Text erzeugen, umformen, zusammenfassen und vergleichen) passen zu vielen Aktivitäten des Requirements Engineering.
+* Verstehen, dass plausible Ergebnisse nicht unbedingt korrekt sind. Halluzinationen, fehlendes Domänenwissen und fehlendes implizites Wissen begrenzen die Verlässlichkeit von LLM-Ergebnissen.
+* Verstehen, dass Requirements Engineering Kommunikation und Aushandlung mit Stakeholdern bleibt. KI kann solche Gespräche vorbereiten und nachbereiten, aber nicht ersetzen.
+* Wissen, dass die Verantwortung für Anforderungen bei Menschen bleibt (Human-in-the-Loop, verpflichtende Reviews)
 
 [[LZ-7-2]]
-==== LZ 7-2: Methodische Einsatzszenarien von LLMs entlang der RE-Aktivitäten kennen
+==== LZ 7-2: Einsatzszenarien von LLMs im Requirements Engineering kennen
 
-* Ermittlung: Interviewvorbereitung, Fragengenerierung, Stakeholder-/Persona-Simulation, Brainstorming-Unterstützung
-* Analyse und Qualitätsprüfung: Mehrdeutigkeiten, Lücken und Widersprüche in Anforderungen finden; Anforderungen gegen Qualitätskriterien prüfen (z.B. INVEST, Testbarkeit, Akzeptanzkriterien — vgl. LZ 4-8 und LZ 4-9)
-* Dokumentation: Entwürfe für Stories, Use Cases, Qualitätsszenarien und Gherkin-Beispiele erstellen (vgl. Kapitel 5 und 6); Anforderungen zwischen Abstraktionsebenen und Notationen umformulieren
-* Konsolidierung: große Anforderungsmengen zusammenfassen, Glossar- und Begriffskonsistenz prüfen
-* Das Muster hinter allen Einsatzszenarien verstehen: KI als Entwurfsgenerator, Kritiker und Übersetzer — nie als Entscheider
+* Wissen, dass LLMs die Ermittlung unterstützen können, z.B. bei der Vorbereitung von Interviews, beim Generieren von Fragen, bei der Simulation von Stakeholdern oder Personas und beim Brainstorming
+* Wissen, dass LLMs bei der Analyse von Anforderungen helfen können, z.B. Mehrdeutigkeiten, Lücken und Widersprüche finden oder Anforderungen gegen Qualitätskriterien wie INVEST, Testbarkeit und Akzeptanzkriterien prüfen (vgl. LZ 4-8 und LZ 4-9)
+* Wissen, dass LLMs Entwürfe für Stories, Use Cases, Qualitätsszenarien und Gherkin-Beispiele erstellen können (vgl. Kapitel 5 und 6) und Anforderungen zwischen Abstraktionsebenen und Notationen umformulieren können
+* Wissen, dass LLMs große Anforderungsmengen zusammenfassen sowie Glossare und Begriffe auf Konsistenz prüfen können
+* Verstehen, dass KI in all diesen Einsatzszenarien Entwürfe, Kritik oder Übersetzungen liefert. Entscheidungen treffen weiterhin Menschen.
 
 [[LZ-7-3]]
-==== LZ 7-3: KI-Ergebnisse methodisch absichern und kritisch bewerten
+==== LZ 7-3: KI-Ergebnisse prüfen und kritisch bewerten
 
-* Wissen, wie KI-Output systematisch validiert wird: gegen Stakeholder, Glossar und bestehende Anforderungen prüfen — "Source of Truth" sind Menschen und Domäne, nicht das Modell
-* Typische Risiken kennen: Halluzination, Bias, Scheingenauigkeit, vorschneller Konsens ("der Text klingt fertig")
-* Verstehen, dass Anforderungen oft schützenswertes Firmenwissen sind (Vertraulichkeit, Datenschutz, geistiges Eigentum) und nicht jedes Modell damit arbeiten darf
-* Verstehen, dass gute Ergebnisse explizit gemachten Kontext brauchen (Rolle, Domäne, Qualitätskriterien) — das ist RE-Handwerk, kein Werkzeugwissen
+* Wissen, wie sich KI-Ergebnisse systematisch prüfen lassen, etwa gegen Aussagen der Stakeholder, das Glossar und bestehende Anforderungen
+* Typische Risiken beim Einsatz von LLMs kennen, etwa Halluzinationen, Bias und Scheingenauigkeit
+* Verstehen, dass Anforderungen oft vertrauliches Firmenwissen enthalten (Vertraulichkeit, Datenschutz, geistiges Eigentum) und daher nicht jedes Modell damit arbeiten darf
+* Verstehen, dass gute Ergebnisse expliziten Kontext brauchen, etwa Rolle, Domäne und Qualitätskriterien
 
 // end::DE[]
 
@@ -42,26 +42,26 @@
 [[LG-7-1]]
 ==== LG 7-1: Understanding the potential and limitations of LLMs in requirements engineering
 
-* Understand that LLMs are language and text tools whose strengths lie exactly where RE works: generating, transforming, summarizing and comparing text
-* Understand that plausibility does not equal correctness: hallucinations, missing domain knowledge and missing tacit knowledge limit the reliability of LLM output
-* Understand that RE remains a process of communication and negotiation with stakeholders — AI does not replace these conversations, it prepares and follows them up
-* Know that responsibility for requirements remains with humans (human-in-the-loop, obligation to review)
+* Know that LLMs are tools for language and text. Their strengths (generating, transforming, summarizing and comparing text) match many activities in requirements engineering.
+* Understand that plausible output is not necessarily correct. Hallucinations, missing domain knowledge and missing tacit knowledge limit the reliability of LLM results.
+* Understand that requirements engineering remains communication and negotiation with stakeholders. AI can prepare and follow up on such conversations, but cannot replace them.
+* Know that humans remain responsible for requirements (human-in-the-loop, mandatory reviews)
 
 [[LG-7-2]]
-==== LG 7-2: Knowing methodical use cases for LLMs along RE activities
+==== LG 7-2: Knowing use cases for LLMs in requirements engineering
 
-* Elicitation: interview preparation, question generation, stakeholder/persona simulation, brainstorming support
-* Analysis and quality checks: find ambiguities, gaps and contradictions in requirements; check requirements against quality criteria (e.g. INVEST, testability, acceptance criteria — see <<LG-4-8>> and <<LG-4-9>>)
-* Documentation: draft stories, use cases, quality scenarios and Gherkin examples (see sections 5 and 6); rephrase requirements between levels of abstraction and notations
-* Consolidation: summarize large sets of requirements, check glossary and terminology consistency
-* Understand the pattern behind all these use cases: AI as draft generator, critic and translator — never as decision maker
+* Know that LLMs can support elicitation, e.g. by preparing interviews, generating questions, simulating stakeholders or personas, and supporting brainstorming
+* Know that LLMs can help to analyse requirements, e.g. find ambiguities, gaps and contradictions, or check requirements against quality criteria like INVEST, testability and acceptance criteria (see <<LG-4-8>> and <<LG-4-9>>)
+* Know that LLMs can draft stories, use cases, quality scenarios and Gherkin examples (see sections 5 and 6), and can rephrase requirements between levels of abstraction and notations
+* Know that LLMs can summarize large sets of requirements and check glossaries and terminology for consistency
+* Understand that in all these use cases AI delivers drafts, critique or translations. Decisions are still made by humans.
 
 [[LG-7-3]]
-==== LG 7-3: Methodically validating and critically assessing AI-generated results
+==== LG 7-3: Checking and critically assessing AI-generated results
 
-* Know how to systematically validate AI output: check against stakeholders, glossary and existing requirements — the "source of truth" are humans and the domain, not the model
-* Know typical risks: hallucination, bias, false precision, premature consensus ("the text sounds finished")
-* Understand that requirements often constitute confidential company knowledge (confidentiality, data protection, intellectual property) and not every model may process them
-* Understand that good results require explicitly stated context (role, domain, quality criteria) — this is RE craftsmanship, not tool knowledge
+* Know how to check AI results systematically, e.g. against statements of stakeholders, the glossary and existing requirements
+* Know typical risks of using LLMs, like hallucinations, bias and false precision
+* Understand that requirements often contain confidential company knowledge (confidentiality, data protection, intellectual property), so not every model may process them
+* Understand that good results require explicit context, like role, domain and quality criteria
 
 // end::EN[]
