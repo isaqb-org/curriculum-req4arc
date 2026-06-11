@@ -5,6 +5,14 @@
 
 
 // tag::DE[]
+
+|===
+| Unterricht: 60 Min. | Übungen: keine
+|===
+
+// TODO: Einleitungstext folgt (siehe Curators Meeting, Word-Dokument 2026.1-rev3)
+Text folgt.
+
 // end::DE[]
 
 // tag::EN[]

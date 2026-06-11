@@ -5,22 +5,63 @@
 
 
 // tag::DE[]
+
+=== {learning-goals}
+
+[[LZ-7-1]]
+==== LZ 7-1: Potenziale und Grenzen von LLMs im Requirements Engineering verstehen
+
+* Verstehen, dass LLMs Sprach- und Textwerkzeuge sind, deren Stärken genau dort liegen, wo RE arbeitet: Text erzeugen, umformen, zusammenfassen und vergleichen
+* Verstehen, dass Plausibilität nicht Korrektheit bedeutet: Halluzinationen, fehlendes Domänenwissen und fehlendes implizites Wissen ("tacit knowledge") begrenzen die Verlässlichkeit von LLM-Ergebnissen
+* Verstehen, dass RE ein Kommunikations- und Aushandlungsprozess mit Stakeholdern bleibt — KI ersetzt das Gespräch nicht, sondern bereitet es vor und nach
+* Wissen, dass die Verantwortung für Anforderungen bei Menschen bleibt (Human-in-the-Loop, Review-Pflicht)
+
+[[LZ-7-2]]
+==== LZ 7-2: Methodische Einsatzszenarien von LLMs entlang der RE-Aktivitäten kennen
+
+* Ermittlung: Interviewvorbereitung, Fragengenerierung, Stakeholder-/Persona-Simulation, Brainstorming-Unterstützung
+* Analyse und Qualitätsprüfung: Mehrdeutigkeiten, Lücken und Widersprüche in Anforderungen finden; Anforderungen gegen Qualitätskriterien prüfen (z.B. INVEST, Testbarkeit, Akzeptanzkriterien — vgl. LZ 4-8 und LZ 4-9)
+* Dokumentation: Entwürfe für Stories, Use Cases, Qualitätsszenarien und Gherkin-Beispiele erstellen (vgl. Kapitel 5 und 6); Anforderungen zwischen Abstraktionsebenen und Notationen umformulieren
+* Konsolidierung: große Anforderungsmengen zusammenfassen, Glossar- und Begriffskonsistenz prüfen
+* Das Muster hinter allen Einsatzszenarien verstehen: KI als Entwurfsgenerator, Kritiker und Übersetzer — nie als Entscheider
+
+[[LZ-7-3]]
+==== LZ 7-3: KI-Ergebnisse methodisch absichern und kritisch bewerten
+
+* Wissen, wie KI-Output systematisch validiert wird: gegen Stakeholder, Glossar und bestehende Anforderungen prüfen — "Source of Truth" sind Menschen und Domäne, nicht das Modell
+* Typische Risiken kennen: Halluzination, Bias, Scheingenauigkeit, vorschneller Konsens ("der Text klingt fertig")
+* Verstehen, dass Anforderungen oft schützenswertes Firmenwissen sind (Vertraulichkeit, Datenschutz, geistiges Eigentum) und nicht jedes Modell damit arbeiten darf
+* Verstehen, dass gute Ergebnisse explizit gemachten Kontext brauchen (Rolle, Domäne, Qualitätskriterien) — das ist RE-Handwerk, kein Werkzeugwissen
+
 // end::DE[]
 
 // tag::EN[]
 
 === {learning-goals}
 
-// TODO: Learning goals TBD (see curators meeting, Word document 2026.1-rev3)
-
 [[LG-7-1]]
-==== LG 7-1: TBD
+==== LG 7-1: Understanding the potential and limitations of LLMs in requirements engineering
 
-* TBD
+* Understand that LLMs are language and text tools whose strengths lie exactly where RE works: generating, transforming, summarizing and comparing text
+* Understand that plausibility does not equal correctness: hallucinations, missing domain knowledge and missing tacit knowledge limit the reliability of LLM output
+* Understand that RE remains a process of communication and negotiation with stakeholders — AI does not replace these conversations, it prepares and follows them up
+* Know that responsibility for requirements remains with humans (human-in-the-loop, obligation to review)
 
 [[LG-7-2]]
-==== LG 7-2: TBD
+==== LG 7-2: Knowing methodical use cases for LLMs along RE activities
 
-* TBD
+* Elicitation: interview preparation, question generation, stakeholder/persona simulation, brainstorming support
+* Analysis and quality checks: find ambiguities, gaps and contradictions in requirements; check requirements against quality criteria (e.g. INVEST, testability, acceptance criteria — see <<LG-4-8>> and <<LG-4-9>>)
+* Documentation: draft stories, use cases, quality scenarios and Gherkin examples (see sections 5 and 6); rephrase requirements between levels of abstraction and notations
+* Consolidation: summarize large sets of requirements, check glossary and terminology consistency
+* Understand the pattern behind all these use cases: AI as draft generator, critic and translator — never as decision maker
+
+[[LG-7-3]]
+==== LG 7-3: Methodically validating and critically assessing AI-generated results
+
+* Know how to systematically validate AI output: check against stakeholders, glossary and existing requirements — the "source of truth" are humans and the domain, not the model
+* Know typical risks: hallucination, bias, false precision, premature consensus ("the text sounds finished")
+* Understand that requirements often constitute confidential company knowledge (confidentiality, data protection, intellectual property) and not every model may process them
+* Understand that good results require explicitly stated context (role, domain, quality criteria) — this is RE craftsmanship, not tool knowledge
 
 // end::EN[]

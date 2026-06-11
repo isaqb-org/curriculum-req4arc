@@ -28,6 +28,7 @@ This section contains references that are cited in the curriculum.
 - [[[clegg,Clegg-94]]] Dai Clegg and Richard Barker (1994). Case Method Fast-Track: A RAD Approach. Addison-Wesley.
 
 **D**
+
 - [[[dinwiddie,Dinwiddie]]] George Dinwiddie. The Three Amigos - All For One - One For All. Better Software Nov/Dec 2011, vol 13, issue 6, pp 24-27, Online (archived, PDF only): http://www.stickyminds.com/sites/default/files/magazine/file/2013/3971888.pdf
 
 
