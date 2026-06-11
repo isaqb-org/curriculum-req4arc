@@ -1,5 +1,20 @@
 
 
+// tag::DE[]
+
+=== {learning-goals}
+
+
+==== LZ 9-1: Kategorien geeigneter Werkzeuge
+Verschiedene Arten von Anforderungswerkzeugen kennen (Karten, Wikis, Modellierungswerkzeuge, Issue-Tracker etc.)
+
+==== LZ 9-2: Vor- und Nachteile der Werkzeugkategorien
+
+* Heuristiken kennen, wann welche Art von Werkzeug für welche Art von System passt
+* Die Stärken und Schwächen verschiedener Werkzeugkategorien verstehen
+
+// end::DE[]
+
 // tag::EN[]
 
 === {learning-goals}

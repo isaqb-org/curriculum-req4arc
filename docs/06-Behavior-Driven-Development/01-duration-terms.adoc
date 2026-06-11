@@ -2,6 +2,18 @@
 
 // tag::DE[]
 
+|===
+| Unterricht: 60 Min. | Übungen: keine
+|===
+
+Behavior Driven Development (ursprünglich vorgeschlagen von <<north>>) will die Lücke zwischen der Spezifikation von Anforderungen und automatisiertem Testen schließen, indem es enge Zusammenarbeit zwischen Entwickler:innen, QA und nicht-technischen bzw. fachlichen Beteiligten fördert. Mit BDD werden Anforderungen so formuliert, dass sie später für automatisierte Tests genutzt werden können. BDD ist damit ein Beispiel für ausführbare Spezifikationen.
+
+Behaviour Driven Development (oder BDD) ist somit eine kollaborative Praktik zur Entdeckung von Anforderungen, die Gespräche über konkrete Beispiele nutzt, um ein gemeinsames Verständnis aufzubauen.
+
+=== Begriffe und Konzepte
+
+Behaviour Driven Development (BDD), Automated Testing, Given-When-Then (GWT)
+
 // end::DE[]
 
 // tag::EN[]

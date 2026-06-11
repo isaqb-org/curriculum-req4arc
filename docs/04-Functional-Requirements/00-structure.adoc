@@ -3,6 +3,12 @@
 
 
 // tag::DE[]
+== Umgang mit funktionalen Anforderungen
+
+include::01-duration-terms.adoc[{include_configuration}]
+include::02-learning-goals.adoc[{include_configuration}]
+
+
 // end::DE[]
 
 // tag::EN[]

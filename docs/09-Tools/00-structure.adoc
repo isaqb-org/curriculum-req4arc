@@ -5,6 +5,12 @@
 
 
 // tag::DE[]
+== Werkzeuge für Requirements Engineering
+
+include::01-duration-terms.adoc[{include_configuration}]
+
+include::02-learning-goals.adoc[{include_configuration}]
+
 // end::DE[]
 
 // tag::EN[]
@@ -12,7 +18,7 @@
 
 include::01-duration-terms.adoc[{include_configuration}]
 
-include::02-learning-goals.adoc[]
+include::02-learning-goals.adoc[{include_configuration}]
 
 // end::EN[]
 

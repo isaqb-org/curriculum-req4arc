@@ -2,6 +2,21 @@
 
 // tag::DE[]
 
+|===
+| Unterricht: 90 Min. | Übungen: 90 Min.
+|===
+
+Dieses Thema behandelt die Arten von Anforderungen, die für Architekt:innen oft wichtiger sind als funktionale Anforderungen: Qualitätsanforderungen und Randbedingungen. Diese beiden Kategorien werden oft als nichtfunktionale Anforderungen bezeichnet – ein Begriff, den wir zu vermeiden empfehlen.
+Kategorisierungsschemata für Qualitätsanforderungen und Randbedingungen werden ebenso diskutiert wie Notationen, um sie festzuhalten.
+
+Ähnlich wie funktionale Anforderungen sind Qualitäten und Randbedingungen anfangs oft sehr vage. Architekt:innen lernen, sie zu verfeinern oder funktionale Anforderungen aus Qualitäten abzuleiten, um sie zu präzisieren.
+Auch Qualitätsanforderungen lassen sich mit szenariobasierten Ansätzen präzisieren.
+Nicht zuletzt müssen auch Qualitätsanforderungen durch Akzeptanzkriterien überprüfbar gemacht werden.
+
+=== Begriffe und Konzepte
+
+Qualitätsanforderung, Randbedingung (Constraint), nichtfunktionale Anforderung, Q42
+
 // end::DE[]
 
 // tag::EN[]

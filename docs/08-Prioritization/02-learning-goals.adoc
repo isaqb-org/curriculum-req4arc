@@ -1,5 +1,37 @@
 
 
+// tag::DE[]
+
+=== {learning-goals}
+
+[[LZ-8-1]]
+==== LZ 8-1: Verschiedene Arten von Business Value verstehen
+
+* Verstehen, dass verschiedene Stakeholder unterschiedlichen Wert in Anforderungen sehen können.
+Manche interessieren sich für kurzfristigen Umsatz, andere für bessere Kundenzufriedenheit oder schnelle Time-to-Market.
+Wieder andere wollen das Risiko für die restliche Entwicklung reduzieren oder eine Plattform für langfristige Kosteneinsparungen schaffen.
+* Verschiedene Methoden kennen, um Wert auszudrücken, z.B. MoSCoW-Priorisierung, definierte Wertebereiche, lineare Sortierung aller Anforderungen, gewichtete Faktorenmethoden, Cost of Delay, ...
+
+
+[[LZ-8-2]]
+==== LZ 8-2: Anforderungen nach Business Value ordnen
+
+* Verschiedene Strategien für Ordnung und Priorisierung kennen, z.B. Weighted Shortest Job First (WSJF), Defer Risk, Risk First, ...
+* Wissen, wie man beim Ordnen mit Abhängigkeiten zwischen Anforderungen umgeht
+* Mechanismen kennen, um Anforderungen zu zerlegen und so Abhängigkeiten zu vermeiden
+
+[[LZ-8-3]]
+==== LZ 8-3: Anforderungen schätzen
+
+* Die Notwendigkeit verstehen, Anforderungen zu schätzen – auch als Indikator, größere Anforderungen zu verfeinern und zu zerlegen, wenn sie sich noch nicht gut genug schätzen lassen
+* Den Unterschied zwischen absoluten Schätzungen (in Personentagen, Kosten, ...) und relativen Schätzungen (z.B. Story Points) verstehen
+* Vor- und Nachteile absoluter und relativer Schätzungen kennen
+* Einige relative Schätztechniken kennen, etwa T-Shirt-Sizing und Planning Poker (mit Fibonacci-Werten)
+* Verschiedene Schätztechniken kennen, z.B. Function Points, Story Points, Affinity Estimation, Wall Estimation etc.
+
+
+// end::DE[]
+
 // tag::EN[]
 
 === {learning-goals}

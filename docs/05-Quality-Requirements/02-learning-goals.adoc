@@ -1,5 +1,64 @@
 
 
+// tag::DE[]
+=== {learning-goals}
+
+[[LZ-5-1]]
+==== LZ 5-1: Den Unterschied zwischen Qualitäts- und anderen Anforderungen verstehen
+
+* Eine Definition von Qualitätsanforderungen und Randbedingungen kennen
+* Wissen, dass die Grenze zwischen funktionalen Anforderungen und Qualitätsanforderungen sehr schmal ist, da Qualitäten manchmal präzisiert werden, indem man sie in Funktionen überführt
+
+[[LZ-5-2]]
+==== LZ 5-2: Kategorien von Qualitäten und Randbedingungen verstehen
+
+* Checklisten für Qualitätsanforderungen und Qualitätsstandards kennen (z.B. <<Q42>>, <<iso25010>>, Volere (siehe <<robertson-24>>), ...)
+* Kategorien von Randbedingungen kennen (organisatorische Randbedingungen, technische Randbedingungen, ...)
+* Verstehen, dass Architekt:innen nicht alle Qualitätsanforderungen und Randbedingungen früh im Projekt benötigen, aber die wichtigsten finden müssen, da diese Architekturtreiber sind und sehr wichtige Architekturentscheidungen beeinflussen
+
+[[LZ-5-3]]
+==== LZ 5-3: Qualitätsanforderungen ermitteln und spezifizieren
+
+* Wissen, wie Qualitätsszenarien oder textuelle Spezifikationen inklusive Motivation („warum?") spezifiziert werden
+* Checklisten und Kategorisierungsschemata nutzen, um die wichtigsten Kandidaten für Qualitätsanforderungen zu finden
+* Wissen, dass unterschiedliche Stile der Ermittlung und Spezifikation von Qualitäten bei verschiedenen Stakeholdern schneller oder langsamer zu Ergebnissen führen können.
+Architekt:innen sollten die effizientesten Wege kennen – abhängig von Fähigkeiten, Motivation und Zeit ihrer Stakeholder.
+
+
+[[LZ-5-4]]
+==== LZ 5-4: Qualitätsanforderungen verfeinern
+
+* Wissen, dass Qualitätsanforderungen oft vage beginnen.
+Architekt:innen haben verschiedene Möglichkeiten, sie zu präzisieren:
+** Unterkategorien der Kategorisierungsschemata nutzen (Benutzerfreundlichkeit = leichte Bedienbarkeit und leichte Erlernbarkeit)
+** Szenarien finden, die die beabsichtigte Bedeutung präziser ausdrücken, oder
+** funktionale Anforderungen vorschlagen, die die Absicht der Qualitätsanforderung erfüllen (z.B. ein Rollenkonzept und Passwörter vorschlagen, um eine Sicherheitsanforderung umzusetzen)
+* Wissen, dass Qualitätsbäume <<ATAM>> zur Verfeinerung von Qualitätsanforderungen genutzt werden können
+* Wissen, dass das Q42-Qualitätsmodell <<Q42>> praktische Anleitung und pragmatische Beispiele für die Verfeinerung von Qualitätsanforderungen bietet
+
+[[LZ-5-5]]
+==== LZ 5-5: Akzeptanzkriterien für Qualitätsanforderungen spezifizieren
+
+* Wissen, dass auch Qualitätsanforderungen Akzeptanzkriterien brauchen
+* Wissen, dass Akzeptanzkriterien für Qualitätsanforderungen oft über Toleranzen oder Schwellwerte spezifiziert werden können, oder indem Abweichungen für bestimmte Stakeholder erlaubt werden (z.B. erhalten Personen, die kein Englisch sprechen, 20% mehr Zeit für ein Ergebnis)
+* Quellen für Beispiele solcher Akzeptanzkriterien kennen, etwa Q42
+
+
+[[LZ-5-6]]
+==== LZ 5-6: Qualitätsanforderungen priorisieren
+
+* Wissen, dass Architekt:innen Szenarien für Qualitätsanforderungen in zwei Dimensionen priorisieren sollten: Business Value und technische Herausforderung
+* Wissen, dass nur Anforderungen mit hohem Business Value und großer technischer Herausforderung früh für Architekturentscheidungen berücksichtigt werden sollten
+
+[[LZ-5-7]]
+==== LZ 5-7: Pragmatische Alternativen zu detaillierten Akzeptanzkriterien
+
+* Wissen, dass sich die Erfüllung mancher Qualitäten direkt nach der Implementierung nur schwer überprüfen lässt.
+Ein anderer Weg ist die statistische Beobachtung über die Zeit („schauen, ob die Anforderung erfüllt ist") statt quantifizierter Akzeptanzkriterien.
+* Wissen, dass sich z.B. bei UI-Anforderungen Usage Analytics einsetzen lassen, um zu prüfen, ob sie hinreichend gut umgesetzt sind
+
+// end::DE[]
+
 // tag::EN[]
 === {learning-goals}
 

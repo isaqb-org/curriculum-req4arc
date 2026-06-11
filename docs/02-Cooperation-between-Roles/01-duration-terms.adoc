@@ -1,6 +1,20 @@
 
 
 // tag::DE[]
+
+|===
+| Unterricht: 45 Min. | Übungen: 60 Min.
+|===
+
+Im Gegensatz zum Wasserfallmodell mit expliziten Phasen für Requirements Engineering und System-/Softwarearchitektur streben alle modernen Methoden eine sehr enge Zusammenarbeit zwischen Architekt:innen und allen für Requirements Engineering verantwortlichen Rollen an.
+Beispiele für solche Prozesse sind Design Thinking (<<gerstbach>>), Lean Startup (<<ries>>), Design Sprints (<<banfield>>) und viele Skalierungsframeworks der agilen Welt.
+
+Architekt:innen sollten außerdem unterschiedliche Wege kennen, Anforderungen festzuhalten und zu dokumentieren – vom Pflegen eines Product Backlogs bis zum Erstellen von Anforderungsdokumenten – sowie die Beziehung solcher Anforderungsdokumente zur Architekturdokumentation.
+
+=== Begriffe und Konzepte
+
+Design Thinking (<<gerstbach>>), Design Sprint (<<banfield>>), Lean Startup (<<ries>>), Three Amigo Sessions (<<dinwiddie>>), Twin-Peaks-Modell (<<nuseibeh>>), Discover-to-Deliver (<<gottesdiener-12>>), Anforderungsdokumentation, Traceability
+
 // end::DE[]
 
 // tag::EN[]

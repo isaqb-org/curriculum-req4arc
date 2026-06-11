@@ -2,15 +2,25 @@
 
 // tag::DE[]
 [[LZ-1-1]]
-==== LZ 1-1: Dies ist das erste Lernziel, in Kategorie xy
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
+==== LZ 1-1: Die Notwendigkeit von Anforderungen als Entscheidungsgrundlage verstehen
 
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
+* Wissen, warum gute Anforderungen – insbesondere Qualitätsanforderungen – aus Sicht der Softwarearchitektur notwendig sind
+* Die Kernaufgaben von Softwarearchitekt:innen kennen, zu denen das Klären von Anforderungen und Randbedingungen gehört
+* Verstehen, dass Architekt:innen vorab keine vollständigen Anforderungen benötigen, sondern sich auf architekturrelevante Anforderungen konzentrieren sollten <<toth>>
 
+[[LZ-1-2]]
+==== LZ 1-2: Verantwortlichkeiten, Rollen und Kernaktivitäten verstehen
+
+* Wissen, dass es unterschiedliche Rollenbezeichnungen für die Verantwortlichen für Anforderungen gibt (Business Analyst, Requirements Engineer, Product Owner)
+* Deren Beziehung zu Architekt:innen und Entwicklungsteams verstehen
+* Kernaufgaben des Requirements Engineering kennen, darunter Ermittlung, Dokumentation, Prüfung und Pflege
+
+[[LZ-1-3]]
+==== LZ 1-3: Den inkrementellen Charakter der Anforderungsermittlung verstehen („Just in Time")
+
+* Verstehen, dass Anforderungen und Architektur iterativ entwickelt werden können (und sollten)
+* Verstehen, dass Architekt:innen keine „vollständigen" Anforderungen brauchen, sondern stets gerade genug Anforderungen, um Entwurfsentscheidungen für die nächsten Iterationen zu treffen
+* Verstehen, dass Anforderungen iterativ und inkrementell ermittelt werden können
 
 // end::DE[]
 

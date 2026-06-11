@@ -1,4 +1,87 @@
 // tag::DE[]
+[glossary]
+== Glossar
+
+[glossary]
+
+Akzeptanzkriterien:: (engl. _Acceptance Criteria_, angelehnt an IREB): Eine Menge von Bedingungen (üblicherweise einer Anforderung zugeordnet), die jede Implementierung erfüllen muss. Solche Bedingungen können z.B. erwartete Ergebnisse für beispielhafte Eingabedaten sein oder eine zu erreichende Geschwindigkeit oder Datenmenge.
+
+Agiles Requirements Engineering:: (angelehnt an IREB): ein kooperativer, iterativer und inkrementeller Ansatz mit vier Zielen:
++
+1. die relevanten Anforderungen im angemessenen Detailgrad kennen (zu jedem Zeitpunkt der Systementwicklung),
++
+2. ausreichende Einigkeit über die Anforderungen unter den relevanten Stakeholdern erreichen,
++
+3. die Anforderungen gemäß den Randbedingungen der Organisation festhalten (und dokumentieren),
++
+4. alle anforderungsbezogenen Aktivitäten nach den Prinzipien des agilen Manifests durchführen.
+
+
+ASR:: _Architecturally Significant Requirements_ (architekturrelevante Anforderungen) sind die Teilmenge der Anforderungen mit starkem Einfluss auf Architekturentscheidungen (jene Anforderungen, die Architekturentscheidungen besonders prägen oder beeinflussen).
+
+ATDD:: _Acceptance Test Driven Development_
+
+BDD:: (_Behavior Driven Development_) Ein agiler Softwareentwicklungsprozess, der die Zusammenarbeit zwischen Entwickler:innen, QA und nicht-technischen bzw. fachlichen Beteiligten eines Softwareprojekts fördert.
+Teams nutzen Gespräche und konkrete Beispiele, um ein gemeinsames Verständnis des gewünschten Systemverhaltens zu formalisieren – mit _ausführbaren Spezifikationen_ als Ergebnis, z.B. in -> Gherkin-Syntax.
+
+Business Goal:: Ein angestrebter Zustand (den ein Stakeholder erreichen will).
+Ziele beschreiben Absichten von Stakeholdern.
+Sie können miteinander in Konflikt stehen.
+
+
+Constraint:: (Randbedingung) Eine Anforderung, die den Lösungsraum über das hinaus einschränkt, was zur Erfüllung der gegebenen funktionalen Anforderungen und Qualitätsanforderungen notwendig ist.
+
+Definition of Ready:: (DoR) (angelehnt an IREB): eine Menge von Kriterien, die eine Anforderung erfüllen muss, bevor sie in eine kommende Iteration übernommen wird.
+
+
+Epic:: (angelehnt an IREB): Eine abstrakte Beschreibung eines Stakeholder-Bedürfnisses auf hoher Ebene, das im zu entwickelnden Produkt adressiert werden muss. Epics sind typischerweise größer als das, was sich in einer einzelnen Iteration implementieren lässt.
+
+
+
+Feature:: Eine Leistung, die ein Stakeholder-Bedürfnis erfüllt.
+Jedes Feature umfasst eine Nutzenhypothese und Akzeptanzkriterien.
+
+Funktionale Anforderungen:: Eine Anforderung an ein Ergebnis oder Verhalten, das eine Funktion eines Systems (oder einer Komponente oder eines Service) liefern soll.
+
+Gherkin:: Domänenspezifische Sprache zum Schreiben von ->BDD-Szenarien in ->GWT-Syntax.
+
+Goals:: -> Business Goal.
+
+GWT:: _Given, When, Then_: Halbstrukturierte Form, Testfälle oder Verhaltensspezifikationen aufzuschreiben.
+Erfunden von Dan North als Teil von ->BDD (Behavior-Driven Development).
+
+Nichtfunktionale Anforderung:: (NFA) Eine -> Qualitätsanforderung oder eine Randbedingung (Constraint).
+
+PAM:: Das Akronym für _Purpose, Advantage, Metric_ hilft, sich beim Formulieren von Visionen oder Business Goals auf die wichtigen Aspekte zu konzentrieren.
+
+Qualitätsanforderung:: Eine Anforderung, die ein Qualitätsmerkmal betrifft, das nicht durch funktionale Anforderungen abgedeckt ist.
+
+
+Szenario::
++
+1. Eine Beschreibung einer möglichen Abfolge von Ereignissen, die zu einem gewünschten (oder unerwünschten) Ergebnis führen.
++
+2. Eine geordnete Abfolge von Interaktionen zwischen Partnern, insbesondere zwischen einem System und externen Akteuren.
+
+Scope:: Der Bereich der Dinge, die bei der Entwicklung eines Systems gestaltet und entworfen werden können.
+
+SMART:: (Akronym für _Specific, Measurable, Achievable, Realistic, Timely_)
+Ein SMART-Ziel hilft beim Setzen und Spezifizieren von Zielen.
+Es erfüllt alle diese Kriterien, bündelt so die Anstrengungen und erhöht damit die Chance, das Ziel zu erreichen.
+
+Stakeholder:: Eine Person oder Organisation, die (direkten oder indirekten) Einfluss auf die Anforderungen eines Systems hat.
+Indirekter Einfluss umfasst auch Situationen, in denen eine Person oder Organisation vom System betroffen ist.
+
+(User) Story:: Eine Beschreibung eines Bedürfnisses aus Sicht der Nutzer:innen, zusammen mit dem erwarteten Nutzen, wenn dieses Bedürfnis erfüllt ist. User Stories werden typischerweise in natürlicher Sprache nach einem vorgegebenen Satzmuster geschrieben.
+
+Use Case:: Eine Beschreibung der möglichen Interaktionen zwischen Akteuren und einem System, die bei ihrer Ausführung Mehrwert liefern.
++
+Use Cases spezifizieren ein System aus Sicht der Nutzer:innen (oder anderer externer Akteure): Jeder Use Case beschreibt Funktionalität, die das System für die beteiligten Akteure bereitstellen muss.
+
+Vision:: Die Vision beschreibt den zukünftigen Zustand der zu entwickelnden Lösung.
+Sie spiegelt die Bedürfnisse von Kund:innen und Stakeholdern wider sowie die Features und Fähigkeiten, die zur Erfüllung dieser Bedürfnisse vorgeschlagen werden.
+
+
 // end::DE[]
 
 // tag::EN[]

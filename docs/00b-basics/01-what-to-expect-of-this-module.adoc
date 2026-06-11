@@ -3,6 +3,13 @@
 
 // tag::DE[]
 
+=== Was vermittelt das Modul {curriculum-short}?
+
+Architekt:innen und Entwicklungsteams erhalten oft nur mittelmäßige Anforderungen als Input für ihre Arbeit.
+Ziel dieses Moduls ist es, Architekt:innen mit genügend Anforderungs-Know-how auszustatten, sodass sie fundierte Architekturentscheidungen treffen können – basierend auf den tatsächlichen Bedürfnissen der Stakeholder.
+Sie sollten entweder wissen, wie man Anforderungen ermittelt (in agilen und iterativen Vorgehensweisen), oder zumindest wissen, was sie von anderen in ihrem Umfeld einfordern müssen.
+
+
 // end::DE[]
 
 // tag::EN[]

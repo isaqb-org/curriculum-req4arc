@@ -1,6 +1,37 @@
 
 
 // tag::DE[]
+
+=== {learning-goals}
+
+[[LZ-2-1]]
+==== LZ 2-1: Die Zusammenarbeit zwischen Architekt:innen und anderen Rollen rund um Anforderungen verstehen
+
+* Verstehen, dass iterative Systementwicklung alle am Entwicklungsprozess beteiligten Rollen einbezieht
+* Wissen, dass Architekt:innen laufend mit Business Analysts und Anforderungsverantwortlichen sowie mit Entwickler:innen und Tester:innen interagieren
+
+[[LZ-2-2]]
+==== LZ 2-2: Kooperative Ansätze der Produktentwicklung kennen
+
+* Die Grundideen kooperativer Ansätze kennen, etwa _Discover to Deliver_ <<gottesdiener-12>>, Design Thinking <<gerstbach>>, Lean Startup <<ries>>, Design Sprints <<banfield>>, Twin-Peaks-Modell (<<nuseibeh>>), Three Amigo Sessions (<<dinwiddie>>)
+* Verstehen, wie sich solche iterativen Ansätze auf größere Systeme skalieren lassen, an denen mehrere – möglicherweise geografisch verteilte – Entwicklungsteams beteiligt sind
+
+
+[[LZ-2-3]]
+==== LZ 2-3: Anforderungsdokumentation verstehen
+
+* Wissen, dass in formaleren Situationen schriftliche Anforderungsspezifikationen unverzichtbar sind
+* Wissen, dass mündliche Kommunikation (_reden und diskutieren_) oft wirksamer ist als Schreiben
+* Die Balance zwischen Schreiben und Reden verstehen (Anforderungsspezifikation versus Story Cards)
+
+
+[[LZ-2-4]]
+==== LZ 2-4: Traceability von Anforderungen zu anderen Artefakten verstehen
+
+* Wissen, was _Tracing_ von Anforderungen zu Architektur, Quellcode, Tests und technischer Dokumentation bedeutet
+* Verstehen, dass Anforderungs-Tracing zeitaufwendig ist und passende Werkzeugunterstützung erfordert
+* Verstehen, dass Anforderungs-Tracing manchmal verpflichtend ist, z.B. bei sicherheitskritischen Systemen
+
 // end::DE[]
 
 // tag::EN[]

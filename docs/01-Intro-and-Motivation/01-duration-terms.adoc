@@ -2,6 +2,13 @@
 
 // tag::DE[]
 
+|===
+| Unterricht: 45 Min. | Übungen: 0 Min.
+|===
+
+=== Begriffe und Konzepte
+Architekturrelevante Anforderungen (engl. _architecturally significant requirements_, ASR), Agiles Requirements Engineering
+
 // end::DE[]
 
 // tag::EN[]

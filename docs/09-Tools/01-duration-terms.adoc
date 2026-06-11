@@ -1,6 +1,15 @@
 
 
 // tag::DE[]
+
+|===
+| Unterricht: 45 Min. | Übungen: keine
+|===
+
+Um Anforderungen festzuhalten und zu kommunizieren, können Teams unterschiedliche Werkzeuge nutzen – von sehr informellen Karten an der Wand bis zu hochentwickelten Requirements-Management-Werkzeugen.
+Dieser Abschnitt gibt einen Überblick, wie sich Anforderungsdokumentation physisch handhaben lässt.
+Details einzelner Werkzeuge sind nicht Gegenstand dieses Abschnitts.
+
 // end::DE[]
 
 // tag::EN[]

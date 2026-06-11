@@ -2,6 +2,23 @@
 
 // tag::DE[]
 
+|===
+| Unterricht: 75 Min. | Übungen: 75 Min.
+|===
+
+Auch wenn Requirements Engineering heute iterativ und inkrementell erfolgen sollte, braucht es einige Vorab-Aktivitäten, die die detaillierte Anforderungsermittlung und zentrale Architekturentscheidungen leiten.
+Sie bilden den „Clean Start" einer Projekt- oder Produktentwicklung.
+Dazu gehören vor allem:
+
+* Vision und Ziele definieren
+* Stakeholder identifizieren
+* Scope festlegen
+* Nach dem Prinzip „Breite vor Tiefe" vorgehen, um frühe Priorisierung und Planung zu ermöglichen
+
+=== Begriffe und Konzepte
+
+Vision, Business Goals, Stakeholder, Scope, Kontext, SMART, PAM
+
 // end::DE[]
 
 // tag::EN[]

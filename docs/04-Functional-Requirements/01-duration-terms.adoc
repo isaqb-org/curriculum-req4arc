@@ -2,6 +2,19 @@
 
 // tag::DE[]
 
+|===
+| Unterricht: 180 Min. | Übungen: 120 Min.
+|===
+
+Stakeholder formulieren ihre funktionalen Anforderungen üblicherweise auf unterschiedlichen Abstraktionsebenen. Architekt:innen müssen mit diesen unterschiedlichen Granularitäten umgehen können: gröbere Anforderungen mit feineren in Beziehung setzen, grobe Anforderungen zerlegen oder feinere gruppieren, um den Überblick zu behalten.
+
+Dieses Thema führt Kriterien ein, um funktionale Anforderungen im Großen wie im Kleinen zu zerlegen oder zu gruppieren. Architekt:innen verstehen danach, wann Anforderungen präzise genug sind, damit das Entwicklungsteam sie übernehmen kann.
+
+In den letzten Jahrzehnten sind viele Notationen für funktionale Anforderungen entstanden – von textuellen Darstellungen über verschiedene grafische Notationen bis hin zu Prototypen, Mockups und konkreten Beispielen in Form von Szenarien. Stärken und Schwächen sowie Vor- und Nachteile werden diskutiert.
+
+=== Begriffe und Konzepte
+
+Funktionale Anforderungen, Use Case, Epic, Feature, Story, Szenario, Akzeptanzkriterien, Definition of Ready (DoR), INVEST, CCC-Regel
 
 // end::DE[]
 

@@ -4,6 +4,25 @@
 
 
 // tag::DE[]
+== Beispiel
+
+
+|===
+| Unterricht: 60 Min. | Übungen: keine
+|===
+
+
+In jeder lizenzierten Schulung muss mindestens ein Beispiel gut formulierter architekturrelevanter Anforderungen vorgestellt, diskutiert und bewertet werden.
+
+Das Beispiel kann sich je nach Schulungsanbieter unterscheiden oder sich nach den Interessen der Teilnehmer:innen richten. Details des Beispiels werden daher vom iSAQB nicht vorgegeben.
+
+
+=== {learning-goals}
+
+==== LZ 10-1: Beispiele gut formulierter Anforderungen verschiedener Kategorien kennen
+
+==== LZ 10-2: (Gegen-)Beispiele kennen, etwa mehrdeutige, inkonsistente und widersprüchliche Anforderungen verschiedener Kategorien
+
 // end::DE[]
 
 // tag::EN[]

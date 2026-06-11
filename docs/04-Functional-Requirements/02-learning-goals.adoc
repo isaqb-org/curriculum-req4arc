@@ -1,16 +1,76 @@
 === {learning-goals}
 
 // tag::DE[]
-[[LZ-1-1]]
-==== LZ 1-1: Dies ist das erste Lernziel, in Kategorie xy
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
+[[LZ-4-1]]
+==== LZ 4-1: Den Unterschied zwischen funktionalen und anderen Anforderungen verstehen
 
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
+* Die Definition funktionaler Anforderungen kennen
+* Funktionale Anforderungen von Qualitätsanforderungen und Randbedingungen unterscheiden
 
+[[LZ-4-2]]
+==== LZ 4-2: Hierarchien funktionaler Anforderungen
+
+* Verstehen, dass (funktionale) Anforderungen auf unterschiedlichen Granularitätsebenen ausgedrückt werden können, von grobgranular bis sehr feingranular
+* Verstehen, dass Architekt:innen für Planung und Schätzung mindestens einen Überblick über grobgranulare funktionale Anforderungen brauchen
+* Wissen, dass nicht jede funktionale Anforderung sofort detailliert werden muss
+
+[[LZ-4-3]]
+==== LZ 4-3: Kriterien für das Zerlegen grobgranularer funktionaler Anforderungen
+
+Verstehen, dass viele unterschiedliche Kriterien zur Zerlegung eines Systems in kleinere Teile angewendet werden können, z.B. funktionale bzw. Feature-orientierte Zerlegung, organisatorische, geografische, objektorientierte, prozessorientierte oder hardwareorientierte Zerlegung.
+
+[[LZ-4-4]]
+==== LZ 4-4: Anforderungen in wertschöpfende Prozesse zerlegen oder gruppieren
+
+* Wissen, dass prozessorientierte Zerlegung (Geschäftsprozesse, Use Cases, Stories, Ereignis-Prozessketten, ...) ein bewährter Ansatz ist, um einige davon früh zu implementieren und andere zurückzustellen – und so früh Business Value zu schaffen
+* Den ersten Teil von „INVEST" <<wake2003>> verstehen: Funktionale Anforderungen sollten „independent", „negotiable" und „valuable" sein
+
+[[LZ-4-5]]
+==== LZ 4-5: Wertschöpfende Prozesse dokumentieren
+
+* Verschiedene Notationen kennen, um wertschöpfende Prozesse festzuhalten
+* Wissen, wie man gute Stories schreibt (z.B. <<adzic-14>>: As a <role> I want to <functionality> so that <advantage>)
+* Wissen, wie man Prozesse in Use-Case-Diagrammen und Use-Case-Spezifikationen festhält
+* Den Unterschied zwischen Use Cases und User Stories verstehen
+
+[[LZ-4-6]]
+==== LZ 4-6: Funktionale Anforderungen verfeinern
+
+* Kriterien für das Zerlegen grobgranularer funktionaler Anforderungen kennen <<lawrence>>, <<jacobson>>, <<hruschka>>
+* Wissen, dass im agilen Requirements Engineering auch die zerlegten Teile einer größeren Anforderung Business Value bieten sollten
+
+[[LZ-4-7]]
+==== LZ 4-7: Funktionale Anforderungen dokumentieren
+
+* Verstehen, dass detaillierte funktionale Anforderungen auf verschiedene Arten dokumentiert werden können, z.B. textuell, aber auch in vielen grafischen Formen, die meist mehr Präzision und weniger Interpretationsspielraum bieten, aber teils schwerer zu erstellen und zu verstehen sind als natürlichsprachliche Anforderungen
+* Grafische Modelle wie Aktivitätsdiagramme, BPMN, Informationsmodelle und Zustandsmodelle kennen und wissen, wann welche Notation passt
+
+[[LZ-4-8]]
+==== LZ 4-8: Wissen, wann die Verfeinerung funktionaler Anforderungen endet
+
+* Verstehen, dass funktionale Anforderungen präzise genug sind, sobald das Entwicklungsteam keine Fragen mehr zu ihrer Bedeutung hat
+* Den zweiten Teil von „INVEST" <<wake2003>> verstehen: „Estimable", „Small enough", „Testable"
+* Die „Definition of Ready" (DoR) kennen und wissen, warum sie für die Zusammenarbeit zwischen Stakeholdern wichtig ist
+
+[[LZ-4-9]]
+==== LZ 4-9: Akzeptanzkriterien für funktionale Anforderungen
+
+* Wissen, dass funktionale Anforderungen Akzeptanzkriterien haben sollten, also Kriterien, mit denen sich (nach der Implementierung) feststellen lässt, ob die Anforderung erfüllt ist
+* Die „CCC-Regel" verstehen: Card, Conversation, Confirmation. Die Akzeptanzkriterien sind die Grundlage der Confirmation.
+
+[[LZ-4-10]]
+==== LZ 4-10: Specification-by-Example verstehen
+
+* Verstehen, dass einige gute Beispiele für funktionale Anforderungen manchmal besser sind als eine schlechte Abstraktion
+* Wissen, dass Szenarien Beispiele für funktionale Anforderungen sind
+* Verschiedene Notationen kennen, um Szenarien auszudrücken
+* Details siehe <<section-bdd,Kapitel 6 (BDD)>>
+
+[[LZ-4-11]]
+==== LZ 4-11: Methoden zur Ermittlung funktionaler Anforderungen kennen
+
+* Wissen, dass es viele verschiedene Ermittlungstechniken gibt, die Architekt:innen kennen sollten, z.B. Interviews, Fragebögen, Brainstorming-Sitzungen, Three Amigo Sessions <<smart-amigo>>, Knowledge Crunching, Event Storming und viele andere
+* Wissen, wann welche Ermittlungstechnik die Kommunikation mit Stakeholdern verbessert
 
 // end::DE[]
 

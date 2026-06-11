@@ -1,16 +1,46 @@
 === {learning-goals}
 
 // tag::DE[]
-[[LZ-1-1]]
-==== LZ 1-1: Dies ist das erste Lernziel, in Kategorie xy
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
+[[LZ-3-1]]
+==== LZ 3-1: Die Notwendigkeit einiger (begrenzter) Vorab-Aktivitäten verstehen
 
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
+* Verstehen, dass auch bei iterativer Entwicklung einige Vorab-Aktivitäten notwendig sind
+* Wissen, dass explizites Wissen über Visionen, Ziele und relevante Stakeholder erforderlich ist, damit das Entwicklungsteam fundierte Entscheidungen über die Architektur des Systems treffen kann
+* Verstehen, dass eine Verständigung über Scope und Kontext erforderlich ist, insbesondere über die Schnittstellen zwischen Scope und Kontext (d.h. die externen Schnittstellen des Produkts)
 
+[[LZ-3-2]]
+==== LZ 3-2: Die Notwendigkeit von (übergeordneter) Vision und Business Goals verstehen
+
+* Verstehen, dass Visionen oder Business Goals die obersten Anforderungen sind, also jene, die sich (hoffentlich) während eines Projekts nicht ändern
+* Verstehen, dass Visionen und Ziele quantifiziert und messbar gemacht werden sollten, um Erfolg in Bezug auf Business Value überprüfen zu können
+
+[[LZ-3-3]]
+==== LZ 3-3: Verschiedene Möglichkeiten und Notationen, Visionen und Business Goals auszudrücken
+
+* Verschiedene Wege kennen, Vision und Ziele zu definieren (explizite Zielformulierungen, Value Propositions für unterschiedliche Stakeholder, Vision Box, „News from the Future")
+* Merkhilfen für Vision- oder Zielformulierungen kennen (SMART, PAM)
+
+[[LZ-3-4]]
+==== LZ 3-4: Die Bedeutung unterschiedlicher Stakeholder und ihr Einfluss auf Produkt oder System
+
+* Wissen, dass Stakeholder die wichtigsten Quellen für Anforderungen sind
+* Verstehen, dass fehlende Stakeholder fehlende Anforderungen bedeuten können
+* Verstehen, dass Stakeholder auf spezifische, angemessene Weise angesprochen werden müssen
+
+[[LZ-3-5]]
+==== LZ 3-5: Unterschiedliche Bedürfnisse und Werte verschiedener Stakeholder („Value Propositions")
+
+* Verstehen, dass verschiedene Stakeholder unterschiedliche Bedürfnisse haben und unterschiedlicher Meinung sein können, was an einem Produkt wertvoll ist
+* Wissen, dass eine priorisierte Stakeholder-Liste hilft, Anforderungen nach Business Value zu priorisieren
+* Wissen, dass Architekt:innen Zielkonflikte zwischen den Bedürfnissen der Stakeholder behandeln müssen
+
+[[LZ-3-6]]
+==== LZ 3-6: Scope festlegen und den Kontext des Systems abgrenzen
+
+* Zwischen Business Scope und Produkt-Scope unterscheiden
+* Die Bedeutung externer Schnittstellen kennen
+* Verschiedene Ebenen von „extern" unterscheiden (extern zum System, extern zur Geschäftseinheit, extern zum Unternehmen)
+* Verschiedene Möglichkeiten und Notationen kennen, Scope und Kontext auszudrücken, z.B. Kontextdiagramme
 
 // end::DE[]
 

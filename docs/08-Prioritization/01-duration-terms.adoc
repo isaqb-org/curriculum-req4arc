@@ -1,6 +1,20 @@
 
 
 // tag::DE[]
+
+|===
+| Unterricht: 45 Min. | Übungen: 30 Min.
+|===
+
+Iterative und inkrementelle Entwicklung strebt an, zuerst die Anforderungen umzusetzen, die hohen Business Value liefern. Dafür sollten Architekt:innen sicherstellen, dass Anforderungen nach Business Value geordnet sind. So kann man sich auf die wertvollsten konzentrieren und die Verfeinerung der übrigen auf später verschieben. Architekt:innen sollten sich jedoch bewusst sein, dass Business Value für verschiedene Stakeholder sehr Unterschiedliches bedeuten kann. Dieser Abschnitt diskutiert verschiedene Arten von Wert.
+
+Die zweite Voraussetzung dafür, manche Anforderungen früher als andere umzusetzen, sind Schätzungen – um zu bestimmen, wie lange die Umsetzung dauern wird, und um Hinweise zu erhalten, wo eventuell weitere Anforderungsarbeit nötig ist.
+
+
+=== Begriffe und Konzepte
+
+Business Value, Risiko, Ranking, Priorisierung, Affinity Estimation, Wall Estimation, Story Points, WSJF, MoSCoW-Priorisierung
+
 // end::DE[]
 
 

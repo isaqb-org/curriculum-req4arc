@@ -1,5 +1,29 @@
 
 // tag::DE[]
+// TODO: Initiale Übersetzung des IREB-Vorworts – Formulierung ggf. mit IREB abstimmen
+:sectnum!:
+## Vorwort
+
+IREB, das International Requirements Engineering Board, engagiert sich seit mehr als vierzehn Jahren für die Ausbildung von Fachleuten im Requirements Engineering. Bis 2020 haben mehr als fünfzigtausend Personen das Zertifikat CPRE FL (Certified Professional for Requirements Engineering – Foundation Level) erworben.
+
+Da weltweit mehr als fünf Millionen Menschen in der IT arbeiten, überrascht es nicht, dass es noch viele Entwicklungsteams gibt, die weder selbst über ausreichende Requirements-Engineering-Kenntnisse verfügen noch Zugang zu entsprechend ausgebildeten Spezialist:innen haben – obwohl sie sich bei der Entwicklung und Bereitstellung von Softwareprodukten mit Anforderungsfragen auseinandersetzen müssen.
+
+Dieses Defizit ist eine gute Motivation für dieses iSAQB(R)-Advanced-Level-Modul REQ4ARC. IREB begrüßt dieses großartige Modul, da es die Mission von IREB unterstützt, Requirements Engineering überall in der IT zu etablieren. Das Modul hilft Softwarearchitekt:innen und Entwicklungsteams, in die Welt des professionellen Requirements Engineering einzusteigen. Sie erwerben Grundkenntnisse in Anforderungsermittlung und -management, die helfen, die richtigen Produkte mit weniger Rätselraten und weniger Nacharbeit zu entwickeln. Außerdem wird in Entwicklungsteams das Bewusstsein geschärft, vor kritischen Architektur- und Designentscheidungen den richtigen Input einzufordern.
+
+Wir wünschen Ihnen viel Erfolg mit diesem Modul und mit Ihren ersten Schritten im Requirements Engineering!
+
+
+[cols="3,7,7",header=none,frame=none,grid=none]
+|===
+|Januar 2020
+a|Martin Glinz
+
+Vorsitzender des IREB Council
+a|Kim Lauenroth
+
+Vorsitzender des Executive Board von IREB
+|===
+
 
 // end::DE[]
 

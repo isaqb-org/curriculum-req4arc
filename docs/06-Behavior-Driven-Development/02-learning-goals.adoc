@@ -1,6 +1,38 @@
 
 
 
+// tag::DE[]
+=== {learning-goals}
+
+[[LZ-6-1]]
+==== LZ 6-1: Anwendbarkeit und Einsatzgebiete von Behavior-Driven Development (BDD) kennen
+
+* Wissen, dass BDD <<smart-bdd>> aus Ansätzen und Technologien wie TDD (Test-Driven Development) und ATDD (Acceptance-Test-Driven Development) entstanden ist
+* Wissen, dass es verschiedene Möglichkeiten gibt, Anforderungen zu präzisieren
+** Zustands- oder Aktivitätsmodelle
+** Given-When-Then-Szenarien
+* Wissen, dass BDD für eine große Bandbreite von IT-Systemtypen anwendbar ist, z.B. Informationssysteme, Business-Intelligence-Systeme, mobile Apps
+
+
+[[LZ-6-2]]
+==== LZ 6-2: Prinzipien von Behaviour-Driven Development (BDD) verstehen
+
+* Wissen, dass BDD eine kollaborative Praktik zur Entdeckung von Anforderungen ist, die Gespräche über konkrete Beispiele nutzt, um ein gemeinsames Verständnis der Anforderungen aufzubauen
+* Wissen, dass kollaborative Workshops und Diskussionsformate wie Three Amigo Sessions (TAS) <<smart-amigo>> helfen, korrekte Anforderungen zu erhalten. In einer TAS arbeiten die drei Rollen „Product Owner" (oder Business Analyst), „Entwickler:in" und „Tester:in" gemeinsam an der Entdeckung von Anforderungen.
+* Wissen, dass konkrete Beispiele gut geeignet sind, die Problemdomäne zu erkunden, und eine Grundlage für Akzeptanztests bieten. Example Mapping <<wynn>> hilft, Regeln und offene Fragen zu finden und neue Stories zu identifizieren.
+* Wissen, dass BDD Benutzeranforderungen in Features beschreibt, Features in Stories herunterbricht und die Stories in (ausführbare) Beispiele
+
+
+[[LZ-6-3]]
+==== LZ 6-3: Gherkin und Cucumber als Beispiele für BDD kennen
+
+* Die Given-When-Then-Syntax (GWT) kennen, wie Gherkin sie vorschlägt
+* Wissen, dass Given-When-Then-basierte Formulierungen von Anforderungen die Testautomatisierung erleichtern
+* Wissen, dass mehrere Werkzeuge existieren, um Given-When-Then-Verhaltensspezifikationen auf den Quellcode des Systems abzubilden (z.B. Cucumber, RSpec, SpecFlow, GivWenZen)
+* Optional Beispiele für GWT-Spezifikationen mit dem zugehörigen Glue Code für die automatische Ausführung kennen
+
+// end::DE[]
+
 // tag::EN[]
 === {learning-goals}
 
