@@ -1,0 +1,20 @@
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+
+
+
+// tag::DE[]
+// end::DE[]
+
+// tag::EN[]
+
+|===
+| Teaching: 60 min | Exercises: none
+|===
+
+// TODO: Text TBD (see curators meeting, Word document 2026.1-rev3)
+Text TBD.
+
+
+// end::EN[]

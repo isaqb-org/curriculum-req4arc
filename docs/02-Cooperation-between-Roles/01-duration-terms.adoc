@@ -6,7 +6,7 @@
 // tag::EN[]
 
 |===
-| Teaching: 75 min | Exercises: none
+| Teaching: 45 min | Exercises: 60 min
 |===
 
 In contrast to the waterfall model with explicit phases for requirements engineering and system/software architecture development all modern methods strive for a very close cooperation between architects and any role that is responsible for requirements engineering.

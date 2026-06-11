@@ -1,0 +1,17 @@
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+
+
+
+// tag::DE[]
+// end::DE[]
+
+// tag::EN[]
+== AI in RE
+
+include::01-duration-terms.adoc[{include_configuration}]
+
+include::02-learning-goals.adoc[]
+
+// end::EN[]

@@ -6,8 +6,8 @@
 
 
 
-[[LG-5-1]]
-==== LG 5-1: Knowing about the applicability and application domains for Behavior-Driven Development (BDD)
+[[LG-6-1]]
+==== LG 6-1: Knowing about the applicability and application domains for Behavior-Driven Development (BDD)
 
 * Know that BDD <<smart-bdd>> originated from approaches and technologies like TDD (test-driven development) and ATDD (acceptance-test-driven development).
 * Know that various options exist to add precision to requirements
@@ -16,8 +16,8 @@
 * Know that BDD is applicable for a broad range of IT-system types, e.g. information systems, business intelligence systems, mobile apps
 
 
-[[LG-5-2]]
-==== LG 5-2: Understanding principles of Behaviour-Driven Development (BDD)
+[[LG-6-2]]
+==== LG 6-2: Understanding principles of Behaviour-Driven Development (BDD)
 
 * Know that BDD is a collaborative requirements discovery practice that uses conversations around concrete examples to build a shared understanding of requirements.
 * Know that collaborative workshops and discussion formats, like Three Amigo Sessions (TAS) <<smart-amigo>>, help in getting correct  requirements.  In a TAS, the three roles "product owner" (or business analyse), "developer" and "tester" collaborate in discovering requirements.
@@ -25,8 +25,8 @@
 * Know that BDD explains user requirements in features, breaks features down into stories and the the stories into to (executable) examples.
 
 
-[[LG-5-3]]
-==== LG 5-3: Knowing Gherkin and Cucumber as examples for BDD
+[[LG-6-3]]
+==== LG 6-3: Knowing Gherkin and Cucumber as examples for BDD
 
 * Know the Given-When-Then (GWT) syntax as proposed by Gherkin.
 * Know that Given-When-Then based formulations of requirements facilitate test automation.

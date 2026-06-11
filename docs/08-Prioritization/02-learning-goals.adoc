@@ -4,8 +4,8 @@
 
 === {learning-goals}
 
-[[LG-6-1]]
-==== LG 6-1: Understanding different kinds of business value
+[[LG-8-1]]
+==== LG 8-1: Understanding different kinds of business value
 
 * Understand that different stakeholders may see different value in requirements.
 Some of them may be interested in short turn revenue, others in improvement of customer satisfaction, or quick time-to-market.
@@ -13,15 +13,15 @@ Others might want to reduce the risk for the rest of the development, or create 
 * Know different methods for expressing value, e.g. MoSCoW-prioritization, defined ranges of values, linear sorting of all requirements, weighted factor methods, cost of delay, ...
 
 
-[[LG-6-2]]
-==== LG 6-2: Ordering requirements by business value
+[[LG-8-2]]
+==== LG 8-2: Ordering requirements by business value
 
 * Know different strategies for ordering and prioritization, e.g. weighted shortest job first (WSJF), defer risk, risk-first ...
 * Know how to handle dependencies between requirements when ordering requirements
 * Know mechanism to split requirements in order to avoid dependencies
 
-[[LG-6-3]]
-==== LG 6-3: Estimating requirements
+[[LG-8-3]]
+==== LG 8-3: Estimating requirements
 
 * Understand the need for estimating requirements, also as an indicator to potentially refine and decompose larger requirements when they cannot be estimated well enough yet.
 * Understand the difference between absolute estimates (in person days, costs, ...) versus relative estimates (e.g. story points)

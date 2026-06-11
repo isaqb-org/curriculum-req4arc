@@ -5,10 +5,10 @@
 === {learning-goals}
 
 
-==== LG 8-1: Categories of suitable tools
+==== LG 9-1: Categories of suitable tools
 Know different kinds of requirements tools (cards, wikis, modeling tools, issue-trackers, etc.)
 
-==== LG 8-2: Advantages and disadvantages of tool categories
+==== LG 9-2: Advantages and disadvantages of tool categories
 
 * Know heuristics when to use which kind of tool for which kind of system
 * Understand the strengths and weaknesses of different tool categories

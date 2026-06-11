@@ -6,7 +6,7 @@
 // tag::EN[]
 
 |===
-| Teaching: 60 min | Exercises: none
+| Teaching: 45 min | Exercises: none
 |===
 
 In order to capture and communicate requirements teams can use different tools, from very informal cards on the wall to very sophisticated requirements management tools.

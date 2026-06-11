@@ -11,7 +11,7 @@
 
 
 |===
-| Teaching: 75 min | Exercises: none
+| Teaching: 60 min | Exercises: none
 |===
 
 
@@ -22,9 +22,9 @@ The example may differ for each training provider or depend on the interest of t
 
 === {learning-goals}
 
-==== LG 9-1: Know examples of well-articulated requirements of various categories
+==== LG 10-1: Know examples of well-articulated requirements of various categories
 
-==== LG 9-2: Know (counter-)examples, like ambiguous, inconsistent and contradicting requirements of various categories
+==== LG 10-2: Know (counter-)examples, like ambiguous, inconsistent and contradicting requirements of various categories
 
 
 

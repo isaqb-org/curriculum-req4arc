@@ -1,0 +1,26 @@
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+
+
+
+// tag::DE[]
+// end::DE[]
+
+// tag::EN[]
+
+=== {learning-goals}
+
+// TODO: Learning goals TBD (see curators meeting, Word document 2026.1-rev3)
+
+[[LG-7-1]]
+==== LG 7-1: TBD
+
+* TBD
+
+[[LG-7-2]]
+==== LG 7-2: TBD
+
+* TBD
+
+// end::EN[]

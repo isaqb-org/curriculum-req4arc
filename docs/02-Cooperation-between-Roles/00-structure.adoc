@@ -8,7 +8,7 @@
 // end::DE[]
 
 // tag::EN[]
-== REQ-ARCH development process
+== Cooperation between Roles
 
 
 include::01-duration-terms.adoc[{include_configuration}]

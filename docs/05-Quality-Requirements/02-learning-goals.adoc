@@ -3,21 +3,21 @@
 // tag::EN[]
 === {learning-goals}
 
-[[LG-4-1]]
-==== LG 4-1: Understanding the difference between quality and other requirements
+[[LG-5-1]]
+==== LG 5-1: Understanding the difference between quality and other requirements
 
 * Know a definition of quality requirements and constraints
 * Know that there is a very thin borderline between functional requirements and quality requirements, since qualities are sometimes made more precise by transforming them into functions.
 
-[[LG-4-2]]
-==== LG 4-2: Understanding categories of qualities and constraints
+[[LG-5-2]]
+==== LG 5-2: Understanding categories of qualities and constraints
 
 * Know checklists for quality requirements, quality standards (e.g. <<Q42>>, <<iso25010>>, Volere (see <<robertson-24>>), ...)
 * Know categories of constraints (organizational constraints, technical constraints, …)
 * Understand that architects don't need all quality requirements and constraints early in the project, but have to find the most important ones, since they are architecture drivers and will influence very important architectural decision
 
-[[LG-4-3]]
-==== LG 4-3: Eliciting and specifying quality requirements
+[[LG-5-3]]
+==== LG 5-3: Eliciting and specifying quality requirements
 
 * Knowing how to specify quality scenarios or textual specifications, including motivation ("why?")
 * Using checklists and categorization schemes to find the most important candidates of quality requirements
@@ -25,8 +25,8 @@
 They should know the most efficient ways depending on skills, motivation and time of their stakeholders.
 
 
-[[LG-4-4]]
-==== LG 4-4: Refining quality requirements
+[[LG-5-4]]
+==== LG 5-4: Refining quality requirements
 
 * Know that quality requirements often start vague.
 Architects have various ways of adding precision
@@ -36,22 +36,22 @@ Architects have various ways of adding precision
 * Know the quality trees <<ATAM>> can be used to refine quality requirements
 * Know that the Q42 quality model <<Q42>> provides practical guidance and pragmatic examples for refining quality requirements
 
-[[LG-4-5]]
-==== LG 4-5: Specifying acceptance criteria for quality requirements
+[[LG-5-5]]
+==== LG 5-5: Specifying acceptance criteria for quality requirements
 
 * Know that also quality requirements need acceptance criteria
 * Know that acceptance criteria for quality requirements can often be specified by giving tolerances or thresholds, or allowing deviations for certain stakeholders (i.e. person who do not speak English are given 20% more time to achieve a result)
 * Know sources for examples of such acceptance criteria, like Q42
 
 
-[[LG-4-6]]
-==== LG 4-6: Prioritizing quality requirements
+[[LG-5-6]]
+==== LG 5-6: Prioritizing quality requirements
 
 * Know that architects should prioritize scenarios for quality requirements in two dimensions: business value and technical challenge
 * Know that only requirements with high business value and big technical challenge should be considered early on for architectural decisions
 
-[[LG-4-7]]
-==== LG 4-7: Pragmatic alternatives to detailed acceptance criteria
+[[LG-5-7]]
+==== LG 5-7: Pragmatic alternatives to detailed acceptance criteria
 
 * Know that for some qualities it is hard to check their fulfilment right after implementation.
 Another way to check such qualities is statistical observation over time ("see if requirement is met") instead of quantified acceptance criteria.

@@ -7,29 +7,29 @@
 
 === {learning-goals}
 
-[[LG-7-1]]
-==== LG 7-1: Understand the cooperation between architects and other roles concerning requirements
+[[LG-2-1]]
+==== LG 2-1: Understand the cooperation between architects and other roles concerning requirements
 
 * Understand that iterative system development includes all roles involved in the development process
 * Know that architects constantly interact with business analysts and requirements persons, as well as developers and testers
 
-[[LG-7-2]]
-==== LG 7-2: Know cooperative approaches to product development
+[[LG-2-2]]
+==== LG 2-2: Know cooperative approaches to product development
 
 * Know the basic ideas of cooperative approaches like _Discover to Deliver_ <<gottesdiener-12>>, Design Thinking <<gerstbach>>, Lean Startup <<ries>>, Design Sprints <<banfield>>, Twin Peaks Model (<<nuseibeh>>), Three Amigo Sessions (<<dinwiddie>>)
 * Understand how such iterative approaches can be scaled to larger systems, that involve more than one development team, potentially geographically distributed.
 
 
-[[LG-7-3]]
-==== LG 7-3: Understand requirements documentation
+[[LG-2-3]]
+==== LG 2-3: Understand requirements documentation
 
 * Know that in more formal situations written requirements specifications are essential
 * Know that oral communication (_talking and discussing_) is often more effective than writing
 * Understand the balance between writing and talking (requirements specification versus story cards)
 
 
-[[LG-7-4]]
-==== LG 7-4: Understand traceability from requirements to other artifacts
+[[LG-2-4]]
+==== LG 2-4: Understand traceability from requirements to other artifacts
 
 * Know what requirements _tracing_ to architecture, source code, test, technical documentation means
 * Understand that requirements tracing is time-consuming and requires appropriate tool support
