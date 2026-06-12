@@ -1,0 +1,90 @@
+<mxfile host="Electron" agent="Claude" pages="2">
+  <diagram id="req4arc-de" name="DE">
+    <mxGraphModel dx="1102" dy="661" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hexC" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#F39200;strokeColor=#263E4D;strokeWidth=2.5;fontFamily=Helvetica;fontSize=30;fontStyle=1;fontColor=#FFFFFF;" value="REQ4ARC&#xa;Lehrplan" vertex="1">
+          <mxGeometry height="208" width="240" x="480" y="496" as="geometry" />
+        </mxCell>
+        <mxCell id="hexN" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#FFFFFF;strokeColor=#263E4D;strokeWidth=2.5;fontFamily=Helvetica;fontSize=22;fontColor=#263E4D;spacingLeft=24;spacingRight=24;" value="Zusammenarbeit &lt;br&gt;der Rollen" vertex="1">
+          <mxGeometry height="208" width="240" x="480" y="288" as="geometry" />
+        </mxCell>
+        <mxCell id="hexNE" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#FFFFFF;strokeColor=#263E4D;strokeWidth=2.5;fontFamily=Helvetica;fontSize=22;fontColor=#263E4D;spacingLeft=24;spacingRight=24;" value="Clean Start" vertex="1">
+          <mxGeometry height="208" width="240" x="660" y="392" as="geometry" />
+        </mxCell>
+        <mxCell id="hexSE" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#FFFFFF;strokeColor=#263E4D;strokeWidth=2.5;fontFamily=Helvetica;fontSize=22;fontColor=#263E4D;spacingLeft=24;spacingRight=24;" value="Funktionale Anforderungen und BDD" vertex="1">
+          <mxGeometry height="208" width="240" x="660" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="hexS" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#FFFFFF;strokeColor=#263E4D;strokeWidth=2.5;fontFamily=Helvetica;fontSize=22;fontColor=#263E4D;spacingLeft=24;spacingRight=24;" value="Qualitäts­anforderungen und Randbedingungen" vertex="1">
+          <mxGeometry height="208" width="240" x="480" y="704" as="geometry" />
+        </mxCell>
+        <mxCell id="hexSW" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#FFFFFF;strokeColor=#263E4D;strokeWidth=2.5;fontFamily=Helvetica;fontSize=22;fontColor=#263E4D;spacingLeft=24;spacingRight=24;" value="KI im RE,&lt;div&gt;Werkzeuge für RE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="208" width="240" x="300" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="hexNW" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#FFFFFF;strokeColor=#263E4D;strokeWidth=2.5;fontFamily=Helvetica;fontSize=22;fontColor=#263E4D;spacingLeft=24;spacingRight=24;" value="Priorisierung und Schätzen" vertex="1">
+          <mxGeometry height="208" width="240" x="300" y="392" as="geometry" />
+        </mxCell>
+        <mxCell id="arr1" parent="1" style="triangle;whiteSpace=wrap;html=1;fillColor=#F39200;strokeColor=none;rotation=30;" value="" vertex="1">
+          <mxGeometry height="30" width="36" x="672" y="429" as="geometry" />
+        </mxCell>
+        <mxCell id="arr2" parent="1" style="triangle;whiteSpace=wrap;html=1;fillColor=#F39200;strokeColor=none;rotation=90;" value="" vertex="1">
+          <mxGeometry height="30" width="36" x="762" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="arr3" parent="1" style="triangle;whiteSpace=wrap;html=1;fillColor=#F39200;strokeColor=none;rotation=150;" value="" vertex="1">
+          <mxGeometry height="30" width="36" x="672" y="741" as="geometry" />
+        </mxCell>
+        <mxCell id="arr4" parent="1" style="triangle;whiteSpace=wrap;html=1;fillColor=#F39200;strokeColor=none;rotation=210;" value="" vertex="1">
+          <mxGeometry height="30" width="36" x="492" y="741" as="geometry" />
+        </mxCell>
+        <mxCell id="arr5" parent="1" style="triangle;whiteSpace=wrap;html=1;fillColor=#F39200;strokeColor=none;rotation=270;" value="" vertex="1">
+          <mxGeometry height="30" width="36" x="402" y="585" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="req4arc-en" name="EN">
+    <mxGraphModel dx="1102" dy="661" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hexC" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#F39200;strokeColor=#263E4D;strokeWidth=2.5;fontFamily=Helvetica;fontSize=29;fontStyle=1;fontColor=#FFFFFF;" value="REQ4ARC&#xa;Curriculum" vertex="1">
+          <mxGeometry height="208" width="240" x="480" y="496" as="geometry" />
+        </mxCell>
+        <mxCell id="hexN" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#FFFFFF;strokeColor=#263E4D;strokeWidth=2.5;fontFamily=Helvetica;fontSize=24;fontColor=#263E4D;spacingLeft=24;spacingRight=24;" value="Cooperation between Roles" vertex="1">
+          <mxGeometry height="208" width="240" x="480" y="288" as="geometry" />
+        </mxCell>
+        <mxCell id="hexNE" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#FFFFFF;strokeColor=#263E4D;strokeWidth=2.5;fontFamily=Helvetica;fontSize=24;fontColor=#263E4D;spacingLeft=24;spacingRight=24;" value="Clean Start" vertex="1">
+          <mxGeometry height="208" width="240" x="660" y="392" as="geometry" />
+        </mxCell>
+        <mxCell id="hexSE" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#FFFFFF;strokeColor=#263E4D;strokeWidth=2.5;fontFamily=Helvetica;fontSize=24;fontColor=#263E4D;spacingLeft=24;spacingRight=24;" value="Functional Requirements and BDD" vertex="1">
+          <mxGeometry height="208" width="240" x="660" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="hexS" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#FFFFFF;strokeColor=#263E4D;strokeWidth=2.5;fontFamily=Helvetica;fontSize=24;fontColor=#263E4D;spacingLeft=24;spacingRight=24;" value="Quality Requirements and Constraints" vertex="1">
+          <mxGeometry height="208" width="240" x="480" y="704" as="geometry" />
+        </mxCell>
+        <mxCell id="hexSW" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#FFFFFF;strokeColor=#263E4D;strokeWidth=2.5;fontFamily=Helvetica;fontSize=24;fontColor=#263E4D;spacingLeft=24;spacingRight=24;" value="AI in RE,&lt;div&gt;Tools for RE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="208" width="240" x="300" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="hexNW" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#FFFFFF;strokeColor=#263E4D;strokeWidth=2.5;fontFamily=Helvetica;fontSize=24;fontColor=#263E4D;spacingLeft=24;spacingRight=24;" value="Prioritization &lt;br&gt;and Estimation" vertex="1">
+          <mxGeometry height="208" width="240" x="300" y="392" as="geometry" />
+        </mxCell>
+        <mxCell id="arr1" parent="1" style="triangle;whiteSpace=wrap;html=1;fillColor=#F39200;strokeColor=none;rotation=30;" value="" vertex="1">
+          <mxGeometry height="30" width="36" x="672" y="429" as="geometry" />
+        </mxCell>
+        <mxCell id="arr2" parent="1" style="triangle;whiteSpace=wrap;html=1;fillColor=#F39200;strokeColor=none;rotation=90;" value="" vertex="1">
+          <mxGeometry height="30" width="36" x="762" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="arr3" parent="1" style="triangle;whiteSpace=wrap;html=1;fillColor=#F39200;strokeColor=none;rotation=150;" value="" vertex="1">
+          <mxGeometry height="30" width="36" x="672" y="741" as="geometry" />
+        </mxCell>
+        <mxCell id="arr4" parent="1" style="triangle;whiteSpace=wrap;html=1;fillColor=#F39200;strokeColor=none;rotation=210;" value="" vertex="1">
+          <mxGeometry height="30" width="36" x="492" y="741" as="geometry" />
+        </mxCell>
+        <mxCell id="arr5" parent="1" style="triangle;whiteSpace=wrap;html=1;fillColor=#F39200;strokeColor=none;rotation=270;" value="" vertex="1">
+          <mxGeometry height="30" width="36" x="402" y="585" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
