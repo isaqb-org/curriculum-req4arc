@@ -5,34 +5,37 @@ include::config/setup.adoc[]
 ifeval::["{language}" == "DE"]
 = Curriculum fürpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Advanced Level_: pass:q[<br>] Modulpass:q[<br>]{curriculum-short}pass:q[<br><br>]{curriculum-name}
 :toc-title: Inhaltsverzeichnis
-:toc: left
 endif::[]
-
 ifeval::["{language}" == "EN"]
 = Curriculum forpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Advanced Level_: pass:q[<br>] Modulepass:q[<br>]{curriculum-short}pass:q[<br><br>]{curriculum-name}
+endif::[]
+// TOC placement is backend-specific. These conditionals MUST stay in the document header
+// (no blank line above) so HTML's sidebar TOC setup sees :toc:.
+ifdef::backend-pdf[]
+:toc: macro
+:toc-placement: macro
+endif::[]
+ifndef::backend-pdf[]
 :toc: left
 endif::[]
-
-
-:project-report-issue-link: https://github.com/isaqb-org/curriculum-req4arc/issues/new?title=&body=%0A%0A%5BEnter%20feedback%20here%5D%0A%0A%0A---
 
 // define terms for toc, learning-goals
 include::config/i18n-definitions.adoc[tags={language}]
 
 <<<
 :sectnums!:
-include::../license-copyright/copyright.adoc[{include_configuration}]
 
-<<<
-:sectnums!:
-include::00a-preamble/preface-ireb.adoc[{include_configuration}]
+
+[#copyright]
+== {copyright-title}
+include::../license-copyright/copyright.adoc[{include_configuration}]
 
 <<<
 toc::[]
 
 <<<
-// Auto-generated list of learning objectives
-include::learning-objectives.adoc[{include_configuration}]
+:sectnums!:
+include::00a-preamble/preface-ireb.adoc[{include_configuration}]
 
 <<<
 :sectnums!:
