@@ -5,8 +5,6 @@
 [glossary]
 == Glossary
 
-[glossary]
-
 Acceptance Criteria:: (adapted from IREB): A set of conditions (typically associated with a requirement) that must be fulfilled by any implementation. Such conditions may be, for example, expected outcomes for sample input data or expected speed or volume to be achieved.
 
 Agile Requirements Engineering:: (adapted from IREB):  a cooperative, iterative and incremental approach with four goals:
