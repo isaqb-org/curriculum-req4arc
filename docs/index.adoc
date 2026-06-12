@@ -10,7 +10,7 @@ so that they can take educated architecture decisions, based on the real needs o
 
 The terminology used in the iSAQB curricula can be found as a (freely available) ebook, published on https://leanpub.com/isaqbglossary/read[Leanpub].
 
-== Development versions
+== Latest Release {release-version}
 
 The Req4Arc Curriculum is currently maintained and published in English (EN) only.
 Maintainers and volunteer reviewers collaborate on GitHub to improve the curriculum.
