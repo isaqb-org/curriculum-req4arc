@@ -5,13 +5,13 @@
 #   ./curriculum-build.sh pdf DE REMARKS
 set -eu
 
-IMAGE="ghcr.io/isaqb-org/curriculum-builder:local"
-#DIGEST="sha256:b64f592fb8d4323e8059a9812c3a36f4212c5df3566cbba1f88f7743eda03d5e"
+IMAGE="ghcr.io/isaqb-org/curriculum-builder:2026.2-rev4"
+DIGEST="sha256:0367c56f3b25666594d560c48a4221e42f243aabfb6c32a8f1ae5bff6c6a4b85"
 
 REPO_ROOT=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
 
 ref="$IMAGE"
-#[ -n "$DIGEST" ] && ref="${IMAGE}@${DIGEST}"
+[ -n "$DIGEST" ] && ref="${IMAGE}@${DIGEST}"
 
 CURRICULUM_FILE=""; LANGUAGES=""; SUFFIX_TAGS=""; PREPRESS=""
 if [ -f "$REPO_ROOT/build.config" ]; then
@@ -21,7 +21,7 @@ fi
 
 case "$ref" in
     *:local) : ;;                        # local build, skip pull
-    *) docker pull "$ref" >/dev/null ;;  
+    *) docker pull "$ref" >/dev/null ;;
 esac
 
 docker run --rm \
