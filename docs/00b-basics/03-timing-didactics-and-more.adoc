@@ -27,7 +27,7 @@ Lizenzierte Schulungen zu {curriculum-short} tragen zur Zulassung zur abschließ
 
 The times stated below are recommendations.
 The duration of a training course on the {curriculum-short} module should be at least {recommended-duration-in-days} days, but may be longer.
-Providers may differ in terms of duration, teaching method, type and structure of the exercises and the detailed course structure.
+Providers may differ in terms of duration, teaching method, type and structure of the exercises, and the detailed course structure.
 In particular, the curriculum provides no specifications on the nature of the examples and exercises.
 
 Licensed training courses for the {curriculum-short} module contribute the following credit points towards admission to the final Advanced Level certification exam:

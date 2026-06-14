@@ -1,5 +1,3 @@
-
-
 // tag::DE[]
 === Gliederung des Lehrplans und empfohlene zeitliche Aufteilung
 
@@ -66,7 +64,9 @@
 // tag::EN[]
 === Curriculum structure and recommended durations
 
-[cols="4,1,1", options="header"]
+**Note:** The order of the chapters does not dictate the layout of a training course. Providers can adjust this for didactic reasons.
+
+[cols="3,1,1", options="header"]
 |===
 
 | Content

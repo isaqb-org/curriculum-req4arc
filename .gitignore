@@ -1,9 +1,9 @@
 .DS_Store
 
 .gradle
+.gradle-docker
 build
 .idea
-advanced-template.iml
+curriculum-req4arc.iml
 .settings/org.eclipse.buildship.core.prefs
 .project
-learning-objectives.adoc

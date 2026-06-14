@@ -1,6 +1,3 @@
-
-
-
 // tag::DE[]
 
 === Was vermittelt das Modul {curriculum-short}?

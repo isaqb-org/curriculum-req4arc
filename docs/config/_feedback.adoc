@@ -1,3 +1,0 @@
-ifdef::backend-html5[]
-image::https://img.shields.io/badge/create-an%20issue-blue.svg[link="{project-report-issue-link}", float=right]
-endif::[]

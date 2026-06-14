@@ -3,19 +3,11 @@
 
 Soweit für das Verständnis des Lehrplans erforderlich, haben wir Fachbegriffe ins https://github.com/isaqb-org/glossary[iSAQB-Glossar] aufgenommen, definiert und bei Bedarf durch die Übersetzungen der Originalliteratur ergänzt.
 
-=== Helfen Sie uns, diesen Lehrplan zu verbessern
-
-Sie finden die neueste Version dieses Dokuments online (https://isaqb-org.github.io/curriculum-req4arc/),
-wo Sie gerne Feedback und Verbesserungsvorschläge geben können.
 // end::DE[]
 
 // tag::EN[]
 === Supplementary Information, Terms, Translations
 
 To the extent necessary for understanding the curriculum, we have added definitions of technical terms to the https://github.com/isaqb-org/glossary[iSAQB glossary] and complemented them by references to (translated) literature.
-
-=== Help us improve this curriculum
-
-You find the most recent version of this document online (https://isaqb-org.github.io/curriculum-req4arc/), where you are encouraged to provide feedback.
 // end::EN[]
 

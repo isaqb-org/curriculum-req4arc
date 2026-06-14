@@ -28,8 +28,8 @@ Vorsitzender des Executive Board von IREB
 // end::DE[]
 
 // tag::EN[]
-:sectnum!:
-## Preface
+[preface]
+== Preface
 
 IREB, the International Requirements Engineering Board, has been committed to educating professionals in requirements engineering for more than fourteen years. Up to 2020, more than fifty thousand people have acquired the CPRE FL certificate (Certified Professional for Requirements Engineering – Foundation Level).
 
