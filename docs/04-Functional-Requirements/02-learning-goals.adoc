@@ -67,10 +67,10 @@ Verstehen, dass viele unterschiedliche Kriterien zur Zerlegung eines Systems in 
 * Details siehe <<section-bdd,Kapitel 6 (BDD)>>
 
 [[LZ-4-11]]
-==== LZ 4-11: Methoden zur Ermittlung funktionaler Anforderungen kennen
+==== LZ 4-11: Methoden zur Erhebung funktionaler Anforderungen kennen
 
-* Wissen, dass es viele verschiedene Ermittlungstechniken gibt, die Architekt:innen kennen sollten, z.B. Interviews, Fragebögen, Brainstorming-Sitzungen, Three Amigo Sessions <<smart-amigo>>, Knowledge Crunching, Event Storming und viele andere
-* Wissen, wann welche Ermittlungstechnik die Kommunikation mit Stakeholdern verbessert
+* Wissen, dass es viele verschiedene Erhebungstechniken gibt, die Architekt:innen kennen sollten, z.B. Interviews, Fragebögen, Brainstorming-Sitzungen, Three Amigo Sessions <<smart-amigo>>, Knowledge Crunching, Event Storming und viele andere
+* Wissen, wann welche Erhebungstechnik die Kommunikation mit Stakeholdern verbessert
 
 // end::DE[]
 

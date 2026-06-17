@@ -38,7 +38,7 @@ Epic:: (angelehnt an IREB): Eine abstrakte Beschreibung eines Stakeholder-Bedür
 
 
 
-Feature:: Eine Leistung, die ein Stakeholder-Bedürfnis erfüllt.
+Feature:: Eine Leistung, Service oder Dienst, die ein Stakeholder-Bedürfnis erfüllt.
 Jedes Feature umfasst eine Nutzenhypothese und Akzeptanzkriterien.
 
 Funktionale Anforderungen:: Eine Anforderung an ein Ergebnis oder Verhalten, das eine Funktion eines Systems (oder einer Komponente oder eines Service) liefern soll.

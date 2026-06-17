@@ -17,11 +17,11 @@
 * Verstehen, dass Architekt:innen nicht alle Qualitätsanforderungen und Randbedingungen früh im Projekt benötigen, aber die wichtigsten finden müssen, da diese Architekturtreiber sind und sehr wichtige Architekturentscheidungen beeinflussen
 
 [[LZ-5-3]]
-==== LZ 5-3: Qualitätsanforderungen ermitteln und spezifizieren
+==== LZ 5-3: Qualitätsanforderungen erheben und spezifizieren
 
 * Wissen, wie Qualitätsszenarien oder textuelle Spezifikationen inklusive Motivation („warum?") spezifiziert werden
 * Checklisten und Kategorisierungsschemata nutzen, um die wichtigsten Kandidaten für Qualitätsanforderungen zu finden
-* Wissen, dass unterschiedliche Stile der Ermittlung und Spezifikation von Qualitäten bei verschiedenen Stakeholdern schneller oder langsamer zu Ergebnissen führen können.
+* Wissen, dass unterschiedliche Stile der Erhebung und Spezifikation von Qualitäten bei verschiedenen Stakeholdern schneller oder langsamer zu Ergebnissen führen können.
 Architekt:innen sollten die effizientesten Wege kennen – abhängig von Fähigkeiten, Motivation und Zeit ihrer Stakeholder.
 
 

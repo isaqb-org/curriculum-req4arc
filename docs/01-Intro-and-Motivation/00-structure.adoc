@@ -7,10 +7,10 @@
 == Einführung und Motivation
 
 Dieses Thema begründet, warum Architekturentscheidungen hinreichende Anforderungen als Grundlage benötigen.
-Architekt:innen sollten wissen, dass sie diesen Input entweder von den für Requirements Engineering verantwortlichen Personen einfordern können oder die Anforderungen selbst ermitteln und verstehen müssen.
+Architekt:innen sollten wissen, dass sie diesen Input entweder von den für Requirements Engineering verantwortlichen Personen einfordern können oder die Anforderungen selbst erheben und verstehen müssen.
 
 Es braucht jedoch keine _vollständigen_ Anforderungen, sondern nur die Teilmenge, die für Architekturentscheidungen notwendig ist (die sogenannten architekturrelevanten Anforderungen, engl. _architecturally significant requirements_).
-Der Rest kann iterativ und inkrementell ermittelt werden, sodass er _just in time_ für Entscheidungen vorliegt.
+Der Rest kann iterativ und inkrementell erhoben werden, sodass er _just in time_ für Entscheidungen vorliegt.
 
 include::01-duration-terms.adoc[{include_configuration}]
 include::02-learning-goals.adoc[{include_configuration}]

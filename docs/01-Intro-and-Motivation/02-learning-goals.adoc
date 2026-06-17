@@ -13,14 +13,14 @@
 
 * Wissen, dass es unterschiedliche Rollenbezeichnungen für die Verantwortlichen für Anforderungen gibt (Business Analyst, Requirements Engineer, Product Owner)
 * Deren Beziehung zu Architekt:innen und Entwicklungsteams verstehen
-* Kernaufgaben des Requirements Engineering kennen, darunter Ermittlung, Dokumentation, Prüfung und Pflege
+* Kernaufgaben des Requirements Engineering kennen, darunter Erhebung, Dokumentation, Prüfung und Pflege
 
 [[LZ-1-3]]
-==== LZ 1-3: Den inkrementellen Charakter der Anforderungsermittlung verstehen („Just in Time")
+==== LZ 1-3: Den inkrementellen Charakter der Anforderungserhebung verstehen („Just in Time")
 
 * Verstehen, dass Anforderungen und Architektur iterativ entwickelt werden können (und sollten)
 * Verstehen, dass Architekt:innen keine „vollständigen" Anforderungen brauchen, sondern stets gerade genug Anforderungen, um Entwurfsentscheidungen für die nächsten Iterationen zu treffen
-* Verstehen, dass Anforderungen iterativ und inkrementell ermittelt werden können
+* Verstehen, dass Anforderungen iterativ und inkrementell erhoben werden können
 
 // end::DE[]
 

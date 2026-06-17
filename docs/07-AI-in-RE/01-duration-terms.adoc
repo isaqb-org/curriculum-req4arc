@@ -10,8 +10,15 @@
 | Unterricht: 60 Min. | Übungen: keine
 |===
 
-// TODO: Einleitungstext folgt (siehe Curators Meeting, Word-Dokument 2026.1-rev3)
-Text folgt.
+Künstliche Intelligenz, insbesondere Large Language Models (LLMs), wird zunehmend zur Unterstützung des Requirements Engineering eingesetzt. Da LLMs Werkzeuge für Sprache und Text sind, passen ihre Stärken – Text erzeugen, umformen, zusammenfassen und vergleichen – zu vielen Aktivitäten des Requirements Engineering, von der Vorbereitung der Erhebung bis zum Entwerfen, Analysieren und Konsolidieren von Anforderungen.
+
+Zugleich sind plausible Ergebnisse nicht zwangsläufig korrekt. LLMs können halluzinieren, es fehlt ihnen an Domänen- und implizitem Wissen, und sie können Bias widerspiegeln; zudem enthalten Anforderungen oft vertrauliches Firmenwissen, das nicht mit beliebigen Modellen geteilt werden darf. Requirements Engineering bleibt daher eine Tätigkeit der Kommunikation und Aushandlung mit Stakeholdern: KI kann solche Gespräche vor- und nachbereiten, aber nicht ersetzen, und die Verantwortung für die entstehenden Anforderungen bleibt bei Menschen (Human-in-the-Loop).
+
+Dieses Kapitel führt in die Potenziale und Grenzen von LLMs für die Anforderungsarbeit ein, zeigt konkrete Einsatzszenarien entlang der in früheren Kapiteln behandelten Aktivitäten und erläutert, wie sich KI-Ergebnisse prüfen und kritisch bewerten lassen. Da sich das Feld schnell weiterentwickelt, stehen die Konzepte im Vordergrund – nicht einzelne Werkzeuge oder Modelle.
+
+=== Begriffe und Konzepte
+
+Large Language Model (LLM), Generative KI, Prompt, Kontext, Halluzination, Bias, implizites Wissen (Tacit Knowledge), Human-in-the-Loop, Vertraulichkeit / Datenschutz
 
 // end::DE[]
 
@@ -21,8 +28,15 @@ Text folgt.
 | Teaching: 60 min | Exercises: none
 |===
 
-// TODO: Text TBD (see curators meeting, Word document 2026.1-rev3)
-Text TBD.
+Artificial intelligence, in particular large language models (LLMs), is increasingly used to support requirements engineering. Because LLMs are tools for language and text, their strengths - generating, transforming, summarizing and comparing text - match many requirements engineering activities, from preparing elicitation to drafting, analysing and consolidating requirements.
+
+At the same time, plausible output is not necessarily correct. LLMs can hallucinate, lack domain and tacit knowledge, and reflect bias; in addition, requirements often contain confidential company knowledge that must not be shared with arbitrary models. Requirements engineering therefore remains an activity of communication and negotiation with stakeholders: AI can prepare and follow up on such conversations, but it cannot replace them, and humans stay responsible for the resulting requirements (human-in-the-loop).
+
+This chapter introduces the potential and the limitations of LLMs for requirements work, shows concrete use cases along the requirements activities covered in earlier chapters, and explains how to check and critically assess AI-generated results. As the field evolves rapidly, the concepts - not specific tools or models - are in focus.
+
+=== Terms and concepts
+
+Large Language Model (LLM), Generative AI, Prompt, Context, Hallucination, Bias, Tacit Knowledge, Human-in-the-Loop, Confidentiality / Data Protection
 
 
 // end::EN[]

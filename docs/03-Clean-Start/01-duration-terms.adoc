@@ -6,8 +6,8 @@
 | Unterricht: 75 Min. | Übungen: 75 Min.
 |===
 
-Auch wenn Requirements Engineering heute iterativ und inkrementell erfolgen sollte, braucht es einige Vorab-Aktivitäten, die die detaillierte Anforderungsermittlung und zentrale Architekturentscheidungen leiten.
-Sie bilden den „Clean Start" einer Projekt- oder Produktentwicklung.
+Auch wenn Requirements Engineering heute iterativ und inkrementell erfolgen sollte, braucht es einige Vorab-Aktivitäten, die die detaillierte Anforderungserhebung und zentrale Architekturentscheidungen leiten.
+Sie bilden den „Sauberen Start" (Clean Start) einer Projekt- oder Produktentwicklung.
 Dazu gehören vor allem:
 
 * Vision und Ziele definieren

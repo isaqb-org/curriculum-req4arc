@@ -17,7 +17,7 @@
 >| 45
 >| 60
 
-| 3. Clean Start
+| 3. Sauberer Start (Clean Start)
 >| 75
 >| 75
 
@@ -37,7 +37,7 @@
 >| 60
 >| 0
 
-| 8. Priorisierung von Anforderungen
+| 8. Priorisierung und Schätzung von Anforderungen
 >| 45
 >| 30
 

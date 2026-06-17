@@ -18,7 +18,7 @@
 ==== LZ 3-3: Verschiedene Möglichkeiten und Notationen, Visionen und Business Goals auszudrücken
 
 * Verschiedene Wege kennen, Vision und Ziele zu definieren (explizite Zielformulierungen, Value Propositions für unterschiedliche Stakeholder, Vision Box, „News from the Future")
-* Merkhilfen für Vision- oder Zielformulierungen kennen (SMART, PAM)
+* Merkhilfen (Mnemotechnik) für Vision- oder Zielformulierungen kennen (SMART, PAM)
 
 [[LZ-3-4]]
 ==== LZ 3-4: Die Bedeutung unterschiedlicher Stakeholder und ihr Einfluss auf Produkt oder System

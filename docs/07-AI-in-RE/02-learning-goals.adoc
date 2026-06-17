@@ -19,7 +19,7 @@
 [[LZ-7-2]]
 ==== LZ 7-2: Einsatzszenarien von LLMs im Requirements Engineering kennen
 
-* Wissen, dass LLMs die Ermittlung unterstützen können, z.B. bei der Vorbereitung von Interviews, beim Generieren von Fragen, bei der Simulation von Stakeholdern oder Personas und beim Brainstorming
+* Wissen, dass LLMs die Erhebung unterstützen können, z.B. bei der Vorbereitung von Interviews, beim Generieren von Fragen, bei der Simulation von Stakeholdern oder Personas und beim Brainstorming
 * Wissen, dass LLMs bei der Analyse von Anforderungen helfen können, z.B. Mehrdeutigkeiten, Lücken und Widersprüche finden oder Anforderungen gegen Qualitätskriterien wie INVEST, Testbarkeit und Akzeptanzkriterien prüfen (vgl. LZ 4-8 und LZ 4-9)
 * Wissen, dass LLMs Entwürfe für Stories, Use Cases, Qualitätsszenarien und Gherkin-Beispiele erstellen können (vgl. Kapitel 5 und 6) und Anforderungen zwischen Abstraktionsebenen und Notationen umformulieren können
 * Wissen, dass LLMs große Anforderungsmengen zusammenfassen sowie Glossare und Begriffe auf Konsistenz prüfen können
