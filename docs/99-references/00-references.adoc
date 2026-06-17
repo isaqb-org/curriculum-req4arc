@@ -15,8 +15,8 @@ This section contains references that are cited in the curriculum.
 
 **A**
 
-- [[[adzic-11,Adzic-2011]]] Adzic, Goyko: Specification by Example. Manning, 2011. More info: https://gojko.net/books/specification-by-example/
-- [[[adzic-14,Adzic-2014]]] Adzic, Goyko: 50 Quick Ideas to Improve Your User Stories.
+- [[[adzic-11,Adzic-2011]]] Adzic, Gojko: Specification by Example. Manning, 2011. More info: https://gojko.net/books/specification-by-example/
+- [[[adzic-14,Adzic-2014]]] Adzic, Gojko / Evans, David: Fifty Quick Ideas to Improve Your User Stories. 2014. https://leanpub.com/50quickideas
 - [[[ATAM]]] Kazman, Rick: ATAM Method for Architecture Evaluation, (_Architecture Tradeoff Analysis Method_), SEI Technical Report, https://www.sei.cmu.edu/library/atam-method-for-architecture-evaluation/
 
 **B**
@@ -45,8 +45,8 @@ This section contains references that are cited in the curriculum.
 **I**
 
 - [[[ireb-agile,IREB]]] IREB: Handbook Advanced Module “RE@Agile”, https://cpre.ireb.org/de/downloads-and-resources/downloads/category:re-agile
-- [[[isaqb-foundation,iSAQB-Foundation]]] iSAQB Foundation Level Curriculum: https://isaqb-org.github.io/curriculum-foundation/
-- [[[iso25010,ISO-25010]]] ISO-25010: Standard for Systems and software Quality Requirements and Evaluation (SQuaRE), defining a generic model for software quality, https://www.iso.org/standard/78175.html
+- [[[isaqb-foundation,iSAQB-Foundation]]] iSAQB Foundation Level Curriculum: https://public.isaqb.org/curriculum-foundation/
+- [[[iso25010,ISO-25010]]] ISO/IEC 25010:2023: Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Product quality model (2nd edition, replaces ISO/IEC 25010:2011). https://www.iso.org/standard/78176.html
 
 **J**
 
@@ -58,11 +58,11 @@ This section contains references that are cited in the curriculum.
 
 **M**
 
-- [[[mcgreal,McGreal]]] McGreal, D.: The Professional Product Owner: Leveraging Scrum as a Competitive Advantage
+- [[[mcgreal,McGreal]]] McGreal, Don / Jocham, Ralph: The Professional Product Owner: Leveraging Scrum as a Competitive Advantage. Addison-Wesley, 2018
 
 **N**
 
-- [[[north,North]]] North, Dan: Introducing Behavior Driven Development, https://dannorth.net/introducting.bdd
+- [[[north,North]]] North, Dan: Introducing Behavior Driven Development, https://dannorth.net/blog/introducing-bdd/
 - [[[nuseibeh,Nuseibeh]]] B. Nuseibeh, “Weaving Together Requirements and Architectures,” Computer, vol. 34, no. 3, 2001, pp. 115–119.
 
 **P**
@@ -81,14 +81,14 @@ This section contains references that are cited in the curriculum.
 
 **S**
 
-- [[[smart-bdd,Smart-2014]]] Smart, J.F.: BDD in Action, Behavior-Driven Development for the whole software lifecycle. Manning 2014. See https://www.manning.com/books/bdd-in-action
+- [[[smart-bdd,Smart-2014]]] Smart, J.F. / Molak, J.: BDD in Action: Behavior-Driven Development for the whole software lifecycle. Manning, 2nd edition 2023. https://www.manning.com/books/bdd-in-action-second-edition
 - [[[smart-amigo,Smart-Amigo]]] Smart, J.F.: The Anatomy of a Three Amigo requirements discovery Session. https://johnfergusonsmart.com/three-amigos-requirements-discovery/
 - [[[starke-hruschka-arc42,Starke-Hruschka]]] Starke,G + Hruschka, P: Communicating Software Architectures: lean, effective and painless documentation. Leanpub https://leanpub.com/arc42inpractice
 
 **T**
 
-- [[[toth,Toth-19]]] Toth, Stefan: Vorgehensmuster in der Softwarearchitektur.
-Carl Hanser Verlag, 3rd edition 2019  (in German) - especially for "_Architecturally significant requirements_"
+- [[[toth,Toth-19]]] Toth, Stefan: Vorgehensmuster für Softwarearchitektur.
+Carl Hanser Verlag, 4th edition 2025  (in German) - especially for "_Architecturally significant requirements_"
 
 **W**
 
