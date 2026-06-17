@@ -10,7 +10,7 @@
         <mxCell id="hexN" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#FFFFFF;strokeColor=#263E4D;strokeWidth=2.5;fontFamily=Helvetica;fontSize=22;fontColor=#263E4D;spacingLeft=24;spacingRight=24;" value="Zusammenarbeit &lt;br&gt;der Rollen" vertex="1">
           <mxGeometry height="208" width="240" x="480" y="288" as="geometry" />
         </mxCell>
-        <mxCell id="hexNE" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#FFFFFF;strokeColor=#263E4D;strokeWidth=2.5;fontFamily=Helvetica;fontSize=22;fontColor=#263E4D;spacingLeft=24;spacingRight=24;" value="Clean Start" vertex="1">
+        <mxCell id="hexNE" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#FFFFFF;strokeColor=#263E4D;strokeWidth=2.5;fontFamily=Helvetica;fontSize=22;fontColor=#263E4D;spacingLeft=24;spacingRight=24;" value="Sauberer Start (Clean Start)" vertex="1">
           <mxGeometry height="208" width="240" x="660" y="392" as="geometry" />
         </mxCell>
         <mxCell id="hexSE" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#FFFFFF;strokeColor=#263E4D;strokeWidth=2.5;fontFamily=Helvetica;fontSize=22;fontColor=#263E4D;spacingLeft=24;spacingRight=24;" value="Funktionale Anforderungen und BDD" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="hexSW" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#FFFFFF;strokeColor=#263E4D;strokeWidth=2.5;fontFamily=Helvetica;fontSize=22;fontColor=#263E4D;spacingLeft=24;spacingRight=24;" value="KI im RE,&lt;div&gt;Werkzeuge für RE&lt;/div&gt;" vertex="1">
           <mxGeometry height="208" width="240" x="300" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="hexNW" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#FFFFFF;strokeColor=#263E4D;strokeWidth=2.5;fontFamily=Helvetica;fontSize=22;fontColor=#263E4D;spacingLeft=24;spacingRight=24;" value="Priorisierung und Schätzen" vertex="1">
+        <mxCell id="hexNW" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=60;fillColor=#FFFFFF;strokeColor=#263E4D;strokeWidth=2.5;fontFamily=Helvetica;fontSize=22;fontColor=#263E4D;spacingLeft=24;spacingRight=24;" value="Priorisierung und Schätzung" vertex="1">
           <mxGeometry height="208" width="240" x="300" y="392" as="geometry" />
         </mxCell>
         <mxCell id="arr1" parent="1" style="triangle;whiteSpace=wrap;html=1;fillColor=#F39200;strokeColor=none;rotation=30;" value="" vertex="1">
