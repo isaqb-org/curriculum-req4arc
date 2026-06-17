@@ -33,6 +33,22 @@ git clone git@github.com:isaqb-org/REPO-NAME.git --recursive
 
 If you already cloned without `--recursive`, run `git submodule update --init --recursive`.
 
+=== Using make (Linux / macOS)
+
+The `Makefile` wraps the build script with convenient targets. Each language
+target builds both formats (PDF + HTML). Run `make` (or `make help`) for the list:
+
+[source,shell]
+----
+make            # show all targets (same as `make help`)
+make all        # both languages (DE + EN), PDF + HTML
+make DE         # German, PDF + HTML
+make EN         # English, PDF + HTML
+make clean      # remove the build/ output directory
+----
+
+=== Using the build script directly
+
 Build all languages and formats:
 
 [source,shell]

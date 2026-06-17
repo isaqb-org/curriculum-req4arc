@@ -1,3 +1,5 @@
 # Release Notes
-## New in 2024.1
-Please add some proper release notes.
+## New in 2026.1
+
+* New chapter on RE and AI (artificial intelligence)
+*

@@ -13,7 +13,9 @@ REPO_ROOT=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
 ref="$IMAGE"
 [ -n "$DIGEST" ] && ref="${IMAGE}@${DIGEST}"
 
-CURRICULUM_FILE=""; LANGUAGES=""; SUFFIX_TAGS=""; PREPRESS=""
+# Default to empty only when not already provided via the environment, so that
+# host overrides (e.g. LANGUAGES="DE EN") survive and build.config can fill the rest.
+: "${CURRICULUM_FILE:=}"; : "${LANGUAGES:=}"; : "${SUFFIX_TAGS:=}"; : "${PREPRESS:=}"
 if [ -f "$REPO_ROOT/build.config" ]; then
   # shellcheck disable=SC1091
   . "$REPO_ROOT/build.config"
