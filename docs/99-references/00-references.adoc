@@ -45,6 +45,7 @@ This section contains references that are cited in the curriculum.
 **I**
 
 - [[[ireb-agile,IREB]]] IREB: Handbook Advanced Module “RE@Agile”, https://cpre.ireb.org/de/downloads-and-resources/downloads/category:re-agile
+- [[[ireb-glossary,IREB-Glossary]]] Glinz, Martin (IREB): A Glossary of Requirements Engineering Terminology (CPRE Glossary), version 2.2.0, 2025. https://cpre.ireb.org/en/downloads-and-resources/glossary
 - [[[isaqb-foundation,iSAQB-Foundation]]] iSAQB Foundation Level Curriculum: https://public.isaqb.org/curriculum-foundation/
 - [[[iso25010,ISO-25010]]] ISO/IEC 25010:2023: Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Product quality model (2nd edition, replaces ISO/IEC 25010:2011). https://www.iso.org/standard/78176.html
 

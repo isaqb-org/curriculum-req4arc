@@ -50,9 +50,21 @@ Goals:: -> Business Goal.
 GWT:: _Given, When, Then_: Halbstrukturierte Form, Testfälle oder Verhaltensspezifikationen aufzuschreiben.
 Erfunden von Dan North als Teil von ->BDD (Behavior-Driven Development).
 
+Kontext:: Der Begriff wird je nach Disziplin unterschiedlich verwendet:
++
+1. (Requirements Engineering, angelehnt an IREB <<ireb-glossary>>): Der Teil der Umgebung eines Systems, der für das Verständnis des Systems und seiner Anforderungen relevant ist. Eine _Kontextgrenze_ trennt diesen relevanten Teil von der Umgebung.
++
+2. (Softwarearchitektur, arc42): Bei der _Kontextabgrenzung_ liegt der Fokus auf den externen Schnittstellen und Nachbarn (Nachbarsysteme und Nutzer:innen), mit denen das System kommuniziert, unterschieden in fachlichen und technischen Kontext.
++
+3. (Large Language Models): Die Menge an Information (Tokens), die ein ->LLM bei der Erzeugung einer Antwort berücksichtigt, also ->Prompt, bisheriger Gesprächsverlauf und bereitgestellte Dokumente. 
+
+LLM:: (_Large Language Model_) Ein auf sehr großen Textmengen trainiertes KI-Modell, das natürliche Sprache verarbeitet und erzeugt, indem es schrittweise den wahrscheinlichsten nächsten Textbaustein (Token) vorhersagt. Ausgaben sind plausibel, aber nicht zwangsläufig korrekt. Die berücksichtigte Eingabe bildet den ->Kontext.
+
 Nichtfunktionale Anforderung:: (NFA) Eine -> Qualitätsanforderung oder eine Randbedingung (Constraint).
 
 PAM:: Das Akronym für _Purpose, Advantage, Metric_ hilft, sich beim Formulieren von Visionen oder Business Goals auf die wichtigen Aspekte zu konzentrieren.
+
+Prompt:: Die textuelle Eingabe (Anweisung, Frage oder Beispiel), mit der ein ->LLM zu einer Antwort veranlasst wird. Prompt und weiterer ->Kontext bestimmen maßgeblich die Qualität der Ausgabe.
 
 Qualitätsanforderung:: Eine Anforderung, die ein Qualitätsmerkmal betrifft, das nicht durch funktionale Anforderungen abgedeckt ist.
 
@@ -115,6 +127,14 @@ They may conflict with one another.
 
 Constraint:: A requirement that limits the solution space beyond what is necessary for meeting the given functional requirements and quality requirements.
 
+Context:: The term is used differently across disciplines:
++
+1. (Requirements Engineering, adapted from IREB <<ireb-glossary>>): The part of a system's environment that is relevant for understanding the system and its requirements. A _context boundary_ separates this relevant part from the environment.
++
+2. (Software architecture, arc42): In _context and scope_, the focus is on the external interfaces and neighbors (neighboring systems and users) the system communicates with, distinguished into business and technical context.
++
+3. (Large Language Models): The body of information (tokens) an ->LLM takes into account when generating a response, i.e. the ->Prompt, the prior conversation and any supplied documents.
+
 Definition of Ready:: (DoR)	(adapted from IREB): a set of criteria that a requirement must meet prior to being accepted into an upcoming iteration.
 
 
@@ -134,9 +154,13 @@ Goals::	 -> Business Goal.
 GWT:: _Given, When, Then_: Semi-structured way to write down test cases or behavior specifications.
 It was invented by Dan North as part of ->BDD (behavior-driven development).
 
+LLM:: (_Large Language Model_) An AI model trained on very large amounts of text that processes and generates natural language by predicting, step by step, the most likely next token. Its output is plausible but not necessarily correct. The input it takes into account forms its ->Context.
+
 Non-functional Requirement:: (NFA) A -> quality requirement or a constraint.
 
 PAM:: The acronym for _Purpose, Advantage, Metric_ helps to concentrate on important aspects when writing vision or business goal statements
+
+Prompt:: The textual input (instruction, question or example) used to elicit a response from an ->LLM. The prompt and additional ->Context strongly determine the quality of the output.
 
 Quality Requirement:: A requirement that pertains to a quality concern that is not covered by functional requirements.
 

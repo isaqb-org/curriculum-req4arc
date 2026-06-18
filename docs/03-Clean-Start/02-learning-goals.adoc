@@ -11,7 +11,7 @@
 [[LZ-3-2]]
 ==== LZ 3-2: Die Notwendigkeit von (übergeordneter) Vision und Business Goals verstehen
 
-* Verstehen, dass Visionen oder Business Goals die obersten Anforderungen sind, also jene, die sich (hoffentlich) während eines Projekts nicht ändern
+* Verstehen, dass Visionen oder Business Goals die obersten Anforderungen sind, also jene, die sich (hoffentlich) während eines Projekts nicht ändern <<pichler>>
 * Verstehen, dass Visionen und Ziele quantifiziert und messbar gemacht werden sollten, um Erfolg in Bezug auf Business Value überprüfen zu können
 
 [[LZ-3-3]]
@@ -55,7 +55,7 @@
 [[LG-3-2]]
 ==== LG 3-2: Understanding the need for (high level) vision and business goals
 
-* Understand that visions or business goals are your highest level requirements, i.e. those requirements that are (hopefully) not changed during a project
+* Understand that visions or business goals are your highest level requirements, i.e. those requirements that are (hopefully) not changed during a project <<pichler>>
 * Understand that visions and goals should be quantified and made measurable to be able to check success in terms of business value.
 
 [[LG-3-3]]

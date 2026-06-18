@@ -29,7 +29,7 @@ Verstehen, dass viele unterschiedliche Kriterien zur Zerlegung eines Systems in 
 ==== LZ 4-5: Wertschöpfende Prozesse dokumentieren
 
 * Verschiedene Notationen kennen, um wertschöpfende Prozesse festzuhalten
-* Wissen, wie man gute Stories schreibt (z.B. <<adzic-14>>: As a <role> I want to <functionality> so that <advantage>)
+* Wissen, wie man gute Stories schreibt (z.B. <<adzic-14>>: As a <role> I want to <functionality> so that <advantage>) <<hathaway>>
 * Wissen, wie man Prozesse in Use-Case-Diagrammen und Use-Case-Spezifikationen festhält
 * Den Unterschied zwischen Use Cases und User Stories verstehen
 
@@ -61,7 +61,7 @@ Verstehen, dass viele unterschiedliche Kriterien zur Zerlegung eines Systems in 
 [[LZ-4-10]]
 ==== LZ 4-10: Specification-by-Example verstehen
 
-* Verstehen, dass einige gute Beispiele für funktionale Anforderungen manchmal besser sind als eine schlechte Abstraktion
+* Verstehen, dass einige gute Beispiele für funktionale Anforderungen manchmal besser sind als eine schlechte Abstraktion <<adzic-11>>
 * Wissen, dass Szenarien Beispiele für funktionale Anforderungen sind
 * Verschiedene Notationen kennen, um Szenarien auszudrücken
 * Details siehe <<section-bdd,Kapitel 6 (BDD)>>
@@ -103,7 +103,7 @@ Understand that many different criteria can be applied to decompose a system int
 ==== LG 4-5: Documenting value-adding processes
 
 * Know different notations to capture value-adding processes
-* Know how to write good stories (i.e. <<adzic-14>>: As a <role> I want to <functionality> so that <advantage>)
+* Know how to write good stories (i.e. <<adzic-14>>: As a <role> I want to <functionality> so that <advantage>) <<hathaway>>
 * Know how to capture processes in use case diagrams and use case specifications
 * Understand the difference between use cases and user stories
 
@@ -135,7 +135,7 @@ Understand that many different criteria can be applied to decompose a system int
 [[LG-4-10]]
 ==== LG 4-10: Understanding specification-by-examples
 
-* Understand that sometimes a couple of good examples for functional requirements are better than a bad abstraction
+* Understand that sometimes a couple of good examples for functional requirements are better than a bad abstraction <<adzic-11>>
 * Know that scenarios are examples for functional requirements
 * Know various notations to express scenarios
 * For more details see <<section-bdd,section 6 (BDD)>>

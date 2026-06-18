@@ -9,8 +9,8 @@
 
 * Verstehen, dass verschiedene Stakeholder unterschiedlichen Wert in Anforderungen sehen können.
 Manche interessieren sich für kurzfristigen Umsatz, andere für bessere Kundenzufriedenheit oder schnelle Time-to-Market.
-Wieder andere wollen das Risiko für die restliche Entwicklung reduzieren oder eine Plattform für langfristige Kosteneinsparungen schaffen.
-* Verschiedene Methoden kennen, um Wert auszudrücken, z.B. MoSCoW-Priorisierung, definierte Wertebereiche, lineare Sortierung aller Anforderungen, gewichtete Faktorenmethoden, Cost of Delay, ...
+Wieder andere wollen das Risiko für die restliche Entwicklung reduzieren oder eine Plattform für langfristige Kosteneinsparungen schaffen. <<mcgreal>>
+* Verschiedene Methoden kennen, um Wert auszudrücken, z.B. MoSCoW-Priorisierung <<clegg>>, definierte Wertebereiche, lineare Sortierung aller Anforderungen, gewichtete Faktorenmethoden, Cost of Delay, ...
 
 
 [[LZ-8-2]]
@@ -41,8 +41,8 @@ Wieder andere wollen das Risiko für die restliche Entwicklung reduzieren oder e
 
 * Understand that different stakeholders may see different value in requirements.
 Some of them may be interested in short turn revenue, others in improvement of customer satisfaction, or quick time-to-market.
-Others might want to reduce the risk for the rest of the development, or create a platform for longer term cost savings.
-* Know different methods for expressing value, e.g. MoSCoW-prioritization, defined ranges of values, linear sorting of all requirements, weighted factor methods, cost of delay, ...
+Others might want to reduce the risk for the rest of the development, or create a platform for longer term cost savings. <<mcgreal>>
+* Know different methods for expressing value, e.g. MoSCoW-prioritization <<clegg>>, defined ranges of values, linear sorting of all requirements, weighted factor methods, cost of delay, ...
 
 
 [[LG-8-2]]

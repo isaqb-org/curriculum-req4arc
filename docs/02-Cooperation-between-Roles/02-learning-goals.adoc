@@ -8,7 +8,7 @@
 ==== LZ 2-1: Die Zusammenarbeit zwischen Architekt:innen und anderen Rollen rund um Anforderungen verstehen
 
 * Verstehen, dass iterative Systementwicklung alle am Entwicklungsprozess beteiligten Rollen einbezieht
-* Wissen, dass Architekt:innen laufend mit Business Analysts und Anforderungsverantwortlichen sowie mit Entwickler:innen und Tester:innen interagieren
+* Wissen, dass Architekt:innen laufend mit Business Analysts und Anforderungsverantwortlichen sowie mit Entwickler:innen und Tester:innen interagieren <<robertson-19>>
 
 [[LZ-2-2]]
 ==== LZ 2-2: Kooperative Ansätze der Produktentwicklung kennen
@@ -42,7 +42,7 @@
 ==== LG 2-1: Understand the cooperation between architects and other roles concerning requirements
 
 * Understand that iterative system development includes all roles involved in the development process
-* Know that architects constantly interact with business analysts and requirements persons, as well as developers and testers
+* Know that architects constantly interact with business analysts and requirements persons, as well as developers and testers <<robertson-19>>
 
 [[LG-2-2]]
 ==== LG 2-2: Know cooperative approaches to product development
