@@ -45,8 +45,11 @@ wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Litera
 ==== LG 2-5: Different needs and values of different stakeholders  ("value propositions")
 
 * Understand that different stakeholders will have different needs and may differ in their opinions what is valuable in a product
+* Know that there are established classification schemes for stakeholders (e.g. Stakeholder Matrix)
 * Know that a prioritized stakeholder list helps to prioritize requirements by business value
 * Know that architects have to handle goal conflicts between stakeholder's needs
+* Know about commonly forgotten stakeholders (e.g. legal, operations, support)
+* Know that the developers are also stakeholders
 
 [[LG-2-6]]
 ==== LG 2-6: Scoping and delimiting the context of the system
