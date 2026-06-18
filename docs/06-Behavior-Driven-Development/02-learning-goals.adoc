@@ -19,7 +19,7 @@
 
 * Wissen, dass BDD eine kollaborative Praktik zur Entdeckung von Anforderungen ist, die Gespräche über konkrete Beispiele nutzt, um ein gemeinsames Verständnis der Anforderungen aufzubauen
 * Wissen, dass kollaborative Workshops und Diskussionsformate wie Three Amigo Sessions (TAS) <<smart-amigo>> helfen, korrekte Anforderungen zu erhalten. In einer TAS arbeiten die drei Rollen „Product Owner" (oder Business Analyst), „Entwickler:in" und „Tester:in" gemeinsam an der Entdeckung von Anforderungen.
-* Wissen, dass konkrete Beispiele gut geeignet sind, die Problemdomäne zu erkunden, und eine Grundlage für Akzeptanztests bieten. Example Mapping <<wynn>> hilft, Regeln und offene Fragen zu finden und neue Stories zu identifizieren.
+* Wissen, dass konkrete Beispiele gut geeignet sind, die Problemdomäne zu erkunden, und eine Grundlage für Akzeptanztests bieten. Example Mapping <<wynne>> hilft, Regeln und offene Fragen zu finden und neue Stories zu identifizieren.
 * Wissen, dass BDD Benutzeranforderungen in Features beschreibt, Features in Stories herunterbricht und die Stories in (ausführbare) Beispiele
 
 
@@ -53,7 +53,7 @@
 
 * Know that BDD is a collaborative requirements discovery practice that uses conversations around concrete examples to build a shared understanding of requirements.
 * Know that collaborative workshops and discussion formats, like Three Amigo Sessions (TAS) <<smart-amigo>>, help in getting correct  requirements.  In a TAS, the three roles "product owner" (or business analyse), "developer" and "tester" collaborate in discovering requirements.
-* Know that concrete examples are a suitable way to help explore the problem domain, and they provide a basis for acceptance tests. Example mapping <<wynn>> helps to find rules, open questions and identify new stories.
+* Know that concrete examples are a suitable way to help explore the problem domain, and they provide a basis for acceptance tests. Example mapping <<wynne>> helps to find rules, open questions and identify new stories.
 * Know that BDD explains user requirements in features, breaks features down into stories and the stories into (executable) examples.
 
 
