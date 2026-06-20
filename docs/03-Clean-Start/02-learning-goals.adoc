@@ -30,9 +30,15 @@
 [[LZ-3-5]]
 ==== LZ 3-5: Unterschiedliche Bedürfnisse und Werte verschiedener Stakeholder („Value Propositions")
 
-* Verstehen, dass verschiedene Stakeholder unterschiedliche Bedürfnisse haben und unterschiedlicher Meinung sein können, was an einem Produkt wertvoll ist
-* Wissen, dass eine priorisierte Stakeholder-Liste hilft, Anforderungen nach Business Value zu priorisieren
-* Wissen, dass Architekt:innen Zielkonflikte zwischen den Bedürfnissen der Stakeholder behandeln müssen
+Verstehen, dass verschiedene Stakeholder unterschiedliche Bedürfnisse haben und unterschiedlicher Meinung sein können, was an einem Produkt wertvoll ist.
+
+Wissen, dass:
+
+* auch die Entwickler:innen Stakeholder sind
+* es etablierte Klassifikationsschemata für Stakeholder gibt (z. B. Stakeholder-Matrix)
+* eine priorisierte Stakeholder-Liste hilft, Anforderungen nach Business Value zu priorisieren
+* Architekt:innen Zielkonflikte zwischen den Bedürfnissen der Stakeholder behandeln müssen
+* welche Stakeholder häufig vergessen werden (z. B. Legal, Betrieb, Support)
 
 [[LZ-3-6]]
 ==== LZ 3-6: Scope festlegen und den Kontext des Systems abgrenzen
@@ -74,9 +80,15 @@
 [[LG-3-5]]
 ==== LG 3-5: Different needs and values of different stakeholders  ("value propositions")
 
-* Understand that different stakeholders will have different needs and may differ in their opinions what is valuable in a product
-* Know that a prioritized stakeholder list helps to prioritize requirements by business value
-* Know that architects have to handle goal conflicts between stakeholder's needs
+Understand that different stakeholders will have different needs and may differ in their opinions what is valuable in a product
+
+Know:
+
+* that the developers are also stakeholders
+* that there are established classification schemes for stakeholders (e.g. Stakeholder Matrix)
+* that a prioritized stakeholder list helps to prioritize requirements by business value
+* architects have to handle goal conflicts between stakeholder's needs
+* about commonly forgotten stakeholders (e.g. legal, operations, support)
 
 [[LG-3-6]]
 ==== LG 3-6: Scoping and delimiting the context of the system
