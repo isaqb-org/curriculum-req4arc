@@ -35,7 +35,7 @@ This section contains references that are cited in the curriculum.
 **G**
 
 - [[[gerstbach,Gerstbach]]] Gerstbach, Ingrid: Design Thinking im Unternehmen: Ein Workbook für die Einführung von Design Thinking, GABAL Verlag, 2016 (in German)
-- [[[gottesdiener-12]]] Gottesdiener, Ellen: Discover to Deliver: Agile Product Planning and Analysis, EGB Consulting, 2012
+- [[[gottesdiener-12,Gottesdiener]]] Gottesdiener, Ellen: Discover to Deliver: Agile Product Planning and Analysis, EGB Consulting, 2012
 
 **H**
 
@@ -55,7 +55,7 @@ This section contains references that are cited in the curriculum.
 
 **L**
 
-- [[[lawrence]]] Richard Lawrence, Peter Green: The Humanizing Work Guide to Splitting User Stories, https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/
+- [[[lawrence,Lawrence]]] Richard Lawrence, Peter Green: The Humanizing Work Guide to Splitting User Stories, https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/
 
 **M**
 
@@ -68,7 +68,7 @@ This section contains references that are cited in the curriculum.
 
 **P**
 
-- [[[pichler, Pichler]]] Pichler, R.: Agile Product Management with Scrum: Creating Products that Customers Love. Addison-Wesley, 2010
+- [[[pichler,Pichler]]] Pichler, R.: Agile Product Management with Scrum: Creating Products that Customers Love. Addison-Wesley, 2010
 
 **Q**
 
