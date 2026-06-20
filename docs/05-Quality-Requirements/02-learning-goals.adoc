@@ -22,7 +22,7 @@
 * Wissen, wie Qualitätsszenarien oder textuelle Spezifikationen inklusive Motivation („warum?") spezifiziert werden
 * Checklisten und Kategorisierungsschemata nutzen, um die wichtigsten Kandidaten für Qualitätsanforderungen zu finden
 * Wissen, dass unterschiedliche Stile der Erhebung und Spezifikation von Qualitäten bei verschiedenen Stakeholdern schneller oder langsamer zu Ergebnissen führen können.
-Architekt:innen sollten die effizientesten Wege kennen – abhängig von Fähigkeiten, Motivation und Zeit ihrer Stakeholder.
+Architekt:innen sollten ihr Vorgehen bei der Erhebung und Spezifikation von Qualitätsanforderungen an Fähigkeiten, Motivation und Zeit ihrer Stakeholder anpassen können.
 
 
 [[LZ-5-4]]
@@ -81,7 +81,7 @@ Ein anderer Weg ist die statistische Beobachtung über die Zeit („schauen, ob 
 * Knowing how to specify quality scenarios or textual specifications, including motivation ("why?")
 * Using checklists and categorization schemes to find the most important candidates of quality requirements
 * Know that architects should be aware that different styles of eliciting and specifying qualities can achieve quicker or slower results with different stakeholders.
-They should know the most efficient ways depending on skills, motivation and time of their stakeholders.
+They should be able to select and adapt their approach to eliciting and specifying quality requirements based on the skills, motivation and available time of their stakeholders.
 
 
 [[LG-5-4]]
