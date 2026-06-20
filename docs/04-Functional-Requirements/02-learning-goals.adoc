@@ -50,7 +50,7 @@ Verstehen, dass viele unterschiedliche Kriterien zur Zerlegung eines Systems in 
 
 * Verstehen, dass funktionale Anforderungen präzise genug sind, sobald das Entwicklungsteam keine Fragen mehr zu ihrer Bedeutung hat
 * Den zweiten Teil von „INVEST" <<wake2003>> verstehen: „Estimable", „Small enough", „Testable"
-* Die „Definition of Ready" (DoR) kennen und wissen, warum sie für die Zusammenarbeit zwischen Stakeholdern wichtig ist
+* Die „Definition of Ready" (DoR) kennen und wissen, wie sie die Zusammenarbeit zwischen Stakeholdern unterstützt (z.B. zwischen Requirements Engineers und Architekt:innen)
 
 [[LZ-4-9]]
 ==== LZ 4-9: Akzeptanzkriterien für funktionale Anforderungen
@@ -124,7 +124,7 @@ Understand that many different criteria can be applied to decompose a system int
 
 * Understand that functional requirements are precise enough as soon as the development team has no more questions about their meaning
 * Understand the second part of "INVEST" <<wake2003>>: "Estimable", "Small enough", "Testable"
-* Know the "Definition of Ready" (DoR) and why it is important for the cooperation between stakeholders
+* Know the "Definition of Ready" (DoR) and how it supports the cooperation between stakeholders (e.g. between requirements engineers and architects)
 
 [[LG-4-9]]
 ==== LG 4-9: Acceptance criteria for functional requirements
