@@ -6,7 +6,7 @@
 
 * Wissen, warum gute Anforderungen – insbesondere Qualitätsanforderungen – aus Sicht der Softwarearchitektur notwendig sind
 * Die Kernaufgaben von Softwarearchitekt:innen kennen, zu denen das Klären von Anforderungen und Randbedingungen gehört
-* Verstehen, dass Architekt:innen vorab keine vollständigen Anforderungen benötigen, sondern sich auf architekturrelevante Anforderungen konzentrieren sollten <<toth>>
+* Das Konzept architekturrelevanter Anforderungen (ASR) verstehen und dass Architekt:innen sich auf diese konzentrieren sollten statt auf Vollständigkeit <<toth>>
 
 [[LZ-1-2]]
 ==== LZ 1-2: Verantwortlichkeiten, Rollen und Kernaktivitäten verstehen
@@ -30,7 +30,7 @@
 
 * Know the need for good requirements, especially quality requirements seen from the perspective of software architecture
 * Know the key tasks for software architects which include clarifying requirements and constraints
-* Understand that architects do not need complete requirements up-front, but should focus on architecturally significant requirement <<toth>>
+* Understand the concept of architecturally significant requirements (ASR), and that architects should concentrate on them rather than on completeness <<toth>>
 
 [[LG-1-2]]
 ==== LG 1-2: Understanding responsibilities, roles and key activities
