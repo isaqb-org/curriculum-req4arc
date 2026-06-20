@@ -26,9 +26,9 @@
 [[LZ-6-3]]
 ==== LZ 6-3: Gherkin und Cucumber als Beispiele für BDD kennen
 
-* Die Given-When-Then-Syntax (GWT) kennen, wie Gherkin sie vorschlägt
+* Die Given-When-Then-Syntax (GWT) kennen, wie Gherkin <<gherkin>> sie vorschlägt
 * Wissen, dass Given-When-Then-basierte Formulierungen von Anforderungen die Testautomatisierung erleichtern
-* Wissen, dass mehrere Werkzeuge existieren, um Given-When-Then-Verhaltensspezifikationen auf den Quellcode des Systems abzubilden (z.B. Cucumber, RSpec, SpecFlow, GivWenZen)
+* Wissen, dass mehrere Werkzeuge existieren, um Given-When-Then-Verhaltensspezifikationen auf den Quellcode des Systems abzubilden (z.B. Cucumber <<cucumber>>, RSpec, SpecFlow, GivWenZen)
 * Optional Beispiele für GWT-Spezifikationen mit dem zugehörigen Glue Code für die automatische Ausführung kennen
 
 // end::DE[]
@@ -60,9 +60,9 @@
 [[LG-6-3]]
 ==== LG 6-3: Knowing Gherkin and Cucumber as examples for BDD
 
-* Know the Given-When-Then (GWT) syntax as proposed by Gherkin.
+* Know the Given-When-Then (GWT) syntax as proposed by Gherkin <<gherkin>>.
 * Know that Given-When-Then based formulations of requirements facilitate test automation.
-* Know that several tools exist to map Given-When-Then behavior specifications to the systems' source code (e.g. Cucumber, RSpec, SpecFlow, GivWenZen).
+* Know that several tools exist to map Given-When-Then behavior specifications to the systems' source code (e.g. Cucumber <<cucumber>>, RSpec, SpecFlow, GivWenZen).
 * Optionally know examples of GWT specifications with the appropriate glue code for automatic execution.
 
 // end::EN[]

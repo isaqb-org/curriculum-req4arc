@@ -43,7 +43,7 @@ Verstehen, dass viele unterschiedliche Kriterien zur Zerlegung eines Systems in 
 ==== LZ 4-7: Funktionale Anforderungen dokumentieren
 
 * Verstehen, dass detaillierte funktionale Anforderungen auf verschiedene Arten dokumentiert werden können, z.B. textuell, aber auch in vielen grafischen Formen, die meist mehr Präzision und weniger Interpretationsspielraum bieten, aber teils schwerer zu erstellen und zu verstehen sind als natürlichsprachliche Anforderungen
-* Grafische Modelle wie Aktivitätsdiagramme, BPMN, Informationsmodelle und Zustandsmodelle kennen und wissen, wann welche Notation passt
+* Grafische Modelle wie Aktivitätsdiagramme, BPMN <<bpmn>>, Informationsmodelle und Zustandsmodelle kennen und wissen, wann welche Notation passt
 
 [[LZ-4-8]]
 ==== LZ 4-8: Wissen, wann die Verfeinerung funktionaler Anforderungen endet
@@ -56,7 +56,7 @@ Verstehen, dass viele unterschiedliche Kriterien zur Zerlegung eines Systems in 
 ==== LZ 4-9: Akzeptanzkriterien für funktionale Anforderungen
 
 * Wissen, dass funktionale Anforderungen Akzeptanzkriterien haben sollten, also Kriterien, mit denen sich (nach der Implementierung) feststellen lässt, ob die Anforderung erfüllt ist
-* Die „CCC-Regel" verstehen: Card, Conversation, Confirmation. Die Akzeptanzkriterien sind die Grundlage der Confirmation.
+* Die „CCC-Regel" <<jeffries-ccc>> verstehen: Card, Conversation, Confirmation. Die Akzeptanzkriterien sind die Grundlage der Confirmation.
 
 [[LZ-4-10]]
 ==== LZ 4-10: Specification-by-Example verstehen
@@ -117,7 +117,7 @@ Understand that many different criteria can be applied to decompose a system int
 ==== LG 4-7: Documenting functional requirements
 
 * Understand that detailed functional requirements could be documented in various ways, e.g. in textual form but also in many graphical forms that usually add more precision, less interpretability, but a sometimes harder to create and understand compared to plain language requirements
-* Know graphical models like activity diagrams, BPMN, information models, state models and when to use which notation
+* Know graphical models like activity diagrams, BPMN <<bpmn>>, information models, state models and when to use which notation
 
 [[LG-4-8]]
 ==== LG 4-8: Knowing when to stop refining functional requirements
@@ -130,7 +130,7 @@ Understand that many different criteria can be applied to decompose a system int
 ==== LG 4-9: Acceptance criteria for functional requirements
 
 * Know that functional requirements should have acceptance criteria, i.e. criteria to determine (after implementation) whether the requirement has been fulfilled
-* Understand the "CCC-Rule": card, conversation, confirmation. The acceptance criteria are the basis for confirmation.
+* Understand the "CCC-Rule" <<jeffries-ccc>>: card, conversation, confirmation. The acceptance criteria are the basis for confirmation.
 
 [[LG-4-10]]
 ==== LG 4-10: Understanding specification-by-examples

@@ -22,10 +22,12 @@ This section contains references that are cited in the curriculum.
 **B**
 
 - [[[banfield,Banfield]]] Banfield, Richard: Design sprint: a practical guidebook for building great digital products, O'Reilly, 2016
+- [[[bpmn,BPMN]]] Object Management Group (OMG): Business Process Model and Notation (BPMN), Version 2.0.2, 2013. https://www.omg.org/spec/BPMN/2.0.2/ (also published as ISO/IEC 19510:2013, https://www.iso.org/standard/62652.html)
 
 **C**
 
 - [[[clegg,Clegg]]] Dai Clegg and Richard Barker (1994). Case Method Fast-Track: A RAD Approach. Addison-Wesley.
+- [[[cucumber,Cucumber]]] Cucumber: BDD testing and executable specifications. https://cucumber.io/
 
 **D**
 
@@ -35,6 +37,7 @@ This section contains references that are cited in the curriculum.
 **G**
 
 - [[[gerstbach,Gerstbach]]] Gerstbach, Ingrid: Design Thinking im Unternehmen: Ein Workbook für die Einführung von Design Thinking, GABAL Verlag, 2016 (in German)
+- [[[gherkin,Gherkin]]] Cucumber: Gherkin Reference. https://cucumber.io/docs/gherkin/reference/
 - [[[gottesdiener-12,Gottesdiener]]] Gottesdiener, Ellen: Discover to Deliver: Agile Product Planning and Analysis, EGB Consulting, 2012
 
 **H**
@@ -52,6 +55,7 @@ This section contains references that are cited in the curriculum.
 **J**
 
 - [[[jacobson,Jacobson]]] Dr. Ivar Jacobson, Ian Spence, Kurt Bittner: Use-Case 2.0: The Guide to Succeeding with Use-Cases. Online: https://www.ivarjacobson.com/publications/white-papers/use-case-20-e-book
+- [[[jeffries-ccc,Jeffries]]] Jeffries, Ron: Essential XP: Card, Conversation, Confirmation, 2001. https://ronjeffries.com/xprog/articles/expcardconversationconfirmation/
 
 **L**
 
@@ -60,6 +64,7 @@ This section contains references that are cited in the curriculum.
 **M**
 
 - [[[mcgreal,McGreal]]] McGreal, Don / Jocham, Ralph: The Professional Product Owner: Leveraging Scrum as a Competitive Advantage. Addison-Wesley, 2018
+- [[[moscow,MoSCoW]]] Agile Business Consortium: MoSCoW Prioritisation, DSDM Project Framework Handbook. https://www.agilebusiness.org/dsdm-project-framework/moscow-prioritisation.html
 
 **N**
 
