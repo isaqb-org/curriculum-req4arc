@@ -96,6 +96,10 @@ This section contains references that are cited in the curriculum.
 - [[[toth,Toth]]] Toth, Stefan: Vorgehensmuster für Softwarearchitektur.
 Carl Hanser Verlag, 4th edition 2025  (in German) - especially for "_Architecturally significant requirements_"
 
+**V**
+
+- [[[volere,Volere]]] Robertson, James & Suzanne (Atlantic Systems Guild): Volere Requirements. https://www.volere.org/
+
 **W**
 
 - [[[wake2003,Wake]]]: Wake, Bill: INVEST in good stories and SMART Tasks,
