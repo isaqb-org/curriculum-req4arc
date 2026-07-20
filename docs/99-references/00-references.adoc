@@ -17,6 +17,7 @@ This section contains references that are cited in the curriculum.
 
 - [[[adzic-11,Adzic-2011]]] Adzic, Gojko: Specification by Example. Manning, 2011. More info: https://gojko.net/books/specification-by-example/
 - [[[adzic-14,Adzic-2014]]] Adzic, Gojko / Evans, David: Fifty Quick Ideas to Improve Your User Stories. 2014. https://leanpub.com/50quickideas
+- [[[adzic-impact,Adzic-Impact]]] Adzic, Gojko: Impact Mapping: Making a Big Impact with Software Products and Projects. Provoking Thoughts, 2012. https://www.impactmapping.org/
 - [[[ATAM]]] Kazman, Rick: ATAM Method for Architecture Evaluation, (_Architecture Tradeoff Analysis Method_), SEI Technical Report, https://www.sei.cmu.edu/library/atam-method-for-architecture-evaluation/
 
 **B**
@@ -73,6 +74,7 @@ This section contains references that are cited in the curriculum.
 
 **P**
 
+- [[[patton,Patton]]] Patton, Jeff (with Economy, Peter): User Story Mapping: Discover the Whole Story, Build the Right Product. O'Reilly, 2014. https://www.jpattonassociates.com/story-mapping/
 - [[[pichler,Pichler]]] Pichler, R.: Agile Product Management with Scrum: Creating Products that Customers Love. Addison-Wesley, 2010
 
 **Q**

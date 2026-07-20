@@ -13,7 +13,7 @@ Die zweite Voraussetzung dafür, manche Anforderungen früher als andere umzuset
 
 === Begriffe und Konzepte
 
-Business Value, Risiko, Ranking, Priorisierung, Affinity Estimation, Wall Estimation, Story Points, WSJF, MoSCoW-Priorisierung
+Business Value, Risiko, Ranking, Priorisierung, Affinity Estimation, Wall Estimation, Story Points, WSJF, MoSCoW-Priorisierung, Impact Mapping
 
 // end::DE[]
 
@@ -31,7 +31,7 @@ The other prerequisite for implementing some requirements earlier than others is
 
 === Terms and concepts
 
-Business value, risk, ranking, prioritization, affinity estimation, wall estimation, story points, WSJF, MoSCoW-prioritization
+Business value, risk, ranking, prioritization, affinity estimation, wall estimation, story points, WSJF, MoSCoW-prioritization, Impact Mapping
 
 // end::EN[]
 

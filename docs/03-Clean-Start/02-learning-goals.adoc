@@ -13,6 +13,7 @@
 
 * Verstehen, dass Visionen oder Business Goals die obersten Anforderungen sind, also jene, die sich (hoffentlich) während eines Projekts nicht ändern <<pichler>>
 * Verstehen, dass Visionen und Ziele quantifiziert und messbar gemacht werden sollten, um Erfolg in Bezug auf Business Value überprüfen zu können
+* Wissen, wie sich Business Goals systematisch mit Impact Mapping <<adzic-impact>> auf Akteure, gewünschte Verhaltensänderungen (Impacts) und konkrete Deliverables herunterbrechen lassen
 
 [[LZ-3-3]]
 ==== LZ 3-3: Verschiedene Möglichkeiten und Notationen, Visionen und Business Goals auszudrücken
@@ -47,6 +48,7 @@ Wissen, dass:
 * Die Bedeutung externer Schnittstellen kennen
 * Verschiedene Ebenen von „extern" unterscheiden (extern zum System, extern zur Geschäftseinheit, extern zum Unternehmen)
 * Verschiedene Möglichkeiten und Notationen kennen, Scope und Kontext auszudrücken, z.B. Kontextdiagramme
+* Story Mapping <<patton>> als Technik kennen, um zunächst die Breite des Scopes (das „Backbone" der Nutzer-Journey) sichtbar zu machen, bevor einzelne Bereiche vertieft werden („Breite vor Tiefe", vgl. <<LZ-4-4>>)
 
 // end::DE[]
 
@@ -63,6 +65,7 @@ Wissen, dass:
 
 * Understand that visions or business goals are your highest level requirements, i.e. those requirements that are (hopefully) not changed during a project <<pichler>>
 * Understand that visions and goals should be quantified and made measurable to be able to check success in terms of business value.
+* Know how to systematically break down business goals using Impact Mapping <<adzic-impact>> into actors, the impacts (behaviour changes) they should deliver, and concrete deliverables
 
 [[LG-3-3]]
 ==== LG 3-3: Different options and notations for expressing visions and business goals
@@ -97,6 +100,7 @@ Know:
 * Know about the importance of external interfaces
 * Distinguish between various levels of externality (external to the system, external to the business unit, external to the enterprise)
 * Know different options and notations for expressing scope and context, i.e. context diagrams
+* Know Story Mapping <<patton>> as a technique to first visualize the breadth of the scope (the "backbone" of the user journey) before going deeper into individual areas ("breadth before depth", see <<LG-4-4>>)
 
 // end::EN[]
 
