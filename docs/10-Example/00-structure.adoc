@@ -19,8 +19,10 @@ Das Beispiel kann sich je nach Schulungsanbieter unterscheiden oder sich nach de
 
 === {learning-goals}
 
+[[LZ-10-1]]
 ==== LZ 10-1: Beispiele gut formulierter Anforderungen verschiedener Kategorien kennen
 
+[[LZ-10-2]]
 ==== LZ 10-2: (Gegen-)Beispiele kennen, etwa mehrdeutige, inkonsistente und widersprüchliche Anforderungen verschiedener Kategorien
 
 // end::DE[]
@@ -41,8 +43,10 @@ The example may differ for each training provider or depend on the interest of t
 
 === {learning-goals}
 
+[[LG-10-1]]
 ==== LG 10-1: Know examples of well-articulated requirements of various categories
 
+[[LG-10-2]]
 ==== LG 10-2: Know (counter-)examples, like ambiguous, inconsistent and contradicting requirements of various categories
 
 

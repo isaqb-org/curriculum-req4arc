@@ -5,9 +5,11 @@
 === {learning-goals}
 
 
+[[LZ-9-1]]
 ==== LZ 9-1: Kategorien geeigneter Werkzeuge
 Verschiedene Arten von Anforderungswerkzeugen kennen (Karten, Wikis, Modellierungswerkzeuge, Issue-Tracker etc.)
 
+[[LZ-9-2]]
 ==== LZ 9-2: Vor- und Nachteile der Werkzeugkategorien
 
 * Heuristiken kennen, wann welche Art von Werkzeug für welche Art von System passt
@@ -20,9 +22,11 @@ Verschiedene Arten von Anforderungswerkzeugen kennen (Karten, Wikis, Modellierun
 === {learning-goals}
 
 
+[[LG-9-1]]
 ==== LG 9-1: Categories of suitable tools
 Know different kinds of requirements tools (cards, wikis, modeling tools, issue-trackers, etc.)
 
+[[LG-9-2]]
 ==== LG 9-2: Advantages and disadvantages of tool categories
 
 * Know heuristics when to use which kind of tool for which kind of system
