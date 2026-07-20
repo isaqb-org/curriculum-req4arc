@@ -13,7 +13,7 @@ Architekt:innen sollten außerdem unterschiedliche Wege kennen, Anforderungen fe
 
 === Begriffe und Konzepte
 
-Design Thinking (<<gerstbach>>), Design Sprint (<<banfield>>), Lean Startup (<<ries>>), Three Amigo Sessions (<<dinwiddie>>), Twin-Peaks-Modell (<<nuseibeh>>), Discover-to-Deliver (<<gottesdiener-12>>), Anforderungsdokumentation, Traceability
+Design Thinking (<<gerstbach>>), Design Sprint (<<banfield>>), Lean Startup (<<ries>>), Three Amigo Sessions (<<dinwiddie>>, <<smart-amigo>>), Twin-Peaks-Modell (<<nuseibeh>>), Discover-to-Deliver (<<gottesdiener-12>>), Anforderungsdokumentation, Traceability
 
 // end::DE[]
 
@@ -30,7 +30,7 @@ Architects should also understand different ways to capture and document require
 
 === Terms and concepts
 
-Design Thinking (<<gerstbach>>), Design Sprint (<<banfield>>), Lean Startup (<<ries>>), Three Amigo Sessions (<<dinwiddie>>), Twin Peaks Model (<<nuseibeh>>), Discover-to-Deliver (<<gottesdiener-12>>), Requirements Documentation, Traceability
+Design Thinking (<<gerstbach>>), Design Sprint (<<banfield>>), Lean Startup (<<ries>>), Three Amigo Sessions (<<dinwiddie>>, <<smart-amigo>>), Twin Peaks Model (<<nuseibeh>>), Discover-to-Deliver (<<gottesdiener-12>>), Requirements Documentation, Traceability
 
 
 // end::EN[]
