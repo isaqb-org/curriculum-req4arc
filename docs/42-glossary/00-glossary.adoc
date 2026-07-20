@@ -17,7 +17,7 @@ Agiles Requirements Engineering:: (angelehnt an IREB): ein kooperativer, iterati
 4. alle anforderungsbezogenen Aktivitäten nach den Prinzipien des agilen Manifests durchführen.
 
 
-ASR:: _Architecturally Significant Requirements_ (architekturrelevante Anforderungen) sind die Teilmenge der Anforderungen mit starkem Einfluss auf Architekturentscheidungen (jene Anforderungen, die Architekturentscheidungen besonders prägen oder beeinflussen).
+ASR:: _Architecturally Significant Requirements_ (architekturrelevante Anforderungen) sind die Teilmenge der Anforderungen mit starkem Einfluss auf Architekturentscheidungen (jene Anforderungen, die Architekturentscheidungen besonders prägen oder beeinflussen). Siehe auch ->Just-in-Time-Anforderungen.
 
 ATDD:: _Acceptance Test Driven Development_
 
@@ -49,6 +49,8 @@ Goals:: -> Business Goal.
 
 GWT:: _Given, When, Then_: Halbstrukturierte Form, Testfälle oder Verhaltensspezifikationen aufzuschreiben.
 Erfunden von Dan North als Teil von ->BDD (Behavior-Driven Development).
+
+Just-in-Time-Anforderungen:: Das Prinzip, dass Architekt:innen keine vollständige Anforderungsmenge im Voraus brauchen, sondern jeweils nur die Anforderungen, die für die anstehenden Entscheidungen relevant sind (siehe ->ASR), erhoben passend zum Bedarf der jeweiligen Iteration.
 
 Kontext:: Der Begriff wird je nach Disziplin unterschiedlich verwendet:
 +
@@ -113,7 +115,7 @@ Agile Requirements Engineering:: (adapted from IREB):  a cooperative, iterative 
 4. performing all requirements related activities according to the principles of the agile manifesto.
 
 
-ASR:: _Architecturally Significant Requirements_ are the subset of requirements that have a strong impact on architectural decisions (those requirements that especially shape or influence architectural decisions.)
+ASR:: _Architecturally Significant Requirements_ are the subset of requirements that have a strong impact on architectural decisions (those requirements that especially shape or influence architectural decisions.) See also ->Just-in-Time Requirements.
 
 ATDD:: _Acceptance Test Driven Development_
 
@@ -153,6 +155,8 @@ Goals::	 -> Business Goal.
 
 GWT:: _Given, When, Then_: Semi-structured way to write down test cases or behavior specifications.
 It was invented by Dan North as part of ->BDD (behavior-driven development).
+
+Just-in-Time Requirements:: The principle that architects do not need a complete set of requirements upfront, only the subset relevant for the decisions at hand (see ->ASR), elicited as needed for each iteration.
 
 LLM:: (_Large Language Model_) An AI model trained on very large amounts of text that processes and generates natural language by predicting, step by step, the most likely next token. Its output is plausible but not necessarily correct. The input it takes into account forms its ->Context.
 
