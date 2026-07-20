@@ -43,6 +43,7 @@ This section contains references that are cited in the curriculum.
 **H**
 
 - [[[hathaway,Hathaway]]] Hathaway, Angela + Tom: Getting and Writing IT-Requirements in a Lean and Agile World. Self-published, https://www.businessanalysisexperts.com/books-ebooks-business-analysis-career/book-getting-writing-it-requirements-lean-agile/
+- [[[hohmann,Hohmann]]] Hohmann, Luke: Innovation Games: Creating Breakthrough Products Through Collaborative Play. Addison-Wesley, 2006 (origin of the Product Box / Product Vision Box technique)
 - [[[hruschka,Hruschka]]] Hruschka, Peter: Business Analysis und Requirements Engineering, Hanser Verlag, 4th Edition 2026 (in German)
 
 **I**
@@ -74,6 +75,7 @@ This section contains references that are cited in the curriculum.
 **P**
 
 - [[[pichler,Pichler]]] Pichler, R.: Agile Product Management with Scrum: Creating Products that Customers Love. Addison-Wesley, 2010
+- [[[pichler-visionboard,Pichler-VisionBoard]]] Pichler, Roman: The Product Vision Board. https://www.romanpichler.com/tools/product-vision-board/
 
 **Q**
 

@@ -17,7 +17,7 @@
 [[LZ-3-3]]
 ==== LZ 3-3: Verschiedene Möglichkeiten und Notationen, Visionen und Business Goals auszudrücken
 
-* Verschiedene Wege kennen, Vision und Ziele zu definieren (explizite Zielformulierungen, Value Propositions für unterschiedliche Stakeholder, Vision Box, „News from the Future")
+* Verschiedene Wege kennen, Vision und Ziele zu definieren (explizite Zielformulierungen, Value Propositions für unterschiedliche Stakeholder, Product Vision Box <<hohmann>>, Product Vision Canvas <<pichler-visionboard>>, „News from the Future")
 * Merkhilfen (Mnemotechnik) für Vision- oder Zielformulierungen kennen (SMART, PAM)
 
 [[LZ-3-4]]
@@ -67,7 +67,7 @@ Wissen, dass:
 [[LG-3-3]]
 ==== LG 3-3: Different options and notations for expressing visions and business goals
 
-* Know various ways to define vision and goals (explicit goal statements, value propositions for different stakeholders, vision box, "news from the future")
+* Know various ways to define vision and goals (explicit goal statements, value propositions for different stakeholders, Product Vision Box <<hohmann>>, Product Vision Canvas <<pichler-visionboard>>, "news from the future")
 * Know mnemonics for vision or business goal statements (SMART, PAM)
 
 [[LG-3-4]]
