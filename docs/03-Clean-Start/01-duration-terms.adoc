@@ -17,7 +17,7 @@ Dazu gehören vor allem:
 
 === Begriffe und Konzepte
 
-Vision, Business Goals, Stakeholder, Scope, Kontext, SMART, PAM (Purpose, Advantage, Metric)
+Vision, Business Goals, Stakeholder, Scope, Kontext, SMART, PAM (Purpose, Advantage, Metric), Product Vision Box, Product Vision Canvas
 
 // end::DE[]
 
@@ -38,7 +38,7 @@ These mainly include:
 
 === Terms and concepts
 
-Vision, Business Goals, Stakeholders, Scope, Context, SMART, PAM (Purpose, Advantage, Metric)
+Vision, Business Goals, Stakeholders, Scope, Context, SMART, PAM (Purpose, Advantage, Metric), Product Vision Box, Product Vision Canvas
 
 // end::EN[]
 
