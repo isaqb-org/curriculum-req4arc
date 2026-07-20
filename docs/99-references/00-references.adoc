@@ -32,6 +32,7 @@ This section contains references that are cited in the curriculum.
 **D**
 
 - [[[dinwiddie,Dinwiddie]]] George Dinwiddie. The Three Amigos - All For One - One For All. Better Software Nov/Dec 2011, vol 13, issue 6, pp 24-27, Online (archived, PDF only): https://www.stickyminds.com/sites/default/files/magazine/file/2013/3971888.pdf
+- [[[doran,Doran]]] Doran, G. T.: "There's a S.M.A.R.T. Way to Write Management's Goals and Objectives", Management Review, 70(11), 1981, pp. 35–36.
 
 
 **G**
