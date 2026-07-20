@@ -42,7 +42,7 @@ Verstehen, dass viele unterschiedliche Kriterien zur Zerlegung eines Systems in 
 [[LZ-4-7]]
 ==== LZ 4-7: Funktionale Anforderungen dokumentieren
 
-* Verstehen, dass detaillierte funktionale Anforderungen auf verschiedene Arten dokumentiert werden können, z.B. textuell, aber auch in vielen grafischen Formen, die meist mehr Präzision und weniger Interpretationsspielraum bieten, aber teils schwerer zu erstellen und zu verstehen sind als natürlichsprachliche Anforderungen
+* Verstehen, dass detaillierte funktionale Anforderungen auf verschiedene Arten dokumentiert werden können, z.B. textuell, aber auch in vielen grafischen Formen. Grafische Notationen mit klar definierter Syntax und Semantik (z.B. Aktivitätsdiagramme, Zustandsmodelle) können mehr Präzision und weniger Interpretationsspielraum bieten als natürlichsprachliche Anforderungen – informelle oder unscharf definierte Diagramme können hingegen genauso mehrdeutig sein, oder mehrdeutiger. Präzise Notationen erfordern meist auch mehr Fachwissen, um sie zu erstellen und zu verstehen.
 * Grafische Modelle wie Aktivitätsdiagramme, BPMN <<bpmn>>, Informationsmodelle und Zustandsmodelle kennen und wissen, wann welche Notation passt
 
 [[LZ-4-8]]
@@ -116,7 +116,7 @@ Understand that many different criteria can be applied to decompose a system int
 [[LG-4-7]]
 ==== LG 4-7: Documenting functional requirements
 
-* Understand that detailed functional requirements could be documented in various ways, e.g. in textual form but also in many graphical forms that usually add more precision, less interpretability, but a sometimes harder to create and understand compared to plain language requirements
+* Understand that detailed functional requirements can be documented in various ways, e.g. in textual form, but also in many graphical forms. Graphical notations with well-defined syntax and semantics (e.g. activity diagrams, state models) can offer more precision and less room for misinterpretation than natural language — but informal or loosely defined diagrams can be just as ambiguous, or more so. Precise notations typically also require more expert knowledge to create and understand.
 * Know graphical models like activity diagrams, BPMN <<bpmn>>, information models, state models and when to use which notation
 
 [[LG-4-8]]
