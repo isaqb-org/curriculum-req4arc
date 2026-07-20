@@ -22,6 +22,15 @@
 * Verstehen, dass Architekt:innen keine „vollständigen" Anforderungen brauchen, sondern stets gerade genug Anforderungen, um Entwurfsentscheidungen für die nächsten Iterationen zu treffen
 * Verstehen, dass Anforderungen iterativ und inkrementell erhoben werden können
 
+[[LZ-1-4]]
+==== LZ 1-4: Merkmale guter Anforderungen kennen und wissen, wie sie geprüft werden können
+
+* Die klassischen Qualitätskriterien für Anforderungen kennen: eindeutig, vollständig, konsistent, verifizierbar, realisierbar, notwendig, nachverfolgbar <<iso29148>>
+* Leichtgewichtige Techniken zum Prüfen von Anforderungen kennen, z. B. Walkthroughs, Inspektionen, Checklisten und das Volere „Quality Gateway" <<volere>>
+* Verstehen, dass Entwicklungsteams diese Kriterien nutzen sollten, um eingehende Anforderungen zu prüfen
+
+Spätere Kapitel werden diese Kriterien und Prüftechniken konkretisiert, etwa Akzeptanzkriterien (<<LZ-4-9>>) und die Definition of Ready (<<LZ-4-8>>).
+
 // end::DE[]
 
 // tag::EN[]
@@ -45,6 +54,15 @@
 * Understand that requirements and architecture can (and should) be developed iteratively
 * Understand that architects do not need "complete" requirements, but always just enough requirements to make design decisions for the next iterations
 * Understand that requirements can be elicitated iteratively and incrementally
+
+[[LG-1-4]]
+==== LG 1-4: Knowing the characteristics of good requirements and how they can be checked
+
+* Know the classic quality criteria for requirements: unambiguous, complete, consistent, verifiable, feasible, necessary, traceable <<iso29148>>
+* Know lightweight techniques for checking requirements, e.g. walkthroughs, inspections, checklists, and the Volere "quality gateway" <<volere>>
+* Understand that development teams should use these criteria to check incoming requirements
+
+Later chapters make these criteria and checking techniques concrete, e.g. acceptance criteria (<<LG-4-9>>) and the Definition of Ready (<<LG-4-8>>).
 
 // end::EN[]
 
