@@ -23,11 +23,13 @@ Wieder andere wollen das Risiko für die restliche Entwicklung reduzieren oder e
 [[LZ-8-3]]
 ==== LZ 8-3: Anforderungen schätzen
 
-* Die Notwendigkeit verstehen, Anforderungen zu schätzen – auch als Indikator, größere Anforderungen zu verfeinern und zu zerlegen, wenn sie sich noch nicht gut genug schätzen lassen
-* Den Unterschied zwischen absoluten Schätzungen (in Personentagen, Kosten, ...) und relativen Schätzungen (z.B. Story Points) verstehen
-* Vor- und Nachteile absoluter und relativer Schätzungen kennen
-* Einige relative Schätztechniken kennen, etwa T-Shirt-Sizing und Planning Poker (mit Fibonacci-Werten)
-* Verschiedene Schätztechniken kennen, z.B. Function Points, Story Points, Affinity Estimation, Wall Estimation etc.
+Softwarearchitekt:innen verstehen die Notwendigkeit, Anforderungen zu schätzen, auch als Indikator, größere Anforderungen zu verfeinern und zu zerlegen, wenn sie sich noch nicht gut genug schätzen lassen.
+
+Sie kennen:
+
+* den Unterschied zwischen absoluten Schätzungen (z.B. Personentage, Kosten, oder die klassische, formelbasierte Function-Point-Methode <<function-points>> als Gegenstück zu relativen Verfahren) und relativen Schätzungen (z.B. Story Points).
+* Vor- und Nachteile absoluter und relativer Schätzungen
+* Einige relative Schätztechniken, etwa T-Shirt-Sizing, Affinity Estimation und Planning Poker (mit Fibonacci-Werten)
 
 
 // end::DE[]
@@ -55,11 +57,13 @@ Others might want to reduce the risk for the rest of the development, or create 
 [[LG-8-3]]
 ==== LG 8-3: Estimating requirements
 
-* Understand the need for estimating requirements, also as an indicator to potentially refine and decompose larger requirements when they cannot be estimated well enough yet.
-* Understand the difference between absolute estimates (in person days, costs, ...) versus relative estimates (e.g. story points)
-* Know advantages and disadvantages of absolute and relative estimates
-* Know some relative estimation techniques like T-Shirt-sizing, Planning Poker (with Fibonacci values)
-* Know different estimation techniques, e.g. function points, story points, affinity estimation, wall estimation, etc.
+Software architects understand the need to estimate requirements, also as an indicator to potentially refine and decompose larger requirements when they cannot be estimated well enough yet.
+
+They know:
+
+* the difference between absolute estimates (e.g. person days, costs, or the classical, formula-based function point method <<function-points>> as the counterpart to relative approaches) and relative estimates (e.g. story points).
+* advantages and disadvantages of absolute and relative estimates
+* some relative estimation techniques, e.g. T-Shirt-sizing, affinity estimation and Planning Poker (with Fibonacci values)
 
 
 // end::EN[]
