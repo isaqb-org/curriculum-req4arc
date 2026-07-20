@@ -14,7 +14,7 @@
 
 * Checklisten für Qualitätsanforderungen und Qualitätsstandards kennen, z.B. <<Q42>>, <<iso25010>>, <<volere,Volere>> (siehe auch <<robertson-24>>)
 * Kategorien von Randbedingungen kennen (organisatorische Randbedingungen, technische Randbedingungen, ...)
-* Verstehen, dass Architekt:innen nicht alle Qualitätsanforderungen und Randbedingungen früh im Projekt benötigen, aber die wichtigsten finden müssen, da diese Architekturtreiber sind und sehr wichtige Architekturentscheidungen beeinflussen
+* Verstehen, dass Architekt:innen nicht alle Qualitätsanforderungen und Randbedingungen früh im Projekt benötigen, aber die wichtigsten finden müssen, da diese Architekturtreiber sind und sehr wichtige Architekturentscheidungen beeinflussen (Just-in-Time-Prinzip, vgl. <<LZ-1-3>>)
 
 [[LZ-5-3]]
 ==== LZ 5-3: Qualitätsanforderungen erheben und spezifizieren
@@ -73,7 +73,7 @@ Ein anderer Weg ist die statistische Beobachtung über die Zeit („schauen, ob 
 
 * Know checklists for quality requirements, quality standards, e.g. <<Q42>>, <<iso25010>>, <<volere,Volere>> (see also <<robertson-24>>)
 * Know categories of constraints (organizational constraints, technical constraints, …)
-* Understand that architects don't need all quality requirements and constraints early in the project, but have to find the most important ones, since they are architecture drivers and will influence very important architectural decision
+* Understand that architects don't need all quality requirements and constraints early in the project, but have to find the most important ones, since they are architecture drivers and will influence very important architectural decisions (Just-in-Time principle, see <<LG-1-3>>)
 
 [[LG-5-3]]
 ==== LG 5-3: Eliciting and specifying quality requirements
