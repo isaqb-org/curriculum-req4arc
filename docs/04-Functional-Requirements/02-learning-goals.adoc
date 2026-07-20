@@ -42,7 +42,7 @@ Verstehen, dass viele unterschiedliche Kriterien zur Zerlegung eines Systems in 
 [[LZ-4-7]]
 ==== LZ 4-7: Funktionale Anforderungen dokumentieren
 
-* Verstehen, dass detaillierte funktionale Anforderungen auf verschiedene Arten dokumentiert werden können, z.B. textuell, aber auch in vielen grafischen Formen, die meist mehr Präzision und weniger Interpretationsspielraum bieten, aber teils schwerer zu erstellen und zu verstehen sind als natürlichsprachliche Anforderungen
+* Verstehen, dass detaillierte funktionale Anforderungen auf verschiedene Arten dokumentiert werden können, z.B. textuell, aber auch in vielen grafischen Formen, die meist mehr Präzision und weniger Interpretationsspielraum bieten, aber teils schwerer zu erstellen und zu verstehen sind als natürlichsprachliche Anforderungen (siehe auch <<LZ-4-12>> für sprachliche Schablonen und Mehrdeutigkeitsfallen bei textuellen Anforderungen)
 * Grafische Modelle wie Aktivitätsdiagramme, BPMN <<bpmn>>, Informationsmodelle und Zustandsmodelle kennen und wissen, wann welche Notation passt
 
 [[LZ-4-8]]
@@ -71,6 +71,13 @@ Verstehen, dass viele unterschiedliche Kriterien zur Zerlegung eines Systems in 
 
 * Wissen, dass es viele verschiedene Erhebungstechniken gibt, die Architekt:innen kennen sollten, z.B. Interviews, Fragebögen, Brainstorming-Sitzungen, Three Amigo Sessions <<smart-amigo>>, Knowledge Crunching, Event Storming und viele andere
 * Wissen, wann welche Erhebungstechnik die Kommunikation mit Stakeholdern verbessert
+
+[[LZ-4-12]]
+==== LZ 4-12: Sprachliche Schablonen und Mehrdeutigkeitsfallen bei textuellen Anforderungen
+
+* Wissen, dass Satzschablonen wie EARS <<mavin-09>> <<mavin-19>> oder die SOPHIST/Rupp-Schablonen <<rupp>> helfen, textuelle Anforderungen syntaktisch einheitlich und präziser zu formulieren
+* Typische sprachliche Mehrdeutigkeitsfallen erkennen, z.B. Weichmacher („benutzerfreundlich", „ausreichend schnell"), Passivkonstruktionen, die Verantwortliche verschleiern, Nominalisierungen, die den eigentlichen Vorgang verstecken, sowie unzureichend qualifizierte Universalquantoren („immer", „alle", „nie")
+* Verstehen, dass Architekt:innen textuelle Anforderungen meist lesen statt selbst zu schreiben, weshalb das Erkennen solcher Mehrdeutigkeiten mindestens so wichtig ist wie das eigene Formulieren
 
 // end::DE[]
 
@@ -116,7 +123,7 @@ Understand that many different criteria can be applied to decompose a system int
 [[LG-4-7]]
 ==== LG 4-7: Documenting functional requirements
 
-* Understand that detailed functional requirements could be documented in various ways, e.g. in textual form but also in many graphical forms that usually add more precision, less interpretability, but a sometimes harder to create and understand compared to plain language requirements
+* Understand that detailed functional requirements could be documented in various ways, e.g. in textual form but also in many graphical forms that usually add more precision, less interpretability, but a sometimes harder to create and understand compared to plain language requirements (see also <<LG-4-12>> for language templates and ambiguity pitfalls in textual requirements)
 * Know graphical models like activity diagrams, BPMN <<bpmn>>, information models, state models and when to use which notation
 
 [[LG-4-8]]
@@ -146,7 +153,12 @@ Understand that many different criteria can be applied to decompose a system int
 * Know that there are many different elicitation techniques that architects should be aware of, e.g. interviews, questionnaires, brainstorming sessions, three amigo sessions <<smart-amigo>>, knowledge crunching, event storming and many others
 * Know when to pick which elicitation technique to improve communication with stakeholders
 
+[[LG-4-12]]
+==== LG 4-12: Language templates and ambiguity pitfalls in textual requirements
 
+* Know that sentence templates such as EARS <<mavin-09>> <<mavin-19>> or the SOPHIST/Rupp templates <<rupp>> help phrase textual requirements in a syntactically consistent and more precise way
+* Recognize common linguistic ambiguity pitfalls, e.g. weak words ("user-friendly", "sufficiently fast"), passive voice that hides who is responsible, nominalisation that hides the actual action, and universal quantifiers ("always", "all", "never") used without qualification
+* Understand that architects mostly read textual requirements written by others rather than writing them, so recognizing such ambiguities is at least as important as phrasing them well
 
 
 // end::EN[]

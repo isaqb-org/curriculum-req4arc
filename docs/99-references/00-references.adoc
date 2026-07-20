@@ -63,6 +63,8 @@ This section contains references that are cited in the curriculum.
 
 **M**
 
+- [[[mavin-09,Mavin-2009]]] Mavin, Alistair / Wilkinson, Philip / Harwood, Adrian / Novak, Mark: Easy Approach to Requirements Syntax (EARS). Proceedings of the 17th IEEE International Requirements Engineering Conference (RE'09), 2009, pp. 317-322. https://doi.org/10.1109/RE.2009.9
+- [[[mavin-19,Mavin-2019]]] Mavin, Alistair / Wilkinson, Philip: Ten Years of EARS. IEEE Software, vol. 36, no. 5, 2019, pp. 10-14. https://doi.org/10.1109/MS.2019.2921164
 - [[[mcgreal,McGreal]]] McGreal, Don / Jocham, Ralph: The Professional Product Owner: Leveraging Scrum as a Competitive Advantage. Addison-Wesley, 2018
 - [[[moscow,MoSCoW]]] Agile Business Consortium: MoSCoW Prioritisation, DSDM Project Framework Handbook. https://www.agilebusiness.org/dsdm-project-framework/moscow-prioritisation.html
 
@@ -84,6 +86,7 @@ This section contains references that are cited in the curriculum.
 - [[[ries,Ries]]] Ries, Eric: The Lean Startup, Crown Business, 2011
 - [[[robertson-24,Robertson-24]]] Robertson,J./Robertson,S.: Mastering the Requirements Process: Getting Requirements Right. Addison Wesley; 4th edition 2024. https://www.volere.org/mastering-the-requirements-process-getting-requirements-right/
 - [[[robertson-19,Robertson-19]]] Robertson, J. /Robertson, S.: Business Analysis Agility. Addison Wesley, 2019
+- [[[rupp,Rupp]]] Rupp, Chris / die SOPHISTen: Requirements-Engineering und -Management: Das Handbuch für Anforderungen in jeder Situation. Carl Hanser Verlag, 7th edition, 2023 (in German)
 
 **S**
 
