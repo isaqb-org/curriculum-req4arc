@@ -6,6 +6,8 @@ Architekt:innen und Entwicklungsteams erhalten oft nur mittelmäßige Anforderun
 Ziel dieses Moduls ist es, Architekt:innen mit genügend Anforderungs-Know-how auszustatten, sodass sie fundierte Architekturentscheidungen treffen können – basierend auf den tatsächlichen Bedürfnissen der Stakeholder.
 Sie sollten entweder wissen, wie man Anforderungen erhebt (in agilen und iterativen Vorgehensweisen), oder zumindest wissen, was sie von anderen in ihrem Umfeld einfordern müssen.
 
+.Navigationskarte des {curriculum-short}-Lehrplans
+image::req4arc-overview-{language}.svg[Überblick über den {curriculum-short}-Lehrplan,320,align="center"]
 
 // end::DE[]
 
@@ -17,6 +19,8 @@ Architects and development teams often get only mediocre requirements as input f
 The goal of this module is to equip architects with enough requirements know-how, so that they can take educated architecture decisions, based on the real needs of stakeholders.
 They should either know how to elicit requirements (in agile and iterative approaches) or - at least - to know what to ask from others in their environment.
 
+.Navigation map of the {curriculum-short} curriculum
+image::req4arc-overview-{language}.svg[Overview of the {curriculum-short} curriculum,320,align="center"]
 
 // end::EN[]
 

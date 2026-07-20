@@ -8,11 +8,11 @@
 
 Behavior Driven Development (ursprünglich vorgeschlagen von <<north>>) will die Lücke zwischen der Spezifikation von Anforderungen und automatisiertem Testen schließen, indem es enge Zusammenarbeit zwischen Entwickler:innen, QA und nicht-technischen bzw. fachlichen Beteiligten fördert. Mit BDD werden Anforderungen so formuliert, dass sie später für automatisierte Tests genutzt werden können. BDD ist damit ein Beispiel für ausführbare Spezifikationen.
 
-Behaviour Driven Development (oder BDD) ist somit eine kollaborative Praktik zur Entdeckung von Anforderungen, die Gespräche über konkrete Beispiele nutzt, um ein gemeinsames Verständnis aufzubauen.
+Behavior Driven Development (oder BDD) ist somit eine kollaborative Praktik zur Entdeckung von Anforderungen, die Gespräche über konkrete Beispiele nutzt, um ein gemeinsames Verständnis aufzubauen.
 
 === Begriffe und Konzepte
 
-Behaviour Driven Development (BDD), Automated Testing, Given-When-Then (GWT)
+Behavior Driven Development (BDD), Automated Testing, Given-When-Then (GWT)
 
 // end::DE[]
 
@@ -24,11 +24,11 @@ Behaviour Driven Development (BDD), Automated Testing, Given-When-Then (GWT)
 
 Behavior Driven Development (originally suggested by <<north>>) aims at closing the gap between specification of requirements and automated testing by advocating close collaboration among developers, QA and non-technical or business participants. With BDD, requirements are formulated in a way that can later be used to run automated tests. Thus, BDD is one example of executable specifications.
 
-Therefore, Behaviour Driven Development (or BDD) is a collaborative requirements discovery practice that uses conversations around concrete examples to build a shared understanding.
+Therefore, Behavior Driven Development (or BDD) is a collaborative requirements discovery practice that uses conversations around concrete examples to build a shared understanding.
 
 === Terms and concepts
 
-Behaviour Driven Development (BDD), Automated Testing, Given-When-Then (GWT)
+Behavior Driven Development (BDD), Automated Testing, Given-When-Then (GWT)
 
 
 // end::EN[]

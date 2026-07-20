@@ -15,7 +15,7 @@
 
 
 [[LZ-6-2]]
-==== LZ 6-2: Prinzipien von Behaviour-Driven Development (BDD) verstehen
+==== LZ 6-2: Prinzipien von Behavior-Driven Development (BDD) verstehen
 
 * Wissen, dass BDD eine kollaborative Praktik zur Entdeckung von Anforderungen ist, die Gespräche über konkrete Beispiele nutzt, um ein gemeinsames Verständnis der Anforderungen aufzubauen
 * Wissen, dass kollaborative Workshops und Diskussionsformate wie Three Amigo Sessions (TAS) <<smart-amigo>> helfen, korrekte Anforderungen zu erhalten. In einer TAS arbeiten die drei Rollen „Product Owner" (oder Business Analyst), „Entwickler:in" und „Tester:in" gemeinsam an der Entdeckung von Anforderungen.
@@ -49,7 +49,7 @@
 
 
 [[LG-6-2]]
-==== LG 6-2: Understanding principles of Behaviour-Driven Development (BDD)
+==== LG 6-2: Understanding principles of Behavior-Driven Development (BDD)
 
 * Know that BDD is a collaborative requirements discovery practice that uses conversations around concrete examples to build a shared understanding of requirements.
 * Know that collaborative workshops and discussion formats, like Three Amigo Sessions (TAS) <<smart-amigo>>, help in getting correct  requirements.  In a TAS, the three roles "product owner" (or business analyse), "developer" and "tester" collaborate in discovering requirements.

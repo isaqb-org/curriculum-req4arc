@@ -30,7 +30,7 @@ Large Language Model (LLM), Generative KI, Prompt, Kontext, Halluzination, Bias,
 
 Artificial intelligence, in particular large language models (LLMs), is increasingly used to support requirements engineering. Because LLMs are tools for language and text, their strengths - generating, transforming, summarizing and comparing text - match many requirements engineering activities, from preparing elicitation to drafting, analysing and consolidating requirements.
 
-At the same time, plausible AI output may contain errors: LLMs can hallucinate, lack domain and tacit knowledge, and reflect bias; in addition, requirements often contain confidential company knowledge that must not be shared with arbitrary models. Requirements engineering therefore remains essentially a communicative activity with stakeholders: AI can prepare and follow up on such conversations, but it cannot replace them, and humans stay responsible for the resulting requirements (_human-in-the-loop_).
+At the same time, plausible AI output may contain errors: LLMs are non-deterministic, can hallucinate, lack domain and tacit knowledge, and reflect bias; in addition, requirements often contain confidential company knowledge that must not be shared with arbitrary models. Requirements engineering therefore remains essentially a communicative activity with stakeholders: AI can prepare and follow up on such conversations, but it cannot replace them, and humans stay responsible for the resulting requirements (_human-in-the-loop_).
 
 This chapter introduces the potential and the limitations of LLMs for requirements work, shows concrete use cases along the requirements activities covered in earlier chapters, and explains how to check and critically assess AI-generated results.
 

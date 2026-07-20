@@ -3,7 +3,7 @@
 // tag::DE[]
 
 |===
-| Unterricht: 45 Min. | Übungen: 0 Min.
+| Unterricht: 45 Min. | Übungen: keine
 |===
 
 === Begriffe und Konzepte
@@ -14,7 +14,7 @@ Architekturrelevante Anforderungen (engl. _architecturally significant requireme
 // tag::EN[]
 
 |===
-| Teaching: 45 min | Exercises: 0 min
+| Teaching: 45 min | Exercises: none
 |===
 
 === Terms and concepts
