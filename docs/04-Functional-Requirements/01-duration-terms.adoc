@@ -14,7 +14,7 @@ In den letzten Jahrzehnten sind viele Notationen für funktionale Anforderungen 
 
 === Begriffe und Konzepte
 
-Funktionale Anforderungen, Use Case, Epic, Feature, Story, Szenario, Akzeptanzkriterien, Definition of Ready (DoR), INVEST, CCC-Regel
+Funktionale Anforderungen, Use Case, Epic, Feature, Story, Szenario, Akzeptanzkriterien, Definition of Ready (DoR), INVEST, CCC-Regel, Story Mapping
 
 // end::DE[]
 
@@ -32,7 +32,7 @@ Over the last decades many notations have been developed to express functional r
 
 === Terms and concepts
 
-Functional Requirements, Use Case, Epic, Feature, Story, Scenario, Acceptance Criteria, Definition of Ready (DoR), INVEST, CCC-Rule
+Functional Requirements, Use Case, Epic, Feature, Story, Scenario, Acceptance Criteria, Definition of Ready (DoR), INVEST, CCC-Rule, Story Mapping
 
 
 // end::EN[]
