@@ -13,7 +13,8 @@
 [[LZ-2-2]]
 ==== LZ 2-2: Kooperative Ansätze der Produktentwicklung kennen
 
-* Die Grundideen kooperativer Ansätze kennen, etwa _Discover to Deliver_ <<gottesdiener-12>>, Design Thinking <<gerstbach>>, Lean Startup <<ries>>, Design Sprints <<banfield>>, Twin-Peaks-Modell (<<nuseibeh>>), Three Amigo Sessions (<<dinwiddie>>)
+* Die Grundideen kooperativer Ansätze kennen, etwa _Discover to Deliver_ <<gottesdiener-12>>, Design Thinking <<gerstbach>>, Lean Startup <<ries>>, Design Sprints <<banfield>>, Twin-Peaks-Modell (<<nuseibeh>>)
+* Three Amigo Sessions (TAS) <<dinwiddie>> <<smart-amigo>> als kollaboratives Format kennen: Die drei Rollen „Product Owner" (oder Business Analyst), „Entwickler:in" und „Tester:in" arbeiten darin gemeinsam an der Entdeckung von Anforderungen (vgl. <<LZ-4-11>>, <<LZ-6-2>>)
 * Verstehen, wie sich solche iterativen Ansätze auf größere Systeme skalieren lassen, an denen mehrere – möglicherweise geografisch verteilte – Entwicklungsteams beteiligt sind
 
 
@@ -47,7 +48,8 @@
 [[LG-2-2]]
 ==== LG 2-2: Know cooperative approaches to product development
 
-* Know the basic ideas of cooperative approaches like _Discover to Deliver_ <<gottesdiener-12>>, Design Thinking <<gerstbach>>, Lean Startup <<ries>>, Design Sprints <<banfield>>, Twin Peaks Model (<<nuseibeh>>), Three Amigo Sessions (<<dinwiddie>>)
+* Know the basic ideas of cooperative approaches like _Discover to Deliver_ <<gottesdiener-12>>, Design Thinking <<gerstbach>>, Lean Startup <<ries>>, Design Sprints <<banfield>>, Twin Peaks Model (<<nuseibeh>>)
+* Know Three Amigo Sessions (TAS) <<dinwiddie>> <<smart-amigo>> as a collaborative format: the three roles "product owner" (or business analyst), "developer" and "tester" work together to discover requirements (see <<LG-4-11>>, <<LG-6-2>>)
 * Understand how such iterative approaches can be scaled to larger systems, that involve more than one development team, potentially geographically distributed.
 
 

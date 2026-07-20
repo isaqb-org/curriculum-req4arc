@@ -69,7 +69,7 @@ Verstehen, dass viele unterschiedliche Kriterien zur Zerlegung eines Systems in 
 [[LZ-4-11]]
 ==== LZ 4-11: Methoden zur Erhebung funktionaler Anforderungen kennen
 
-* Wissen, dass es viele verschiedene Erhebungstechniken gibt, die Architekt:innen kennen sollten, z.B. Interviews, Fragebögen, Brainstorming-Sitzungen, Three Amigo Sessions <<smart-amigo>>, Knowledge Crunching, Event Storming und viele andere
+* Wissen, dass es viele verschiedene Erhebungstechniken gibt, die Architekt:innen kennen sollten, z.B. Interviews, Fragebögen, Brainstorming-Sitzungen, Three Amigo Sessions (vgl. <<LZ-2-2>>), Knowledge Crunching, Event Storming und viele andere
 * Wissen, wann welche Erhebungstechnik die Kommunikation mit Stakeholdern verbessert
 
 // end::DE[]
@@ -143,7 +143,7 @@ Understand that many different criteria can be applied to decompose a system int
 [[LG-4-11]]
 ==== LG 4-11: Know methods for elicitation of functional requirements
 
-* Know that there are many different elicitation techniques that architects should be aware of, e.g. interviews, questionnaires, brainstorming sessions, three amigo sessions <<smart-amigo>>, knowledge crunching, event storming and many others
+* Know that there are many different elicitation techniques that architects should be aware of, e.g. interviews, questionnaires, brainstorming sessions, Three Amigo Sessions (see <<LG-2-2>>), knowledge crunching, event storming and many others
 * Know when to pick which elicitation technique to improve communication with stakeholders
 
 
