@@ -39,8 +39,9 @@ Architekt:innen haben verschiedene Möglichkeiten, sie zu präzisieren:
 [[LZ-5-5]]
 ==== LZ 5-5: Akzeptanzkriterien für Qualitätsanforderungen spezifizieren
 
-* Wissen, dass auch Qualitätsanforderungen Akzeptanzkriterien brauchen
+* Wissen, dass auch Qualitätsanforderungen Akzeptanzkriterien brauchen; die grundlegende Definition und die CCC-Regel gelten unverändert (siehe <<LZ-4-9>>)
 * Wissen, dass Akzeptanzkriterien für Qualitätsanforderungen oft über Toleranzen oder Schwellwerte spezifiziert werden können, oder indem Abweichungen für bestimmte Stakeholder erlaubt werden (z.B. erhalten Personen, die kein Englisch sprechen, 20% mehr Zeit für ein Ergebnis)
+* Wissen, dass sich manche Qualitäten nur durch statistische oder operative Beobachtung über die Zeit prüfen lassen statt durch quantifizierte Akzeptanzkriterien (siehe <<LZ-5-7>>)
 * Quellen für Beispiele solcher Akzeptanzkriterien kennen, etwa Q42
 
 
@@ -98,8 +99,9 @@ Architects have various ways of adding precision
 [[LG-5-5]]
 ==== LG 5-5: Specifying acceptance criteria for quality requirements
 
-* Know that also quality requirements need acceptance criteria
+* Know that quality requirements also need acceptance criteria; the basic definition and the CCC rule apply unchanged (see <<LG-4-9>>)
 * Know that acceptance criteria for quality requirements can often be specified by giving tolerances or thresholds, or allowing deviations for certain stakeholders (i.e. person who do not speak English are given 20% more time to achieve a result)
+* Know that some qualities can only be checked via statistical or operational observation over time rather than quantified acceptance criteria (see <<LG-5-7>>)
 * Know sources for examples of such acceptance criteria, like Q42
 
 
