@@ -37,7 +37,7 @@ Wissen, dass:
 * auch die Entwickler:innen Stakeholder sind
 * es etablierte Klassifikationsschemata für Stakeholder gibt (z. B. Stakeholder-Matrix)
 * eine priorisierte Stakeholder-Liste hilft, Anforderungen nach Business Value zu priorisieren
-* Architekt:innen Zielkonflikte zwischen den Bedürfnissen der Stakeholder behandeln müssen
+* Architekt:innen Zielkonflikte zwischen den Bedürfnissen der Stakeholder erkennen und auflösen müssen (siehe auch <<LZ-8-4>> für Techniken zur Konfliktlösung)
 * welche Stakeholder häufig vergessen werden (z. B. Legal, Betrieb, Support)
 
 [[LZ-3-6]]
@@ -87,7 +87,7 @@ Know:
 * that the developers are also stakeholders
 * that there are established classification schemes for stakeholders (e.g. Stakeholder Matrix)
 * that a prioritized stakeholder list helps to prioritize requirements by business value
-* architects have to handle goal conflicts between stakeholder's needs
+* architects have to identify and resolve goal conflicts between stakeholders' needs (see also <<LG-8-4>> for conflict-resolution techniques)
 * about commonly forgotten stakeholders (e.g. legal, operations, support)
 
 [[LG-3-6]]
