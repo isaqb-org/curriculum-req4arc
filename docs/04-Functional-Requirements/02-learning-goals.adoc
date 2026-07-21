@@ -6,6 +6,7 @@
 
 * Die Definition funktionaler Anforderungen kennen
 * Funktionale Anforderungen von Qualitätsanforderungen und Randbedingungen unterscheiden
+* Wissen, dass Geschäftsregeln (z.B. Berechnungen, Richtlinien, Einschränkungen von Daten) funktionale Anforderungen bestimmen, und dass ihre Auslagerung aus der Anwendungslogik architektonisch bedeutsam ist
 
 [[LZ-4-2]]
 ==== LZ 4-2: Hierarchien funktionaler Anforderungen
@@ -80,6 +81,7 @@ Verstehen, dass viele unterschiedliche Kriterien zur Zerlegung eines Systems in 
 
 * Know the definition of functional requirements
 * Distinguish functional requirements from quality requirements and constraints
+* Know that business rules (e.g. calculations, policies, constraints on data) drive functional requirements, and that externalising them from application logic is architecturally significant
 
 [[LG-4-2]]
 ==== LG 4-2: Hierarchies of functional requirements
