@@ -26,6 +26,7 @@
 [[LZ-6-3]]
 ==== LZ 6-3: Gherkin und Cucumber als Beispiele für BDD kennen
 
+* Verstehen, dass Given-When-Then die ausführbare Form von Akzeptanzkriterien ist (siehe <<LZ-4-9>>): „Given" und „When" beschreiben Ausgangssituation und Aktion, „Then" das erwartete, überprüfbare Ergebnis
 * Die Given-When-Then-Syntax (GWT) kennen, wie Gherkin <<gherkin>> sie vorschlägt
 * Wissen, dass Given-When-Then-basierte Formulierungen von Anforderungen die Testautomatisierung erleichtern
 * Wissen, dass mehrere Werkzeuge existieren, um Given-When-Then-Verhaltensspezifikationen auf den Quellcode des Systems abzubilden (z.B. Cucumber <<cucumber>>, RSpec, SpecFlow, GivWenZen)
@@ -60,6 +61,7 @@
 [[LG-6-3]]
 ==== LG 6-3: Knowing Gherkin and Cucumber as examples for BDD
 
+* Understand that Given-When-Then is the executable form of acceptance criteria (see <<LG-4-9>>): "Given" and "When" describe the starting situation and action, "Then" the expected, checkable outcome.
 * Know the Given-When-Then (GWT) syntax as proposed by Gherkin <<gherkin>>.
 * Know that Given-When-Then based formulations of requirements facilitate test automation.
 * Know that several tools exist to map Given-When-Then behavior specifications to the systems' source code (e.g. Cucumber <<cucumber>>, RSpec, SpecFlow, GivWenZen).

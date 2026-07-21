@@ -55,8 +55,9 @@ Verstehen, dass viele unterschiedliche Kriterien zur Zerlegung eines Systems in 
 [[LZ-4-9]]
 ==== LZ 4-9: Akzeptanzkriterien für funktionale Anforderungen
 
-* Wissen, dass funktionale Anforderungen Akzeptanzkriterien haben sollten, also Kriterien, mit denen sich (nach der Implementierung) feststellen lässt, ob die Anforderung erfüllt ist
+* Wissen, dass funktionale Anforderungen Akzeptanzkriterien haben sollten, also überprüfbare Kriterien, mit denen sich (nach der Implementierung) eindeutig feststellen lässt, ob die Anforderung erfüllt ist
 * Die „CCC-Regel" <<jeffries-ccc>> verstehen: Card, Conversation, Confirmation. Die Akzeptanzkriterien sind die Grundlage der Confirmation.
+* Verstehen, dass Akzeptanzkriterien die Brücke zu Akzeptanztests bilden und damit die „Definition of Done" der einzelnen Anforderung festlegen
 
 [[LZ-4-10]]
 ==== LZ 4-10: Specification-by-Example verstehen
@@ -129,8 +130,9 @@ Understand that many different criteria can be applied to decompose a system int
 [[LG-4-9]]
 ==== LG 4-9: Acceptance criteria for functional requirements
 
-* Know that functional requirements should have acceptance criteria, i.e. criteria to determine (after implementation) whether the requirement has been fulfilled
+* Know that functional requirements should have acceptance criteria, i.e. testable criteria to unambiguously determine (after implementation) whether the requirement has been fulfilled
 * Understand the "CCC-Rule" <<jeffries-ccc>>: card, conversation, confirmation. The acceptance criteria are the basis for confirmation.
+* Understand that acceptance criteria are the bridge to acceptance tests, effectively forming the per-requirement "definition of done"
 
 [[LG-4-10]]
 ==== LG 4-10: Understanding specification-by-examples
