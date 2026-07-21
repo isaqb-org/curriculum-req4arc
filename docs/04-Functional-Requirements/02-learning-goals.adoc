@@ -49,7 +49,7 @@ Verstehen, dass viele unterschiedliche Kriterien zur Zerlegung eines Systems in 
 ==== LZ 4-8: Wissen, wann die Verfeinerung funktionaler Anforderungen endet
 
 * Verstehen, dass funktionale Anforderungen präzise genug sind, sobald das Entwicklungsteam keine Fragen mehr zu ihrer Bedeutung hat
-* Den zweiten Teil von „INVEST" <<wake2003>> verstehen: „Estimable", „Small enough", „Testable"
+* Den zweiten Teil von „INVEST" <<wake2003>> verstehen: „Estimable", „Small enough / angemessen dimensioniert" (Stories weiter hinten im Backlog dürfen größer sein als solche, die als nächstes umgesetzt werden), „Testable"
 * Die „Definition of Ready" (DoR) kennen und wissen, wie sie die Zusammenarbeit zwischen Stakeholdern unterstützt (z.B. zwischen Requirements Engineers und Architekt:innen)
 
 [[LZ-4-9]]
@@ -123,7 +123,7 @@ Understand that many different criteria can be applied to decompose a system int
 ==== LG 4-8: Knowing when to stop refining functional requirements
 
 * Understand that functional requirements are precise enough as soon as the development team has no more questions about their meaning
-* Understand the second part of "INVEST" <<wake2003>>: "Estimable", "Small enough", "Testable"
+* Understand the second part of "INVEST" <<wake2003>>: "Estimable", "Small enough / sized appropriately" (stories further down the backlog may be larger than those about to be implemented next), "Testable"
 * Know the "Definition of Ready" (DoR) and how it supports the cooperation between stakeholders (e.g. between requirements engineers and architects)
 
 [[LG-4-9]]
