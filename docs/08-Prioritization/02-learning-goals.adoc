@@ -10,13 +10,13 @@
 * Verstehen, dass verschiedene Stakeholder unterschiedlichen Wert in Anforderungen sehen können.
 Manche interessieren sich für kurzfristigen Umsatz, andere für bessere Kundenzufriedenheit oder schnelle Time-to-Market.
 Wieder andere wollen das Risiko für die restliche Entwicklung reduzieren oder eine Plattform für langfristige Kosteneinsparungen schaffen. <<mcgreal>>
-* Verschiedene Methoden kennen, um Wert auszudrücken, z.B. MoSCoW-Priorisierung <<clegg>> <<moscow>>, definierte Wertebereiche, lineare Sortierung aller Anforderungen, gewichtete Faktorenmethoden, Cost of Delay, ...
+* Verschiedene Methoden kennen, um Wert auszudrücken, z.B. MoSCoW-Priorisierung <<clegg>> <<moscow>>, definierte Wertebereiche, lineare Sortierung aller Anforderungen, gewichtete Faktorenmethoden, Cost of Delay <<reinertsen>>, ...
 
 
 [[LZ-8-2]]
 ==== LZ 8-2: Anforderungen nach Business Value ordnen
 
-* Verschiedene Strategien für Ordnung und Priorisierung kennen, z.B. Weighted Shortest Job First (WSJF), Defer Risk, Risk First, ...
+* Verschiedene Strategien für Ordnung und Priorisierung kennen, z.B. Weighted Shortest Job First (WSJF) <<reinertsen>> <<safe>>, Defer Risk, Risk First, ...
 * Wissen, wie man beim Ordnen mit Abhängigkeiten zwischen Anforderungen umgeht
 * Mechanismen kennen, um Anforderungen zu zerlegen und so Abhängigkeiten zu vermeiden
 
@@ -26,8 +26,8 @@ Wieder andere wollen das Risiko für die restliche Entwicklung reduzieren oder e
 * Die Notwendigkeit verstehen, Anforderungen zu schätzen – auch als Indikator, größere Anforderungen zu verfeinern und zu zerlegen, wenn sie sich noch nicht gut genug schätzen lassen
 * Den Unterschied zwischen absoluten Schätzungen (in Personentagen, Kosten, ...) und relativen Schätzungen (z.B. Story Points) verstehen
 * Vor- und Nachteile absoluter und relativer Schätzungen kennen
-* Einige relative Schätztechniken kennen, etwa T-Shirt-Sizing und Planning Poker (mit Fibonacci-Werten)
-* Verschiedene Schätztechniken kennen, z.B. Function Points, Story Points, Affinity Estimation, Wall Estimation etc.
+* Einige relative Schätztechniken kennen, etwa T-Shirt-Sizing und Planning Poker (mit Fibonacci-Werten) <<grenning>> <<cohn>>
+* Verschiedene Schätztechniken kennen, z.B. Function Points <<albrecht>>, Story Points, Affinity Estimation, Wall Estimation etc.
 
 
 // end::DE[]
@@ -42,13 +42,13 @@ Wieder andere wollen das Risiko für die restliche Entwicklung reduzieren oder e
 * Understand that different stakeholders may see different value in requirements.
 Some of them may be interested in short turn revenue, others in improvement of customer satisfaction, or quick time-to-market.
 Others might want to reduce the risk for the rest of the development, or create a platform for longer term cost savings. <<mcgreal>>
-* Know different methods for expressing value, e.g. MoSCoW-prioritization <<clegg>> <<moscow>>, defined ranges of values, linear sorting of all requirements, weighted factor methods, cost of delay, ...
+* Know different methods for expressing value, e.g. MoSCoW-prioritization <<clegg>> <<moscow>>, defined ranges of values, linear sorting of all requirements, weighted factor methods, cost of delay <<reinertsen>>, ...
 
 
 [[LG-8-2]]
 ==== LG 8-2: Ordering requirements by business value
 
-* Know different strategies for ordering and prioritization, e.g. weighted shortest job first (WSJF), defer risk, risk-first ...
+* Know different strategies for ordering and prioritization, e.g. weighted shortest job first (WSJF) <<reinertsen>> <<safe>>, defer risk, risk-first ...
 * Know how to handle dependencies between requirements when ordering requirements
 * Know mechanism to split requirements in order to avoid dependencies
 
@@ -58,8 +58,8 @@ Others might want to reduce the risk for the rest of the development, or create 
 * Understand the need for estimating requirements, also as an indicator to potentially refine and decompose larger requirements when they cannot be estimated well enough yet.
 * Understand the difference between absolute estimates (in person days, costs, ...) versus relative estimates (e.g. story points)
 * Know advantages and disadvantages of absolute and relative estimates
-* Know some relative estimation techniques like T-Shirt-sizing, Planning Poker (with Fibonacci values)
-* Know different estimation techniques, e.g. function points, story points, affinity estimation, wall estimation, etc.
+* Know some relative estimation techniques like T-Shirt-sizing, Planning Poker (with Fibonacci values) <<grenning>> <<cohn>>
+* Know different estimation techniques, e.g. function points <<albrecht>>, story points, affinity estimation, wall estimation, etc.
 
 
 // end::EN[]
