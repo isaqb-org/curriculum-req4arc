@@ -4,7 +4,7 @@
 :sectnum!:
 ## Vorwort
 
-IREB, das International Requirements Engineering Board, engagiert sich seit mehr als vierzehn Jahren für die Ausbildung von Fachleuten im Requirements Engineering. Bis 2020 haben mehr als fünfzigtausend Personen das Zertifikat CPRE FL (Certified Professional for Requirements Engineering – Foundation Level) erworben.
+IREB, das International Requirements Engineering Board, engagiert sich seit mehr als zwanzig Jahren für die Ausbildung von Fachleuten im Requirements Engineering. Bis 2026 haben mehr als hunderttausend Personen das Zertifikat CPRE FL (Certified Professional for Requirements Engineering – Foundation Level) erworben.
 
 Da weltweit mehr als fünf Millionen Menschen in der IT arbeiten, überrascht es nicht, dass es noch viele Entwicklungsteams gibt, die weder selbst über ausreichende Requirements-Engineering-Kenntnisse verfügen noch Zugang zu entsprechend ausgebildeten Spezialist:innen haben – obwohl sie sich bei der Entwicklung und Bereitstellung von Softwareprodukten mit Anforderungsfragen auseinandersetzen müssen.
 
@@ -15,7 +15,7 @@ Wir wünschen Ihnen viel Erfolg mit diesem Modul und mit Ihren ersten Schritten 
 
 [cols="3,7,7",header=none,frame=none,grid=none]
 |===
-|Januar 2020
+|August 2026
 a|Martin Glinz
 
 Vorsitzender des IREB Council
@@ -31,7 +31,7 @@ Vorsitzender des Executive Board von IREB
 [preface]
 == Preface
 
-IREB, the International Requirements Engineering Board, has been committed to educating professionals in requirements engineering for more than fourteen years. Up to 2020, more than fifty thousand people have acquired the CPRE FL certificate (Certified Professional for Requirements Engineering – Foundation Level).
+IREB, the International Requirements Engineering Board, has been committed to educating professionals in requirements engineering for more than twenty years. Up to 2026, more than hundred thousand people have acquired the CPRE FL certificate (Certified Professional for Requirements Engineering – Foundation Level).
 
 As there are more than five million people working in IT worldwide, it is not surprising that there are still many development teams who neither have sufficient requirements engineering skills themselves, nor have access to specialists trained in requirements engineering – although they have to deal with requirements issues when developing and deploying software products.
 
@@ -42,7 +42,7 @@ We wish you success with this module and with your first steps in requirements e
 
 [cols="3,7,7",header=none,frame=none,grid=none]
 |===
-|January 2020
+|August 2026
 a|Martin Glinz
 
 Chairman of the IREB Council
