@@ -70,6 +70,7 @@ Verstehen, dass viele unterschiedliche Kriterien zur Zerlegung eines Systems in 
 ==== LZ 4-11: Methoden zur Erhebung funktionaler Anforderungen kennen
 
 * Wissen, dass es viele verschiedene Erhebungstechniken gibt, die Architekt:innen kennen sollten, z.B. Interviews, Fragebögen, Brainstorming-Sitzungen, Three Amigo Sessions <<smart-amigo>>, Knowledge Crunching, Event Storming und viele andere
+* Prototypen und Mockups als Erhebungs- und Validierungstechnik kennen, besonders für UI-/UX-nahe Anforderungen: Nutzer:innen reagieren oft konkreter auf ein sichtbares Artefakt als auf eine abstrakte Beschreibung <<snyder>>
 * Wissen, wann welche Erhebungstechnik die Kommunikation mit Stakeholdern verbessert
 
 // end::DE[]
@@ -144,6 +145,7 @@ Understand that many different criteria can be applied to decompose a system int
 ==== LG 4-11: Know methods for elicitation of functional requirements
 
 * Know that there are many different elicitation techniques that architects should be aware of, e.g. interviews, questionnaires, brainstorming sessions, three amigo sessions <<smart-amigo>>, knowledge crunching, event storming and many others
+* Know prototypes and mockups as an elicitation and validation technique, especially for UI/UX-related requirements: users often react more concretely to a visible artifact than to an abstract description <<snyder>>
 * Know when to pick which elicitation technique to improve communication with stakeholders
 
 
