@@ -17,6 +17,7 @@ This section contains references that are cited in the curriculum.
 
 - [[[adzic-11,Adzic-2011]]] Adzic, Gojko: Specification by Example. Manning, 2011. More info: https://gojko.net/books/specification-by-example/
 - [[[adzic-14,Adzic-2014]]] Adzic, Gojko / Evans, David: Fifty Quick Ideas to Improve Your User Stories. 2014. https://leanpub.com/50quickideas
+- [[[albrecht,Albrecht]]] Albrecht, Allan J.: Measuring Application Development Productivity. Proceedings of the Joint SHARE/GUIDE/IBM Application Development Symposium, 1979, pp. 83-92.
 - [[[ATAM]]] Kazman, Rick: ATAM Method for Architecture Evaluation, (_Architecture Tradeoff Analysis Method_), SEI Technical Report, https://www.sei.cmu.edu/library/atam-method-for-architecture-evaluation/
 
 **B**
@@ -27,6 +28,7 @@ This section contains references that are cited in the curriculum.
 **C**
 
 - [[[clegg,Clegg]]] Dai Clegg and Richard Barker (1994). Case Method Fast-Track: A RAD Approach. Addison-Wesley.
+- [[[cohn,Cohn]]] Cohn, Mike: User Stories Applied: For Agile Software Development. Addison-Wesley, 2004.
 - [[[cucumber,Cucumber]]] Cucumber: BDD testing and executable specifications. https://cucumber.io/
 
 **D**
@@ -39,6 +41,7 @@ This section contains references that are cited in the curriculum.
 - [[[gerstbach,Gerstbach]]] Gerstbach, Ingrid: Design Thinking im Unternehmen: Ein Workbook für die Einführung von Design Thinking, GABAL Verlag, 2016 (in German)
 - [[[gherkin,Gherkin]]] Cucumber: Gherkin Reference. https://cucumber.io/docs/gherkin/reference/
 - [[[gottesdiener-12,Gottesdiener]]] Gottesdiener, Ellen: Discover to Deliver: Agile Product Planning and Analysis, EGB Consulting, 2012
+- [[[grenning,Grenning]]] Grenning, James: Planning Poker or How to avoid Analysis Paralysis while Release Planning. Renaissance Software Consulting, 2002. https://wingman-sw.com/papers/PlanningPoker-v1.1.pdf
 
 **H**
 
@@ -57,9 +60,14 @@ This section contains references that are cited in the curriculum.
 - [[[jacobson,Jacobson]]] Dr. Ivar Jacobson, Ian Spence, Kurt Bittner: Use-Case 2.0: The Guide to Succeeding with Use-Cases. Online: https://www.ivarjacobson.com/publications/white-papers/use-case-20-e-book
 - [[[jeffries-ccc,Jeffries]]] Jeffries, Ron: Essential XP: Card, Conversation, Confirmation, 2001. https://ronjeffries.com/xprog/articles/expcardconversationconfirmation/
 
+**K**
+
+- [[[kotonya-sommerville,Kotonya-Sommerville]]] Kotonya, Gerald / Sommerville, Ian: Requirements Engineering: Processes and Techniques. Wiley, 1998.
+
 **L**
 
 - [[[lawrence,Lawrence]]] Richard Lawrence, Peter Green: The Humanizing Work Guide to Splitting User Stories, https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/
+- [[[leffingwell,Leffingwell]]] Leffingwell, Dean: Agile Software Requirements: Lean Requirements Practices for Teams, Programs, and the Enterprise. Addison-Wesley, 2011.
 
 **M**
 
@@ -81,12 +89,14 @@ This section contains references that are cited in the curriculum.
 
 **R**
 
+- [[[reinertsen,Reinertsen]]] Reinertsen, Donald G.: The Principles of Product Development Flow: Second Generation Lean Product Development. Celeritas Publishing, 2009.
 - [[[ries,Ries]]] Ries, Eric: The Lean Startup, Crown Business, 2011
 - [[[robertson-24,Robertson-24]]] Robertson,J./Robertson,S.: Mastering the Requirements Process: Getting Requirements Right. Addison Wesley; 4th edition 2024. https://www.volere.org/mastering-the-requirements-process-getting-requirements-right/
 - [[[robertson-19,Robertson-19]]] Robertson, J. /Robertson, S.: Business Analysis Agility. Addison Wesley, 2019
 
 **S**
 
+- [[[safe,SAFe]]] Scaled Agile, Inc.: SAFe (Scaled Agile Framework), online. https://scaledagileframework.com/
 - [[[smart-bdd,Smart]]] Smart, J.F. / Molak, J.: BDD in Action: Behavior-Driven Development for the whole software lifecycle. Manning, 2nd edition 2023. https://www.manning.com/books/bdd-in-action-second-edition
 - [[[smart-amigo,Smart-Amigo]]] Smart, J.F.: The Anatomy of a Three Amigo requirements discovery Session. https://johnfergusonsmart.com/three-amigos-requirements-discovery/
 - [[[starke-hruschka-arc42,Starke-Hruschka]]] Starke,G + Hruschka, P: Communicating Software Architectures: lean, effective and painless documentation. Leanpub https://leanpub.com/arc42inpractice
@@ -104,4 +114,5 @@ Carl Hanser Verlag, 4th edition 2025  (in German) - especially for "_Architectur
 
 - [[[wake2003,Wake]]]: Wake, Bill: INVEST in good stories and SMART Tasks,
 xp123.com/Articles/invest-in-good-stories-and-smart-tasks, 2003
+- [[[wiegers-beatty,Wiegers-Beatty]]] Wiegers, Karl / Beatty, Joy: Software Requirements. Microsoft Press, 3rd edition, 2013.
 - [[[wynne,Wynne]]] Wynne, Matt: Introducing Example Mapping: https://cucumber.io/blog/bdd/example-mapping-introduction/
