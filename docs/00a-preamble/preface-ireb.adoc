@@ -31,7 +31,7 @@ Vorsitzender des Executive Board von IREB
 [preface]
 == Preface
 
-IREB, the International Requirements Engineering Board, has been committed to educating professionals in requirements engineering for more than twenty years. Up to 2026, more than hundred thousand people have acquired the CPRE FL certificate (Certified Professional for Requirements Engineering – Foundation Level).
+IREB, the International Requirements Engineering Board, has been committed to educating professionals in requirements engineering for more than twenty years. Up to 2026, more than a hundred thousand people have acquired the CPRE FL certificate (Certified Professional for Requirements Engineering – Foundation Level).
 
 As there are more than five million people working in IT worldwide, it is not surprising that there are still many development teams who neither have sufficient requirements engineering skills themselves, nor have access to specialists trained in requirements engineering – although they have to deal with requirements issues when developing and deploying software products.
 
