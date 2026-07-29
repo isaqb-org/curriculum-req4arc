@@ -34,7 +34,7 @@ Architekt:innen haben verschiedene Möglichkeiten, sie zu präzisieren:
 ** Szenarien finden, die die beabsichtigte Bedeutung präziser ausdrücken, oder
 ** funktionale Anforderungen vorschlagen, die die Absicht der Qualitätsanforderung erfüllen (z.B. ein Rollenkonzept und Passwörter vorschlagen, um eine Sicherheitsanforderung umzusetzen)
 
-* Wissen, dass das Q42-Qualitätsmodell <<Q42>> praktische Anleitung und pragmatische Beispiele für die Verfeinerung von Qualitätsanforderungen bietet
+* Wissen, dass das Q42-Qualitätsmodell <<Q42>> praktische Anleitung und pragmatische Beispiele für die exakte Spezifikation von Qualitätsanforderungen bietet
 
 [[LZ-5-5]]
 ==== LZ 5-5: Akzeptanzkriterien für Qualitätsanforderungen spezifizieren
@@ -94,7 +94,7 @@ Architects have various ways of adding precision
 ** they could find scenarios to express the intended meaning more precisely, or
 ** they could suggest functional requirements that fulfil the intent of the quality requirement (i.e. suggest a role concept and the use of passwords to implement a security requirement)
 
-* Know that the Q42 quality model <<Q42>> provides practical guidance and pragmatic examples for refining quality requirements
+* Know that the Q42 quality model <<Q42>> provides practical guidance and pragmatic examples for specifying exact quality requirements
 
 [[LG-5-5]]
 ==== LG 5-5: Specifying acceptance criteria for quality requirements
