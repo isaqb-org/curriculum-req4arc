@@ -23,6 +23,7 @@ This section contains references that are cited in the curriculum.
 
 - [[[banfield,Banfield]]] Banfield, Richard: Design sprint: a practical guidebook for building great digital products, O'Reilly, 2016
 - [[[bpmn,BPMN]]] Object Management Group (OMG): Business Process Model and Notation (BPMN), Version 2.0.2, 2013. https://www.omg.org/spec/BPMN/2.0.2/ (also published as ISO/IEC 19510:2013, https://www.iso.org/standard/62652.html)
+- [[[brown,Brown]]] Brown, Tim: Design Thinking, Harvard Business Review, June 2008.
 
 **C**
 
