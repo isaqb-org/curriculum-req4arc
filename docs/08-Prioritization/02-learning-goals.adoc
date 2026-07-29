@@ -29,6 +29,13 @@ Wieder andere wollen das Risiko für die restliche Entwicklung reduzieren oder e
 * Einige relative Schätztechniken kennen, etwa T-Shirt-Sizing und Planning Poker (mit Fibonacci-Werten)
 * Verschiedene Schätztechniken kennen, z.B. Function Points, Story Points, Affinity Estimation, Wall Estimation etc.
 
+[[LZ-8-4]]
+==== LZ 8-4: Widersprüchliche Anforderungen erkennen und auflösen
+
+* Verstehen, dass unterschiedliche Stakeholder-Bedürfnisse zu widersprüchlichen Anforderungen führen können, deren Auflösung sich häufig in Architekturentscheidungen niederschlägt
+* Techniken zur Konfliktlösung kennen, z.B. Priorisierung (siehe <<LZ-8-2>>), Trade-off- und Utility-Analyse <<ATAM>>, Eskalation an Entscheidungsträger sowie direkte Verhandlung mit den betroffenen Stakeholdern
+* Wissen, dass sich Architekt:innen bei der Konfliktlösung vor allem auf jene Konflikte konzentrieren sollten, die architekturrelevante Anforderungen (<<LZ-1-1>>) betreffen
+
 
 // end::DE[]
 
@@ -60,6 +67,13 @@ Others might want to reduce the risk for the rest of the development, or create 
 * Know advantages and disadvantages of absolute and relative estimates
 * Know some relative estimation techniques like T-Shirt-sizing, Planning Poker (with Fibonacci values)
 * Know different estimation techniques, e.g. function points, story points, affinity estimation, wall estimation, etc.
+
+[[LG-8-4]]
+==== LG 8-4: Identifying and resolving conflicting requirements
+
+* Understand that different stakeholder needs can lead to conflicting requirements, and that resolving them often translates into architectural decisions
+* Know techniques for conflict resolution, e.g. prioritization (see <<LG-8-2>>), trade-off and utility analysis <<ATAM>>, escalation to decision makers, and direct negotiation with the affected stakeholders
+* Know that architects should focus conflict resolution primarily on conflicts affecting architecturally significant requirements (<<LG-1-1>>)
 
 
 // end::EN[]
