@@ -33,7 +33,7 @@ Architekt:innen haben verschiedene Möglichkeiten, sie zu präzisieren:
 ** Unterkategorien der Kategorisierungsschemata nutzen (Benutzerfreundlichkeit = leichte Bedienbarkeit und leichte Erlernbarkeit)
 ** Szenarien finden, die die beabsichtigte Bedeutung präziser ausdrücken, oder
 ** funktionale Anforderungen vorschlagen, die die Absicht der Qualitätsanforderung erfüllen (z.B. ein Rollenkonzept und Passwörter vorschlagen, um eine Sicherheitsanforderung umzusetzen)
-* Wissen, dass Qualitätsbäume <<ATAM>> zur Verfeinerung von Qualitätsanforderungen genutzt werden können
+
 * Wissen, dass das Q42-Qualitätsmodell <<Q42>> praktische Anleitung und pragmatische Beispiele für die Verfeinerung von Qualitätsanforderungen bietet
 
 [[LZ-5-5]]
@@ -92,8 +92,8 @@ They should be able to select and adapt their approach to eliciting and specifyi
 Architects have various ways of adding precision
 ** they could either use subcategories of the categorization schemes (user friendliness = ease of use and ease of learning)
 ** they could find scenarios to express the intended meaning more precisely, or
-** they could suggest functional requirements that fulfil the intend of the quality requirement (i.e. suggest a role concept and the use of passwords to implement a security requirement)
-* Know the quality trees <<ATAM>> can be used to refine quality requirements
+** they could suggest functional requirements that fulfil the intent of the quality requirement (i.e. suggest a role concept and the use of passwords to implement a security requirement)
+
 * Know that the Q42 quality model <<Q42>> provides practical guidance and pragmatic examples for refining quality requirements
 
 [[LG-5-5]]
