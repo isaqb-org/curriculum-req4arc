@@ -3,22 +3,12 @@
 include::config/setup.adoc[]
 
 ifeval::["{language}" == "DE"]
-= Curriculum fürpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Advanced Level_: pass:q[<br>] Modulpass:q[<br>]{curriculum-short}pass:q[<br><br>]{curriculum-name}
+= Curriculum für Certified Professional for Software Architecture (CPSA)^(R)^ Advanced Level{title-break}**{curriculum-short}** __– {curriculum-name}__
 :toc-title: Inhaltsverzeichnis
 endif::[]
 ifeval::["{language}" == "EN"]
-= Curriculum forpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Advanced Level_: pass:q[<br>] Modulepass:q[<br>]{curriculum-short}pass:q[<br><br>]{curriculum-name}
+= Curriculum for Certified Professional for Software Architecture (CPSA)^(R)^ Advanced Level{title-break}**{curriculum-short}** __– {curriculum-name}__
 endif::[]
-// TOC placement is backend-specific. These conditionals MUST stay in the document header
-// (no blank line above) so HTML's sidebar TOC setup sees :toc:.
-ifdef::backend-pdf[]
-:toc: macro
-:toc-placement: macro
-endif::[]
-ifndef::backend-pdf[]
-:toc: left
-endif::[]
-
 // define terms for toc, learning-goals
 include::config/i18n-definitions.adoc[tags={language}]
 

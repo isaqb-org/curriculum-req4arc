@@ -5,8 +5,8 @@ rem   curriculum-build.bat pdf DE       single format + language
 rem   curriculum-build.bat pdf DE REMARKS
 setlocal
 
-set "IMAGE=ghcr.io/isaqb-org/curriculum-builder:2026.2-rev4"
-set "DIGEST=sha256:0367c56f3b25666594d560c48a4221e42f243aabfb6c32a8f1ae5bff6c6a4b85"
+set "IMAGE=ghcr.io/isaqb-org/curriculum-builder:2026.3-rev1"
+set "DIGEST=sha256:6f0899bca1d2c8730803703c3b6f1f205f250d087b33cf0df5e344d0fcc1ab00"
 
 set "REF=%IMAGE%"
 if defined DIGEST set "REF=%IMAGE%@%DIGEST%"

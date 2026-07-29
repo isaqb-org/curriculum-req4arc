@@ -2,6 +2,7 @@ include::config/setup.adoc[]
 
 = image:isaqb-logo.jpg[width=150]Certified Professional for Software Architecture^(R)^ (CPSA)
 - Curriculum {curriculum-name} [{curriculum-short}] – Release Candidate -
+:!toc:
 
 :repo-name: curriculum-req4arc
 
