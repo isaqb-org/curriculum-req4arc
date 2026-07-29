@@ -106,10 +106,6 @@ This section contains references that are cited in the curriculum.
 - [[[snyder,Snyder]]] Snyder, Carolyn: Paper Prototyping: The Fast and Easy Way to Design and Refine User Interfaces. Morgan Kaufmann, 2003.
 - [[[starke-hruschka-arc42,Starke-Hruschka]]] Starke,G + Hruschka, P: Communicating Software Architectures: lean, effective and painless documentation. Leanpub https://leanpub.com/arc42inpractice
 
-**T**
-
-- [[[toth,Toth]]] Toth, Stefan: Vorgehensmuster für Softwarearchitektur.
-Carl Hanser Verlag, 4th edition 2025  (in German) - especially for "_Architecturally significant requirements_"
 
 **V**
 
