@@ -27,6 +27,7 @@ This section contains references that are cited in the curriculum.
 **C**
 
 - [[[clegg,Clegg]]] Dai Clegg and Richard Barker (1994). Case Method Fast-Track: A RAD Approach. Addison-Wesley.
+- [[[cooper,Cooper]]] Cooper, Alan: The Inmates Are Running the Asylum: Why High-Tech Products Drive Us Crazy and How to Restore the Sanity. Sams, 1999.
 - [[[cucumber,Cucumber]]] Cucumber: BDD testing and executable specifications. https://cucumber.io/
 
 **D**
@@ -56,6 +57,10 @@ This section contains references that are cited in the curriculum.
 
 - [[[jacobson,Jacobson]]] Dr. Ivar Jacobson, Ian Spence, Kurt Bittner: Use-Case 2.0: The Guide to Succeeding with Use-Cases. Online: https://www.ivarjacobson.com/publications/white-papers/use-case-20-e-book
 - [[[jeffries-ccc,Jeffries]]] Jeffries, Ron: Essential XP: Card, Conversation, Confirmation, 2001. https://ronjeffries.com/xprog/articles/expcardconversationconfirmation/
+
+**K**
+
+- [[[kalbach,Kalbach]]] Kalbach, Jim: Mapping Experiences: A Complete Guide to Creating Value through Journeys, Blueprints, and Diagrams. O'Reilly, 2016.
 
 **L**
 
@@ -89,6 +94,7 @@ This section contains references that are cited in the curriculum.
 
 - [[[smart-bdd,Smart]]] Smart, J.F. / Molak, J.: BDD in Action: Behavior-Driven Development for the whole software lifecycle. Manning, 2nd edition 2023. https://www.manning.com/books/bdd-in-action-second-edition
 - [[[smart-amigo,Smart-Amigo]]] Smart, J.F.: The Anatomy of a Three Amigo requirements discovery Session. https://johnfergusonsmart.com/three-amigos-requirements-discovery/
+- [[[snyder,Snyder]]] Snyder, Carolyn: Paper Prototyping: The Fast and Easy Way to Design and Refine User Interfaces. Morgan Kaufmann, 2003.
 - [[[starke-hruschka-arc42,Starke-Hruschka]]] Starke,G + Hruschka, P: Communicating Software Architectures: lean, effective and painless documentation. Leanpub https://leanpub.com/arc42inpractice
 
 **T**

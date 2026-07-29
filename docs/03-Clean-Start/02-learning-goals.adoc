@@ -26,6 +26,7 @@
 * Wissen, dass Stakeholder die wichtigsten Quellen für Anforderungen sind
 * Verstehen, dass fehlende Stakeholder fehlende Anforderungen bedeuten können
 * Verstehen, dass Stakeholder auf spezifische, angemessene Weise angesprochen werden müssen
+* Personas <<cooper>> und User-Journey-Maps <<kalbach>> als Artefakte kennen, um Stakeholder-Bedürfnisse zu bündeln, im Team greifbar zu machen und über die Zeit hinweg zu visualisieren
 
 [[LZ-3-5]]
 ==== LZ 3-5: Unterschiedliche Bedürfnisse und Werte verschiedener Stakeholder („Value Propositions")
@@ -76,6 +77,7 @@ Wissen, dass:
 * Know that stakeholders are the most important sources of requirements.
 * Understand that missing stakeholders may mean missing requirements.
 * Understand that architects should be aware that stakeholders need to be addressed in specific, adequate ways.
+* Know personas <<cooper>> and user-journey maps <<kalbach>> as artifacts to consolidate stakeholder needs, make them tangible for the team, and visualize them over time
 
 [[LG-3-5]]
 ==== LG 3-5: Different needs and values of different stakeholders  ("value propositions")
