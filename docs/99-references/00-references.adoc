@@ -17,7 +17,6 @@ This section contains references that are cited in the curriculum.
 
 - [[[adzic-11,Adzic-2011]]] Adzic, Gojko: Specification by Example. Manning, 2011. More info: https://gojko.net/books/specification-by-example/
 - [[[adzic-14,Adzic-2014]]] Adzic, Gojko / Evans, David: Fifty Quick Ideas to Improve Your User Stories. 2014. https://leanpub.com/50quickideas
-- [[[ATAM]]] Kazman, Rick: ATAM Method for Architecture Evaluation, (_Architecture Tradeoff Analysis Method_), SEI Technical Report, https://www.sei.cmu.edu/library/atam-method-for-architecture-evaluation/
 
 **B**
 
