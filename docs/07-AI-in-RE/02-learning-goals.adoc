@@ -58,7 +58,7 @@
 ==== LG 7-2: Knowing use cases for LLMs in requirements engineering
 
 * Know that LLMs can support elicitation, e.g. by preparing interviews, generating questions, simulating stakeholders or personas, and supporting brainstorming
-* Know that LLMs can help to analyse requirements, e.g. find ambiguities, gaps and contradictions, or check requirements against quality criteria like INVEST, testability and acceptance criteria (see <<LG-4-8>> and <<LG-4-9>>)
+* Know that LLMs can help to analyze requirements, e.g. find ambiguities, gaps and contradictions, or check requirements against quality criteria like INVEST, testability and acceptance criteria (see <<LG-4-8>> and <<LG-4-9>>)
 * Know that LLMs can draft stories, use cases, quality scenarios and Gherkin examples (see sections 5 and 6), and can rephrase requirements between levels of abstraction and notations
 * Know that LLMs can support identifying architecturally significant requirements (ASRs) and refining vague quality goals into quality scenarios (see chapter 5)
 * Know that LLMs can summarize large sets of requirements and check glossaries and terminology for consistency

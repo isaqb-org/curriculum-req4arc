@@ -64,7 +64,7 @@ Wissen, dass:
 
 * Understand that visions or business goals are your highest level requirements, i.e. those requirements that are (hopefully) not changed during a project <<hruschka>>
 * Understand that visions and goals should be quantified and made measurable to be able to check success in terms of business value.
-* Know how to systematically break down business goals using Impact Mapping <<adzic-impact>> into actors, the impacts (behaviour changes) they should deliver, and concrete deliverables
+* Know how to systematically break down business goals using Impact Mapping <<adzic-impact>> into actors, the impacts (behavior changes) they should deliver, and concrete deliverables
 
 [[LG-3-3]]
 ==== LG 3-3: Different options and notations for expressing visions and business goals

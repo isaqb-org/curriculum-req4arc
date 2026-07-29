@@ -5,8 +5,8 @@
 |===
 
 | Inhalt
-| Unterricht (Minuten)
-| Übungen (Minuten)
+| Unterricht (Min.)
+| Übungen (Min.)
 
 
 | 1. Einführung und Motivation
@@ -49,12 +49,9 @@
 >| 60
 >| 0
 
->| Summe:
+>| Summe / Gesamt: (1080 Min. / 18h)
 >| 705
 >| 375
-
->| Gesamt:
-2+>| 1080 Min. (18h)
 
 
 |===
@@ -70,8 +67,8 @@
 |===
 
 | Content
-| Teaching (minutes)
-| Exercises (minutes)
+| Teaching (min)
+| Exercises (min)
 
 
 | 1. Introduction and Motivation
@@ -114,12 +111,9 @@
 >| 60
 >| 0
 
->| Sum:
+>| Sum / Total: (1080 min / 18h)
 >| 705
 >| 375
-
->| Total:
-2+>| 1080 min (18h)
 
 
 |===

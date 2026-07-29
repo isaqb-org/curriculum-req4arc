@@ -28,7 +28,7 @@ Large Language Model (LLM), Generative KI, Prompt, Kontext, Halluzination, Bias,
 | Teaching: 60 min | Exercises: none
 |===
 
-Artificial intelligence, in particular large language models (LLMs), is increasingly used to support requirements engineering. Because LLMs are tools for language and text, their strengths - generating, transforming, summarizing and comparing text - match many requirements engineering activities, from preparing elicitation to drafting, analysing and consolidating requirements.
+Artificial intelligence, in particular large language models (LLMs), is increasingly used to support requirements engineering. Because LLMs are tools for language and text, their strengths - generating, transforming, summarizing and comparing text - match many requirements engineering activities, from preparing elicitation to drafting, analyzing and consolidating requirements.
 
 At the same time, LLMs have inherent limitations and risks that requirements engineers need to know and assess (see <<LG-7-1>> and <<LG-7-3>>). Requirements engineering therefore remains essentially a communicative activity with stakeholders: AI can prepare and follow up on such conversations, but it cannot replace them, and humans stay responsible for the resulting requirements (_human-in-the-loop_).
 

@@ -17,7 +17,7 @@ image::req4arc-overview-{language}.svg[Überblick über den {curriculum-short}-L
 
 Architects and development teams often get only mediocre requirements as input for their work.
 The goal of this module is to equip architects with enough requirements know-how, so that they can take educated architecture decisions, based on the real needs of stakeholders.
-They should either know how to elicit requirements (in agile and iterative approaches) or - at least - to know what to ask from others in their environment.
+They should either know how to elicit requirements (in agile, iterative settings), or at least know what to ask of others.
 
 .Navigation map of the {curriculum-short} curriculum
 image::req4arc-overview-{language}.svg[Overview of the {curriculum-short} curriculum,320,align="center"]
