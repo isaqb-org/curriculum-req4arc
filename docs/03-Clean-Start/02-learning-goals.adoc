@@ -13,6 +13,7 @@
 
 * Verstehen, dass Visionen oder Business Goals die obersten Anforderungen sind, also jene, die sich (hoffentlich) während eines Projekts nicht ändern <<hruschka>>
 * Verstehen, dass Visionen und Ziele quantifiziert und messbar gemacht werden sollten, um Erfolg in Bezug auf Business Value überprüfen zu können
+* Wissen, wie sich Business Goals systematisch mit Impact Mapping <<adzic-impact>> auf Akteure, gewünschte Verhaltensänderungen (Impacts) und konkrete Deliverables herunterbrechen lassen
 
 [[LZ-3-3]]
 ==== LZ 3-3: Verschiedene Möglichkeiten und Notationen, Visionen und Business Goals auszudrücken
@@ -63,6 +64,7 @@ Wissen, dass:
 
 * Understand that visions or business goals are your highest level requirements, i.e. those requirements that are (hopefully) not changed during a project <<hruschka>>
 * Understand that visions and goals should be quantified and made measurable to be able to check success in terms of business value.
+* Know how to systematically break down business goals using Impact Mapping <<adzic-impact>> into actors, the impacts (behaviour changes) they should deliver, and concrete deliverables
 
 [[LG-3-3]]
 ==== LG 3-3: Different options and notations for expressing visions and business goals

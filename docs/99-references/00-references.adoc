@@ -17,8 +17,8 @@ This section contains references that are cited in the curriculum.
 
 - [[[adzic-11,Adzic-2011]]] Adzic, Gojko: Specification by Example. Manning, 2011. More info: https://gojko.net/books/specification-by-example/
 - [[[adzic-14,Adzic-2014]]] Adzic, Gojko / Evans, David: Fifty Quick Ideas to Improve Your User Stories. 2014. https://leanpub.com/50quickideas
+- [[[adzic-impact,Adzic-Impact]]] Adzic, Gojko: Impact Mapping: Making a Big Impact with Software Products and Projects. Provoking Thoughts, 2012. https://www.impactmapping.org/
 - [[[albrecht,Albrecht]]] Albrecht, Allan J.: Measuring Application Development Productivity. Proceedings of the Joint SHARE/GUIDE/IBM Application Development Symposium, 1979, pp. 83-92.
-- [[[ATAM]]] Kazman, Rick: ATAM Method for Architecture Evaluation, (_Architecture Tradeoff Analysis Method_), SEI Technical Report, https://www.sei.cmu.edu/library/atam-method-for-architecture-evaluation/
 
 **B**
 
@@ -55,7 +55,7 @@ This section contains references that are cited in the curriculum.
 - [[[ireb-agile,IREB]]] IREB: Handbook Advanced Module “RE@Agile”, https://cpre.ireb.org/de/downloads-and-resources/downloads/category:re-agile
 - [[[ireb-glossary,IREB-Glossary]]] Glinz, Martin (IREB): A Glossary of Requirements Engineering Terminology (CPRE Glossary), version 2.2.0, 2025. https://cpre.ireb.org/en/downloads-and-resources/glossary
 - [[[isaqb-foundation,iSAQB-Foundation]]] iSAQB Foundation Level Curriculum: https://public.isaqb.org/curriculum-foundation/
-- [[[iso25010,ISO-25010]]] ISO/IEC 25010:2023: Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Product quality model (2nd edition, replaces ISO/IEC 25010:2011). https://www.iso.org/standard/78176.html
+- [[[iso25010,ISO-25010]]] ISO/IEC 25010:2023: Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE). https://www.iso.org/standard/78176.html
 - [[[iso29148,ISO-29148]]] ISO/IEC/IEEE 29148:2018: Systems and software engineering — Life cycle processes — Requirements engineering. https://www.iso.org/standard/72089.html
 
 **J**
@@ -85,7 +85,7 @@ This section contains references that are cited in the curriculum.
 **P**
 
 - [[[patton,Patton]]] Patton, Jeff (with Economy, Peter): User Story Mapping: Discover the Whole Story, Build the Right Product. O'Reilly, 2014. https://www.jpattonassociates.com/story-mapping/
-- [[[pichler,Pichler]]] Pichler, R.: Agile Product Management with Scrum: Creating Products that Customers Love. Addison-Wesley, 2010
+
 
 **Q**
 
