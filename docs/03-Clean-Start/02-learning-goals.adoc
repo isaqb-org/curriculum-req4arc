@@ -46,7 +46,6 @@ Wissen, dass:
 
 * Zwischen Business Scope und Produkt-Scope unterscheiden
 * Die Bedeutung externer Schnittstellen kennen
-* Verschiedene Ebenen von „extern" unterscheiden (extern zum System, extern zur Geschäftseinheit, extern zum Unternehmen)
 * Verschiedene Möglichkeiten und Notationen kennen, Scope und Kontext auszudrücken, z.B. Kontextdiagramme
 
 // end::DE[]
@@ -97,7 +96,6 @@ Know:
 
 * Distinguish between business and product scope
 * Know about the importance of external interfaces
-* Distinguish between various levels of externality (external to the system, external to the business unit, external to the enterprise)
 * Know different options and notations for expressing scope and context, i.e. context diagrams
 
 // end::EN[]
