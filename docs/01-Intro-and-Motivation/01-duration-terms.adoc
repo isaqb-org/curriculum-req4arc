@@ -7,7 +7,7 @@
 |===
 
 === Begriffe und Konzepte
-Architekturrelevante Anforderungen (engl. _architecturally significant requirements_, ASR), Agiles Requirements Engineering
+Architekturrelevante Anforderungen (engl. _architecturally significant requirements_, ASR), Agiles Requirements Engineering, Qualitätskriterien für Anforderungen, Quality Gateway
 
 // end::DE[]
 
@@ -18,7 +18,7 @@ Architekturrelevante Anforderungen (engl. _architecturally significant requireme
 |===
 
 === Terms and concepts
-Architecturally significant requirements (ASR), Agile Requirements Engineering
+Architecturally significant requirements (ASR), Agile Requirements Engineering, Requirements Quality Criteria, Quality Gateway
 
 // end::EN[]
 
