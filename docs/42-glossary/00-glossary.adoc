@@ -39,7 +39,7 @@ Epic:: (angelehnt an IREB): Eine abstrakte Beschreibung eines Stakeholder-Bedür
 
 
 Feature:: Eine Leistung, Service oder Dienst, die ein Stakeholder-Bedürfnis erfüllt.
-Jedes Feature umfasst eine Nutzenhypothese und Akzeptanzkriterien.
+Jedes Feature umfasst eine Nutzenhypothese und Akzeptanzkriterien. <<leffingwell>> <<safe>>
 
 Funktionale Anforderungen:: Eine Anforderung an ein Ergebnis oder Verhalten, das eine Funktion eines Systems (oder einer Komponente oder eines Service) liefern soll.
 
@@ -91,7 +91,7 @@ Use Case:: Eine Beschreibung der möglichen Interaktionen zwischen Akteuren und 
 Use Cases spezifizieren ein System aus Sicht der Nutzer:innen (oder anderer externer Akteure): Jeder Use Case beschreibt Funktionalität, die das System für die beteiligten Akteure bereitstellen muss.
 
 Vision:: Die Vision beschreibt den zukünftigen Zustand der zu entwickelnden Lösung.
-Sie spiegelt die Bedürfnisse von Kund:innen und Stakeholdern wider sowie die Features und Fähigkeiten, die zur Erfüllung dieser Bedürfnisse vorgeschlagen werden.
+Sie spiegelt die Bedürfnisse von Kund:innen und Stakeholdern wider sowie die Features und Fähigkeiten, die zur Erfüllung dieser Bedürfnisse vorgeschlagen werden. <<leffingwell>> <<safe>>
 
 
 // end::DE[]
@@ -143,7 +143,7 @@ Epic:: (adapted from IREB): A high-level, abstract description of a stakeholder 
 
 
 Feature:: A service that fulfills a stakeholder need.
-Each feature includes a benefit hypothesis and acceptance criteria.
+Each feature includes a benefit hypothesis and acceptance criteria. <<leffingwell>> <<safe>>
 
 Functional Requirements:: A requirement concerning a result of behavior that shall be provided by a function of a system (or of a component or service).
 
@@ -187,7 +187,7 @@ Use Case:: A description of the interactions possible between actors and a syste
 Use cases specify a system from a user’s (or other external actor’s) perspective: every use case describes some functionality that the system must provide for the actors involved in the use case.
 
 Vision:: The Vision is a description of the future state of the Solution under development.
-It reflects Customer and stakeholder needs, as well as the Feature and Capabilities, proposed to meet those needs.
+It reflects Customer and stakeholder needs, as well as the Feature and Capabilities, proposed to meet those needs. <<leffingwell>> <<safe>>
 
 
 // end::EN[]

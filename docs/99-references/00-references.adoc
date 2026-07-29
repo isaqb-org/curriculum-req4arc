@@ -17,6 +17,8 @@ This section contains references that are cited in the curriculum.
 
 - [[[adzic-11,Adzic-2011]]] Adzic, Gojko: Specification by Example. Manning, 2011. More info: https://gojko.net/books/specification-by-example/
 - [[[adzic-14,Adzic-2014]]] Adzic, Gojko / Evans, David: Fifty Quick Ideas to Improve Your User Stories. 2014. https://leanpub.com/50quickideas
+- [[[albrecht,Albrecht]]] Albrecht, Allan J.: Measuring Application Development Productivity. Proceedings of the Joint SHARE/GUIDE/IBM Application Development Symposium, 1979, pp. 83-92.
+- [[[ATAM]]] Kazman, Rick: ATAM Method for Architecture Evaluation, (_Architecture Tradeoff Analysis Method_), SEI Technical Report, https://www.sei.cmu.edu/library/atam-method-for-architecture-evaluation/
 
 **B**
 
@@ -40,11 +42,13 @@ This section contains references that are cited in the curriculum.
 - [[[gerstbach,Gerstbach]]] Gerstbach, Ingrid: Design Thinking im Unternehmen: Ein Workbook für die Einführung von Design Thinking, GABAL Verlag, 2016 (in German)
 - [[[gherkin,Gherkin]]] Cucumber: Gherkin Reference. https://cucumber.io/docs/gherkin/reference/
 - [[[gottesdiener-12,Gottesdiener]]] Gottesdiener, Ellen: Discover to Deliver: Agile Product Planning and Analysis, EGB Consulting, 2012
+- [[[grenning,Grenning]]] Grenning, James: Planning Poker or How to avoid Analysis Paralysis while Release Planning. Renaissance Software Consulting, 2002. https://wingman-sw.com/papers/PlanningPoker-v1.1.pdf
 
 **H**
 
 - [[[hathaway,Hathaway]]] Hathaway, Angela + Tom: Getting and Writing IT-Requirements in a Lean and Agile World. Self-published, https://www.businessanalysisexperts.com/books-ebooks-business-analysis-career/book-getting-writing-it-requirements-lean-agile/
 - [[[hruschka,Hruschka]]] Hruschka, Peter: Business Analysis und Requirements Engineering, Hanser Verlag, 4th Edition 2026 (in German). English version available on Leanpub: https://leanpub.com/business_analysis_requirements_engineering
+- [[[hmf,HMF]]] Hruschka, Peter, Meuten, Markus and Fritsch, Dirk: The Practical Guide to Agile Requirements Engineering. Leanpub, 2024, https://leanpub.com/agile_requirements_enginering
 
 **I**
 
@@ -66,6 +70,7 @@ This section contains references that are cited in the curriculum.
 **L**
 
 - [[[lawrence,Lawrence]]] Richard Lawrence, Peter Green: The Humanizing Work Guide to Splitting User Stories, https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/
+- [[[leffingwell,Leffingwell]]] Leffingwell, Dean: Agile Software Requirements: Lean Requirements Practices for Teams, Programs, and the Enterprise. Addison-Wesley, 2011.
 
 **M**
 
@@ -79,6 +84,7 @@ This section contains references that are cited in the curriculum.
 
 **P**
 
+- [[[patton,Patton]]] Patton, Jeff (with Economy, Peter): User Story Mapping: Discover the Whole Story, Build the Right Product. O'Reilly, 2014. https://www.jpattonassociates.com/story-mapping/
 - [[[pichler,Pichler]]] Pichler, R.: Agile Product Management with Scrum: Creating Products that Customers Love. Addison-Wesley, 2010
 
 **Q**
@@ -87,12 +93,14 @@ This section contains references that are cited in the curriculum.
 
 **R**
 
+- [[[reinertsen,Reinertsen]]] Reinertsen, Donald G.: The Principles of Product Development Flow: Second Generation Lean Product Development. Celeritas Publishing, 2009.
 - [[[ries,Ries]]] Ries, Eric: The Lean Startup, Crown Business, 2011
 - [[[robertson-24,Robertson-24]]] Robertson,J./Robertson,S.: Mastering the Requirements Process: Getting Requirements Right. Addison Wesley; 4th edition 2024. https://www.volere.org/mastering-the-requirements-process-getting-requirements-right/
 - [[[robertson-19,Robertson-19]]] Robertson, J. /Robertson, S.: Business Analysis Agility. Addison Wesley, 2019
 
 **S**
 
+- [[[safe,SAFe]]] Scaled Agile, Inc.: SAFe (Scaled Agile Framework), online. https://scaledagileframework.com/
 - [[[smart-bdd,Smart]]] Smart, J.F. / Molak, J.: BDD in Action: Behavior-Driven Development for the whole software lifecycle. Manning, 2nd edition 2023. https://www.manning.com/books/bdd-in-action-second-edition
 - [[[smart-amigo,Smart-Amigo]]] Smart, J.F.: The Anatomy of a Three Amigo requirements discovery Session. https://johnfergusonsmart.com/three-amigos-requirements-discovery/
 - [[[snyder,Snyder]]] Snyder, Carolyn: Paper Prototyping: The Fast and Easy Way to Design and Refine User Interfaces. Morgan Kaufmann, 2003.
@@ -111,4 +119,5 @@ Carl Hanser Verlag, 4th edition 2025  (in German) - especially for "_Architectur
 
 - [[[wake2003,Wake]]]: Wake, Bill: INVEST in good stories and SMART Tasks,
 xp123.com/Articles/invest-in-good-stories-and-smart-tasks, 2003
+- [[[wiegers-beatty,Wiegers-Beatty]]] Wiegers, Karl / Beatty, Joy: Software Requirements. Microsoft Press, 3rd edition, 2013.
 - [[[wynne,Wynne]]] Wynne, Matt: Introducing Example Mapping: https://cucumber.io/blog/bdd/example-mapping-introduction/

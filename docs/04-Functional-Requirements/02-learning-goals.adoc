@@ -14,6 +14,7 @@
 * Verstehen, dass (funktionale) Anforderungen auf unterschiedlichen Granularitätsebenen ausgedrückt werden können, von grobgranular bis sehr feingranular
 * Verstehen, dass Architekt:innen für Planung und Schätzung mindestens einen Überblick über grobgranulare funktionale Anforderungen brauchen
 * Wissen, dass nicht jede funktionale Anforderung sofort detailliert werden muss
+* Wissen, dass solche Hierarchien als Story-Maps dargestellt werden können
 
 [[LZ-4-3]]
 ==== LZ 4-3: Kriterien für das Zerlegen grobgranularer funktionaler Anforderungen
@@ -43,7 +44,7 @@ Verstehen, dass viele unterschiedliche Kriterien zur Zerlegung eines Systems in 
 [[LZ-4-7]]
 ==== LZ 4-7: Funktionale Anforderungen dokumentieren
 
-* Verstehen, dass detaillierte funktionale Anforderungen auf verschiedene Arten dokumentiert werden können, z.B. textuell, aber auch in vielen grafischen Formen. Grafische Notationen mit klar definierter Syntax und Semantik (z.B. Aktivitätsdiagramme, Zustandsmodelle) können mehr Präzision und weniger Interpretationsspielraum bieten als natürlichsprachliche Anforderungen – informelle oder unscharf definierte Diagramme können hingegen genauso mehrdeutig sein, oder mehrdeutiger. Präzise Notationen erfordern meist auch mehr Fachwissen, um sie zu erstellen und zu verstehen.
+* Verstehen, dass detaillierte funktionale Anforderungen auf verschiedene Arten dokumentiert werden können, z.B. textuell, aber auch in vielen grafischen Formen. Grafische Notationen mit klar definierter Syntax und Semantik (z.B. Aktivitätsdiagramme, Zustandsmodelle) können mehr Präzision und weniger Interpretationsspielraum bieten als natürlichsprachliche Anforderungen – informelle oder unscharf definierte Diagramme können hingegen genauso mehrdeutig sein, oder mehrdeutiger. Präzise Notationen erfordern meist auch mehr Fachwissen, um sie zu erstellen und zu verstehen <<hmf>>
 * Grafische Modelle wie Aktivitätsdiagramme, BPMN <<bpmn>>, Informationsmodelle und Zustandsmodelle kennen und wissen, wann welche Notation passt
 
 [[LZ-4-8]]
@@ -91,6 +92,8 @@ Verstehen, dass viele unterschiedliche Kriterien zur Zerlegung eines Systems in 
 * Understand that (functional) requirements can be expressed on different levels of granularity, from coarse grained to very fine grained
 * Understand that architects at least need an overview of coarse grained functional requirements for planning and estimating
 * Know that not every functional requirement has to be detailed immediately
+* Know that such hierarchies can be represented as story-maps <<patton>>
+
 
 [[LG-4-3]]
 ==== LG 4-3: Criteria for splitting coarse-grained functional requirements
@@ -120,7 +123,7 @@ Understand that many different criteria can be applied to decompose a system int
 [[LG-4-7]]
 ==== LG 4-7: Documenting functional requirements
 
-* Understand that detailed functional requirements can be documented in various ways, e.g. in textual form, but also in many graphical forms. Graphical notations with well-defined syntax and semantics (e.g. activity diagrams, state models) can offer more precision and less room for misinterpretation than natural language — but informal or loosely defined diagrams can be just as ambiguous, or more so. Precise notations typically also require more expert knowledge to create and understand.
+* Understand that detailed functional requirements can be documented in various ways, e.g. in textual form, but also in many graphical forms. Graphical notations with well-defined syntax and semantics (e.g. activity diagrams, state models) can offer more precision and less room for misinterpretation than natural language — but informal or loosely defined diagrams can be just as ambiguous, or more so. Precise notations typically also require more expert knowledge to create and understand  <<hmf>>.
 * Know graphical models like activity diagrams, BPMN <<bpmn>>, information models, state models and when to use which notation
 
 [[LG-4-8]]
