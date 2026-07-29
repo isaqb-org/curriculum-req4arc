@@ -77,7 +77,8 @@ Szenario::
 
 Scope:: Der Bereich der Dinge, die bei der Entwicklung eines Systems gestaltet und entworfen werden können.
 
-SMART:: (Akronym für _Specific, Measurable, Achievable, Realistic, Timely_)
+SMART:: (Akronym, siehe <<doran>>, für _Specific, Measurable, Achievable, Relevant, Time-bound_)
+Ursprünglich (Doran, 1981) _Specific, Measurable, Assignable, Realistic, Time-related_ – das „A" steht je nach Quelle für „Achievable" oder „Assignable".
 Ein SMART-Ziel hilft beim Setzen und Spezifizieren von Zielen.
 Es erfüllt alle diese Kriterien, bündelt so die Anstrengungen und erhöht damit die Chance, das Ziel zu erreichen.
 
@@ -173,7 +174,8 @@ Scenario::
 
 Scope:: The range of things that can be shaped and designed when developing a system.
 
-SMART:: (acronym for _Specific, Measurable, Achievable, Realistic, and Timely._)
+SMART:: (acronym, see <<doran>>, for _Specific, Measurable, Achievable, Relevant, Time-bound_)
+Originally (Doran, 1981) _Specific, Measurable, Assignable, Realistic, Time-related_ – the "A" is understood as either "Achievable" or "Assignable" depending on the source.
 A SMART goal helps with setting and specifying goals.
 A SMART goal incorporates all of these criteria to help focus efforts, therefore increasing the chances of achieving that goal.
 
