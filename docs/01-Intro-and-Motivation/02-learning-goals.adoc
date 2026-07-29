@@ -5,15 +5,15 @@
 ==== LZ 1-1: Die Notwendigkeit von Anforderungen als Entscheidungsgrundlage verstehen
 
 * Wissen, warum gute Anforderungen – insbesondere Qualitätsanforderungen – aus Sicht der Softwarearchitektur notwendig sind
-* Die Kernaufgaben von Softwarearchitekt:innen kennen, zu denen das Klären von Anforderungen und Randbedingungen gehört
-* Das Konzept architekturrelevanter Anforderungen (ASR) verstehen und dass Architekt:innen sich auf diese konzentrieren sollten statt auf Vollständigkeit <<toth>>
+* Die Kernaufgaben von Softwarearchitekt:innen kennen, zu denen das Klären und Validieren von Anforderungen und Randbedingungen gehört
+* Das Konzept architekturrelevanter Anforderungen (ASR) verstehen und dass Architekt:innen sich auf diese konzentrieren sollten statt auf Vollständigkeit
 
 [[LZ-1-2]]
 ==== LZ 1-2: Verantwortlichkeiten, Rollen und Kernaktivitäten verstehen
 
 * Wissen, dass es unterschiedliche Rollenbezeichnungen für die Verantwortlichen für Anforderungen gibt (Business Analyst, Requirements Engineer, Product Owner)
 * Deren Beziehung zu Architekt:innen und Entwicklungsteams verstehen
-* Kernaufgaben des Requirements Engineering kennen, darunter Erhebung, Dokumentation, Prüfung und Pflege
+* Kernaufgaben des Requirements Engineering kennen, darunter Erhebung, Dokumentation, Validierung und Pflege
 
 [[LZ-1-3]]
 ==== LZ 1-3: Den inkrementellen Charakter der Anforderungserhebung verstehen („Just in Time")
@@ -29,22 +29,22 @@
 ==== LG 1-1: Understanding the need for requirements as basis for decision making
 
 * Know the need for good requirements, especially quality requirements seen from the perspective of software architecture
-* Know the key tasks for software architects which include clarifying requirements and constraints
-* Understand the concept of architecturally significant requirements (ASR), and that architects should concentrate on them rather than on completeness <<toth>>
+* Know the key tasks for software architects which include clarifying and validating requirements and constraints
+* Understand the concept of architecturally significant requirements (ASR), and that architects should concentrate on them rather than on completeness
 
 [[LG-1-2]]
 ==== LG 1-2: Understanding responsibilities, roles and key activities
 
 * Know that there are different job titles for persons responsible for requirements (Business Analysts, Requirements Engineers, Product Owner)
 * Understand their relationship to architects and development teams.
-* Know key tasks in requirements engineering, including elicitation, documentation, checking and maintenance
+* Know key tasks in requirements engineering, including elicitation, documentation, validation and maintenance
 
 [[LG-1-3]]
 ==== LG 1-3: Understanding the incremental nature of requirements elicitation ("Just in Time")
 
 * Understand that requirements and architecture can (and should) be developed iteratively
 * Understand that architects do not need "complete" requirements, but always just enough requirements to make design decisions for the next iterations
-* Understand that requirements can be elicitated iteratively and incrementally
+* Understand that requirements can be elicited iteratively and incrementally
 
 // end::EN[]
 
