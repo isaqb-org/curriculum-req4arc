@@ -13,9 +13,9 @@ CPSA-A-Absolventen können:
 === What can Advanced Level (CPSA-A) graduates do?
 CPSA-A graduates can:
 
-- Independently and methodically design medium to large IT systems
-- In IT systems of medium to high criticality, assume technical and content-related responsibility
-- Conceptualize, design, and document actions to achieve quality requirements and support development teams in the implementation of these actions
-- Control and execute architecture-relevant communication in medium to large development teams
+- independently and methodically design medium to large IT systems
+- in IT systems of medium to high criticality, assume technical and content-related responsibility
+- conceptualize, design, and document actions to achieve quality requirements and support development teams in the implementation of these actions
+- control and execute architecture-relevant communication in medium to large development teams
 // end::EN[]
 

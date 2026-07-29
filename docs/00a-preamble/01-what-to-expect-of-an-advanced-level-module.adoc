@@ -1,18 +1,18 @@
 // tag::DE[]
 === Was vermittelt ein Advanced Level Modul?
 
-Das Modul kann unabhängig von einer CPSA-F-Zertifizierung besucht werden.
-
 - Der iSAQB Advanced Level bietet eine modulare Ausbildung in drei Kompetenzbereichen mit flexibel gestaltbaren Ausbildungswegen. Er berücksichtigt individuelle Neigungen und Schwerpunkte.
 - Die Zertifizierung erfolgt als Hausarbeit. Die Bewertung und mündliche Prüfung wird durch vom iSAQB benannte Expert:innen vorgenommen.
+
+Advanced-Module können unabhängig von einer CPSA-F-Zertifizierung besucht werden.
 // end::DE[]
 
 // tag::EN[]
 === What is taught in an Advanced Level module?
 
-The module can be attended independently of a CPSA-F certification.
-
 - The iSAQB Advanced Level offers modular training in three areas of competence with flexibly designable training paths. It takes individual inclinations and priorities into account.
 - The certification is done as an assignment. The assessment and oral exam is conducted by experts appointed by the iSAQB.
+
+Advanced modules can be attended independently of a CPSA-F certification.
 // end::EN[]
 
