@@ -1,0 +1,2125 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Asciidoctor 2.0.26">
+<link rel="icon" type="image/png" href="html-theme/favicon.png">
+<title>Curriculum für Certified Professional for Software Architecture (CPSA)&#174; Advanced LevelREQ4ARC – Requirements für Softwarearchitekt:innen</title>
+<link rel="stylesheet" href="html-theme/isaqb-theme.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body class="book toc2 toc-left">
+<div id="header">
+<h1>Curriculum für Certified Professional for Software Architecture (CPSA)<sup>&#174;</sup> Advanced Level<br><strong>REQ4ARC</strong> <em>– Requirements für Softwarearchitekt:innen</em></h1>
+<div class="details">
+<span id="revnumber"> 2026.1-rev1-DE,</span>
+<span id="revdate">20260730</span>
+</div>
+<div id="toc" class="toc2">
+<div id="toctitle">Inhaltsverzeichnis</div>
+<ul class="sectlevel1">
+<li><a href="#copyright">Lizenz und Copyright</a></li>
+<li><a href="#learning-goals-overview">Lernziele im Überblick</a></li>
+<li><a href="#_vorwort">Vorwort</a></li>
+<li><a href="#_einführung_allgemeines_zum_isaqb_advanced_level">Einführung: Allgemeines zum iSAQB Advanced Level</a>
+<ul class="sectlevel2">
+<li><a href="#_was_vermittelt_ein_advanced_level_modul">Was vermittelt ein Advanced Level Modul?</a></li>
+<li><a href="#_was_können_absolventen_des_advanced_level_cpsa_a">Was können Absolventen des Advanced Level (CPSA-A)?</a></li>
+<li><a href="#_voraussetzungen_zur_cpsa_a_zertifizierung">Voraussetzungen zur CPSA-A-Zertifizierung</a></li>
+</ul>
+</li>
+<li><a href="#_grundlegendes">Grundlegendes</a>
+<ul class="sectlevel2">
+<li><a href="#_was_vermittelt_das_modul_req4arc">Was vermittelt das Modul REQ4ARC?</a></li>
+<li><a href="#_gliederung_des_lehrplans_und_empfohlene_zeitliche_aufteilung">Gliederung des Lehrplans und empfohlene zeitliche Aufteilung</a></li>
+<li><a href="#_dauer_didaktik_und_weitere_details">Dauer, Didaktik und weitere Details</a></li>
+<li><a href="#_gliederung_des_lehrplans">Gliederung des Lehrplans</a></li>
+<li><a href="#_ergänzende_informationen_begriffe_übersetzungen">Ergänzende Informationen, Begriffe, Übersetzungen</a></li>
+</ul>
+</li>
+<li><a href="#_einführung_und_motivation">1. Einführung und Motivation</a>
+<ul class="sectlevel2">
+<li><a href="#_begriffe_und_konzepte">1.1. Begriffe und Konzepte</a></li>
+<li><a href="#_lernziele">1.2. Lernziele</a></li>
+</ul>
+</li>
+<li><a href="#_zusammenarbeit_der_rollen">2. Zusammenarbeit der Rollen</a>
+<ul class="sectlevel2">
+<li><a href="#_begriffe_und_konzepte_2">2.1. Begriffe und Konzepte</a></li>
+<li><a href="#_lernziele_2">2.2. Lernziele</a></li>
+</ul>
+</li>
+<li><a href="#_sauberer_start_clean_start">3. Sauberer Start (Clean Start)</a>
+<ul class="sectlevel2">
+<li><a href="#_begriffe_und_konzepte_3">3.1. Begriffe und Konzepte</a></li>
+<li><a href="#_lernziele_3">3.2. Lernziele</a></li>
+</ul>
+</li>
+<li><a href="#_umgang_mit_funktionalen_anforderungen">4. Umgang mit funktionalen Anforderungen</a>
+<ul class="sectlevel2">
+<li><a href="#_begriffe_und_konzepte_4">4.1. Begriffe und Konzepte</a></li>
+<li><a href="#_lernziele_4">4.2. Lernziele</a></li>
+</ul>
+</li>
+<li><a href="#_umgang_mit_qualitätsanforderungen_und_randbedingungen">5. Umgang mit Qualitätsanforderungen und Randbedingungen</a>
+<ul class="sectlevel2">
+<li><a href="#_begriffe_und_konzepte_5">5.1. Begriffe und Konzepte</a></li>
+<li><a href="#_lernziele_5">5.2. Lernziele</a></li>
+</ul>
+</li>
+<li><a href="#section-bdd">6. Behavior Driven Development</a>
+<ul class="sectlevel2">
+<li><a href="#_begriffe_und_konzepte_6">6.1. Begriffe und Konzepte</a></li>
+<li><a href="#_lernziele_6">6.2. Lernziele</a></li>
+</ul>
+</li>
+<li><a href="#_ki_im_re">7. KI im RE</a>
+<ul class="sectlevel2">
+<li><a href="#_begriffe_und_konzepte_7">7.1. Begriffe und Konzepte</a></li>
+<li><a href="#_lernziele_7">7.2. Lernziele</a></li>
+</ul>
+</li>
+<li><a href="#_priorisierung_und_schätzung_von_anforderungen">8. Priorisierung und Schätzung von Anforderungen</a>
+<ul class="sectlevel2">
+<li><a href="#_begriffe_und_konzepte_8">8.1. Begriffe und Konzepte</a></li>
+<li><a href="#_lernziele_8">8.2. Lernziele</a></li>
+</ul>
+</li>
+<li><a href="#_werkzeuge_für_requirements_engineering">9. Werkzeuge für Requirements Engineering</a>
+<ul class="sectlevel2">
+<li><a href="#_lernziele_9">9.1. Lernziele</a></li>
+</ul>
+</li>
+<li><a href="#_beispiel">10. Beispiel</a>
+<ul class="sectlevel2">
+<li><a href="#_lernziele_10">10.1. Lernziele</a></li>
+</ul>
+</li>
+<li><a href="#_glossar">Glossar</a></li>
+<li><a href="#_referenzen">Referenzen</a></li>
+</ul>
+</div>
+</div>
+<div id="content">
+<div id="preamble">
+<div class="sectionbody">
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="copyright">Lizenz und Copyright</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><strong>&#169; (Copyright), International Software Architecture Qualification Board e. V.
+(iSAQB<sup>&#174;</sup> e. V.) 2026</strong></p>
+</div>
+<div class="paragraph">
+<p>Die Nutzung des Lehrplans ist nur unter den nachfolgenden Voraussetzungen erlaubt:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Sie möchten das Zertifikat zum CPSA Certified Professional for Software Architecture Foundation Level<sup>&#174;</sup> oder CPSA Certified Professional for Software Architecture Advanced Level<sup>&#174;</sup> erwerben.
+Für den Erwerb des Zertifikats ist es gestattet, die Text-Dokumente und/oder Lehrpläne zu nutzen, indem eine Arbeitskopie für den eigenen Rechner erstellt wird. Soll eine darüber hinausgehende Nutzung der Dokumente und/oder Lehrpläne erfolgen, zum Beispiel zur Weiterverbreitung an Dritte, Werbung etc., bitte unter <a href="mailto:info@isaqb.org">info@isaqb.org</a> nachfragen.
+Es müsste dann ein eigener Lizenzvertrag geschlossen werden.</p>
+</li>
+<li>
+<p>Sind Sie Trainer oder Trainingsprovider, ist die Nutzung der Dokumente und/oder Lehrpläne nach Erwerb einer Nutzungslizenz möglich. Hierzu bitte unter <a href="mailto:info@isaqb.org">info@isaqb.org</a> nachfragen.
+Lizenzverträge, die alles umfassend regeln, sind vorhanden.</p>
+</li>
+<li>
+<p>Falls Sie weder unter die Kategorie 1. noch unter die Kategorie 2. fallen, aber dennoch die Dokumente und/oder Lehrpläne nutzen möchten, nehmen Sie bitte ebenfalls Kontakt unter <a href="mailto:info@isaqb.org">info@isaqb.org</a> zum iSAQB e. V. auf.
+Sie werden dort über die Möglichkeit des Erwerbs entsprechender Lizenzen im Rahmen der vorhandenen Lizenzverträge informiert und können die gewünschten Nutzungsgenehmigungen erhalten.</p>
+</li>
+</ol>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="title">Wichtiger Hinweis</div>
+<div class="paragraph">
+<p><strong>Grundsätzlich weisen wir darauf hin, dass dieser Lehrplan urheberrechtlich geschützt ist.
+Alle Rechte an diesen Copyrights stehen ausschließlich dem International Software Architecture Qualification Board e. V. (iSAQB<sup>&#174;</sup> e. V.) zu.</strong></p>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Die Abkürzung "e. V." ist Teil des offiziellen Namens des iSAQB und steht für "eingetragener Verein", der seinen Status als juristische Person nach deutschem Recht beschreibt.
+Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser Abkürzung als iSAQB bezeichnet.</p>
+</div>
+<div style="page-break-after: always;"></div>
+<!-- toc disabled -->
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="learning-goals-overview">Lernziele im Überblick</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="#LZ-1-1">LZ 1-1: Die Notwendigkeit von Anforderungen als Entscheidungsgrundlage verstehen</a></p>
+</li>
+<li>
+<p><a href="#LZ-1-2">LZ 1-2: Verantwortlichkeiten, Rollen und Kernaktivitäten verstehen</a></p>
+</li>
+<li>
+<p><a href="#LZ-1-3">LZ 1-3: Den inkrementellen Charakter der Anforderungserhebung verstehen („Just in Time")</a></p>
+</li>
+<li>
+<p><a href="#LZ-1-4">LZ 1-4: Merkmale guter Anforderungen kennen und wissen, wie sie geprüft werden können</a></p>
+</li>
+<li>
+<p><a href="#LZ-2-1">LZ 2-1: Die Zusammenarbeit zwischen Architekt:innen und anderen Rollen rund um Anforderungen verstehen</a></p>
+</li>
+<li>
+<p><a href="#LZ-2-2">LZ 2-2: Kooperative Ansätze der Produktentwicklung kennen</a></p>
+</li>
+<li>
+<p><a href="#LZ-2-3">LZ 2-3: Anforderungsdokumentation verstehen</a></p>
+</li>
+<li>
+<p><a href="#LZ-2-4">LZ 2-4: Traceability von Anforderungen zu anderen Artefakten verstehen</a></p>
+</li>
+<li>
+<p><a href="#LZ-3-1">LZ 3-1: Die Notwendigkeit einiger (begrenzter) Vorab-Aktivitäten verstehen</a></p>
+</li>
+<li>
+<p><a href="#LZ-3-2">LZ 3-2: Die Notwendigkeit von (übergeordneter) Vision und Business Goals verstehen</a></p>
+</li>
+<li>
+<p><a href="#LZ-3-3">LZ 3-3: Verschiedene Möglichkeiten und Notationen, Visionen und Business Goals auszudrücken</a></p>
+</li>
+<li>
+<p><a href="#LZ-3-4">LZ 3-4: Die Bedeutung unterschiedlicher Stakeholder und ihr Einfluss auf Produkt oder System</a></p>
+</li>
+<li>
+<p><a href="#LZ-3-5">LZ 3-5: Unterschiedliche Bedürfnisse und Werte verschiedener Stakeholder („Value Propositions")</a></p>
+</li>
+<li>
+<p><a href="#LZ-3-6">LZ 3-6: Scope festlegen und den Kontext des Systems abgrenzen</a></p>
+</li>
+<li>
+<p><a href="#LZ-4-1">LZ 4-1: Den Unterschied zwischen funktionalen und anderen Anforderungen verstehen</a></p>
+</li>
+<li>
+<p><a href="#LZ-4-2">LZ 4-2: Hierarchien funktionaler Anforderungen</a></p>
+</li>
+<li>
+<p><a href="#LZ-4-3">LZ 4-3: Kriterien für das Zerlegen grobgranularer funktionaler Anforderungen</a></p>
+</li>
+<li>
+<p><a href="#LZ-4-4">LZ 4-4: Anforderungen in wertschöpfende Prozesse zerlegen oder gruppieren</a></p>
+</li>
+<li>
+<p><a href="#LZ-4-5">LZ 4-5: Wertschöpfende Prozesse dokumentieren</a></p>
+</li>
+<li>
+<p><a href="#LZ-4-6">LZ 4-6: Funktionale Anforderungen verfeinern</a></p>
+</li>
+<li>
+<p><a href="#LZ-4-7">LZ 4-7: Funktionale Anforderungen dokumentieren</a></p>
+</li>
+<li>
+<p><a href="#LZ-4-8">LZ 4-8: Wissen, wann die Verfeinerung funktionaler Anforderungen endet</a></p>
+</li>
+<li>
+<p><a href="#LZ-4-9">LZ 4-9: Akzeptanzkriterien für funktionale Anforderungen</a></p>
+</li>
+<li>
+<p><a href="#LZ-4-10">LZ 4-10: Specification-by-Example verstehen</a></p>
+</li>
+<li>
+<p><a href="#LZ-4-11">LZ 4-11: Methoden zur Erhebung funktionaler Anforderungen kennen</a></p>
+</li>
+<li>
+<p><a href="#LZ-5-1">LZ 5-1: Den Unterschied zwischen Qualitäts- und anderen Anforderungen verstehen</a></p>
+</li>
+<li>
+<p><a href="#LZ-5-2">LZ 5-2: Kategorien von Qualitäten und Randbedingungen verstehen</a></p>
+</li>
+<li>
+<p><a href="#LZ-5-3">LZ 5-3: Qualitätsanforderungen erheben und spezifizieren</a></p>
+</li>
+<li>
+<p><a href="#LZ-5-4">LZ 5-4: Qualitätsanforderungen verfeinern</a></p>
+</li>
+<li>
+<p><a href="#LZ-5-5">LZ 5-5: Akzeptanzkriterien für Qualitätsanforderungen spezifizieren</a></p>
+</li>
+<li>
+<p><a href="#LZ-5-6">LZ 5-6: Pragmatische Alternativen zu detaillierten Akzeptanzkriterien</a></p>
+</li>
+<li>
+<p><a href="#LZ-6-1">LZ 6-1: Anwendbarkeit und Einsatzgebiete von Behavior-Driven Development (BDD) kennen</a></p>
+</li>
+<li>
+<p><a href="#LZ-6-2">LZ 6-2: Prinzipien von Behavior-Driven Development (BDD) verstehen</a></p>
+</li>
+<li>
+<p><a href="#LZ-6-3">LZ 6-3: Gherkin und Cucumber als Beispiele für BDD kennen</a></p>
+</li>
+<li>
+<p><a href="#LZ-7-1">LZ 7-1: Potenziale und Grenzen von LLMs im Requirements Engineering verstehen</a></p>
+</li>
+<li>
+<p><a href="#LZ-7-2">LZ 7-2: Einsatzszenarien von LLMs im Requirements Engineering kennen</a></p>
+</li>
+<li>
+<p><a href="#LZ-7-3">LZ 7-3: KI-Ergebnisse prüfen und kritisch bewerten</a></p>
+</li>
+<li>
+<p><a href="#LZ-8-1">LZ 8-1: Verschiedene Arten von Business Value verstehen</a></p>
+</li>
+<li>
+<p><a href="#LZ-8-2">LZ 8-2: Anforderungen nach Business Value ordnen</a></p>
+</li>
+<li>
+<p><a href="#LZ-8-3">LZ 8-3: Anforderungen schätzen</a></p>
+</li>
+<li>
+<p><a href="#LZ-8-4">LZ 8-4: Widersprüchliche Anforderungen erkennen und auflösen</a></p>
+</li>
+<li>
+<p><a href="#LZ-9-1">LZ 9-1: Kategorien geeigneter Werkzeuge</a></p>
+</li>
+<li>
+<p><a href="#LZ-9-2">LZ 9-2: Vor- und Nachteile der Werkzeugkategorien</a></p>
+</li>
+<li>
+<p><a href="#LZ-10-1">LZ 10-1: Beispiele gut formulierter Anforderungen verschiedener Kategorien kennen</a></p>
+</li>
+<li>
+<p><a href="#LZ-10-2">LZ 10-2: (Gegen-)Beispiele kennen, etwa mehrdeutige, inkonsistente und widersprüchliche Anforderungen verschiedener Kategorien</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1 arabic-start">
+<h2 id="_vorwort">Vorwort</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>IREB, das International Requirements Engineering Board, engagiert sich seit mehr als zwanzig Jahren für die Ausbildung von Fachleuten im Requirements Engineering. Bis 2026 haben mehr als hunderttausend Personen das Zertifikat CPRE FL (Certified Professional for Requirements Engineering – Foundation Level) erworben.</p>
+</div>
+<div class="paragraph">
+<p>Da weltweit mehr als fünf Millionen Menschen in der IT arbeiten, überrascht es nicht, dass es noch viele Entwicklungsteams gibt, die weder selbst über ausreichende Requirements-Engineering-Kenntnisse verfügen noch Zugang zu entsprechend ausgebildeten Spezialist:innen haben – obwohl sie sich bei der Entwicklung und Bereitstellung von Softwareprodukten mit Anforderungsfragen auseinandersetzen müssen.</p>
+</div>
+<div class="paragraph">
+<p>Dieses Defizit ist eine gute Motivation für dieses iSAQB&#174;-Advanced-Level-Modul REQ4ARC. IREB begrüßt dieses großartige Modul, da es die Mission von IREB unterstützt, Requirements Engineering überall in der IT zu etablieren. Das Modul hilft Softwarearchitekt:innen und Entwicklungsteams, in die Welt des professionellen Requirements Engineering einzusteigen. Sie erwerben Grundkenntnisse in Anforderungserhebung und -management, die helfen, die richtigen Produkte mit weniger Rätselraten und weniger Nacharbeit zu entwickeln. Außerdem wird in Entwicklungsteams das Bewusstsein geschärft, vor kritischen Architektur- und Designentscheidungen den richtigen Input einzufordern.</p>
+</div>
+<div class="paragraph">
+<p>Wir wünschen Ihnen viel Erfolg mit diesem Modul und mit Ihren ersten Schritten im Requirements Engineering!</p>
+</div>
+<table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 17.647%;">
+<col style="width: 41.1764%;">
+<col style="width: 41.1766%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">August 2026</p></td>
+<td class="tableblock halign-left valign-top"><div class="content"><div class="paragraph">
+<p>Martin Glinz</p>
+</div>
+<div class="paragraph">
+<p>Vorsitzender des IREB Council</p>
+</div></div></td>
+<td class="tableblock halign-left valign-top"><div class="content"><div class="paragraph">
+<p>Kim Lauenroth</p>
+</div>
+<div class="paragraph">
+<p>Vorsitzender des Executive Board von IREB</p>
+</div></div></td>
+</tr>
+</tbody>
+</table>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_einführung_allgemeines_zum_isaqb_advanced_level">Einführung: Allgemeines zum iSAQB Advanced Level</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_was_vermittelt_ein_advanced_level_modul">Was vermittelt ein Advanced Level Modul?</h3>
+<div class="ulist">
+<ul>
+<li>
+<p>Der iSAQB Advanced Level bietet eine modulare Ausbildung in drei Kompetenzbereichen mit flexibel gestaltbaren Ausbildungswegen. Er berücksichtigt individuelle Neigungen und Schwerpunkte.</p>
+</li>
+<li>
+<p>Die Zertifizierung erfolgt als Hausarbeit. Die Bewertung und mündliche Prüfung wird durch vom iSAQB benannte Expert:innen vorgenommen.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Advanced-Module können unabhängig von einer CPSA-F-Zertifizierung besucht werden.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_was_können_absolventen_des_advanced_level_cpsa_a">Was können Absolventen des Advanced Level (CPSA-A)?</h3>
+<div class="paragraph">
+<p>CPSA-A-Absolventen können:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>eigenständig und methodisch fundiert mittlere bis große IT-Systeme entwerfen</p>
+</li>
+<li>
+<p>in IT-Systemen mittlerer bis hoher Kritikalität technische und inhaltliche Verantwortung übernehmen</p>
+</li>
+<li>
+<p>Maßnahmen zur Erreichung von Qualitätsanforderungen konzeptionieren, entwerfen und dokumentieren sowie Entwicklungsteams bei der Umsetzung dieser Maßnahmen begleiten</p>
+</li>
+<li>
+<p>architekturrelevante Kommunikation in mittleren bis großen Entwicklungsteams steuern und durchführen</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_voraussetzungen_zur_cpsa_a_zertifizierung">Voraussetzungen zur CPSA-A-Zertifizierung</h3>
+<div class="ulist">
+<ul>
+<li>
+<p>erfolgreiche Ausbildung und Zertifizierung zum Certified Professional for Software Architecture, Foundation Level<sup>&#174;</sup> (CPSA-F)</p>
+</li>
+<li>
+<p>mindestens drei Jahre Vollzeit-Berufserfahrung in der IT-Branche; dabei Mitarbeit an Entwurf und Entwicklung von mindestens zwei unterschiedlichen IT-Systemen</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Ausnahmen sind auf Antrag zulässig (etwa: Mitarbeit in Open-Source-Projekten)</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Aus- und Weiterbildung im Rahmen von iSAQB-Advanced-Level-Schulungen im Umfang von mindestens 70 Credit Points aus mindestens drei unterschiedlichen Kompetenzbereichen</p>
+</li>
+<li>
+<p>erfolgreiche Bearbeitung der CPSA-A-Zertifizierungsprüfung</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><br>
+<br></p>
+</div>
+<div class="paragraph text-center">
+<p><span class="image"><img src="images/00-preamble/cpsa-a-logo.png" alt="Certified Professional for Software Architecture<sup>&#174;</sup> Advanced Level (CPSA-A)"></span></p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_grundlegendes">Grundlegendes</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_was_vermittelt_das_modul_req4arc">Was vermittelt das Modul REQ4ARC?</h3>
+<div class="paragraph">
+<p>Architekt:innen und Entwicklungsteams erhalten oft nur mittelmäßige Anforderungen als Input für ihre Arbeit.
+Ziel dieses Moduls ist es, Architekt:innen mit genügend Anforderungs-Know-how auszustatten, sodass sie fundierte Architekturentscheidungen treffen können – basierend auf den tatsächlichen Bedürfnissen der Stakeholder.
+Sie sollten entweder wissen, wie man Anforderungen erhebt (in agilen und iterativen Vorgehensweisen), oder zumindest wissen, was sie von anderen in ihrem Umfeld einfordern müssen.</p>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="images/req4arc-overview-DE.svg" alt="Überblick über den REQ4ARC-Lehrplan" width="320">
+</div>
+<div class="title">Figure 1. Navigationskarte des REQ4ARC-Lehrplans</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_gliederung_des_lehrplans_und_empfohlene_zeitliche_aufteilung">Gliederung des Lehrplans und empfohlene zeitliche Aufteilung</h3>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 66.6666%;">
+<col style="width: 16.6666%;">
+<col style="width: 16.6668%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Inhalt</th>
+<th class="tableblock halign-left valign-top">Unterricht (Min.)</th>
+<th class="tableblock halign-left valign-top">Übungen (Min.)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1. Einführung und Motivation</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">45</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">2. Zusammenarbeit der Rollen</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">45</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">60</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">3. Sauberer Start (Clean Start)</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">75</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">75</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">4. Umgang mit funktionalen Anforderungen</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">180</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">120</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">5. Umgang mit Qualitätsanforderungen und Randbedingungen</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">90</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">90</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">6. Behavior Driven Development</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">60</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">7. KI im RE</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">60</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">8. Priorisierung und Schätzung von Anforderungen</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">45</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">30</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">9. Werkzeuge für Requirements Engineering</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">45</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">10. Beispiel</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">60</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">Summe / Gesamt: (1080 Min. / 18h)</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">705</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">375</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sect2">
+<h3 id="_dauer_didaktik_und_weitere_details">Dauer, Didaktik und weitere Details</h3>
+<div class="paragraph">
+<p>Die oben genannten Zeiten sind Empfehlungen. Die Dauer einer Schulung zum Modul REQ4ARC
+sollte mindestens 3 Tage betragen, kann aber länger sein.
+Anbieter können sich durch Dauer, Didaktik, Art und Aufbau der Übungen sowie der detaillierten Kursgliederung voneinander unterscheiden.
+Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett offen.</p>
+</div>
+<div class="paragraph">
+<p>Lizenzierte Schulungen zu REQ4ARC tragen zur Zulassung zur abschließenden Advanced-Level-Zertifizierungsprüfung folgende Credit Points) bei:</p>
+</div>
+<table class="tableblock frame-none grid-rows stripes-none stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Methodische Kompetenz:</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">20 Punkte</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Technische Kompetenz:</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">0 Punkte</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Kommunikative Kompetenz:</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">10 Punkte</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sect2">
+<h3 id="_gliederung_des_lehrplans">Gliederung des Lehrplans</h3>
+<div class="paragraph">
+<p>Die einzelnen Abschnitte des Lehrplans sind gemäß folgender Gliederung beschrieben:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>Begriffe/Konzepte</strong>: Wesentliche Kernbegriffe dieses Themas.</p>
+</li>
+<li>
+<p><strong>Unterrichts-/Übungszeit</strong>: Legt die Unterrichts- und Übungszeit fest, die für dieses Thema bzw. dessen Übung in einer akkreditierten Schulung mindestens aufgewendet werden muss.</p>
+</li>
+<li>
+<p><strong>Lernziele</strong>: Beschreibt die zu vermittelnden Inhalte inklusive ihrer Kernbegriffe und -konzepte.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Dieser Abschnitt skizziert damit auch die zu erwerbenden Kenntnisse in entsprechenden Schulungen.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_ergänzende_informationen_begriffe_übersetzungen">Ergänzende Informationen, Begriffe, Übersetzungen</h3>
+<div class="paragraph">
+<p>Soweit für das Verständnis des Lehrplans erforderlich, haben wir Fachbegriffe ins <a href="https://github.com/isaqb-org/glossary">iSAQB-Glossar</a> aufgenommen, definiert und bei Bedarf durch die Übersetzungen der Originalliteratur ergänzt.</p>
+</div>
+<div class="paragraph">
+<p>Dieser Lehrplan wird öffentlich unter <a href="https://github.com/isaqb-org/curriculum-req4arc">github.com/isaqb-org/curriculum-req4arc</a> gepflegt. Dort finden Sie stets die aktuelle Online-Version und können Anmerkungen, Korrekturen oder Verbesserungsvorschläge als Issue einbringen.</p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_einführung_und_motivation">1. Einführung und Motivation</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Dieses Thema begründet, warum Architekturentscheidungen hinreichende Anforderungen als Grundlage benötigen.
+Architekt:innen sollten wissen, dass sie diesen Input entweder von den für Requirements Engineering verantwortlichen Personen einfordern können oder die Anforderungen selbst erheben und verstehen müssen.</p>
+</div>
+<div class="paragraph">
+<p>Es braucht jedoch keine <em>vollständigen</em> Anforderungen, sondern nur die Teilmenge, die für Architekturentscheidungen notwendig ist (die sogenannten architekturrelevanten Anforderungen, engl. <em>architecturally significant requirements</em>).
+Der Rest kann iterativ und inkrementell erhoben werden, sodass er <em>just in time</em> für Entscheidungen vorliegt.</p>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Unterricht: 45 Min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Übungen: keine</p></td>
+</tr>
+</tbody>
+</table>
+<div class="sect2">
+<h3 id="_begriffe_und_konzepte">1.1. Begriffe und Konzepte</h3>
+<div class="paragraph">
+<p>Architekturrelevante Anforderungen (engl. <em>architecturally significant requirements</em>, ASR), Agiles Requirements Engineering, Qualitätskriterien für Anforderungen, Quality Gateway</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_lernziele">1.2. Lernziele</h3>
+<div class="sect3">
+<h4 id="LZ-1-1">LZ 1-1: Die Notwendigkeit von Anforderungen als Entscheidungsgrundlage verstehen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Wissen, warum gute Anforderungen – insbesondere Qualitätsanforderungen – aus Sicht der Softwarearchitektur notwendig sind</p>
+</li>
+<li>
+<p>Die Kernaufgaben von Softwarearchitekt:innen kennen, zu denen das Klären und Validieren von Anforderungen und Randbedingungen gehört</p>
+</li>
+<li>
+<p>Das Konzept architekturrelevanter Anforderungen (ASR) kennen, siehe auch Just-in-Time-Anforderungen</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-1-2">LZ 1-2: Verantwortlichkeiten, Rollen und Kernaktivitäten verstehen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Wissen, dass es unterschiedliche Rollenbezeichnungen für die Verantwortlichen für Anforderungen gibt (Business Analyst, Requirements Engineer, Product Owner)</p>
+</li>
+<li>
+<p>Deren Beziehung zu Architekt:innen und Entwicklungsteams verstehen</p>
+</li>
+<li>
+<p>Kernaufgaben des Requirements Engineering kennen, darunter Erhebung, Dokumentation, Validierung und Pflege</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-1-3">LZ 1-3: Den inkrementellen Charakter der Anforderungserhebung verstehen („Just in Time")</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Verstehen, dass Anforderungen und Architektur iterativ entwickelt werden können (und sollten)</p>
+</li>
+<li>
+<p>Wissen, dass Architekt:innen zu jedem Zeitpunkt nur die Anforderungen brauchen, die für anstehende Entwurfsentscheidungen relevant sind (Just-in-Time-Anforderungen, siehe <a href="#LZ-1-1">LZ 1-1: Die Notwendigkeit von Anforderungen als Entscheidungsgrundlage verstehen</a>)</p>
+</li>
+<li>
+<p>Verstehen, dass Anforderungen iterativ und inkrementell erhoben werden können</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-1-4">LZ 1-4: Merkmale guter Anforderungen kennen und wissen, wie sie geprüft werden können</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Die klassischen Qualitätskriterien für Anforderungen kennen: eindeutig, vollständig, konsistent, verifizierbar, realisierbar, notwendig, nachverfolgbar <a href="#iso29148">[ISO-29148]</a></p>
+</li>
+<li>
+<p>Leichtgewichtige Techniken zum Prüfen von Anforderungen kennen, z. B. Walkthroughs, Inspektionen, Checklisten und das Volere „Quality Gateway" <a href="#volere">[Volere]</a></p>
+</li>
+<li>
+<p>Verstehen, dass Entwicklungsteams diese Kriterien nutzen sollten, um eingehende Anforderungen zu prüfen</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Spätere Kapitel werden diese Kriterien und Prüftechniken konkretisiert, etwa Akzeptanzkriterien (<a href="#LZ-4-9">LZ 4-9: Akzeptanzkriterien für funktionale Anforderungen</a>) und die Definition of Ready (<a href="#LZ-4-8">LZ 4-8: Wissen, wann die Verfeinerung funktionaler Anforderungen endet</a>).</p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_zusammenarbeit_der_rollen">2. Zusammenarbeit der Rollen</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Unterricht: 45 Min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Übungen: 60 Min.</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>Im Gegensatz zum Wasserfallmodell mit expliziten Phasen für Requirements Engineering und System-/Softwarearchitektur streben alle modernen Methoden eine sehr enge Zusammenarbeit zwischen Architekt:innen und allen für Requirements Engineering verantwortlichen Rollen an.
+Beispiele für solche Prozesse sind Design Thinking (<a href="#gerstbach">[Gerstbach]</a>), Lean Startup (<a href="#ries">[Ries]</a>), Design Sprints (<a href="#banfield">[Banfield]</a>) und viele Skalierungsframeworks der agilen Welt.</p>
+</div>
+<div class="paragraph">
+<p>Architekt:innen sollten außerdem unterschiedliche Wege kennen, Anforderungen festzuhalten und zu dokumentieren – vom Pflegen eines Product Backlogs bis zum Erstellen von Anforderungsdokumenten – sowie die Beziehung solcher Anforderungsdokumente zur Architekturdokumentation.</p>
+</div>
+<div class="sect2">
+<h3 id="_begriffe_und_konzepte_2">2.1. Begriffe und Konzepte</h3>
+<div class="paragraph">
+<p>Design Thinking (<a href="#gerstbach">[Gerstbach]</a>), Design Sprint (<a href="#banfield">[Banfield]</a>), Lean Startup (<a href="#ries">[Ries]</a>), Three Amigo Sessions (<a href="#dinwiddie">[Dinwiddie]</a>, <a href="#smart-amigo">[Smart-Amigo]</a>), Twin-Peaks-Modell (<a href="#nuseibeh">[Nuseibeh]</a>), Discover-to-Deliver (<a href="#gottesdiener-12">[Gottesdiener]</a>), Anforderungsdokumentation, Traceability</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_lernziele_2">2.2. Lernziele</h3>
+<div class="sect3">
+<h4 id="LZ-2-1">LZ 2-1: Die Zusammenarbeit zwischen Architekt:innen und anderen Rollen rund um Anforderungen verstehen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Verstehen, dass iterative Systementwicklung alle am Entwicklungsprozess beteiligten Rollen einbezieht</p>
+</li>
+<li>
+<p>Wissen, dass Architekt:innen laufend mit Business Analysts und Anforderungsverantwortlichen sowie mit Entwickler:innen und Tester:innen interagieren <a href="#robertson-19">[Robertson-19]</a></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-2-2">LZ 2-2: Kooperative Ansätze der Produktentwicklung kennen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Die Grundideen kooperativer Ansätze kennen, etwa <em>Discover to Deliver</em> <a href="#gottesdiener-12">[Gottesdiener]</a>, Design Thinking <a href="#gerstbach">[Gerstbach]</a> <a href="#brown">[Brown]</a>, Lean Startup <a href="#ries">[Ries]</a>, Design Sprints <a href="#banfield">[Banfield]</a>, Twin-Peaks-Modell (<a href="#nuseibeh">[Nuseibeh]</a>)</p>
+</li>
+<li>
+<p>Three Amigo Sessions (TAS) <a href="#dinwiddie">[Dinwiddie]</a> <a href="#smart-amigo">[Smart-Amigo]</a> als kollaboratives Format kennen: Die drei Rollen „Product Owner" (oder Business Analyst), „Entwickler:in" und „Tester:in" arbeiten darin gemeinsam an der Entdeckung von Anforderungen (vgl. <a href="#LZ-4-11">LZ 4-11: Methoden zur Erhebung funktionaler Anforderungen kennen</a>, <a href="#LZ-6-2">LZ 6-2: Prinzipien von Behavior-Driven Development (BDD) verstehen</a>)</p>
+</li>
+<li>
+<p>Verstehen, wie sich solche iterativen Ansätze auf größere Systeme skalieren lassen, an denen mehrere – möglicherweise geografisch verteilte – Entwicklungsteams beteiligt sind</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-2-3">LZ 2-3: Anforderungsdokumentation verstehen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Wissen, dass in formaleren Situationen schriftliche Anforderungsspezifikationen unverzichtbar sind</p>
+</li>
+<li>
+<p>Wissen, dass mündliche Kommunikation (<em>reden und diskutieren</em>) oft wirksamer ist als Schreiben</p>
+</li>
+<li>
+<p>Die Balance zwischen Schreiben und Reden verstehen (Anforderungsspezifikation versus Story Cards)</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-2-4">LZ 2-4: Traceability von Anforderungen zu anderen Artefakten verstehen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Wissen, was <em>Tracing</em> von Anforderungen zu Architektur, Quellcode, Tests und technischer Dokumentation bedeutet</p>
+</li>
+<li>
+<p>Verstehen, dass Anforderungs-Tracing zeitaufwendig ist und passende Werkzeugunterstützung erfordert</p>
+</li>
+<li>
+<p>Verstehen, dass Anforderungs-Tracing manchmal verpflichtend ist, z.B. bei sicherheitskritischen Systemen</p>
+</li>
+</ul>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_sauberer_start_clean_start">3. Sauberer Start (Clean Start)</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Unterricht: 75 Min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Übungen: 75 Min.</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>Auch wenn Requirements Engineering heute iterativ und inkrementell erfolgen sollte, braucht es einige Vorab-Aktivitäten, die die detaillierte Anforderungserhebung und zentrale Architekturentscheidungen leiten.
+Sie bilden den „Sauberen Start" (Clean Start) einer Projekt- oder Produktentwicklung.
+Dazu gehören vor allem:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Vision und Ziele definieren</p>
+</li>
+<li>
+<p>Stakeholder identifizieren</p>
+</li>
+<li>
+<p>Scope festlegen</p>
+</li>
+<li>
+<p>Nach dem Prinzip „Breite vor Tiefe" vorgehen, um frühe Priorisierung und Planung zu ermöglichen</p>
+</li>
+</ul>
+</div>
+<div class="sect2">
+<h3 id="_begriffe_und_konzepte_3">3.1. Begriffe und Konzepte</h3>
+<div class="paragraph">
+<p>Vision, Business Goals, Stakeholder, Scope, Kontext, SMART (Specific, Measurable, Achievable, Relevant, Time-bound), PAM (Purpose, Advantage, Metric), Personas, User-Journey-Maps</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_lernziele_3">3.2. Lernziele</h3>
+<div class="sect3">
+<h4 id="LZ-3-1">LZ 3-1: Die Notwendigkeit einiger (begrenzter) Vorab-Aktivitäten verstehen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Verstehen, dass auch bei iterativer Entwicklung einige Vorab-Aktivitäten notwendig sind</p>
+</li>
+<li>
+<p>Wissen, dass explizites Wissen über Visionen, Ziele und relevante Stakeholder erforderlich ist, damit das Entwicklungsteam fundierte Entscheidungen über die Architektur des Systems treffen kann</p>
+</li>
+<li>
+<p>Verstehen, dass eine Verständigung über Scope und Kontext erforderlich ist, insbesondere über die Schnittstellen zwischen Scope und Kontext (d.h. die externen Schnittstellen des Produkts)</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-3-2">LZ 3-2: Die Notwendigkeit von (übergeordneter) Vision und Business Goals verstehen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Verstehen, dass Visionen oder Business Goals die obersten Anforderungen sind, also jene, die sich (hoffentlich) während eines Projekts nicht ändern <a href="#hruschka">[Hruschka]</a></p>
+</li>
+<li>
+<p>Verstehen, dass Visionen und Ziele quantifiziert und messbar gemacht werden sollten, um Erfolg in Bezug auf Business Value überprüfen zu können</p>
+</li>
+<li>
+<p>Wissen, wie sich Business Goals systematisch mit Impact Mapping <a href="#adzic-impact">[Adzic-Impact]</a> auf Akteure, gewünschte Verhaltensänderungen (Impacts) und konkrete Deliverables herunterbrechen lassen</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-3-3">LZ 3-3: Verschiedene Möglichkeiten und Notationen, Visionen und Business Goals auszudrücken</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Verschiedene Wege kennen, Vision und Ziele zu definieren (explizite Zielformulierungen, Value Propositions für unterschiedliche Stakeholder, Vision Box, „News from the Future")</p>
+</li>
+<li>
+<p>Merkhilfen (Mnemotechnik) für Vision- oder Zielformulierungen kennen (SMART, PAM)</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-3-4">LZ 3-4: Die Bedeutung unterschiedlicher Stakeholder und ihr Einfluss auf Produkt oder System</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Wissen, dass Stakeholder die wichtigsten Quellen für Anforderungen sind</p>
+</li>
+<li>
+<p>Verstehen, dass fehlende Stakeholder fehlende Anforderungen bedeuten können</p>
+</li>
+<li>
+<p>Verstehen, dass Stakeholder auf spezifische, angemessene Weise angesprochen werden müssen</p>
+</li>
+<li>
+<p>Personas <a href="#cooper">[Cooper]</a> und User-Journey-Maps <a href="#kalbach">[Kalbach]</a> als Artefakte kennen, um Stakeholder-Bedürfnisse zu bündeln, im Team greifbar zu machen und über die Zeit hinweg zu visualisieren</p>
+</li>
+<li>
+<p>Wissen, dass auch die Entwickler:innen Stakeholder sind</p>
+</li>
+<li>
+<p>Wissen, welche Stakeholder häufig vergessen werden (z. B. Legal, Betrieb, Support)</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-3-5">LZ 3-5: Unterschiedliche Bedürfnisse und Werte verschiedener Stakeholder („Value Propositions")</h4>
+<div class="paragraph">
+<p>Verstehen, dass verschiedene Stakeholder unterschiedliche Bedürfnisse haben und unterschiedlicher Meinung sein können, was an einem Produkt wertvoll ist.</p>
+</div>
+<div class="paragraph">
+<p>Wissen, dass:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>es etablierte Klassifikationsschemata für Stakeholder gibt (z. B. Stakeholder-Matrix)</p>
+</li>
+<li>
+<p>eine priorisierte Stakeholder-Liste hilft, Anforderungen nach Business Value zu priorisieren</p>
+</li>
+<li>
+<p>Architekt:innen Zielkonflikte zwischen den Bedürfnissen der Stakeholder erkennen und auflösen müssen (siehe auch <a href="#LZ-8-4">LZ 8-4: Widersprüchliche Anforderungen erkennen und auflösen</a> für Techniken zur Konfliktlösung)</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-3-6">LZ 3-6: Scope festlegen und den Kontext des Systems abgrenzen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Zwischen Business Scope und Produkt-Scope unterscheiden</p>
+</li>
+<li>
+<p>Die Bedeutung externer Schnittstellen kennen</p>
+</li>
+<li>
+<p>Verschiedene Möglichkeiten und Notationen kennen, Scope und Kontext auszudrücken, z.B. Kontextdiagramme</p>
+</li>
+</ul>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_umgang_mit_funktionalen_anforderungen">4. Umgang mit funktionalen Anforderungen</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Unterricht: 180 Min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Übungen: 120 Min.</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>Stakeholder formulieren ihre funktionalen Anforderungen üblicherweise auf unterschiedlichen Abstraktionsebenen. Architekt:innen müssen mit diesen unterschiedlichen Granularitäten umgehen können: gröbere Anforderungen mit feineren in Beziehung setzen, grobe Anforderungen zerlegen oder feinere gruppieren, um den Überblick zu behalten.</p>
+</div>
+<div class="paragraph">
+<p>Dieses Thema führt Kriterien ein, um funktionale Anforderungen im Großen wie im Kleinen zu zerlegen oder zu gruppieren. Architekt:innen verstehen danach, wann Anforderungen präzise genug sind, damit das Entwicklungsteam sie übernehmen kann.</p>
+</div>
+<div class="paragraph">
+<p>In den letzten Jahrzehnten sind viele Notationen für funktionale Anforderungen entstanden – von textuellen Darstellungen über verschiedene grafische Notationen bis hin zu Prototypen, Mockups und konkreten Beispielen in Form von Szenarien. Stärken und Schwächen sowie Vor- und Nachteile werden diskutiert.</p>
+</div>
+<div class="sect2">
+<h3 id="_begriffe_und_konzepte_4">4.1. Begriffe und Konzepte</h3>
+<div class="paragraph">
+<p>Funktionale Anforderungen, Use Case, Epic, Feature, Story, Szenario, Akzeptanzkriterien, Definition of Ready (DoR), INVEST, CCC-Regel, Prototypen, Mockups</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_lernziele_4">4.2. Lernziele</h3>
+<div class="sect3">
+<h4 id="LZ-4-1">LZ 4-1: Den Unterschied zwischen funktionalen und anderen Anforderungen verstehen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Die Definition funktionaler Anforderungen kennen</p>
+</li>
+<li>
+<p>Funktionale Anforderungen von Qualitätsanforderungen und Randbedingungen unterscheiden</p>
+</li>
+<li>
+<p>Wissen, dass Geschäftsregeln (z.B. Berechnungen, Richtlinien, Einschränkungen von Daten) funktionale Anforderungen bestimmen, und dass ihre Auslagerung aus der Anwendungslogik architektonisch bedeutsam ist</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-4-2">LZ 4-2: Hierarchien funktionaler Anforderungen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Verstehen, dass (funktionale) Anforderungen auf unterschiedlichen Granularitätsebenen ausgedrückt werden können, von grobgranular bis sehr feingranular</p>
+</li>
+<li>
+<p>Verstehen, dass Architekt:innen für Planung und Schätzung mindestens einen Überblick über grobgranulare funktionale Anforderungen brauchen</p>
+</li>
+<li>
+<p>Wissen, dass nicht jede funktionale Anforderung sofort detailliert werden muss (Just-in-Time-Prinzip, vgl. <a href="#LZ-1-3">LZ 1-3: Den inkrementellen Charakter der Anforderungserhebung verstehen („Just in Time")</a>)</p>
+</li>
+<li>
+<p>Wissen, dass solche Hierarchien als Story-Maps dargestellt werden können</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-4-3">LZ 4-3: Kriterien für das Zerlegen grobgranularer funktionaler Anforderungen</h4>
+<div class="paragraph">
+<p>Verstehen, dass viele unterschiedliche Kriterien zur Zerlegung eines Systems in kleinere Teile angewendet werden können, z.B. funktionale bzw. Feature-orientierte Zerlegung, organisatorische, geografische, objektorientierte, prozessorientierte oder hardwareorientierte Zerlegung.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-4-4">LZ 4-4: Anforderungen in wertschöpfende Prozesse zerlegen oder gruppieren</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Wissen, dass prozessorientierte Zerlegung (Geschäftsprozesse, Use Cases, Stories, Ereignis-Prozessketten, &#8230;&#8203;) ein bewährter Ansatz ist, um einige Teile früh zu implementieren und andere zurückzustellen, und so früher Business Value zu schaffen</p>
+</li>
+<li>
+<p>Den ersten Teil von „INVEST" <a href="#wake2003">[Wake]</a> verstehen: Funktionale Anforderungen sollten „independent", „negotiable" und „valuable" sein</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-4-5">LZ 4-5: Wertschöpfende Prozesse dokumentieren</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Verschiedene Notationen kennen, um wertschöpfende Prozesse festzuhalten</p>
+</li>
+<li>
+<p>Wissen, wie man gute Stories schreibt (z.B. <a href="#adzic-14">[Adzic-2014]</a>: As a &lt;role&gt; I want to &lt;functionality&gt; so that &lt;advantage&gt;) <a href="#hathaway">[Hathaway]</a></p>
+</li>
+<li>
+<p>Wissen, wie man Prozesse in Use-Case-Diagrammen und Use-Case-Spezifikationen festhält</p>
+</li>
+<li>
+<p>Den Unterschied zwischen Use Cases und User Stories verstehen</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-4-6">LZ 4-6: Funktionale Anforderungen verfeinern</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Kriterien für das Zerlegen grobgranularer funktionaler Anforderungen kennen <a href="#lawrence">[Lawrence]</a>, <a href="#jacobson">[Jacobson]</a>, <a href="#hruschka">[Hruschka]</a></p>
+</li>
+<li>
+<p>Wissen, dass im agilen Requirements Engineering auch die zerlegten Teile einer größeren Anforderung Business Value bieten sollten</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-4-7">LZ 4-7: Funktionale Anforderungen dokumentieren</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Verstehen, dass detaillierte funktionale Anforderungen auf verschiedene Arten dokumentiert werden können, z.B. textuell, aber auch in vielen grafischen Formen. Grafische Notationen mit klar definierter Syntax und Semantik (z.B. Aktivitätsdiagramme, Zustandsmodelle) können mehr Präzision und weniger Interpretationsspielraum bieten als natürlichsprachliche Anforderungen – informelle oder unscharf definierte Diagramme können hingegen genauso mehrdeutig sein, oder mehrdeutiger. Präzise Notationen erfordern meist auch mehr Fachwissen, um sie zu erstellen und zu verstehen <a href="#hmf">[HMF]</a></p>
+</li>
+<li>
+<p>Grafische Modelle wie Aktivitätsdiagramme, BPMN <a href="#bpmn">[BPMN]</a>, Informationsmodelle und Zustandsmodelle kennen und wissen, wann welche Notation passt</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-4-8">LZ 4-8: Wissen, wann die Verfeinerung funktionaler Anforderungen endet</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Verstehen, dass funktionale Anforderungen präzise genug sind, sobald das Entwicklungsteam keine Fragen mehr zu ihrer Bedeutung hat</p>
+</li>
+<li>
+<p>Den zweiten Teil von „INVEST" <a href="#wake2003">[Wake]</a> verstehen: „Estimable", „Small enough (klein genug)/ angemessen dimensioniert" (Stories weiter hinten im Backlog dürfen größer sein als solche, die als nächstes umgesetzt werden), „Testable"</p>
+</li>
+<li>
+<p>Die „Definition of Ready" (DoR) kennen und wissen, wie sie die Zusammenarbeit zwischen Stakeholdern unterstützt (z.B. zwischen Requirements Engineers und Architekt:innen)</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-4-9">LZ 4-9: Akzeptanzkriterien für funktionale Anforderungen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Wissen, dass funktionale Anforderungen Akzeptanzkriterien haben sollten, also überprüfbare Kriterien, mit denen sich (nach der Implementierung) eindeutig feststellen lässt, ob die Anforderung erfüllt ist</p>
+</li>
+<li>
+<p>Die „CCC-Regel" <a href="#jeffries-ccc">[Jeffries]</a> verstehen: Card, Conversation, Confirmation. Die Akzeptanzkriterien sind die Grundlage der Confirmation.</p>
+</li>
+<li>
+<p>Verstehen, dass Akzeptanzkriterien die Brücke zu Akzeptanztests bilden und damit die „Definition of Done" der einzelnen Anforderung festlegen</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-4-10">LZ 4-10: Specification-by-Example verstehen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Verstehen, dass einige gute Beispiele für funktionale Anforderungen manchmal besser sind als eine schlechte Abstraktion <a href="#adzic-11">[Adzic-2011]</a></p>
+</li>
+<li>
+<p>Wissen, dass Szenarien Beispiele für funktionale Anforderungen sind</p>
+</li>
+<li>
+<p>Verschiedene Notationen kennen, um Szenarien auszudrücken</p>
+</li>
+<li>
+<p>Details siehe <a href="#section-bdd">Kapitel 6 (BDD)</a></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-4-11">LZ 4-11: Methoden zur Erhebung funktionaler Anforderungen kennen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Wissen, dass es viele verschiedene Erhebungstechniken gibt, die Architekt:innen kennen sollten, z.B. Interviews, Fragebögen, Brainstorming-Sitzungen, Three Amigo Sessions (vgl. <a href="#LZ-2-2">LZ 2-2: Kooperative Ansätze der Produktentwicklung kennen</a>), Knowledge Crunching, Event Storming und viele andere</p>
+</li>
+<li>
+<p>Prototypen und Mockups als Erhebungs- und Validierungstechnik kennen, besonders für UI-/UX-nahe Anforderungen: Nutzer:innen reagieren oft konkreter auf ein sichtbares Artefakt als auf eine abstrakte Beschreibung <a href="#snyder">[Snyder]</a></p>
+</li>
+<li>
+<p>Wissen, wann welche Erhebungstechnik die Kommunikation mit Stakeholdern verbessert</p>
+</li>
+</ul>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_umgang_mit_qualitätsanforderungen_und_randbedingungen">5. Umgang mit Qualitätsanforderungen und Randbedingungen</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Unterricht: 90 Min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Übungen: 90 Min.</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>Dieses Thema behandelt die Arten von Anforderungen, die für Architekt:innen oft wichtiger sind als funktionale Anforderungen: Qualitätsanforderungen und Randbedingungen. Diese beiden Kategorien werden oft als nichtfunktionale Anforderungen bezeichnet – ein Begriff, den wir zu vermeiden empfehlen.
+Kategorisierungsschemata für Qualitätsanforderungen und Randbedingungen werden ebenso diskutiert wie Notationen, um sie festzuhalten.</p>
+</div>
+<div class="paragraph">
+<p>Ähnlich wie funktionale Anforderungen sind Qualitäten und Randbedingungen anfangs oft sehr vage. Architekt:innen lernen, sie zu verfeinern oder funktionale Anforderungen aus Qualitäten abzuleiten, um sie zu präzisieren.
+Auch Qualitätsanforderungen lassen sich mit szenariobasierten Ansätzen präzisieren.
+Nicht zuletzt müssen auch Qualitätsanforderungen durch Akzeptanzkriterien überprüfbar gemacht werden.</p>
+</div>
+<div class="sect2">
+<h3 id="_begriffe_und_konzepte_5">5.1. Begriffe und Konzepte</h3>
+<div class="paragraph">
+<p>Qualitätsanforderung, Randbedingung (Constraint), nichtfunktionale Anforderung, Q42</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_lernziele_5">5.2. Lernziele</h3>
+<div class="sect3">
+<h4 id="LZ-5-1">LZ 5-1: Den Unterschied zwischen Qualitäts- und anderen Anforderungen verstehen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Eine Definition von Qualitätsanforderungen und Randbedingungen kennen</p>
+</li>
+<li>
+<p>Wissen, dass die Grenze zwischen funktionalen Anforderungen und Qualitätsanforderungen sehr schmal ist, da Qualitäten manchmal präzisiert werden, indem man sie in Funktionen überführt</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-5-2">LZ 5-2: Kategorien von Qualitäten und Randbedingungen verstehen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Checklisten für Qualitätsanforderungen und Qualitätsstandards kennen, z.B. <a href="#Q42">[Q42]</a>, <a href="#iso25010">[ISO-25010]</a>, <a href="#volere">Volere</a> (siehe auch <a href="#robertson-24">[Robertson-24]</a>)</p>
+</li>
+<li>
+<p>Kategorien von Randbedingungen kennen (organisatorische Randbedingungen, technische Randbedingungen, &#8230;&#8203;)</p>
+</li>
+<li>
+<p>Verstehen, dass Architekt:innen nicht alle Qualitätsanforderungen und Randbedingungen früh im Projekt benötigen, aber die wichtigsten finden müssen, da diese Architekturtreiber sind und sehr wichtige Architekturentscheidungen beeinflussen (Just-in-Time-Prinzip, vgl. <a href="#LZ-1-3">LZ 1-3: Den inkrementellen Charakter der Anforderungserhebung verstehen („Just in Time")</a>)</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-5-3">LZ 5-3: Qualitätsanforderungen erheben und spezifizieren</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Wissen, wie Qualitätsszenarien oder textuelle Spezifikationen inklusive Motivation („warum?") spezifiziert werden</p>
+</li>
+<li>
+<p>Checklisten und Kategorisierungsschemata nutzen, um die wichtigsten Kandidaten für Qualitätsanforderungen zu finden</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Architekt:innen sollten ihr Vorgehen bei der Erhebung und Spezifikation von Qualitätsanforderungen an Fähigkeiten, Motivation und Zeit ihrer Stakeholder anpassen können.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-5-4">LZ 5-4: Qualitätsanforderungen verfeinern</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Wissen, dass Qualitätsanforderungen oft vage beginnen.
+Architekt:innen haben verschiedene Möglichkeiten, sie zu präzisieren:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Unterkategorien der Kategorisierungsschemata nutzen (Benutzerfreundlichkeit = leichte Bedienbarkeit und leichte Erlernbarkeit)</p>
+</li>
+<li>
+<p>Szenarien finden, die die beabsichtigte Bedeutung präziser ausdrücken, oder</p>
+</li>
+<li>
+<p>funktionale Anforderungen vorschlagen, die die Absicht der Qualitätsanforderung erfüllen (z.B. ein Rollenkonzept und Passwörter vorschlagen, um eine Sicherheitsanforderung umzusetzen)</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Wissen, dass das Q42-Qualitätsmodell <a href="#Q42">[Q42]</a> praktische Anleitung und pragmatische Beispiele für die exakte Spezifikation von Qualitätsanforderungen bietet</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-5-5">LZ 5-5: Akzeptanzkriterien für Qualitätsanforderungen spezifizieren</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Wissen, dass auch Qualitätsanforderungen Akzeptanzkriterien brauchen; die grundlegende Definition und die CCC-Regel gelten unverändert (siehe <a href="#LZ-4-9">LZ 4-9: Akzeptanzkriterien für funktionale Anforderungen</a>)</p>
+</li>
+<li>
+<p>Wissen, dass Akzeptanzkriterien für Qualitätsanforderungen oft über Toleranzen oder Schwellwerte spezifiziert werden können, oder indem Abweichungen für bestimmte Stakeholder erlaubt werden (z.B. erhalten Personen, die kein Englisch sprechen, 20% mehr Zeit für ein Ergebnis)</p>
+</li>
+<li>
+<p>Wissen, dass sich manche Qualitäten nur durch statistische oder operative Beobachtung über die Zeit prüfen lassen statt durch quantifizierte Akzeptanzkriterien (siehe <a href="#LZ-5-6">LZ 5-6: Pragmatische Alternativen zu detaillierten Akzeptanzkriterien</a>)</p>
+</li>
+<li>
+<p>Quellen für Beispiele solcher Akzeptanzkriterien kennen, etwa Q42</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-5-6">LZ 5-6: Pragmatische Alternativen zu detaillierten Akzeptanzkriterien</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Wissen, dass sich die Erfüllung mancher Qualitäten direkt nach der Implementierung nur schwer überprüfen lässt.
+Ein anderer Weg ist die statistische Beobachtung über die Zeit („schauen, ob die Anforderung erfüllt ist") statt quantifizierter Akzeptanzkriterien.</p>
+</li>
+<li>
+<p>Wissen, dass sich z.B. bei UI-Anforderungen Usage Analytics einsetzen lassen, um zu prüfen, ob sie hinreichend gut umgesetzt sind</p>
+</li>
+</ul>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="section-bdd">6. Behavior Driven Development</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Unterricht: 60 Min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Übungen: keine</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>Behavior Driven Development (ursprünglich vorgeschlagen von <a href="#north">[North]</a>) will die Lücke zwischen der Spezifikation von Anforderungen und automatisiertem Testen schließen, indem es enge Zusammenarbeit zwischen Entwickler:innen, QA und nicht-technischen bzw. fachlichen Beteiligten fördert. Mit BDD werden Anforderungen so formuliert, dass sie später für automatisierte Tests genutzt werden können. BDD ist damit ein Beispiel für ausführbare Spezifikationen.</p>
+</div>
+<div class="paragraph">
+<p>Behavior Driven Development (oder BDD) ist somit eine kollaborative Praktik zur Entdeckung von Anforderungen, die Gespräche über konkrete Beispiele nutzt, um ein gemeinsames Verständnis aufzubauen.</p>
+</div>
+<div class="sect2">
+<h3 id="_begriffe_und_konzepte_6">6.1. Begriffe und Konzepte</h3>
+<div class="paragraph">
+<p>Behavior Driven Development (BDD), Automated Testing, Given-When-Then (GWT)</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_lernziele_6">6.2. Lernziele</h3>
+<div class="sect3">
+<h4 id="LZ-6-1">LZ 6-1: Anwendbarkeit und Einsatzgebiete von Behavior-Driven Development (BDD) kennen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Wissen, dass BDD <a href="#smart-bdd">[Smart]</a> aus Ansätzen und Technologien wie TDD (Test-Driven Development) und ATDD (Acceptance-Test-Driven Development) entstanden ist</p>
+</li>
+<li>
+<p>Wissen, dass es verschiedene Möglichkeiten gibt, Anforderungen zu präzisieren</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Zustands- oder Aktivitätsmodelle</p>
+</li>
+<li>
+<p>Given-When-Then-Szenarien</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Wissen, dass BDD für eine große Bandbreite von IT-Systemtypen anwendbar ist, z.B. Informationssysteme, Business-Intelligence-Systeme, mobile Apps</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-6-2">LZ 6-2: Prinzipien von Behavior-Driven Development (BDD) verstehen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Wissen, dass BDD eine kollaborative Praktik zur Entdeckung von Anforderungen ist, die Gespräche über konkrete Beispiele nutzt, um ein gemeinsames Verständnis der Anforderungen aufzubauen</p>
+</li>
+<li>
+<p>Wissen, dass kollaborative Workshops und Diskussionsformate wie Three Amigo Sessions (TAS) helfen, korrekte Anforderungen zu erhalten (vgl. <a href="#LZ-2-2">LZ 2-2: Kooperative Ansätze der Produktentwicklung kennen</a>)</p>
+</li>
+<li>
+<p>Wissen, dass konkrete Beispiele gut geeignet sind, die Problemdomäne zu erkunden, und eine Grundlage für Akzeptanztests bieten. Example Mapping <a href="#wynne">[Wynne]</a> hilft, Regeln und offene Fragen zu finden und neue Stories zu identifizieren.</p>
+</li>
+<li>
+<p>Wissen, dass BDD Benutzeranforderungen in Features beschreibt, Features in Stories herunterbricht und die Stories in (ausführbare) Beispiele</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-6-3">LZ 6-3: Gherkin und Cucumber als Beispiele für BDD kennen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Verstehen, dass Given-When-Then die ausführbare Form von Akzeptanzkriterien ist (siehe <a href="#LZ-4-9">LZ 4-9: Akzeptanzkriterien für funktionale Anforderungen</a>): „Given" und „When" beschreiben Ausgangssituation und Aktion, „Then" das erwartete, überprüfbare Ergebnis</p>
+</li>
+<li>
+<p>Die Given-When-Then-Syntax (GWT) kennen, wie Gherkin <a href="#gherkin">[Gherkin]</a> sie vorschlägt</p>
+</li>
+<li>
+<p>Wissen, dass Given-When-Then-basierte Formulierungen von Anforderungen die Testautomatisierung erleichtern</p>
+</li>
+<li>
+<p>Wissen, dass mehrere Werkzeuge existieren, um Given-When-Then-Verhaltensspezifikationen auf den Quellcode des Systems abzubilden (z.B. Cucumber <a href="#cucumber">[Cucumber]</a>, Reqnroll (ehemals SpecFlow), Behave (Python), JBehave (Java))</p>
+</li>
+<li>
+<p>Optional Beispiele für GWT-Spezifikationen mit dem zugehörigen Glue Code für die automatische Ausführung kennen</p>
+</li>
+</ul>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_ki_im_re">7. KI im RE</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Unterricht: 60 Min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Übungen: keine</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>Künstliche Intelligenz, insbesondere Large Language Models (LLMs), wird zunehmend zur Unterstützung des Requirements Engineering eingesetzt. Da LLMs Werkzeuge für Sprache und Text sind, passen ihre Stärken – Text erzeugen, umformen, zusammenfassen und vergleichen – zu vielen Aktivitäten des Requirements Engineering, von der Vorbereitung der Erhebung bis zum Entwerfen, Analysieren und Konsolidieren von Anforderungen.</p>
+</div>
+<div class="paragraph">
+<p>Zugleich haben LLMs Grenzen und Risiken, die Requirements Engineers kennen und einschätzen können müssen (vgl. <a href="#LZ-7-1">LZ 7-1: Potenziale und Grenzen von LLMs im Requirements Engineering verstehen</a> und <a href="#LZ-7-3">LZ 7-3: KI-Ergebnisse prüfen und kritisch bewerten</a>). Requirements Engineering bleibt daher im Wesentlichen eine kommunikative Tätigkeit mit Stakeholdern: KI kann solche Gespräche vor- und nachbereiten, aber nicht ersetzen, und die Verantwortung für die entstehenden Anforderungen bleibt bei Menschen (<em>Human-in-the-Loop</em>).</p>
+</div>
+<div class="paragraph">
+<p>Dieses Kapitel führt in die Potenziale und Grenzen von LLMs für die Anforderungsarbeit ein, zeigt konkrete Einsatzszenarien entlang der in früheren Kapiteln behandelten Aktivitäten und erläutert, wie sich KI-Ergebnisse prüfen und kritisch bewerten lassen.</p>
+</div>
+<div class="sect2">
+<h3 id="_begriffe_und_konzepte_7">7.1. Begriffe und Konzepte</h3>
+<div class="paragraph">
+<p>Large Language Model (LLM), Generative KI, Prompt, Kontext, Halluzination, Bias, implizites Wissen (Tacit Knowledge), Human-in-the-Loop, Vertraulichkeit / Datenschutz</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_lernziele_7">7.2. Lernziele</h3>
+<div class="sect3">
+<h4 id="LZ-7-1">LZ 7-1: Potenziale und Grenzen von LLMs im Requirements Engineering verstehen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Wissen, dass LLMs Werkzeuge für Sprache und Text sind. Ihre Stärken (Text erzeugen, umformen, zusammenfassen und vergleichen) passen zu vielen Aktivitäten des Requirements Engineering.</p>
+</li>
+<li>
+<p>Verstehen, dass LLMs nichtdeterministisch arbeiten: Derselbe Prompt kann unterschiedliche Ergebnisse liefern. Ergebnisse sind daher nicht ohne Weiteres reproduzierbar, was bei wiederholten Prüfungen, Reviews und Baselines berücksichtigt werden muss.</p>
+</li>
+<li>
+<p>Verstehen, dass plausible Ergebnisse nicht unbedingt korrekt sind. Halluzinationen, fehlendes Domänen- und implizites Wissen sowie Bias begrenzen die Verlässlichkeit von LLM-Ergebnissen.</p>
+</li>
+<li>
+<p>Wissen, dass eigener Kontext fehlendes Domänenwissen mildert und Halluzinationen reduziert, aber nicht beseitigt.</p>
+</li>
+<li>
+<p>Verstehen, dass Requirements Engineering Kommunikation und Aushandlung mit Stakeholdern bleibt. KI kann solche Gespräche vorbereiten und nachbereiten, aber nicht ersetzen.</p>
+</li>
+<li>
+<p>Wissen, dass die Verantwortung für Anforderungen bei Menschen bleibt (Human-in-the-Loop, verpflichtende Reviews)</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-7-2">LZ 7-2: Einsatzszenarien von LLMs im Requirements Engineering kennen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Wissen, dass LLMs die Erhebung unterstützen können, z.B. bei der Vorbereitung von Interviews, beim Generieren von Fragen, bei der Simulation von Stakeholdern oder Personas und beim Brainstorming</p>
+</li>
+<li>
+<p>Wissen, dass LLMs bei der Analyse von Anforderungen helfen können, z.B. Mehrdeutigkeiten, Lücken und Widersprüche finden oder Anforderungen gegen Qualitätskriterien wie INVEST, Testbarkeit und Akzeptanzkriterien prüfen (vgl. <a href="#LZ-4-8">LZ 4-8: Wissen, wann die Verfeinerung funktionaler Anforderungen endet</a> und <a href="#LZ-4-9">LZ 4-9: Akzeptanzkriterien für funktionale Anforderungen</a>)</p>
+</li>
+<li>
+<p>Wissen, dass LLMs Entwürfe für Stories, Use Cases, Qualitätsszenarien und Gherkin-Beispiele erstellen können (vgl. Kapitel 5 und 6) und Anforderungen zwischen Abstraktionsebenen und Notationen umformulieren können</p>
+</li>
+<li>
+<p>Wissen, dass LLMs beim Identifizieren architekturrelevanter Anforderungen (ASRs) und beim Konkretisieren vager Qualitätsziele zu Qualitätsszenarien unterstützen können (vgl. Kapitel 5)</p>
+</li>
+<li>
+<p>Wissen, dass LLMs große Anforderungsmengen zusammenfassen sowie Glossare und Begriffe auf Konsistenz prüfen können</p>
+</li>
+<li>
+<p>Verstehen, dass KI in all diesen Einsatzszenarien Entwürfe, Kritik oder Übersetzungen liefert, Entscheidungen aber weiterhin bei Menschen liegen (vgl. <a href="#LZ-7-1">LZ 7-1: Potenziale und Grenzen von LLMs im Requirements Engineering verstehen</a>).</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-7-3">LZ 7-3: KI-Ergebnisse prüfen und kritisch bewerten</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Wissen, wie sich KI-Ergebnisse systematisch prüfen lassen, etwa gegen Aussagen der Stakeholder, das Glossar und bestehende Anforderungen</p>
+</li>
+<li>
+<p>Wissen, dass die in <a href="#LZ-7-1">LZ 7-1: Potenziale und Grenzen von LLMs im Requirements Engineering verstehen</a> genannten Risiken (z. B. Halluzinationen, Bias) beim Prüfen von KI-Ergebnissen besonders zu beachten sind, ergänzt um Scheingenauigkeit als weiteres Risiko</p>
+</li>
+<li>
+<p>Verstehen, dass LLMs den Engpass vom Schreiben zum Prüfen verschieben: Sie erzeugen mühelos viel plausiblen Text, aber Menge ist nicht Qualität – der Prüfaufwand wächst.</p>
+</li>
+<li>
+<p>Verstehen, dass Anforderungen oft vertrauliches Firmenwissen enthalten (Vertraulichkeit, Datenschutz, geistiges Eigentum)</p>
+</li>
+<li>
+<p>Wissen, dass es neben Vertraulichkeit weitere organisatorische und regulatorische Rahmenbedingungen gibt, etwa Firmen-Policies zu freigegebenen Werkzeugen und regulatorische Vorgaben wie den EU AI Act.</p>
+</li>
+<li>
+<p>Verstehen, dass gute Ergebnisse expliziten Kontext brauchen, etwa Rolle, Domäne und Qualitätskriterien</p>
+</li>
+</ul>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_priorisierung_und_schätzung_von_anforderungen">8. Priorisierung und Schätzung von Anforderungen</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Unterricht: 45 Min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Übungen: 30 Min.</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>Iterative und inkrementelle Entwicklung strebt an, zuerst die Anforderungen umzusetzen, die hohen Business Value liefern. Dafür sollten Architekt:innen sicherstellen, dass Anforderungen nach Business Value geordnet sind. So kann man sich auf die wertvollsten konzentrieren und die Verfeinerung der übrigen auf später verschieben. Architekt:innen sollten sich jedoch bewusst sein, dass Business Value für verschiedene Stakeholder sehr Unterschiedliches bedeuten kann. Dieser Abschnitt diskutiert verschiedene Arten von Wert.</p>
+</div>
+<div class="paragraph">
+<p>Die zweite Voraussetzung dafür, manche Anforderungen früher als andere umzusetzen, sind Schätzungen – um zu bestimmen, wie lange die Umsetzung dauern wird, und um Hinweise zu erhalten, wo eventuell weitere Anforderungsarbeit nötig ist.</p>
+</div>
+<div class="sect2">
+<h3 id="_begriffe_und_konzepte_8">8.1. Begriffe und Konzepte</h3>
+<div class="paragraph">
+<p>Business Value, Risiko, Ranking, Priorisierung, Affinity Estimation, Story Points, Function Points, WSJF, MoSCoW-Priorisierung</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_lernziele_8">8.2. Lernziele</h3>
+<div class="sect3">
+<h4 id="LZ-8-1">LZ 8-1: Verschiedene Arten von Business Value verstehen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Verstehen, dass verschiedene Stakeholder unterschiedlichen Wert in Anforderungen sehen können.
+Manche interessieren sich für kurzfristigen Umsatz, andere für bessere Kundenzufriedenheit oder schnelle Time-to-Market.
+Wieder andere wollen das Risiko für die restliche Entwicklung reduzieren oder eine Plattform für langfristige Kosteneinsparungen schaffen. <a href="#mcgreal">[McGreal]</a></p>
+</li>
+<li>
+<p>Verschiedene Methoden kennen, um Wert auszudrücken, z.B. MoSCoW-Priorisierung <a href="#clegg">[Clegg]</a> <a href="#moscow">[MoSCoW]</a>, definierte Wertebereiche, lineare Sortierung aller Anforderungen, gewichtete Faktorenmethoden, Cost of Delay <a href="#reinertsen">[Reinertsen]</a>, &#8230;&#8203;</p>
+</li>
+<li>
+<p>Impact Mapping <a href="#adzic-impact">[Adzic-Impact]</a> als Technik kennen, um Anforderungen und Deliverables auf ihren Beitrag zu Business Goals zurückzuführen und so zu bewerten (vgl. <a href="#LZ-3-2">LZ 3-2: Die Notwendigkeit von (übergeordneter) Vision und Business Goals verstehen</a>)</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-8-2">LZ 8-2: Anforderungen nach Business Value ordnen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Verschiedene Strategien für Ordnung und Priorisierung kennen, z.B. Weighted Shortest Job First (WSJF) <a href="#reinertsen">[Reinertsen]</a> <a href="#safe">[SAFe]</a>, Defer Risk, Risk First, &#8230;&#8203;</p>
+</li>
+<li>
+<p>Wissen, wie man beim Ordnen mit Abhängigkeiten zwischen Anforderungen umgeht</p>
+</li>
+<li>
+<p>Mechanismen kennen, um Anforderungen zu zerlegen und so Abhängigkeiten zu vermeiden</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-8-3">LZ 8-3: Anforderungen schätzen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Die Notwendigkeit verstehen, Anforderungen zu schätzen – auch als Indikator, größere Anforderungen zu verfeinern und zu zerlegen, wenn sie sich noch nicht gut genug schätzen lassen</p>
+</li>
+<li>
+<p>Den Unterschied zwischen absoluten Schätzungen (in Personentagen, Kosten, &#8230;&#8203;) und relativen Schätzungen (z.B. Story Points) verstehen</p>
+</li>
+<li>
+<p>Einige relative Schätztechniken kennen, etwa T-Shirt-Sizing und Planning Poker (mit Fibonacci-Werten) <a href="#grenning">[Grenning]</a> <a href="#cohn">[cohn]</a></p>
+</li>
+<li>
+<p>Verschiedene Schätztechniken kennen, z.B. Function Points <a href="#albrecht">[Albrecht]</a>, Story Points, Affinity Estimation, Wall Estimation etc.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-8-4">LZ 8-4: Widersprüchliche Anforderungen erkennen und auflösen</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Verstehen, dass unterschiedliche Stakeholder-Bedürfnisse zu widersprüchlichen Anforderungen führen können, deren Auflösung sich häufig in Architekturentscheidungen niederschlägt</p>
+</li>
+<li>
+<p>Techniken zur Konfliktlösung kennen, z.B. Priorisierung (siehe <a href="#LZ-8-2">LZ 8-2: Anforderungen nach Business Value ordnen</a>), Trade-off- und Utility-Analyse, Eskalation an Entscheidungsträger sowie direkte Verhandlung mit den betroffenen Stakeholdern</p>
+</li>
+<li>
+<p>Wissen, dass sich Architekt:innen bei der Konfliktlösung vor allem auf jene Konflikte konzentrieren sollten, die architekturrelevante Anforderungen (<a href="#LZ-1-1">LZ 1-1: Die Notwendigkeit von Anforderungen als Entscheidungsgrundlage verstehen</a>) betreffen</p>
+</li>
+</ul>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_werkzeuge_für_requirements_engineering">9. Werkzeuge für Requirements Engineering</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Unterricht: 45 Min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Übungen: keine</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>Um Anforderungen festzuhalten und zu kommunizieren, können Teams unterschiedliche Werkzeuge nutzen – von sehr informellen Karten an der Wand bis zu hochentwickelten Requirements-Management-Werkzeugen.
+Dieser Abschnitt gibt einen Überblick, wie sich Anforderungsdokumentation physisch handhaben lässt.
+Details einzelner Werkzeuge sind nicht Gegenstand dieses Abschnitts.</p>
+</div>
+<div class="sect2">
+<h3 id="_lernziele_9">9.1. Lernziele</h3>
+<div class="sect3">
+<h4 id="LZ-9-1">LZ 9-1: Kategorien geeigneter Werkzeuge</h4>
+<div class="paragraph">
+<p>Verschiedene Arten von Anforderungswerkzeugen kennen (Karten, Wikis, Modellierungswerkzeuge, Issue-Tracker etc.)</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LZ-9-2">LZ 9-2: Vor- und Nachteile der Werkzeugkategorien</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Heuristiken kennen, wann welche Art von Werkzeug für welche Art von System passt</p>
+</li>
+<li>
+<p>Die Stärken und Schwächen verschiedener Werkzeugkategorien verstehen</p>
+</li>
+</ul>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_beispiel">10. Beispiel</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Unterricht: 60 Min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Übungen: keine</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>In jeder lizenzierten Schulung muss mindestens ein Beispiel gut formulierter architekturrelevanter Anforderungen vorgestellt, diskutiert und bewertet werden.</p>
+</div>
+<div class="paragraph">
+<p>Das Beispiel kann sich je nach Schulungsanbieter unterscheiden oder sich nach den Interessen der Teilnehmer:innen richten. Details des Beispiels werden daher vom iSAQB nicht vorgegeben.</p>
+</div>
+<div class="sect2">
+<h3 id="_lernziele_10">10.1. Lernziele</h3>
+<div class="sect3">
+<h4 id="LZ-10-1">LZ 10-1: Beispiele gut formulierter Anforderungen verschiedener Kategorien kennen</h4>
+
+</div>
+<div class="sect3">
+<h4 id="LZ-10-2">LZ 10-2: (Gegen-)Beispiele kennen, etwa mehrdeutige, inkonsistente und widersprüchliche Anforderungen verschiedener Kategorien</h4>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_glossar">Glossar</h2>
+<div class="sectionbody">
+<div class="dlist glossary">
+<dl>
+<dt>Akzeptanzkriterien</dt>
+<dd>
+<p>(engl. <em>Acceptance Criteria</em>, angelehnt an IREB): Eine Menge von Bedingungen (üblicherweise einer Anforderung zugeordnet), die jede Implementierung erfüllen muss. Solche Bedingungen können z.B. erwartete Ergebnisse für beispielhafte Eingabedaten sein oder eine zu erreichende Geschwindigkeit oder Datenmenge.</p>
+</dd>
+<dt>Agiles Requirements Engineering</dt>
+<dd>
+<p>(angelehnt an IREB): ein kooperativer, iterativer und inkrementeller Ansatz mit vier Zielen:</p>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>die relevanten Anforderungen im angemessenen Detailgrad kennen (zu jedem Zeitpunkt der Systementwicklung),</p>
+</li>
+<li>
+<p>ausreichende Einigkeit über die Anforderungen unter den relevanten Stakeholdern erreichen,</p>
+</li>
+<li>
+<p>die Anforderungen gemäß den Randbedingungen der Organisation festhalten (und dokumentieren),</p>
+</li>
+<li>
+<p>alle anforderungsbezogenen Aktivitäten nach den Prinzipien des agilen Manifests durchführen.</p>
+</li>
+</ol>
+</div>
+</dd>
+<dt>ASR</dt>
+<dd>
+<p><em>Architecturally Significant Requirements</em> (architekturrelevante Anforderungen) sind die Teilmenge der Anforderungen mit starkem Einfluss auf Architekturentscheidungen (jene Anforderungen, die Architekturentscheidungen besonders prägen oder beeinflussen). Siehe auch &#8594;Just-in-Time-Anforderungen.</p>
+</dd>
+<dt>ATDD</dt>
+<dd>
+<p><em>Acceptance Test Driven Development</em></p>
+</dd>
+<dt>BDD</dt>
+<dd>
+<p>(<em>Behavior Driven Development</em>) Ein agiler Softwareentwicklungsprozess, der die Zusammenarbeit zwischen Entwickler:innen, QA und nicht-technischen bzw. fachlichen Beteiligten eines Softwareprojekts fördert.
+Teams nutzen Gespräche und konkrete Beispiele, um ein gemeinsames Verständnis des gewünschten Systemverhaltens zu formalisieren – mit <em>ausführbaren Spezifikationen</em> als Ergebnis, z.B. in &#8594; Gherkin-Syntax.</p>
+</dd>
+<dt>Business Goal</dt>
+<dd>
+<p>Ein angestrebter Zustand (den ein Stakeholder erreichen will).
+Ziele beschreiben Absichten von Stakeholdern.
+Sie können miteinander in Konflikt stehen.</p>
+</dd>
+<dt>Constraint</dt>
+<dd>
+<p>(Randbedingung) Eine Anforderung, die den Lösungsraum über das hinaus einschränkt, was zur Erfüllung der gegebenen funktionalen Anforderungen und Qualitätsanforderungen notwendig ist.</p>
+</dd>
+<dt>Definition of Ready</dt>
+<dd>
+<p>(DoR) (angelehnt an IREB): eine Menge von Kriterien, die eine Anforderung erfüllen muss, bevor sie in eine kommende Iteration übernommen wird.</p>
+</dd>
+<dt>Epic</dt>
+<dd>
+<p>(angelehnt an IREB): Eine abstrakte Beschreibung eines Stakeholder-Bedürfnisses auf hoher Ebene, das im zu entwickelnden Produkt adressiert werden muss. Epics sind typischerweise größer als das, was sich in einer einzelnen Iteration implementieren lässt.</p>
+</dd>
+<dt>Feature</dt>
+<dd>
+<p>Eine Leistung, Service oder Dienst, die ein Stakeholder-Bedürfnis erfüllt.
+Jedes Feature umfasst eine Nutzenhypothese und Akzeptanzkriterien. <a href="#leffingwell">[Leffingwell]</a> <a href="#safe">[SAFe]</a></p>
+</dd>
+<dt>Funktionale Anforderungen</dt>
+<dd>
+<p>Eine Anforderung an ein Ergebnis oder Verhalten, das eine Funktion eines Systems (oder einer Komponente oder eines Service) liefern soll.</p>
+</dd>
+<dt>Gherkin</dt>
+<dd>
+<p>Domänenspezifische Sprache zum Schreiben von &#8594;BDD-Szenarien in &#8594;GWT-Syntax.</p>
+</dd>
+<dt>Goals</dt>
+<dd>
+<p>&#8594; Business Goal.</p>
+</dd>
+<dt>GWT</dt>
+<dd>
+<p><em>Given, When, Then</em>: Halbstrukturierte Form, Testfälle oder Verhaltensspezifikationen aufzuschreiben.
+Erfunden von Dan North als Teil von &#8594;BDD (Behavior-Driven Development).</p>
+</dd>
+<dt>Just-in-Time-Anforderungen</dt>
+<dd>
+<p>Das Prinzip, dass Architekt:innen keine vollständige Anforderungsmenge im Voraus brauchen, sondern jeweils nur die Anforderungen, die für die anstehenden Entscheidungen relevant sind (siehe &#8594;ASR), erhoben passend zum Bedarf der jeweiligen Iteration.</p>
+</dd>
+<dt>Kontext</dt>
+<dd>
+<p>Der Begriff wird je nach Disziplin unterschiedlich verwendet:</p>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>(Requirements Engineering, angelehnt an IREB <a href="#ireb-glossary">[IREB-Glossary]</a>): Der Teil der Umgebung eines Systems, der für das Verständnis des Systems und seiner Anforderungen relevant ist. Eine <em>Kontextgrenze</em> trennt diesen relevanten Teil von der Umgebung.</p>
+</li>
+<li>
+<p>(Softwarearchitektur, arc42): Bei der <em>Kontextabgrenzung</em> liegt der Fokus auf den externen Schnittstellen und Nachbarn (Nachbarsysteme und Nutzer:innen), mit denen das System kommuniziert, unterschieden in fachlichen und technischen Kontext.</p>
+</li>
+<li>
+<p>(Large Language Models): Die Menge an Information (Tokens), die ein &#8594;LLM bei der Erzeugung einer Antwort berücksichtigt, also &#8594;Prompt, bisheriger Gesprächsverlauf und bereitgestellte Dokumente.</p>
+</li>
+</ol>
+</div>
+</dd>
+<dt>LLM</dt>
+<dd>
+<p>(<em>Large Language Model</em>) Ein auf sehr großen Textmengen trainiertes KI-Modell, das natürliche Sprache verarbeitet und erzeugt, indem es schrittweise den wahrscheinlichsten nächsten Textbaustein (Token) vorhersagt. Ausgaben sind plausibel, aber nicht zwangsläufig korrekt. Die berücksichtigte Eingabe bildet den &#8594;Kontext.</p>
+</dd>
+<dt>Nichtfunktionale Anforderung</dt>
+<dd>
+<p>(NFA) Eine &#8594; Qualitätsanforderung oder eine Randbedingung (Constraint).</p>
+</dd>
+<dt>PAM</dt>
+<dd>
+<p>Das Akronym für <em>Purpose, Advantage, Metric</em> hilft, sich beim Formulieren von Visionen oder Business Goals auf die wichtigen Aspekte zu konzentrieren.</p>
+</dd>
+<dt>Prompt</dt>
+<dd>
+<p>Die textuelle Eingabe (Anweisung, Frage oder Beispiel), mit der ein &#8594;LLM zu einer Antwort veranlasst wird. Prompt und weiterer &#8594;Kontext bestimmen maßgeblich die Qualität der Ausgabe.</p>
+</dd>
+<dt>Qualitätsanforderung</dt>
+<dd>
+<p>Eine Anforderung, die ein Qualitätsmerkmal betrifft, das nicht durch funktionale Anforderungen abgedeckt ist.</p>
+</dd>
+<dt>Szenario</dt>
+<dd>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Eine Beschreibung einer möglichen Abfolge von Ereignissen, die zu einem gewünschten (oder unerwünschten) Ergebnis führen.</p>
+</li>
+<li>
+<p>Eine geordnete Abfolge von Interaktionen zwischen Partnern, insbesondere zwischen einem System und externen Akteuren.</p>
+</li>
+</ol>
+</div>
+</dd>
+<dt>Scope</dt>
+<dd>
+<p>Der Bereich der Dinge, die bei der Entwicklung eines Systems gestaltet und entworfen werden können.</p>
+</dd>
+<dt>SMART</dt>
+<dd>
+<p>(Akronym, siehe <a href="#doran">[Doran]</a>, für <em>Specific, Measurable, Achievable, Relevant, Time-bound</em>)
+Ursprünglich (Doran, 1981) <em>Specific, Measurable, Assignable, Realistic, Time-related</em> – das „A" steht je nach Quelle für „Achievable" oder „Assignable".
+Ein SMART-Ziel hilft beim Setzen und Spezifizieren von Zielen.
+Es erfüllt alle diese Kriterien, bündelt so die Anstrengungen und erhöht damit die Chance, das Ziel zu erreichen.</p>
+</dd>
+<dt>Stakeholder</dt>
+<dd>
+<p>Eine Person oder Organisation, die (direkten oder indirekten) Einfluss auf die Anforderungen eines Systems hat.
+Indirekter Einfluss umfasst auch Situationen, in denen eine Person oder Organisation vom System betroffen ist.</p>
+</dd>
+<dt>(User) Story</dt>
+<dd>
+<p>Eine Beschreibung eines Bedürfnisses aus Sicht der Nutzer:innen, zusammen mit dem erwarteten Nutzen, wenn dieses Bedürfnis erfüllt ist. User Stories werden typischerweise in natürlicher Sprache nach einem vorgegebenen Satzmuster geschrieben.</p>
+</dd>
+<dt>Use Case</dt>
+<dd>
+<p>Eine Beschreibung der möglichen Interaktionen zwischen Akteuren und einem System, die bei ihrer Ausführung Mehrwert liefern.</p>
+<div class="paragraph">
+<p>Use Cases spezifizieren ein System aus Sicht der Nutzer:innen (oder anderer externer Akteure): Jeder Use Case beschreibt Funktionalität, die das System für die beteiligten Akteure bereitstellen muss.</p>
+</div>
+</dd>
+<dt>Vision</dt>
+<dd>
+<p>Die Vision beschreibt den zukünftigen Zustand der zu entwickelnden Lösung.
+Sie spiegelt die Bedürfnisse von Kund:innen und Stakeholdern wider sowie die Features und Fähigkeiten, die zur Erfüllung dieser Bedürfnisse vorgeschlagen werden. <a href="#leffingwell">[Leffingwell]</a> <a href="#safe">[SAFe]</a></p>
+</dd>
+</dl>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_referenzen">Referenzen</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum referenziert werden.</p>
+</div>
+<div class="paragraph">
+<p><strong>A</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="adzic-11"></a>[Adzic-2011] Adzic, Gojko: Specification by Example. Manning, 2011. More info: <a href="https://gojko.net/books/specification-by-example/" class="bare">https://gojko.net/books/specification-by-example/</a></p>
+</li>
+<li>
+<p><a id="adzic-14"></a>[Adzic-2014] Adzic, Gojko / Evans, David: Fifty Quick Ideas to Improve Your User Stories. 2014. <a href="https://leanpub.com/50quickideas" class="bare">https://leanpub.com/50quickideas</a></p>
+</li>
+<li>
+<p><a id="adzic-impact"></a>[Adzic-Impact] Adzic, Gojko: Impact Mapping: Making a Big Impact with Software Products and Projects. Provoking Thoughts, 2012. <a href="https://www.impactmapping.org/" class="bare">https://www.impactmapping.org/</a></p>
+</li>
+<li>
+<p><a id="albrecht"></a>[Albrecht] Albrecht, Allan J.: Measuring Application Development Productivity. Proceedings of the Joint SHARE/GUIDE/IBM Application Development Symposium, 1979, pp. 83-92.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>B</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="banfield"></a>[Banfield] Banfield, Richard: Design sprint: a practical guidebook for building great digital products, O&#8217;Reilly, 2016</p>
+</li>
+<li>
+<p><a id="bpmn"></a>[BPMN] Object Management Group (OMG): Business Process Model and Notation (BPMN), Version 2.0.2, 2013. <a href="https://www.omg.org/spec/BPMN/2.0.2/" class="bare">https://www.omg.org/spec/BPMN/2.0.2/</a> (also published as ISO/IEC 19510:2013, <a href="https://www.iso.org/standard/62652.html" class="bare">https://www.iso.org/standard/62652.html</a>)</p>
+</li>
+<li>
+<p><a id="brown"></a>[Brown] Brown, Tim: Design Thinking, Harvard Business Review, June 2008.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>C</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="clegg"></a>[Clegg] Dai Clegg and Richard Barker (1994). Case Method Fast-Track: A RAD Approach. Addison-Wesley.</p>
+</li>
+<li>
+<p><a id="cooper"></a>[Cooper] Cooper, Alan: The Inmates Are Running the Asylum: Why High-Tech Products Drive Us Crazy and How to Restore the Sanity. Sams, 1999.</p>
+</li>
+<li>
+<p><a id="cucumber"></a>[Cucumber] Cucumber: BDD testing and executable specifications. <a href="https://cucumber.io/" class="bare">https://cucumber.io/</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>D</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="dinwiddie"></a>[Dinwiddie] George Dinwiddie. The Three Amigos - All For One - One For All. Better Software Nov/Dec 2011, vol 13, issue 6, pp 24-27, Online (archived, PDF only): <a href="https://www.stickyminds.com/sites/default/files/magazine/file/2013/3971888.pdf" class="bare">https://www.stickyminds.com/sites/default/files/magazine/file/2013/3971888.pdf</a></p>
+</li>
+<li>
+<p><a id="doran"></a>[Doran] Doran, G. T.: "There&#8217;s a S.M.A.R.T. Way to Write Management&#8217;s Goals and Objectives", Management Review, 70(11), 1981, pp. 35–36.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>G</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="gerstbach"></a>[Gerstbach] Gerstbach, Ingrid: Design Thinking im Unternehmen: Ein Workbook für die Einführung von Design Thinking, GABAL Verlag, 2016 (in German)</p>
+</li>
+<li>
+<p><a id="gherkin"></a>[Gherkin] Cucumber: Gherkin Reference. <a href="https://cucumber.io/docs/gherkin/reference/" class="bare">https://cucumber.io/docs/gherkin/reference/</a></p>
+</li>
+<li>
+<p><a id="gottesdiener-12"></a>[Gottesdiener] Gottesdiener, Ellen: Discover to Deliver: Agile Product Planning and Analysis, EGB Consulting, 2012</p>
+</li>
+<li>
+<p><a id="grenning"></a>[Grenning] Grenning, James: Planning Poker or How to avoid Analysis Paralysis while Release Planning. Renaissance Software Consulting, 2002. <a href="https://wingman-sw.com/papers/PlanningPoker-v1.1.pdf" class="bare">https://wingman-sw.com/papers/PlanningPoker-v1.1.pdf</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>H</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="hathaway"></a>[Hathaway] Hathaway, Angela + Tom: Getting and Writing IT-Requirements in a Lean and Agile World. Self-published, <a href="https://www.businessanalysisexperts.com/books-ebooks-business-analysis-career/book-getting-writing-it-requirements-lean-agile/" class="bare">https://www.businessanalysisexperts.com/books-ebooks-business-analysis-career/book-getting-writing-it-requirements-lean-agile/</a></p>
+</li>
+<li>
+<p><a id="hruschka"></a>[Hruschka] Hruschka, Peter: Business Analysis und Requirements Engineering, Hanser Verlag, 4th Edition 2026 (in German). English version available on Leanpub: <a href="https://leanpub.com/business_analysis_requirements_engineering" class="bare">https://leanpub.com/business_analysis_requirements_engineering</a></p>
+</li>
+<li>
+<p><a id="hmf"></a>[HMF] Hruschka, Peter, Meuten, Markus and Fritsch, Dirk: The Practical Guide to Agile Requirements Engineering. Leanpub, 2024, <a href="https://leanpub.com/agile_requirements_enginering" class="bare">https://leanpub.com/agile_requirements_enginering</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>I</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="ireb-agile"></a>[IREB] IREB: Handbook Advanced Module “RE@Agile”, <a href="https://cpre.ireb.org/de/downloads-and-resources/downloads/category:re-agile" class="bare">https://cpre.ireb.org/de/downloads-and-resources/downloads/category:re-agile</a></p>
+</li>
+<li>
+<p><a id="ireb-glossary"></a>[IREB-Glossary] Glinz, Martin (IREB): A Glossary of Requirements Engineering Terminology (CPRE Glossary), version 2.2.0, 2025. <a href="https://cpre.ireb.org/en/downloads-and-resources/glossary" class="bare">https://cpre.ireb.org/en/downloads-and-resources/glossary</a></p>
+</li>
+<li>
+<p><a id="isaqb-foundation"></a>[iSAQB-Foundation] iSAQB Foundation Level Curriculum: <a href="https://public.isaqb.org/curriculum-foundation/" class="bare">https://public.isaqb.org/curriculum-foundation/</a></p>
+</li>
+<li>
+<p><a id="iso25010"></a>[ISO-25010] ISO/IEC 25010:2023: Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE). <a href="https://www.iso.org/standard/78176.html" class="bare">https://www.iso.org/standard/78176.html</a></p>
+</li>
+<li>
+<p><a id="iso29148"></a>[ISO-29148] ISO/IEC/IEEE 29148:2018: Systems and software engineering — Life cycle processes — Requirements engineering. <a href="https://www.iso.org/standard/72089.html" class="bare">https://www.iso.org/standard/72089.html</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>J</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="jacobson"></a>[Jacobson] Dr. Ivar Jacobson, Ian Spence, Kurt Bittner: Use-Case 2.0: The Guide to Succeeding with Use-Cases. Online: <a href="https://www.ivarjacobson.com/publications/white-papers/use-case-20-e-book" class="bare">https://www.ivarjacobson.com/publications/white-papers/use-case-20-e-book</a></p>
+</li>
+<li>
+<p><a id="jeffries-ccc"></a>[Jeffries] Jeffries, Ron: Essential XP: Card, Conversation, Confirmation, 2001. <a href="https://ronjeffries.com/xprog/articles/expcardconversationconfirmation/" class="bare">https://ronjeffries.com/xprog/articles/expcardconversationconfirmation/</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>K</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="kalbach"></a>[Kalbach] Kalbach, Jim: Mapping Experiences: A Complete Guide to Creating Value through Journeys, Blueprints, and Diagrams. O&#8217;Reilly, 2016.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>L</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="lawrence"></a>[Lawrence] Richard Lawrence, Peter Green: The Humanizing Work Guide to Splitting User Stories, <a href="https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/" class="bare">https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/</a></p>
+</li>
+<li>
+<p><a id="leffingwell"></a>[Leffingwell] Leffingwell, Dean: Agile Software Requirements: Lean Requirements Practices for Teams, Programs, and the Enterprise. Addison-Wesley, 2011.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>M</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="mcgreal"></a>[McGreal] McGreal, Don / Jocham, Ralph: The Professional Product Owner: Leveraging Scrum as a Competitive Advantage. Addison-Wesley, 2018</p>
+</li>
+<li>
+<p><a id="moscow"></a>[MoSCoW] Agile Business Consortium: MoSCoW Prioritisation, DSDM Project Framework Handbook. <a href="https://www.agilebusiness.org/dsdm-project-framework/moscow-prioritisation.html" class="bare">https://www.agilebusiness.org/dsdm-project-framework/moscow-prioritisation.html</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>N</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="north"></a>[North] North, Dan: Introducing Behavior Driven Development, <a href="https://dannorth.net/blog/introducing-bdd/" class="bare">https://dannorth.net/blog/introducing-bdd/</a></p>
+</li>
+<li>
+<p><a id="nuseibeh"></a>[Nuseibeh] B. Nuseibeh, “Weaving Together Requirements and Architectures,” Computer, vol. 34, no. 3, 2001, pp. 115–119.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>P</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="patton"></a>[Patton] Patton, Jeff (with Economy, Peter): User Story Mapping: Discover the Whole Story, Build the Right Product. O&#8217;Reilly, 2014. <a href="https://www.jpattonassociates.com/story-mapping/" class="bare">https://www.jpattonassociates.com/story-mapping/</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>Q</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="Q42"></a>[Q42] The arc42 community (lead by Gernot Starke and Peter Hruschka): Q42 - The arc42 Quality Model, open-source, online <a href="https://quality.arc42.org" class="bare">https://quality.arc42.org</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>R</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="reinertsen"></a>[Reinertsen] Reinertsen, Donald G.: The Principles of Product Development Flow: Second Generation Lean Product Development. Celeritas Publishing, 2009.</p>
+</li>
+<li>
+<p><a id="ries"></a>[Ries] Ries, Eric: The Lean Startup, Crown Business, 2011</p>
+</li>
+<li>
+<p><a id="robertson-24"></a>[Robertson-24] Robertson,J./Robertson,S.: Mastering the Requirements Process: Getting Requirements Right. Addison Wesley; 4th edition 2024. <a href="https://www.volere.org/mastering-the-requirements-process-getting-requirements-right/" class="bare">https://www.volere.org/mastering-the-requirements-process-getting-requirements-right/</a></p>
+</li>
+<li>
+<p><a id="robertson-19"></a>[Robertson-19] Robertson, J. /Robertson, S.: Business Analysis Agility. Addison Wesley, 2019</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>S</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="safe"></a>[SAFe] Scaled Agile, Inc.: SAFe (Scaled Agile Framework), online. <a href="https://scaledagileframework.com/" class="bare">https://scaledagileframework.com/</a></p>
+</li>
+<li>
+<p><a id="smart-bdd"></a>[Smart] Smart, J.F. / Molak, J.: BDD in Action: Behavior-Driven Development for the whole software lifecycle. Manning, 2nd edition 2023. <a href="https://www.manning.com/books/bdd-in-action-second-edition" class="bare">https://www.manning.com/books/bdd-in-action-second-edition</a></p>
+</li>
+<li>
+<p><a id="smart-amigo"></a>[Smart-Amigo] Smart, J.F.: The Anatomy of a Three Amigo requirements discovery Session. <a href="https://johnfergusonsmart.com/three-amigos-requirements-discovery/" class="bare">https://johnfergusonsmart.com/three-amigos-requirements-discovery/</a></p>
+</li>
+<li>
+<p><a id="snyder"></a>[Snyder] Snyder, Carolyn: Paper Prototyping: The Fast and Easy Way to Design and Refine User Interfaces. Morgan Kaufmann, 2003.</p>
+</li>
+<li>
+<p><a id="starke-hruschka-arc42"></a>[Starke-Hruschka] Starke,G + Hruschka, P: Communicating Software Architectures: lean, effective and painless documentation. Leanpub <a href="https://leanpub.com/arc42inpractice" class="bare">https://leanpub.com/arc42inpractice</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>V</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="volere"></a>[Volere] Robertson, James &amp; Suzanne (Atlantic Systems Guild): Volere Requirements. <a href="https://www.volere.org/" class="bare">https://www.volere.org/</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>W</strong></p>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="wake2003"></a>[Wake]: Wake, Bill: INVEST in good stories and SMART Tasks,
+xp123.com/Articles/invest-in-good-stories-and-smart-tasks, 2003</p>
+</li>
+<li>
+<p><a id="wiegers-beatty"></a>[Wiegers-Beatty] Wiegers, Karl / Beatty, Joy: Software Requirements. Microsoft Press, 3rd edition, 2013.</p>
+</li>
+<li>
+<p><a id="wynne"></a>[Wynne] Wynne, Matt: Introducing Example Mapping: <a href="https://cucumber.io/blog/bdd/example-mapping-introduction/" class="bare">https://cucumber.io/blog/bdd/example-mapping-introduction/</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div id="footer-text">
+ 2026.1-rev1-DE<br>
+Last updated 2026-07-30 07:45:59 UTC
+</div>
+</div>
+<script src="html-theme/isaqb-theme.js" defer></script>
+</body>
+</html>
