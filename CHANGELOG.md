@@ -1,4 +1,5 @@
 # Release Notes
+
 ## New in 2026.1
 
 
@@ -6,28 +7,13 @@
 
 > Scope: content changes only. Typos, formatting, link repairs and toolchain are excluded (see note at the end).
 
-### At a glance
+### 1. At a glance
 - **One genuinely new chapter of teaching content: *AI in RE*** (LG 7-1…7-3). 
 - **Curriculum was therefore slightly reordered.** "Cooperation between Roles" (formerly the last topic, "REQ-ARCH development process") moves to the **front, as chapter 2**; everything between shifts down by one, and the example becomes chapter 10.
 - **No teaching content was removed.** Apart from AI in RE, every other chapter is substantively unchanged — only its number and LG ids changed.
 - **Timings were rebalanced** (total stays 18 h / 1080 min).
 - **A full German (DE) translation was added** — the module is now published in EN *and* DE.
-
-
-### 1. Structural changes (chapter order)
-
-| New | Chapter | Was previously |
-|----|---------|----------------|
-| 1 | Introduction and Motivation | 1 (unchanged) |
-| **2** | **Cooperation between Roles** | **7 — "REQ-ARCH development process"** (relocated to front + retitled) |
-| 3 | Clean Start | 2 |
-| 4 | Handling Functional Requirements | 3 |
-| 5 | Handling Quality Requirements and Constraints | 4 |
-| 6 | Behavior-Driven Development | 5 |
-| **7** | **AI in RE** | **— (new chapter)** |
-| 8 | Prioritization and Estimation of Requirements | 6 |
-| 9 | Tools for Requirements Engineering | 8 |
-| 10 | Example | 9 |
+- **A handful of learning goals gained new, named techniques**: a new LG on identifying/resolving conflicting requirements, plus Impact Mapping, Personas/User-Journey-Maps, and Prototypes/Mockups (see §6).
 
 
 ### 2. Relevant Changes in Detail
@@ -67,4 +53,12 @@ Unchanged: Introduction (45/0), Functional Requirements (180/120), BDD (60/0), P
 
 The REQ4ARC curriculum is now available in an official DE translation, formerly it was EN only.
 
-Suggestions for improving this translation are welcome by the module curators.
+### 6. Additional learning-goal updates
+
+Smaller content additions:
+
+- **New learning goal LZ/LG-8-4 — Identifying and resolving conflicting requirements.** Covers techniques for conflict resolution (prioritization, trade-off/utility analysis, escalation, direct negotiation) and ties resolution effort to architecturally significant requirements. LZ/LG-3-5 was sharpened accordingly, cross-referencing the new goal.
+- **Personas and User-Journey-Maps** are now a named technique in LZ/LG-3-4 (stakeholder elicitation artifacts), citing Cooper and Kalbach.
+- **Prototypes and Mockups** are now a named elicitation/validation technique in LZ/LG-4-11, citing Snyder. Previously only name-checked in the chapter's intro prose.
+- **Impact Mapping** added as a technique in LZ/LG-3-2 (breaking down business goals into actors, impacts and deliverables) and LZ/LG-8-1 (valuing requirements against business goals), citing Adzic, with the two goals cross-referenced.
+
