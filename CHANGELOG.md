@@ -62,3 +62,11 @@ Smaller content additions:
 - **Prototypes and Mockups** are now a named elicitation/validation technique in LZ/LG-4-11, citing Snyder. Previously only name-checked in the chapter's intro prose.
 - **Impact Mapping** added as a technique in LZ/LG-3-2 (breaking down business goals into actors, impacts and deliverables) and LZ/LG-8-1 (valuing requirements against business goals), citing Adzic, with the two goals cross-referenced.
 
+### 7. Statistics
+
+Since commit `c1d1492` (2021-01-16) up to this release:
+
+- **155 commits**
+- **45 GitHub issues** closed/resolved
+- **28 pull requests** closed (23 merged, 5 closed without merging)
+
